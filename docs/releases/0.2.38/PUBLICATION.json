@@ -1,0 +1,72 @@
+{
+  "version": "0.2.38",
+  "date": "2026-10-18",
+  "repository": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke",
+  "release_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/tag/v0.2.38",
+  "release_id": 416255191,
+  "author": "binhlt0402",
+  "published_at": "2026-10-18T05:29:24Z",
+  "result": "PASS",
+  "source_commit": "36d8c569911c07f8aea992830d2e13e31b8da7e9",
+  "packager": {
+    "repository": "https://github.com/retro-trans/retro-trans-tools",
+    "commit": "d0269d3bbb167b14ac53fbd86a59ea10783a95dc",
+    "roundtrip_verified": true
+  },
+  "assets": [
+    {
+      "name": "BUILD-MANIFEST.json",
+      "bytes": 834,
+      "sha256": "b36aca93f5f27ce55daa4dc4cebbb5c22cad57783eafb727ca613ed323325c27"
+    },
+    {
+      "name": "OreNoShikabane-English-0.2.38.xdelta",
+      "bytes": 189434623,
+      "sha256": "38ba8d2571fad5b50c53ad0cb3deaa378f398d90f4bf8c4af9a03b79f212ff1e"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 274,
+      "sha256": "03ec792dfe23b27ff69a42f05f191bdef4e61645ec46fd75d58470f2f30c1f3e"
+    },
+    {
+      "name": "VALIDATION.json",
+      "bytes": 326,
+      "sha256": "1feebdc8f192b04425fa78a188f18b37c746841f7098790c4f9874c0801b9c81"
+    }
+  ],
+  "uploaded_asset_verification": "All GitHub-reported uploaded SHA-256 digests and sizes equal the locally round-trip-verified bundle",
+  "catalog": {
+    "workflow_url": "https://github.com/retro-trans/retro-trans-tools/actions/runs/39100719059",
+    "workflow_conclusion": "success",
+    "commit": "29e31bd40f091994ec27ee2b2e12449e1ae1b0cc",
+    "source_recognized": true,
+    "plans": [
+      {
+        "selection": "Latest",
+        "source": "original",
+        "target": "0.2.38",
+        "patches": 1,
+        "patch_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/download/v0.2.38/OreNoShikabane-English-0.2.38.xdelta"
+      },
+      {
+        "selection": "0.2.38",
+        "source": "original",
+        "target": "0.2.38",
+        "patches": 1,
+        "patch_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/download/v0.2.38/OreNoShikabane-English-0.2.38.xdelta"
+      },
+      {
+        "selection": "Next version only",
+        "source": "original",
+        "target": "0.2.38",
+        "patches": 1,
+        "patch_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/download/v0.2.38/OreNoShikabane-English-0.2.38.xdelta"
+      }
+    ],
+    "gui_launched": false
+  },
+  "complete_game_images_uploaded": false,
+  "source_dialogue_committed": false,
+  "reference": "https://github.com/retro-trans/Macross-Triangle-Frontier"
+}

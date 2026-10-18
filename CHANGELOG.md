@@ -2,7 +2,8 @@
 
 ## 0.2.38 (2026-10-18)
 
-- Prepared the first public repository/release using Macross Triangle Frontier's repository and release conventions: English-only translation exports, source tools, MIT/SIL OFL notices, contributor/build instructions, and Retro Trans Tools xdelta/manifest/checksum/round-trip packaging. Original and translated game images remain local.
+- Verified all four uploaded asset sizes/SHA-256 hashes against the local round-trip-verified bundle. Retro Trans catalog refresh succeeded, and its source recognition plus Latest/specific/next-version routes resolve the original ISO to 0.2.38. See `docs/releases/0.2.38/PUBLICATION.json`.
+- Published the first public repository/release using Macross Triangle Frontier's repository and release conventions: English-only translation exports, source tools, MIT/SIL OFL notices, contributor/build instructions, and Retro Trans Tools xdelta/manifest/checksum/round-trip packaging. Original and translated game images remain local.
 - Extended the home menu description panel from 288 to 432 native pixels and kept it centered, moving its left edge from 96 to 24. Both Rest description lines now sit inside the box with comfortable right-side clearance.
 - Kept all wording, line breaks, vertical positions and visual styling. The shared native resize automatically expands each help line to 426 pixels. Prior story dialogue width/transparency and other fixes remain unchanged.
 - Measured all 34 related fixed help entries; the widest line is 378.857 pixels. Verified Rest and Divine Union descriptions in the final ISO, complete Rest text using native 4x glyphs, actual panel/line geometry and both patched instructions.

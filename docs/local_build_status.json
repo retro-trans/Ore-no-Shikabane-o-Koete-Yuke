@@ -138,5 +138,12 @@
   "battle_menu_evidence": "work/ui/battle-menu-0.2.36/verification.json",
   "additional_pack_native_literals": 2,
   "dialogue_window_evidence": "work/ui/dialogue-window-0.2.37/verification.json",
-  "home_help_evidence": "work/ui/home-help-0.2.38/verification.json"
+  "home_help_evidence": "work/ui/home-help-0.2.38/verification.json",
+  "public_repository": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke",
+  "latest_public_release": {
+    "version": "0.2.38",
+    "url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/tag/v0.2.38",
+    "evidence": "docs/releases/0.2.38/PUBLICATION.json"
+  },
+  "retro_trans_catalog_verified": true
 }
