@@ -1,0 +1,89 @@
+{
+  "version": "0.2.30",
+  "result": "PASS: complete profile traits, native two-line placement and repeated character switching",
+  "iso": {
+    "version": "0.2.30",
+    "file": "work/output/english-native-0.2.30.iso",
+    "bytes": 1081147392,
+    "sha256": "7e608a6b3cb11157b57472f0d599ea462d3f001f2d429484ebb22dbc3ece12ef"
+  },
+  "screens": [
+    {
+      "file": "work/ui/profile-traits-0.2.30/hayate.png",
+      "sha256": "f64adab9f8e307c06fb2e6e0f61a4ca91a0e97ed809c0a1f1484e94640a4f667",
+      "fixture": false
+    },
+    {
+      "file": "work/ui/profile-traits-0.2.30/kirara.png",
+      "sha256": "a0d9d1b785ecccf0c56ca348fe672008d2cd721a0d8b7cd526ea277794205ac7",
+      "fixture": false
+    },
+    {
+      "file": "work/ui/profile-traits-0.2.30/returned-hayate.png",
+      "sha256": "c72f8e631d24cb4332942516bfc12ab67a50c8519bb6270c7f132fcf31b53d1e",
+      "fixture": false
+    },
+    {
+      "file": "work/ui/profile-traits-0.2.30/abilities.png",
+      "sha256": "7ae1b5cbedb49745ce5fd03dd741feaee8c9bf19f7e00782ac50098ce664db3c",
+      "fixture": false
+    },
+    {
+      "file": "work/ui/profile-traits-0.2.30/equipment-tab.png",
+      "sha256": "a4fc1293c8290058d3c1d65b665e38471cf613c943a34704e9382a3d6b6fa64f",
+      "fixture": false
+    },
+    {
+      "file": "work/ui/profile-traits-0.2.30/longest-fixture.png",
+      "sha256": "beb6e6c37c63afe904689d0040eb7c3545a50d0a1e71fda928d6436b5d4bac9a",
+      "fixture": true
+    }
+  ],
+  "natural_traits": [
+    "Creed: An iron heart and iron will",
+    "Saying: Knock on wood."
+  ],
+  "longest_fixture": {
+    "fixture": true,
+    "delivered_build": false,
+    "source_elf_sha256": "9f303fd005662bd157a9c88e9c28da642646bca66b3adfe5feb6e82b9f79f04b",
+    "fixture_elf_sha256": "ceb259c33f36466bfa22f9f7824090929df987905714cf52f8665b78651c6b58",
+    "text": "Reputation: Knows more than experience warrants",
+    "save_record_changes": false,
+    "write": true
+  },
+  "native_font": "Final full Creed and both longest-fixture lines use the embedded 4x atlas and matching glyph UVs",
+  "mips": {
+    "version": "0.2.30",
+    "elf_sha256": "9f303fd005662bd157a9c88e9c28da642646bca66b3adfe5feb6e82b9f79f04b",
+    "result": "PASS",
+    "actual_native_formatter": true,
+    "translated_rows": 731,
+    "stress_cases": 5,
+    "maximum_lines": 2,
+    "buffer_guard": "unchanged",
+    "old_stack_buffer": "untouched",
+    "caller_state": "SP, RA, S0-S7 preserved",
+    "raw_setter": "Three MIPS cases: first line, owned second text child, local position [0,14], full buffer restored",
+    "tabs": "Three MIPS visibility cases and original frame resize branches: 260x80 for Status/Abilities, 260x108 for Equipment",
+    "dynamic_substitutions": "Eight-letter name and city forwarded through original formatter",
+    "worst": {
+      "text": "Creed: Where there's a will, there's a way",
+      "maximum_metric_width": 280
+    }
+  },
+  "checks": {
+    "save_format": "unchanged",
+    "translations": "byte-identical",
+    "archive_members": "byte-identical except version footer",
+    "other_executable_bytes": "byte-identical"
+  },
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false,
+  "github_release": false,
+  "limits": [
+    "All 731 translated traits tested through native MIPS formatting; selected natural character traits and the longest text fixture checked visually.",
+    "Full playthrough and physical PSP testing remain pending."
+  ]
+}

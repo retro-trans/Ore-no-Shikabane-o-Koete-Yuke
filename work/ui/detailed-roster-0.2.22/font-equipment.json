@@ -1,0 +1,97 @@
+{
+  "version": "0.2.22",
+  "context": "equipment",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Kotetsu",
+    "Victory Headband",
+    "Roof-Tile Robe",
+    "Clan Head's Ring",
+    "Thousand-Fathom Blade",
+    "Ryukyu Headband",
+    "Asbestos Kimono",
+    "First Battle Bracelet"
+  ],
+  "objects": [
+    {
+      "text": "aaaaAAAA",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Kotetsu",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Victory Headband",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Roof-Tile Robe",
+      "atlas": "0x9b5c010",
+      "glyphs": 14,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Clan Head's Ring",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "bbbbBBBB",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Thousand-Fathom Blade",
+      "atlas": "0x9b5c010",
+      "glyphs": 21,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Ryukyu Headband",
+      "atlas": "0x9b5c010",
+      "glyphs": 15,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Asbestos Kimono",
+      "atlas": "0x9b5c010",
+      "glyphs": 15,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "First Battle Bracelet",
+      "atlas": "0x9b5c010",
+      "glyphs": 21,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Back",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Switch Info",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Simple View",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

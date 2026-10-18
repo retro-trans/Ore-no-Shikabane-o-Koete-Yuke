@@ -1,0 +1,85 @@
+{
+  "version": "0.2.36",
+  "context": "submenu",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Items",
+    "Equipment"
+  ],
+  "objects": [
+    {
+      "text": "Hayate",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Kirara",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Attack",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Spells",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Items",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Defend",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Retreat",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Skills",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Orders",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Items",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Equipment",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Hear Proposals",
+      "atlas": "0x9b5c010",
+      "glyphs": 14,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

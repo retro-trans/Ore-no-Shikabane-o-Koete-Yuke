@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "language": "en",
+  "build": "0.2.8",
+  "source": "Standalone data.ore root payload 27, section 0",
+  "entries": [
+    {"jp": "入力", "en": "Input", "context": "Name-entry menu: open text input."},
+    {"jp": "委任", "en": "Auto", "context": "Name-entry menu: generate a name from the original name pool."},
+    {"jp": "決定", "en": "OK", "context": "Name-entry menu: confirm the current name; other menus may use Confirm."},
+    {"jp": "苗字", "en": "Family name", "context": "Player setup and name-entry label."},
+    {"jp": "名前", "en": "Given name", "context": "Player's personal name after the family-name step."}
+  ]
+}

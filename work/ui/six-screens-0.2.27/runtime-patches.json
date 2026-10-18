@@ -1,0 +1,81 @@
+{
+  "version": "0.2.27",
+  "result": "PASS",
+  "elf_sha256": "a26d9e355a5055ec8dd9c8cb7fdde724b5b47900b423564d08c20dbf471fd03f",
+  "archive_sha256": "2b4a5ab7cb64132d489afc2f47015f23d6df8d560f1d24198625d0dd488aa6bd",
+  "patches": [
+    {
+      "address": "0x8a3b198",
+      "bytes": 16,
+      "purpose": "Native battle growth caption"
+    },
+    {
+      "address": "0x8a443dc",
+      "bytes": 8,
+      "purpose": "Shared pause-menu money caption"
+    },
+    {
+      "address": "0x8a443e4",
+      "bytes": 4,
+      "purpose": "Shared pause-menu currency"
+    },
+    {
+      "address": "0x8944a28",
+      "bytes": 4,
+      "purpose": "Space between money and currency high"
+    },
+    {
+      "address": "0x8944a38",
+      "bytes": 4,
+      "purpose": "Space between money and currency low"
+    },
+    {
+      "address": "0x88f6748",
+      "bytes": 4,
+      "purpose": "Portrait band height: room for separate class row"
+    },
+    {
+      "address": "0x895c174",
+      "bytes": 4,
+      "purpose": "Equipment comparison stats below separate age/class rows"
+    },
+    {
+      "address": "0x88f67c0",
+      "bytes": 4,
+      "purpose": "Separate equipment class row helper"
+    },
+    {
+      "address": "0x88f67c4",
+      "bytes": 4,
+      "purpose": "Helper supplies the row coordinate"
+    },
+    {
+      "address": "0x88f1f5c",
+      "bytes": 4,
+      "purpose": "Full Potential labels at their original text size"
+    },
+    {
+      "address": "0x88f1ed0",
+      "bytes": 4,
+      "purpose": "Potential element icons clear of full English captions"
+    },
+    {
+      "address": "0x88f1e90",
+      "bytes": 4,
+      "purpose": "Potential bars beside their shifted element icons"
+    },
+    {
+      "address": "0x9c09e50",
+      "bytes": 262144,
+      "purpose": "Remove decorative words from Potential graph; retain clean grid"
+    },
+    {
+      "address": "0x9c09a50",
+      "bytes": 1024,
+      "purpose": "Remove decorative words from Potential graph; retain clean grid"
+    }
+  ],
+  "wrappers": "Original native opcodes verified through JIT-aware disassembly",
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

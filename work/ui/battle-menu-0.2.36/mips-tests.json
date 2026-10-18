@@ -1,0 +1,43 @@
+{
+  "version": "0.2.36",
+  "result": "PASS",
+  "elf_sha256": "0c25f5ffc34a8fc8a43788034400730c67bfb5ee2451144aff953fa00690ab23",
+  "description_cases": 226,
+  "consumable_names": 66,
+  "max_lines": 3,
+  "checks": [
+    "Actual MIPS adapter execution",
+    "Complete text and source-buffer preservation",
+    "Caller stack, return address and callee-save registers",
+    "Measured line budget and 16-pixel child placement",
+    "Buffer guard and unique names within Young Leaf Pills width"
+  ],
+  "examples": [
+    {
+      "id": "ore:00028000:0002:00:0004",
+      "lines": [
+        "Restores a moderate amount of HP to",
+        "one ally"
+      ]
+    },
+    {
+      "id": "ore:00028000:0002:00:0022",
+      "lines": [
+        "Very slightly raises one ally's Wind Spirit"
+      ]
+    },
+    {
+      "id": "ore:00028000:0002:00:0053",
+      "lines": [
+        "Borrows your divine parent's power"
+      ]
+    },
+    {
+      "id": "ore:00023800:0000:00:0022",
+      "lines": [
+        "Attack with your ancestors' power (once",
+        "per hunt)"
+      ]
+    }
+  ]
+}

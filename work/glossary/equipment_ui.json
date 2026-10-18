@@ -1,0 +1,66 @@
+{
+  "version": "0.2.20",
+  "scope": "Context-specific compact UI labels; general glossary terms retain their existing prose/menu forms",
+  "terms": [
+    {
+      "jp": "\u5f53\u4e3b",
+      "en": "Head",
+      "context": "Portrait role flag"
+    },
+    {
+      "jp": "\u968a\u9577",
+      "en": "Leader",
+      "context": "Portrait role flag"
+    },
+    {
+      "jp": "\u51fa\u6483",
+      "en": "Party",
+      "context": "Portrait flag: selected for the expedition party"
+    },
+    {
+      "jp": "\u6b66\u5177\u88c5\u5099",
+      "en": "EQUIPMENT",
+      "context": "Screen ribbon"
+    },
+    {
+      "jp": "\u6b66\u5668",
+      "en": "WPN",
+      "context": "Equipped weapon slot"
+    },
+    {
+      "jp": "\u9386",
+      "en": "ARM",
+      "context": "Equipped body armor slot"
+    },
+    {
+      "jp": "\u515c",
+      "en": "HEAD",
+      "context": "Equipped headgear slot"
+    },
+    {
+      "jp": "\u88c5\u98fe",
+      "en": "ACC",
+      "context": "Equipped accessory slot"
+    },
+    {
+      "jp": "\u4ea4\u795e\u306e\u5100",
+      "en": "DIVINE UNION",
+      "context": "Screen ribbon"
+    },
+    {
+      "jp": "\u884c\u65b9\u4e0d\u660e",
+      "en": "MISSING",
+      "context": "Unavailable deity portrait"
+    },
+    {
+      "jp": "\u7537",
+      "en": "Male",
+      "context": "Character gender"
+    },
+    {
+      "jp": "\u5973",
+      "en": "Female",
+      "context": "Character gender"
+    }
+  ]
+}

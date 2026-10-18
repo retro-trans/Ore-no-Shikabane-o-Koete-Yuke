@@ -1,0 +1,66 @@
+{
+  "version": "0.2.35",
+  "result": "PASS",
+  "elf_sha256": "487695396e0bb232ff0c37b76fab91513ef3ee40bace6b027fb530afd3f775a9",
+  "archive_sha256": "f18bce8636930f9edc31332f9a743e19a93860e3060492d35953e43711a4057a",
+  "patches": [
+    {
+      "address": "0x89476ac",
+      "bytes": 4,
+      "sha256": "d5392611fd159566bf7a408a3e593fda1efa5ac752440f481c3a028a79fffa3f"
+    },
+    {
+      "address": "0x8947fd0",
+      "bytes": 4,
+      "sha256": "d5392611fd159566bf7a408a3e593fda1efa5ac752440f481c3a028a79fffa3f"
+    },
+    {
+      "address": "0x8946044",
+      "bytes": 4,
+      "sha256": "02c836acf813c27b8df16455ad4e8157160003c03d9aeb0d9525f716dd849267"
+    },
+    {
+      "address": "0x894649c",
+      "bytes": 4,
+      "sha256": "02c836acf813c27b8df16455ad4e8157160003c03d9aeb0d9525f716dd849267"
+    },
+    {
+      "address": "0x88f1d8c",
+      "bytes": 4,
+      "sha256": "51bd78d4a9c8bd24953cd3a621cfbff520a631f118da2cf6aa5719693321e14d"
+    },
+    {
+      "address": "0x88f1f5c",
+      "bytes": 4,
+      "sha256": "8d2e70f745d549afd422c8b316c9112dc375439b70a5d5c34048f11ff019cb71"
+    },
+    {
+      "address": "0x88f1ed0",
+      "bytes": 4,
+      "sha256": "1f4f51d6ababbf927aebb6cd5c0044839953e7add0c4c71cb7b0f4f46186f675"
+    },
+    {
+      "address": "0x88f1e90",
+      "bytes": 4,
+      "sha256": "bbec38467d6f51fdb4ddeabc9e5bf2b55d849c5e6d9ed7faf19b4f3d070d385c"
+    },
+    {
+      "address": "0x8a39b30",
+      "bytes": 4,
+      "sha256": "ddef1bb81ef7db6569cde90a575c5d0bd614113c6d6c88e65c23579a216d4c29"
+    },
+    {
+      "address": "0x9c09e50",
+      "bytes": 262144,
+      "sha256": "7b077febd860c93ac10be4543c4deb6b9e3db37577d6d0282bb182c202ccd15d"
+    },
+    {
+      "address": "0x9c09a50",
+      "bytes": 1024,
+      "sha256": "c81e5b6755cac4b727da41082e4769603f186461bd8724f019dbdd6076e9788d"
+    }
+  ],
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

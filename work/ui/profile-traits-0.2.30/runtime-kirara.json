@@ -1,0 +1,14 @@
+{
+  "version": "0.2.30",
+  "result": "PASS",
+  "context": "kirara",
+  "elf_sha256": "9f303fd005662bd157a9c88e9c28da642646bca66b3adfe5feb6e82b9f79f04b",
+  "archive_sha256": "be62c63473110ac34a2a693b3da0692bf459b28d17b0dbdc6af2bd07fe2777c4",
+  "full_trait": "Saying: Knock on wood.",
+  "patches_verified": 9,
+  "wrappers": "JIT-aware opcode verification",
+  "buffer_guard": "unchanged",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

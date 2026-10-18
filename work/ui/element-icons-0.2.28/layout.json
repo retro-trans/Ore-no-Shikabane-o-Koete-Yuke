@@ -1,0 +1,242 @@
+{
+  "version": "0.2.28",
+  "source_version": "0.2.27",
+  "elf_sha256": "dc9d35f8f17ccaa7e09a553925db7064f5eaf14b2bdc6a17384378ae169a3cef",
+  "archive_sha256": "21c29baa28c2ffcc106948a68425a4d47f4211d43bb34ee345caa78cbebb06ab",
+  "elf_bytes": 4862320,
+  "archive_bytes": 228341760,
+  "reference": {
+    "file": "incoming/element-icons-reference.png",
+    "sha256": "6811954156be6632cd41bc19ee796c2119ed331fdc6d64fcd99e4f1fef35ffd6",
+    "dimensions": [
+      960,
+      544
+    ],
+    "source": "User-provided Oreshika reference screenshot; icon pixels reused"
+  },
+  "elements": [
+    {
+      "element": "Fire",
+      "file": "17.ppt",
+      "archive_offset": 221184,
+      "member_entry": 60,
+      "source_crop": [
+        75,
+        280,
+        107,
+        312
+      ],
+      "source_ink_bounds": [
+        5,
+        1,
+        28,
+        26
+      ],
+      "descriptor": "0x9cb6070",
+      "palette": "0x9cb60a0",
+      "pixels": "0x9cb64b0",
+      "proxy_bytes": 1328,
+      "source_bytes": 1328,
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_storage_size": [
+        64,
+        64
+      ],
+      "physical_visible_size": [
+        64,
+        56
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        64
+      ],
+      "bytes": 5168,
+      "sha256": "f37431f7f57caf03de9367d756cbd523c35632f24ee15c552bd8635ad9fc1eb2"
+    },
+    {
+      "element": "Water",
+      "file": "18.ppt",
+      "archive_offset": 221184,
+      "member_entry": 61,
+      "source_crop": [
+        75,
+        348,
+        107,
+        380
+      ],
+      "source_ink_bounds": [
+        5,
+        4,
+        28,
+        26
+      ],
+      "descriptor": "0x9cb74b0",
+      "palette": "0x9cb74e0",
+      "pixels": "0x9cb78f0",
+      "proxy_bytes": 1328,
+      "source_bytes": 1328,
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_storage_size": [
+        64,
+        64
+      ],
+      "physical_visible_size": [
+        64,
+        56
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        64
+      ],
+      "bytes": 5168,
+      "sha256": "849235cb48bed33468c6c261082167be5bb924a13bf64e52cd1a49d251cde5bd"
+    },
+    {
+      "element": "Wind",
+      "file": "19.ppt",
+      "archive_offset": 221184,
+      "member_entry": 62,
+      "source_crop": [
+        75,
+        382,
+        107,
+        414
+      ],
+      "source_ink_bounds": [
+        5,
+        4,
+        28,
+        26
+      ],
+      "descriptor": "0x9cb88f0",
+      "palette": "0x9cb8920",
+      "pixels": "0x9cb8d30",
+      "proxy_bytes": 1328,
+      "source_bytes": 1328,
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_storage_size": [
+        64,
+        64
+      ],
+      "physical_visible_size": [
+        64,
+        56
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        64
+      ],
+      "bytes": 5168,
+      "sha256": "3cc052797434c6485aeaa7c59250737ff1976d759008b90e001f4e19451a829c"
+    },
+    {
+      "element": "Earth",
+      "file": "20.ppt",
+      "archive_offset": 221184,
+      "member_entry": 64,
+      "source_crop": [
+        75,
+        314,
+        107,
+        346
+      ],
+      "source_ink_bounds": [
+        5,
+        4,
+        29,
+        26
+      ],
+      "descriptor": "0x9cb9d30",
+      "palette": "0x9cb9d60",
+      "pixels": "0x9cba170",
+      "proxy_bytes": 1328,
+      "source_bytes": 1328,
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_storage_size": [
+        64,
+        64
+      ],
+      "physical_visible_size": [
+        64,
+        56
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        64
+      ],
+      "bytes": 5168,
+      "sha256": "371e666c30e171001dec8c10c51d4452e72f86d7da9869b929a062fe8ee72368"
+    }
+  ],
+  "footer": {
+    "rows": [
+      {
+        "text": "v0.2.28",
+        "right": 474,
+        "top": 223,
+        "font_size": 14,
+        "bounds": [
+          426.5,
+          222.0,
+          475.0,
+          234.75
+        ]
+      },
+      {
+        "text": "github.com/retro-trans",
+        "right": 474,
+        "top": 241,
+        "font_size": 12,
+        "bounds": [
+          342.5,
+          240.0,
+          475.0,
+          253.75
+        ]
+      }
+    ],
+    "atlas_screen_origin": [
+      0,
+      201
+    ],
+    "copyright_exact": true
+  },
+  "checks": {
+    "existing_executable_bytes": "Byte-identical except appended segment size",
+    "other_archive_members": "Byte-identical",
+    "scripts_and_text": "Byte-identical to 0.2.27",
+    "proxy_loader_sizes": "Original byte size retained",
+    "geometry": "Original 16x14 logical bounds retained; square artwork fits without distortion",
+    "existing_native_hooks": "Reused without code changes"
+  },
+  "texture_replacement": false,
+  "runtime_verification": "pending"
+}

@@ -1,0 +1,253 @@
+{
+  "version": "0.2.21",
+  "context": "spells",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Spirit Req.",
+    "Spirit Now",
+    "Skill Req.",
+    "Skill Now",
+    "Usable",
+    "Unusable",
+    "Not Learned",
+    "MP Required"
+  ],
+  "objects": [
+    {
+      "text": "aaaaAAAA",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0 yr",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "33",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "/",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "33",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Spirit Req.",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "62",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Spirit Now",
+      "atlas": "0x9b5c010",
+      "glyphs": 10,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "38",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "46",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "55",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "46",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Skill Req.",
+      "atlas": "0x9b5c010",
+      "glyphs": 10,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "24",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Skill Now",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "34",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "39",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "47",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "35",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "New",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Usable",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Unusable",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Not Learned",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Sengenji",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Maruko",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Sensuishu",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Sengenji",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Sengenji",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "MP Required",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "   3",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Restores a little HP to one ally",
+      "atlas": "0x9b5c010",
+      "glyphs": 32,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Choose What to Skip",
+      "atlas": "0x9b5c010",
+      "glyphs": 19,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Back",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

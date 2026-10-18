@@ -1,0 +1,39 @@
+{
+  "version": "0.2.30",
+  "id": "character_status.profile_trait",
+  "native_resolution": [
+    480,
+    272
+  ],
+  "screen": "Character Status",
+  "field": "Personal profile trait",
+  "source_file": "intro.mlb",
+  "native_label_offset": "0x1020",
+  "original_limit_bytes": 20,
+  "new_buffer_bytes": 1024,
+  "position": [
+    70,
+    229
+  ],
+  "available_area": [
+    70,
+    223,
+    320,
+    250
+  ],
+  "available_width": 250,
+  "available_height": 27,
+  "line_pitch": 14,
+  "maximum_tested_lines": 2,
+  "wrap_metric_budget": 280,
+  "stats_frame_height": 80,
+  "equipment_frame_height": 108,
+  "visible_tabs": [
+    "Status",
+    "Abilities"
+  ],
+  "font_size_unchanged": 16,
+  "second_line": "Owned native cText child; ordinary label newline is not supported",
+  "save_format_changes": false,
+  "translations_changed": false
+}

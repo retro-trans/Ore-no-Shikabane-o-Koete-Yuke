@@ -1,0 +1,234 @@
+{
+  "version": "0.2.28",
+  "result": "PASS: all four shared reference element sprites verified on status/abilities/Potential and deity list",
+  "iso": {
+    "version": "0.2.28",
+    "file": "work/output/english-native-0.2.28.iso",
+    "bytes": 1081145344,
+    "sha256": "689f6316c13777ac55bdd4528fe6596ffef192b703d28596f3d780581ddee573"
+  },
+  "screens": [
+    {
+      "file": "work/ui/element-icons-0.2.28/title.png",
+      "sha256": "03c8156a3775d19c605cbd83ad0944b65d3b1d82d23d9d43e290652186eb04d0"
+    },
+    {
+      "file": "work/ui/element-icons-0.2.28/status-abilities.png",
+      "sha256": "1b9b106de6056ef484be2dd6e87c204082b7944eb90dd3e2e9518d63c9f1da2f"
+    },
+    {
+      "file": "work/ui/element-icons-0.2.28/deities.png",
+      "sha256": "55590a5f2396ae9710279c48a460011b3adb0c0dae65f900b1fba804b3660ed5"
+    }
+  ],
+  "elements": [
+    {
+      "element": "Fire",
+      "file": "17.ppt",
+      "archive_offset": 221184,
+      "member_entry": 60,
+      "source_crop": [
+        75,
+        280,
+        107,
+        312
+      ],
+      "source_ink_bounds": [
+        5,
+        1,
+        28,
+        26
+      ],
+      "descriptor": "0x9cb6070",
+      "palette": "0x9cb60a0",
+      "pixels": "0x9cb64b0",
+      "proxy_bytes": 1328,
+      "source_bytes": 1328,
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_storage_size": [
+        64,
+        64
+      ],
+      "physical_visible_size": [
+        64,
+        56
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        64
+      ],
+      "bytes": 5168,
+      "sha256": "f37431f7f57caf03de9367d756cbd523c35632f24ee15c552bd8635ad9fc1eb2"
+    },
+    {
+      "element": "Water",
+      "file": "18.ppt",
+      "archive_offset": 221184,
+      "member_entry": 61,
+      "source_crop": [
+        75,
+        348,
+        107,
+        380
+      ],
+      "source_ink_bounds": [
+        5,
+        4,
+        28,
+        26
+      ],
+      "descriptor": "0x9cb74b0",
+      "palette": "0x9cb74e0",
+      "pixels": "0x9cb78f0",
+      "proxy_bytes": 1328,
+      "source_bytes": 1328,
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_storage_size": [
+        64,
+        64
+      ],
+      "physical_visible_size": [
+        64,
+        56
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        64
+      ],
+      "bytes": 5168,
+      "sha256": "849235cb48bed33468c6c261082167be5bb924a13bf64e52cd1a49d251cde5bd"
+    },
+    {
+      "element": "Wind",
+      "file": "19.ppt",
+      "archive_offset": 221184,
+      "member_entry": 62,
+      "source_crop": [
+        75,
+        382,
+        107,
+        414
+      ],
+      "source_ink_bounds": [
+        5,
+        4,
+        28,
+        26
+      ],
+      "descriptor": "0x9cb88f0",
+      "palette": "0x9cb8920",
+      "pixels": "0x9cb8d30",
+      "proxy_bytes": 1328,
+      "source_bytes": 1328,
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_storage_size": [
+        64,
+        64
+      ],
+      "physical_visible_size": [
+        64,
+        56
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        64
+      ],
+      "bytes": 5168,
+      "sha256": "3cc052797434c6485aeaa7c59250737ff1976d759008b90e001f4e19451a829c"
+    },
+    {
+      "element": "Earth",
+      "file": "20.ppt",
+      "archive_offset": 221184,
+      "member_entry": 64,
+      "source_crop": [
+        75,
+        314,
+        107,
+        346
+      ],
+      "source_ink_bounds": [
+        5,
+        4,
+        29,
+        26
+      ],
+      "descriptor": "0x9cb9d30",
+      "palette": "0x9cb9d60",
+      "pixels": "0x9cba170",
+      "proxy_bytes": 1328,
+      "source_bytes": 1328,
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_storage_size": [
+        64,
+        64
+      ],
+      "physical_visible_size": [
+        64,
+        56
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        64
+      ],
+      "bytes": 5168,
+      "sha256": "371e666c30e171001dec8c10c51d4452e72f86d7da9869b929a062fe8ee72368"
+    }
+  ],
+  "reference": {
+    "file": "incoming/element-icons-reference.png",
+    "sha256": "6811954156be6632cd41bc19ee796c2119ed331fdc6d64fcd99e4f1fef35ffd6",
+    "dimensions": [
+      960,
+      544
+    ],
+    "source": "User-provided Oreshika reference screenshot; icon pixels reused"
+  },
+  "runtime_widgets": {
+    "status": 24,
+    "deities": 4
+  },
+  "mips": "PASS: 48 actual MIPS crop cases and 4 embedded descriptor proxies; HD logical sizing, full/cropped/nonzero rectangles, repeated updates, ribbon limits, untagged fallback and saved registers.",
+  "checks": {
+    "existing_executable_bytes": "Byte-identical except appended segment size",
+    "other_archive_members": "Byte-identical",
+    "scripts_and_text": "Byte-identical to 0.2.27",
+    "proxy_loader_sizes": "Original byte size retained",
+    "geometry": "Original 16x14 logical bounds retained; square artwork fits without distortion",
+    "existing_native_hooks": "Reused without code changes"
+  },
+  "texture_replacement": false,
+  "github_release": false,
+  "limits": [
+    "Reference artwork is reused from the supplied screenshot; resolution is limited by that source.",
+    "Full-playthrough and physical PSP testing remain pending."
+  ]
+}

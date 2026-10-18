@@ -1,0 +1,4057 @@
+{
+  "schema_version": 1,
+  "version": "0.2.2",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "dialogue_slices": [
+    {
+      "file": "itsuka.mlb",
+      "start": 160,
+      "rows_in_slice": 80,
+      "rows_examined": 86,
+      "adjacent_context": "Rows 158-159 and 240-243 examined; departures, succession, mourning and clan-deity proposals."
+    },
+    {
+      "file": "itsuka.mlb",
+      "start": 240,
+      "rows_in_slice": 80,
+      "rows_examined": 86,
+      "adjacent_context": "Rows 238-239 and 320-323 examined; skills, expansion, coming of age and released deities."
+    },
+    {
+      "file": "itsuka.mlb",
+      "start": 280,
+      "rows_in_slice": 80,
+      "rows_examined": 86,
+      "adjacent_context": "Rows 278-279 and 360-363 examined. Final window overlaps the preceding by 40 rows; illness and Hiruko-prize variants."
+    }
+  ],
+  "dialogue_rows_examined_unique": 206,
+  "rows": [
+    {
+      "id": "ore:0000c000:0015:01:0074",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 74,
+      "text_offset": 9688,
+      "source_sha256": "0b923794847946a8451bb55b2f7e5795f07d9f707361341fd66efec258db5ae5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, please do something!!\nLately, the cats have been leaving\nabsolutely astonishing piles of poop in our garden.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0075",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 75,
+      "text_offset": 9794,
+      "source_sha256": "33643b5f30c676db81961e702d3d6a38004c2e0f5df00be809171ddcece2535a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Didn't we have a handy secret art or scroll\nthat works on absolutely astonishing\npiles of cat poop?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0076",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 76,
+      "text_offset": 9880,
+      "source_sha256": "17dcdd0740c8ed50e6191f504d3c519109fd5ee7059d1e54f9e00ad7ede57650",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, you cheapskate!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0077",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 77,
+      "text_offset": 9904,
+      "source_sha256": "5d05a17af3768f493aaee5e15f6da9ad5f738456f2a30844c81b86c5b9181df3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, you horrible octopus!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Octopus insult retained in the cluster of playful vegetable/creature insults rather than treated as a named creature."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0078",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 78,
+      "text_offset": 9928,
+      "source_sha256": "7f88f30622a68f5c58aba75b50668e67d54817e42fb174fbab1517c243290257",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, you daft eggplant!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Eggplant insult retained as Itsuka's comic household voice."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0079",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 79,
+      "text_offset": 9958,
+      "source_sha256": "e63d13e5cee3f35d887e66376fce23a62bd429456f4c801ef674a27ed6b65984",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, you're so mean!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0080",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 80,
+      "text_offset": 9982,
+      "source_sha256": "e86722c4f79a052d2fd6cca97bc9824e5d40cd448195d6d07cf5435790d748e6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$ sets out!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0081",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 81,
+      "text_offset": 10002,
+      "source_sha256": "55f1475075780093063c9701af9d412cc1811e3faeca065b40376e60f82a496b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$ sets out!!\nGo get them with a bang!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0082",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 82,
+      "text_offset": 10062,
+      "source_sha256": "5ed6f6484e7e07cafb976041512ccb4ecbda1383a10b6fc5625a59a439fd2007",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "May fortune favor you in battle.\n%$ sets out!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0083",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 83,
+      "text_offset": 10110,
+      "source_sha256": "6abee5a53283f9dea0e9f514c717f3b9d6ca7bc21508db625e55e719c6cfbd93",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please take the greatest care!!\n%$ sets out!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0084",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 84,
+      "text_offset": 10160,
+      "source_sha256": "da6fd8cf3cb2bcdc29aebafa1c619dfbf9950beb2d5814cbe8cc1db5d6d4ecac",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Off you go,\n%$ sets out!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0085",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 85,
+      "text_offset": 10204,
+      "source_sha256": "d5dce040aab4fc3aaf958ab2768ac32b0df254e544c18a11e340edcccca35cbe",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I'll be waiting for good news.\n%$ sets out!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0086",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 86,
+      "text_offset": 10254,
+      "source_sha256": "89cc8b18dbad89ed56bebd74fb1b592efb44e4debc67ba6f84b3a5a95ebe7a37",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "To battle!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0087",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 87,
+      "text_offset": 10270,
+      "source_sha256": "bcf797d270804aae3168fa0c93d7b44f5d2d670527a5af3ae3fa733673adff2c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "To battle!!\nLet's go with a bang!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0088",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 88,
+      "text_offset": 10318,
+      "source_sha256": "e5dfa9b3b478069b3970752b69a76eae282331e5d3c99b74d816ee880ee17af2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "May you all return safely!!\nTo battle!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0089",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 89,
+      "text_offset": 10368,
+      "source_sha256": "03e1f7a8ccf65c220cbb50ac8d86cf4d5a396d4618911db84dd349f8fe110534",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "May you all fight\nwithout regrets!!\nTo battle!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0090",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 90,
+      "text_offset": 10426,
+      "source_sha256": "bbe7b16cac31ed88d870944771232ba67e6e439d48d48b9a31f239672c9022df",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "May you live up to\n%$'s hopes splendidly!!\nTo battle!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0091",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 91,
+      "text_offset": 10488,
+      "source_sha256": "ee06c53a89fc21db868baf2fbee6ee437e27cd708f0bb2ba9e897b2581fde0b7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "May your fighting do honor\nto the %@ clan's name!!\nTo battle!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's cat-dropping complaint, rejected request insults and departure announcements. The familiar teasing remains distinct from formal send-offs.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0000",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 0,
+      "text_offset": 10800,
+      "source_sha256": "05e4b513a65ade50e12ec3c565f77e298058772ddf3c974a9dd6975527e04530",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, welcome home.\nUm, you look a little pale...\nAaah!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Alarm interrupts an ordinary greeting; following succession variants settle the situation."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0001",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 1,
+      "text_offset": 10868,
+      "source_sha256": "0d8cd90adcf51f09e6e2a27fe9beaa47da5b05df8bc882e2cb13f96c4d146a4b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, how are you feel...\nAaah!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0002",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 2,
+      "text_offset": 10906,
+      "source_sha256": "c430713f5a86b753f0fadc87c9710f7216f6cdead4316f4b51a60d15faf6546d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, good morni...\nAaah!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0003",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 3,
+      "text_offset": 10946,
+      "source_sha256": "d84d6b5dfcba55baf8168220c4b3c22de18d1aa9983d542100674217c05df571",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, what shall we do to...\nAaah!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0004",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 4,
+      "text_offset": 10982,
+      "source_sha256": "7e546c192f9da43d8e5d801ba52aa8cf8920f115a41973c4a0195701e7817c2a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The sortie party has returned.\nThe results...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0005",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 5,
+      "text_offset": 11020,
+      "source_sha256": "4fdb5a66eb50ae95141b1a15ec288e328e607c88f06c6e18291e7a387d820053",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, um, you look a little pale...\nAaah!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0006",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 6,
+      "text_offset": 11064,
+      "source_sha256": "d06e7d282c535f3f94f74250023bb43f03fa6f2d4b584876d7fc7100a7cc233c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$... I'm afraid\nthere isn't much time left...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0007",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 7,
+      "text_offset": 11122,
+      "source_sha256": "0bc000a06bb35ce4053ba7d85383e0b6b175b8a0165edea9a3f9663fad66f95e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please name the next clan head\nright now!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0008",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 8,
+      "text_offset": 11166,
+      "source_sha256": "e17a80387851ee7b470094fd56bc32a69723520f03fac1e838faad8e26f2213a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, the time to say goodbye\nseems to be drawing near...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0009",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 9,
+      "text_offset": 11206,
+      "source_sha256": "7bfdd2e504e73bff5656fdee3c12abc615c904a642b4cb387b49bcead9601947",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please fulfill your last duty responsibly:\nname the new clan head.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0010",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 10,
+      "text_offset": 11270,
+      "source_sha256": "078247c127b6304409b678c33fa42b6bc2753c6c0a76e795a33d72ad320cbefa",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, you have\nvery little time left...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0011",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 11,
+      "text_offset": 11328,
+      "source_sha256": "ad3f916275bba2257f5dd5fa4e3d0a1045c47400ecc71df7d6a4d121b2aacfc2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I beg you to fulfill\nyour final duty with dignity:\nchoose the new clan head.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0012",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 12,
+      "text_offset": 11402,
+      "source_sha256": "5057f400dfab08838fd8445fcad4b2c42dd2e39e1ec25fd21c3743faa1b0c810",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, the flame of your life\nhas finally begun to dim...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0013",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 13,
+      "text_offset": 11456,
+      "source_sha256": "30d07c35b98ff65514e73f9d9a981e178cd312b79e334c47875b6537e60b6000",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please choose someone from the clan\nworthy of inheriting\nyour name, %$.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0014",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 14,
+      "text_offset": 11532,
+      "source_sha256": "4044c79276f49aaa25867bdb42463184585ef122eac40eea861d1b1a12f76a71",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Is %s your choice?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0015",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 15,
+      "text_offset": 11560,
+      "source_sha256": "85b95f720d5846f6b1330e8e8f77a38e801a1e7e2160d9b3c27983335f1e311c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, I have a report for you.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0016",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 16,
+      "text_offset": 11582,
+      "source_sha256": "96af239f3756cc5d31f04fb6d0744c115eb76784cbd05d2230bcb7410f9b832f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "To show unwavering resolve, %s\nwishes to take the name\n'%$' from this very moment.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0017",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 17,
+      "text_offset": 11662,
+      "source_sha256": "460b743baab36352aee7126390e3f458afb32d37606f0268aff0a23d3834b7e3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You've chosen\na wonderful successor!!\nI wholeheartedly agree.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0018",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 18,
+      "text_offset": 11742,
+      "source_sha256": "83d606e2ca373757fdfa128381f3dd69f31e9890d5da9fdc1d18fea0398525b8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "And so that your wishes are never forgotten, %$,\nplease allow every future clan head\nto inherit the name '%$'.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Repeated clan-head name placeholders retained in order; both refer to the inherited name."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0019",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 19,
+      "text_offset": 11834,
+      "source_sha256": "c5f9e11c8c11f2438c93cb0adddc523c28d83c9a9d21119dbd5107945b15262b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, I could never bear to part,\nbut I must take my leave now.\nThank you for your long service.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0020",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 20,
+      "text_offset": 11926,
+      "source_sha256": "dd08f2d279a1ce05f58e7dd6b32909f4ae36a3d8e5e4cdeb82342f567e7b1bea",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Thank you for your long service.\nPlease keep watching over\nthe clan's future from nearby.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0021",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 21,
+      "text_offset": 12024,
+      "source_sha256": "066c5bd2934f6a500d3f65cd4b46d258de4ef69612cf3b4ecddef1427f0b81fb",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Thank you for all your years of service.\nPlease rest\nin peace.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0022",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 22,
+      "text_offset": 12100,
+      "source_sha256": "d71a4558f7ddc3aa6b090f9c674915d9aaf7296b542885953b812e1e9167aeee",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I'm grateful for all the kindness\nyou've always shown me.\nThank you for everything.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0023",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 23,
+      "text_offset": 12190,
+      "source_sha256": "71990a6eb821d3fdb9d615e72a6167960c5cf773295fd16b70e897a65a21f629",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I will never forget\nthe time I spent serving at your side.\nThank you for everything.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0024",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 24,
+      "text_offset": 12274,
+      "source_sha256": "d4b53d4fa07d6492e33dddf2d3aaf5f8094107e3c41b86c4701bbc63c97438c1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I'm sorry\nI couldn't be of more help.\nThank you.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0025",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 25,
+      "text_offset": 12344,
+      "source_sha256": "6e5104c0ef5af440d795713d848df61c5f0579650e984da17e20b59660d9cc35",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "If we should ever meet again,\nI'd like to serve at your side once more.\nI'll never forget you...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0026",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 26,
+      "text_offset": 12444,
+      "source_sha256": "ee1687e922cf6b76c6ca8545cef9501b3394b2bb84e23c6b210f425299d1bbe3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations on becoming\nthe new clan head!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0027",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 27,
+      "text_offset": 12484,
+      "source_sha256": "f50b53a0b6c38ba877f2536e94bb47214a95b9220c3ad0dd48b28d264013f808",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s, by tradition,\nyou now bear the name of generation %d: '%@ %$'.\nThe succession takes effect at this moment.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0028",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 28,
+      "text_offset": 12572,
+      "source_sha256": "7818a7b527af3fc2090006bdf87dcfdd416e85132a1edc08f38b142f8ef19570",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I sincerely ask you to lead\nthe %@ clan with dignity\nas its new head.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0029",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 29,
+      "text_offset": 12660,
+      "source_sha256": "b0a27d293ca499c4332e7fa37cbe91fe2461c2b2d843d338bcd5f3f3ff001b19",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations on becoming\nthe clan's generation %d head!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0030",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 30,
+      "text_offset": 12712,
+      "source_sha256": "12ac577d6237968fdbe4768f44d4a693d9cce8f01fcd8f3ea7330651ae9960e6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "And congratulations on inheriting\nthe name '%@ %$'.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0031",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 31,
+      "text_offset": 12766,
+      "source_sha256": "4a224c76db4beb59e7a10424c22477838263716f123dedef1f68fe6494b011ee",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "From today, as head\nof the %@ clan,\nwe look forward to even greater achievements!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0032",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 32,
+      "text_offset": 12846,
+      "source_sha256": "09bc81e4055d51e7728b12e45363e7e835f30d7f7f197901ca64878db84d9d8e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations on becoming clan head.\nAs generation %d, you've inherited '%@ %$'.\nMy heartfelt best wishes!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0033",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 33,
+      "text_offset": 12936,
+      "source_sha256": "273272fa6ce5abb3c5365af6bf36042a071459080f18ace477fd770575606469",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "As clan head,\nplease put even more spirit into it\nand go all out with a bang!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0034",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 34,
+      "text_offset": 12846,
+      "source_sha256": "09bc81e4055d51e7728b12e45363e7e835f30d7f7f197901ca64878db84d9d8e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations on becoming clan head.\nAs generation %d, you've inherited '%@ %$'.\nMy heartfelt best wishes!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0035",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 35,
+      "text_offset": 13022,
+      "source_sha256": "a4a6528f4a385fa0a47f1928008db732ae2d26f4c96aaeed55d19a785d903b5a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...Don't worry. I won't tell anyone\nabout the day I secretly washed\nthe bedding you'd wet.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0036",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 36,
+      "text_offset": 13118,
+      "source_sha256": "ae486cc7c1eb3245e81557926d82e7686d54ec7f416f332609544d5abeae18e3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "In return, make a fine job\nof being clan head.\nGo all out with style!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0037",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 37,
+      "text_offset": 12846,
+      "source_sha256": "09bc81e4055d51e7728b12e45363e7e835f30d7f7f197901ca64878db84d9d8e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations on becoming clan head.\nAs generation %d, you've inherited '%@ %$'.\nMy heartfelt best wishes!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0038",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 38,
+      "text_offset": 13192,
+      "source_sha256": "e1ce034612f190d44a12773d7e249eb787a89578ddc68d7e495618a2728f88c8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Um...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0039",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 39,
+      "text_offset": 13202,
+      "source_sha256": "f050f41d20ac0f08ec1756538d0ee3a5b7f745ae6e2671342e2d425c4dc92dd7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Just to make this clear from the start,\nyes, I was the one who asked the first clan head\nto establish the inherited-name tradition...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0040",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 40,
+      "text_offset": 13300,
+      "source_sha256": "c9c77cd3d4315f8ff762f9e9deb2f67262adc461c7a00ee60d1abbc02df4a729",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "But however slapdash I may be,\nit wasn't because remembering\nevery clan head's name was too much trouble...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0041",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 41,
+      "text_offset": 13390,
+      "source_sha256": "7ab78e02b454ff2fc9854bbe7218f27efca951c0294d16597987c9c1fcc07e09",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Nor was it because\nI had absolutely no faith in my memory!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0042",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 42,
+      "text_offset": 13454,
+      "source_sha256": "c9b491f52d82946adfc81dba1519eb4669e724da3dcf502b4d7ac355b9eeb603",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Along with the name,\nplease inherit the first clan head's resolve.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0043",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 43,
+      "text_offset": 13510,
+      "source_sha256": "c5f893d00a4dbbb893fcaa8df57f541c0e25a202356d11a34490c099212036f2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$...!! Someone\nhas collapsed.\nPlease be strong and come this way...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0044",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 44,
+      "text_offset": 13594,
+      "source_sha256": "3706080274b060e62711f0fb7daae7d9c953cd58cb63eea31a27296ec8adb104",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$...!! Someone\nis nearing the end.\nPlease be strong and come this way...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0045",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 45,
+      "text_offset": 13688,
+      "source_sha256": "dc068de7e1db12cfe34c27699f8f2e134a770cc4e57fd599dfc1d4ec708a17e1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$...!! Someone's flame of life\nis about to burn out.\nPlease be strong and come this way...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0046",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 46,
+      "text_offset": 13792,
+      "source_sha256": "88a14e1c2259289abace0e0013f119693ee55b397496d98b6fa71271c3d7b6c0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It was a noble end...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0047",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 47,
+      "text_offset": 13824,
+      "source_sha256": "7802c70bba527ec3a4f99c309d0de2a7e3172b7c90fb09b61ac4d367658a88ce",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You have my deepest sympathy.\nPlease don't lose heart...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0048",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 48,
+      "text_offset": 13880,
+      "source_sha256": "0ef2ae7be663a96db006101f9b68f71231cfe24d1980e21681ea9851abf7550c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Turn this sorrow into strength for tomorrow,\nand go on living...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0049",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 49,
+      "text_offset": 13942,
+      "source_sha256": "3e936fdf706fa08f0e2ad4a79ef8bbc557c7345261f33afd16faf95deb827c43",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please hold %s's unfulfilled hopes\nfirmly in your hearts.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0050",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 50,
+      "text_offset": 13994,
+      "source_sha256": "c3520c0b28e87075d1904ce9d4d380df8084d5fce5744f3914b5ef1455aabc62",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Here before %s, let us vow\nonce more to defeat Shutendoji.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0051",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 51,
+      "text_offset": 14048,
+      "source_sha256": "778a81447be631ba092b3988766aff88cf5cfd7396b4f54605d64432e9924c4e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The greatest tribute is for the clan\nto live strong lives\nfor %s's sake too.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0052",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 52,
+      "text_offset": 14118,
+      "source_sha256": "125a1ec08c3f3cc524bc4c9c1701869b6f070eb3809cc9e940c079aa905cebda",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I wo... I won't cry\nuntil the day Shutendoji is defeated!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0053",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 53,
+      "text_offset": 14178,
+      "source_sha256": "ea8ded851eaa40a6a29cffa53a46c7bd2c0c9ecc392ada3fec03ea83dbdd53e6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, someone wishes\nto volunteer for the Rite of Revival.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Rite of Revival is the life-sacrifice ritual, distinct from city rebuilding."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0054",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 54,
+      "text_offset": 14232,
+      "source_sha256": "9c1b33050b8447c55f988d11ab8243ac1fd4d2f178574ba191ccb8355a32c7f0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Do you authorize the Rite of Revival?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0055",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 55,
+      "text_offset": 14262,
+      "source_sha256": "09967166b81b932d36e8379ce4fdd1a5581d7b8066cff7fe1f1e5b7c135f5be6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Are you absolutely sure?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0056",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 56,
+      "text_offset": 14288,
+      "source_sha256": "b04dd7917ddce516312624ad05b457ff7e64e17ca5c464d17e79f01d5833b564",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, there is something\nI must discuss with you privately.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0057",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 57,
+      "text_offset": 14328,
+      "source_sha256": "46e13819d350f1c187978527b92edef89e69d34aaf517bc8c6ea26d7ec5fcc79",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "We can restore %s's power to the %@ clan\nright now.\nBy enshrining %s as a Clan Deity.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Enshrining a deceased clan member restores their power through descendants, not the person's bodily resurrection."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0058",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 58,
+      "text_offset": 14422,
+      "source_sha256": "25f125b13fd47979b01ec1a7ddb272e6c000d3a98020a4a2c3c6af98d7284aec",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Then, through Divine Union,\n%s's power will surely live again\nin the blood of your descendants.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0059",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 59,
+      "text_offset": 14508,
+      "source_sha256": "4278a01bc99f62ce72275f4e3017f978736ca8081daf7467e119cd71129e9b8a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please review %s's abilities once more\nand carefully decide whether\nto enshrine this person as a Clan Deity.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:02:0060",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 2,
+      "index": 60,
+      "text_offset": 14594,
+      "source_sha256": "b3b56aa643b9cd965d4a600c323f894a535fc3fc13e98948c25e5cc01a088157",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Then, let us proceed.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka notices a clan head's decline, requests a successor, explains inherited names, offers condolences and proposes the Rite of Revival or enshrining a clan deity. Serious but caring household voice; gender-neutral runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0000",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 0,
+      "text_offset": 15100,
+      "source_sha256": "d3f75c7328952f3b7866bbdeecb01389c27c99fdf4eb73b5234c516f9cc8c958",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Next, I'll announce\neveryone who learned\nnew spells this month!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0001",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 1,
+      "text_offset": 15166,
+      "source_sha256": "953984ef4b23414849cf77ada81a11f2c38f02c5663d4650f25be3eac0ef5387",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Those listed learned %d spells\nin total!!\nPlease check them later.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0002",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 2,
+      "text_offset": 15242,
+      "source_sha256": "ec59003c9cb1a8b761363d7de47934e64e45c6f60ab937854cb2273d0c24eba2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s%s,",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0003",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 3,
+      "text_offset": 15256,
+      "source_sha256": "9ec3020290fc8308cda397998a925a9236666890ba24b46effb4bda28abdad77",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s%s",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0004",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 4,
+      "text_offset": 15268,
+      "source_sha256": "a1c820efcd15035a3247f1f738e855146765e9ccc83a311e076609ee0e33ebfd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s%s,",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0005",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 5,
+      "text_offset": 15280,
+      "source_sha256": "630dab6f9dda01af08049c6b4d9b0300ff7332033e511167d22e26b3b9d52114",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "To see learned spells and the %@ clan's scrolls,\nchoose 'Spells' under\n'Clan' > 'Personal Info'.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0006",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 6,
+      "text_offset": 15378,
+      "source_sha256": "fb27ac645ec9ff44da4175c48d9d661877d4d0198d1df29e8a91d3e6aaad9906",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "While sorting the spoils,\nI found Class Manuals\nfor %d new classes!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0007",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 7,
+      "text_offset": 15460,
+      "source_sha256": "ffd82d16376461cf946e7a5f5ca601cc84c45cdbde161acd13aaa6d6041db2d2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "While sorting the spoils,\nI found scrolls\nfor %d new spells!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0008",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 8,
+      "text_offset": 15536,
+      "source_sha256": "a416b9f9bafa375e480d257eefef85fe58336c0607b4efd8ca9202f6b737682a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "While sorting the spoils,\nI found %d new Class Manuals\nand %d new spell scrolls.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0009",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 9,
+      "text_offset": 15636,
+      "source_sha256": "350065fc29508e93ac64857d569a48d3b9ec8a1a7550250708479cf24cdd0554",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I've written down the scrolls' names.\nI'll read them out!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0010",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 10,
+      "text_offset": 15690,
+      "source_sha256": "c3c0b78a1b75cfd0318d8c8f24814432dcdcc20cbd4b54b4401e2d20bc3f9d00",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Those are the %d scrolls.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0011",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 11,
+      "text_offset": 15710,
+      "source_sha256": "6d8bcb82f54dfd507348803fff6ff4733ec52a6dde8b0afec56e3c242435bf67",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Now it's a race\nto see who'll master\nthe new spells first!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0012",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 12,
+      "text_offset": 15778,
+      "source_sha256": "147ebf6211e8c69ed7d28f514c8b93a74ee347f050f47eaa92ae9e32abf23c5b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, please learn\nthe new spells yourself first\nand set an example for everyone.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0013",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 13,
+      "text_offset": 15858,
+      "source_sha256": "4bc81d962140d9cc5c283bf986341a86ab0a19fa98e7dcc46101ca59906083f7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It would be a great help\nif someone could master\nthe new spells as soon as possible.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0014",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 14,
+      "text_offset": 15928,
+      "source_sha256": "e2a3a225ef98478840690ecb1adefe349ccf8d787908799a1bd805baa08e00f4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'%s' is the manual\nfor becoming a %s.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0015",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 15,
+      "text_offset": 15972,
+      "source_sha256": "8d40282912608f63428b3f002952cefb6c6d028af3bf7c33e97787175a64d1be",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The day the %@ clan gains\nits first %s must be near.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0016",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 16,
+      "text_offset": 16024,
+      "source_sha256": "239107ceaacbb852cda6e149143d19ecc29f14b8f21654182edcec1405a17bec",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I can't wait to wash the %s outfits\nand line them all up\nto dry in the sunshine!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0017",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 17,
+      "text_offset": 16112,
+      "source_sha256": "b4978bd0f182866b331e3830f6bbb7e77af74b4661a8bc8dcd71ec747c167d9e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Let's add more members of the %s class\nand give our tactics\na great big boost!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0018",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 18,
+      "text_offset": 16184,
+      "source_sha256": "16d5c3221de34088b984b7222b493a8b7e72550a79a68c7d978546ee6296e1a0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I'm already looking forward\nto the day a valiant %s\nappears in the %@ clan!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0019",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 19,
+      "text_offset": 16256,
+      "source_sha256": "b9397c1c7e5b12939decbb5d65fb7698b59b09741f408db3fe09ffc89146702c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Here are the results\nof %s's self-study.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0020",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 20,
+      "text_offset": 16298,
+      "source_sha256": "96d7aee2b654d7d33fc868b39b2312873285411a79575686f9169c3bef041020",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Here are the results of %2:s's\ntraining of %1:s.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "%2:s is the instructor and %1:s the trainee; direction retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0021",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 21,
+      "text_offset": 16364,
+      "source_sha256": "2721b368b4f1fd09862fd4b9530fe55999990a315ed62e7d79d738a4ce8db813",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Inherited secret art '%s'",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0022",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 22,
+      "text_offset": 16386,
+      "source_sha256": "96e98809122313c875fd7e039030f61020727c8e9db7fa66e2e25fcfcc2e2055",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "What shall we do, %$!?\nIt seems someone in the family\nhas run away...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0023",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 23,
+      "text_offset": 16468,
+      "source_sha256": "4bb7cd5dae37db2acfadfd55f6f993962879212d379d5ebbe0b1548df30352cf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I can't imagine they would...\nbut please check our money\nand the storehouse right away!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0024",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 24,
+      "text_offset": 16556,
+      "source_sha256": "a59630ea8ff68ce94b8613cd8e5ef191c6002348c756f9bff5a8e848f19aa4f2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "We've been blessed with many fine heirs,\nand the house is getting cramped.\nWe have a little money to spare too.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0025",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 25,
+      "text_offset": 16656,
+      "source_sha256": "ce6e61c381904123f0d5abccb890344c151b9f59ea6aab3ddb3e6ede15ee9b81",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "What do you think? I know a skilled carpenter.\nPerhaps this would be a good time\nto consider an extension?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0026",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 26,
+      "text_offset": 16756,
+      "source_sha256": "837aaa1c0894add195263c3117dd4f5824c3091deb7f18b31d9c5cc021464cc8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Room for %d people costs %d ryo right now.\nShall I place the order?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0027",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 27,
+      "text_offset": 16816,
+      "source_sha256": "c36a465595d3fbe84f2674f04624d83d451db57cccd440df70249dc90c7a5d0a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A smaller house is easier to clean,\nbut isn't it time for an extension?\nI've already found a carpenter...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0028",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 28,
+      "text_offset": 16924,
+      "source_sha256": "1955da3a3106102ee2a2d506ac0b6605c8182bf8d99d0c73b52e570b4efddb52",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Room for %d people, now just %d ryo!!\nLet's build a great big extension, shall we?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0029",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 29,
+      "text_offset": 16992,
+      "source_sha256": "4a7344cca1603ab6f05727508e6618ef65867f085a784aad63de0a8f41da0cb1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan now has %d members!!\nIf we keep growing, we'll end up\nsleeping on the roof or in the garden!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0030",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 30,
+      "text_offset": 17090,
+      "source_sha256": "2082dbb1d3087634ca8d734d0efeb7892bbca29500b51a5ae5b0b4a11c61be86",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Fine in summer, perhaps, but winter would be rough...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0031",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 31,
+      "text_offset": 17120,
+      "source_sha256": "fd4ff71ad75e676d3595fe595c1dd58393594ec582e394052639dacc6cb2b2e5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s has even started practicing\nhow to sleep standing up.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0032",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 32,
+      "text_offset": 17178,
+      "source_sha256": "ada82d2fc17d7af560e02c231137044971d6e242bbc4cd4ae7ea41ef6d896901",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...I'm joking, of course,\nbut please consider\nextending the house again soon.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0033",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 33,
+      "text_offset": 17256,
+      "source_sha256": "9fa9c7f0a350d5ca6f0b726227b7de616eaa2eb80361ccc07cece4590f5004b1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Room for %d people, now just %d ryo!!\nShall I go all out and order it?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0034",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 34,
+      "text_offset": 17328,
+      "source_sha256": "68924c9ec627b506ef504ce420ce333bf281c51a5f299b080c269cd7715fef30",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "How about an extension now?\nThe family has grown...\nAnd I've already found a carpenter...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0035",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 35,
+      "text_offset": 16924,
+      "source_sha256": "1955da3a3106102ee2a2d506ac0b6605c8182bf8d99d0c73b52e570b4efddb52",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Room for %d people, now just %d ryo!!\nLet's build a great big extension, shall we?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0036",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 36,
+      "text_offset": 17432,
+      "source_sha256": "42ef215e3efaa5045e7bc6b2c5e6cf54e831773f7b0beee61e8adedad3f80cc8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Kumagoro works fast as long as there's no drinking,\nso it'll be finished this month!!\nSomething to look forward to.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Kumagoro is a carpenter mentioned only in this house-expansion variant; reading provisional."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0037",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 37,
+      "text_offset": 17520,
+      "source_sha256": "d29916660f5688fc39a82be74a07081d5df070d01d1a34330053372432561ae9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Tomekichi's household is expecting a baby,\nso I'm sure the work will be good.\nI can't wait for next month!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Tomekichi is the carpenter expecting a child, not the clan head; reading provisional. No gendered English pronoun added."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0038",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 38,
+      "text_offset": 17620,
+      "source_sha256": "005d1788ffdf748b03f27d13b98fcb1181595897fd9dc631af7534299f1fbb1d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Then, another time...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0039",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 39,
+      "text_offset": 17640,
+      "source_sha256": "c67e8f9feab082d41553a96d581e1cb354fccb8ae7d53f879c545f77c89af2e4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "When we extend the house,\nplease go all out\nand put in another toilet too.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0040",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 40,
+      "text_offset": 17712,
+      "source_sha256": "6bcb58e596adbc639aca19eb315f2b7b157b3c51cd3f43472902d999a1c5f7f0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Because %s takes forever...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0041",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 41,
+      "text_offset": 17742,
+      "source_sha256": "b8bc2e0d09456d4fe73602f8648b34bafda9a814b6baf93532aece4584204b09",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations!!\n%1:s has joined\nthe fighting ranks this month.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0042",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 42,
+      "text_offset": 17816,
+      "source_sha256": "b2f0e8a76f817e49021b40b044ab1f322841d56b9d98eb300e2942a80bae9201",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I'm sure %1:s will perform\neven better than we hope!!\nI can't wait to hear about the first battle.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0043",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 43,
+      "text_offset": 17916,
+      "source_sha256": "4dcc66765a0f5f9944c99d21e9f7229bf14ae14e179cfe022b50ec61bc2a1377",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I sincerely pray that %1:s\nwill distinguish themselves\nas soon as possible!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0044",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 44,
+      "text_offset": 18008,
+      "source_sha256": "2dba3cbf353c045a2be2640fda1482f3c2eccf5080b552649fa7095b9a065560",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "There's so much enthusiasm there,\nso please consider assigning\na place in the sortie party right away.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0045",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 45,
+      "text_offset": 18100,
+      "source_sha256": "10b628f1497d2d92910181d83bf246dc913ea44be9c28583baec105e718fa73f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A good start matters!!\nPlease guide them without pushing too hard\nor spoiling them.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0046",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 46,
+      "text_offset": 18196,
+      "source_sha256": "0071f0517614508045a9c44ffbe33306e9577c5ad5c2b73d9743c5b1abdb5923",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "To help %1:s become a fine %2:s,\nI'll do my part,\nsmall though it may be.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0047",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 47,
+      "text_offset": 18286,
+      "source_sha256": "b5c53569dd9f10394ae632e925f44a657aeb80561410943ae31e98610b0865c8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations!!\n%1:s has come of age and can now\nperform Divine Union from this month.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0048",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 48,
+      "text_offset": 18380,
+      "source_sha256": "113fbac3900e8ffa712e9cd8995f5c394e326d88c5d1f639b19294e71309ed70",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "My heartfelt congratulations\non %1:s's coming of age!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0049",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 49,
+      "text_offset": 18432,
+      "source_sha256": "353b4a44a15d33b11ec169b06af91698892daace1d15ef1b7a19ada12d6c3156",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%1:s seems to want\na %2:s deity for Divine Union\nto make up for personal weaknesses.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0050",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 50,
+      "text_offset": 18534,
+      "source_sha256": "11ac020cd0319255ce223fab499e1deb7092508e05df8720be164b6c79d81103",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations\non %1:s's coming of age!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0051",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 51,
+      "text_offset": 18580,
+      "source_sha256": "4be407577f600b021d32ca6aae9c00f5c14bb3f447ab5ea75fbb62eea2519b17",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%1:s wants to use Divine Union\nto enhance personal strengths further\nand pass them on to a child.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0052",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 52,
+      "text_offset": 18380,
+      "source_sha256": "113fbac3900e8ffa712e9cd8995f5c394e326d88c5d1f639b19294e71309ed70",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "My heartfelt congratulations\non %1:s's coming of age!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0053",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 53,
+      "text_offset": 18678,
+      "source_sha256": "8d479f2796f0127eb569ddaf52919e33f9d5f033dda947cb51eb43abab1e1f1e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%1:s seems quite taken with a certain %3:s deity, %2:s...\nPlease bear that in mind\nwhen arranging Divine Union.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "%3:s's runtime semantic category is not proven; retain the source's association with deity %2:s without inventing a gender."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0054",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 54,
+      "text_offset": 18534,
+      "source_sha256": "11ac020cd0319255ce223fab499e1deb7092508e05df8720be164b6c79d81103",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations\non %1:s's coming of age!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0055",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 55,
+      "text_offset": 18788,
+      "source_sha256": "d2f8e8f050be6f2ce771285ffe230f09361102f92788735c924c3cf5d24bf3b8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%1:s can perform Divine Union\nstarting this month.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0056",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 56,
+      "text_offset": 18850,
+      "source_sha256": "cdfb4e508aa58b6f3f42f82dda476b32f4db6dfa5005f11a102acf4b06cbeb8d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "My best wishes\non %1:s's coming of age!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0057",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 57,
+      "text_offset": 18894,
+      "source_sha256": "b5a1f577f09f72463521ee4c782d4a9666601fe85c0961b9884c6f66bc0cbb22",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I look forward to the day\nI can care for a child\nof %1:s's bloodline.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0058",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 58,
+      "text_offset": 18534,
+      "source_sha256": "11ac020cd0319255ce223fab499e1deb7092508e05df8720be164b6c79d81103",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations\non %1:s's coming of age!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0059",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 59,
+      "text_offset": 18966,
+      "source_sha256": "3f7696a4350fa1a028db4b92b813225c784daa309ca20f8b490e9e30d3f678e4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Now the %@ clan's future is even more secure!!\nFor %1:s's Divine Union,\nwhich %2:s deity would be a good match?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0060",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 60,
+      "text_offset": 19078,
+      "source_sha256": "16d640acd2a62cac31b33acaf153235ae0be4e197776a632322ea99774a54bc4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "On %1:s's coming of age,\nplease accept my heartfelt congratulations.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0061",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 61,
+      "text_offset": 19132,
+      "source_sha256": "b1902db42487e27fb3da644ab7a6246f422d91f8e057738b9975336349ea15dc",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%1:s is surprisingly keen on good looks,\nso please take that into account\nwhen choosing a Divine Union partner.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0062",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 62,
+      "text_offset": 19236,
+      "source_sha256": "6e70e2d0888432849ebc959efb23bbcd6fc98ea1578b2237f829934dfa5d11a4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, I've added\nan explanation of '%s'.\nPlease read it when you have time!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0063",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 63,
+      "text_offset": 19328,
+      "source_sha256": "ee3de3285bf79123db3a1fd5f0809903b0ff85d61a042cf7a197d4888c3aee0e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Good news!!\nThe %s deity '%s'\nhas returned to heaven!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0064",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 64,
+      "text_offset": 19396,
+      "source_sha256": "1be699ed640a696964d530389e38041369efab7142df2a5265baaa57d969d13a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's all thanks to the %@ clan's efforts.\nNext time I'm back in heaven,\nI'm going to brag my heart out!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0065",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 65,
+      "text_offset": 19504,
+      "source_sha256": "36764dc5cc853a2be5563c799dc65fc86645ce813aa5950ac657832def3c71aa",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Hiruko Taishoten and\nall the gods in heaven\nare absolutely delighted!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0066",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 66,
+      "text_offset": 19580,
+      "source_sha256": "4b7c327eca63572aaaf96206ffc871990a72d8842fbc4b42f13df3bf11a7f537",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please take a quick look later\nat the returning deity's\nportrait and information.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0067",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 67,
+      "text_offset": 19666,
+      "source_sha256": "d090db8d9e42dced4bab1b01c387ae136fb0f5041c952e4a8c02b49e0f66d942",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I look forward to the day\na new deity's blood gives\nthe %@ clan new strength.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0068",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 68,
+      "text_offset": 19748,
+      "source_sha256": "b4ff3c0a9d1f4605acb104004d06d6d964b71ffc440bf2b61eb8d994b549341e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "To everyone in the %@ clan,\nHiruko Taishoten asked me\nto pass on her thanks.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0069",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 69,
+      "text_offset": 19836,
+      "source_sha256": "0d61ca72eaa6b7d04a60b5b6cba32f51cee3df34181d710105417c80e35c17e7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Wonderful news!!\n%d deities have returned to heaven!!\nI'll read out their names.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0070",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 70,
+      "text_offset": 19926,
+      "source_sha256": "4da644518498e723879785f2971452d993cfbcbe53443d7c6350c0f63e08df60",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Now the %@ clan's reputation\nis firmly established in heaven too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0071",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 71,
+      "text_offset": 19980,
+      "source_sha256": "ba6599f7b22a11b10025890db053af9b16b38f3669faa62db5d05476b82ed5bf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "On this matter, the %@ clan has received\na letter of thanks from Hiruko Taishoten...\nI'll read it, for what it's worth.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Hiruko's brief, breezy letters are intentionally less formal than the report introducing them."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0072",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 72,
+      "text_offset": 20082,
+      "source_sha256": "f24324e4246d3f54eea0992277542b77f58242747483e952c7b56426f336242c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'To everyone in the %@ clan,\nthanks a bunch!! Hiruko☆'\n...That's what it says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0073",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 73,
+      "text_offset": 19980,
+      "source_sha256": "ba6599f7b22a11b10025890db053af9b16b38f3669faa62db5d05476b82ed5bf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "On this matter, the %@ clan has received\na letter of thanks from Hiruko Taishoten...\nI'll read it, for what it's worth.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0074",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 74,
+      "text_offset": 20154,
+      "source_sha256": "7f972bcd8d2e62ca23b01bc351caad88321ee5d944e2f3810385e35740b9109b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'You have earned my praise! Just kidding...\nThanks every time! I'm so touched!! Hiruko☆'\n...That's what it says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0075",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 75,
+      "text_offset": 19980,
+      "source_sha256": "ba6599f7b22a11b10025890db053af9b16b38f3669faa62db5d05476b82ed5bf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "On this matter, the %@ clan has received\na letter of thanks from Hiruko Taishoten...\nI'll read it, for what it's worth.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0076",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 76,
+      "text_offset": 20240,
+      "source_sha256": "71a97e1e8ef4d8c8111c64be311e29979315ed4ea7bda902f25d14878716d592",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'Keep up the good work.\nThanks as always!! Hiruko☆'\n...That's what it says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0077",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 77,
+      "text_offset": 19980,
+      "source_sha256": "ba6599f7b22a11b10025890db053af9b16b38f3669faa62db5d05476b82ed5bf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "On this matter, the %@ clan has received\na letter of thanks from Hiruko Taishoten...\nI'll read it, for what it's worth.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0078",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 78,
+      "text_offset": 20326,
+      "source_sha256": "3c42c113574fcddd6c716692b27cae97e214546b320d449c87517e6742956eb5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'I'm counting on you in the future too.\nThanks as always!! Hiruko☆'\n...That's what it says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0079",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 79,
+      "text_offset": 20416,
+      "source_sha256": "a28778fcc9e0e5bc4d251e6dbda5e055c656a222fcf9fb080f8715c0bb2d087f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$,\nthis is a bolt from the blue!!\nAre you ready to be bowled over!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0080",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 80,
+      "text_offset": 20496,
+      "source_sha256": "ac437014cf0d6dc5aeba1f9ba4b3d3c7e189bfbbae94a5f7164aa55e2bdb04e8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A whole crowd of gods\nhas returned to heaven!!\nI'll read out their names.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0081",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 81,
+      "text_offset": 20578,
+      "source_sha256": "8880aca053832b2a22f99f33de40865885f45ad2adc4ff202c7df648845eaeff",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Those are all %d of them!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0082",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 82,
+      "text_offset": 20612,
+      "source_sha256": "bf619e7cd7529d987e27e015c4a76aab56eac0659f0fc57f686408c770a47d98",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "With all this commotion, heaven's been\na nonstop party, drinking and singing day and night!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0083",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 83,
+      "text_offset": 20674,
+      "source_sha256": "c85f3129e327bfcb5a5824a43057c02e4438d32da42c1bee73b1d3d1460f6702",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Yuko and Hiruko got tipsy\nand danced in such scandalous states...\n...Everyone absolutely loved it!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Adult deities' drunken dancing is a non-graphic description; no explicit nudity added."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0084",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 84,
+      "text_offset": 20772,
+      "source_sha256": "966901360dede163ad41aa27983da5fcf8d8bff46cf0b71addcd47950020f02c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Oh!! Right, Hiruko has sent\na letter of thanks and a celebratory gift.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0085",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 85,
+      "text_offset": 20836,
+      "source_sha256": "746101174e1a3796037b586cda61a5b3701bd8db8a08a7574f99c38573ddb42e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'For the %@ clan's bright future,\na little celebration in advance.\nPlease accept it♪ Hiruko☆'",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0086",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 86,
+      "text_offset": 20904,
+      "source_sha256": "f060132f2a4cbc083c78ba5bdc5ac23c698b027f181d81590e0284d1e7519f24",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Received 8888 Offering Points!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0087",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 87,
+      "text_offset": 20932,
+      "source_sha256": "54d059859c58656a6ef2ad6b2f957a07d32cc342e32969df3ce52d53d7c22d4c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...Eight, eight, eight, eight? Does that mean\never-growing prosperity?\nDo even the gods believe in lucky signs...?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Eight's spreading shape signifies increasing prosperity; source question remains a question."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0088",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 88,
+      "text_offset": 21020,
+      "source_sha256": "f8eef8e6df18bdcd8af228aeac28ffd601f808b99e8241634d13ef2a5f417fd4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %s deity '%s'!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0089",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 89,
+      "text_offset": 21040,
+      "source_sha256": "1ae9d3b43eb0b4590e3a1394fe6b45882cd5c6de1cd22d9f73ce49acf307800a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, a new deity\nhas joined the heavenly ranks!!\nI'll read out the name.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0090",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 90,
+      "text_offset": 21124,
+      "source_sha256": "a4fdf2b859fd892ed3e6489e531303a50d49d29c751b25e31e6bee1e6385599a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A Clan Deity invited especially from another clan.\nI'm sure this deity will be\na great help to the %@ clan.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0091",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 91,
+      "text_offset": 21216,
+      "source_sha256": "a425460b67772260caa462d099a312dab446c18deb98d3c62f5f23ea13c7f6a8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, this person has come from a distant land\nto join the %@ clan by adoption.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0092",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 92,
+      "text_offset": 21278,
+      "source_sha256": "2be2b6d02b8248d51ffd691d00cc6094e284e1365d1bca7decdb2cd3b235a218",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Terrible news!!\nIt seems the oni have spread\na vile disease through the city.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0093",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 93,
+      "text_offset": 21348,
+      "source_sha256": "eff2a7f4bae09026b53fc30c8a1ef98b550fc3efe17648dbbc771f5c12413500",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The epidemic in the city has subsided.\nThat's a relief!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0094",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 94,
+      "text_offset": 21410,
+      "source_sha256": "2b66055a656a0dbd5baa4d52b1966cde2c81cbbe28c500a7d0c8df0eb2ff6298",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s still hasn't recovered\nfrom the epidemic illness this month...\nHealth is declining.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0095",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 95,
+      "text_offset": 21482,
+      "source_sha256": "49261faa11d26bcd82d9d6b2e9616d1d5b0157da31fe7ec9bc3bce9bf9c89141",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s looks pale.\nIt seems to be the epidemic illness.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0096",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 96,
+      "text_offset": 21546,
+      "source_sha256": "9be504663d4e576d81c7555f4ce0e241c9b2c90633b8ff7daa02a7d89a8ecd39",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s seems to have a fever.\nIt seems to be the epidemic illness.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0097",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 97,
+      "text_offset": 21614,
+      "source_sha256": "5a6695db6fc2cecc4d10926a9c8b16f3e3ad152da86b2223dd8425123d429f52",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s has a worrying cough.\nIt seems to be the epidemic illness.\nI hope it doesn't linger...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0098",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 98,
+      "text_offset": 21716,
+      "source_sha256": "7574633a8cc593f12064eb9524b668e39a65319d64f288471187bf358597d283",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s has no appetite.\nIt seems to be the epidemic illness.\nI'm a little worried...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0099",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 99,
+      "text_offset": 21804,
+      "source_sha256": "7ea8b4a69f42e21d8d468e3af46741c1b44335c6bf9e65b5e1285939c48c80c4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is running around\nshouting nonsense...\nIt seems to be the epidemic illness.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0100",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 100,
+      "text_offset": 21898,
+      "source_sha256": "c919dd8ecf152165f781814efdb228010a9ae4b37b9de0008d1711c3be5f52d3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is completely naked,\ndoing handstands in the garden...\nIt seems to be the epidemic illness.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Nudity is a nonsexual symptom gag, without anatomical detail."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0101",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 101,
+      "text_offset": 21998,
+      "source_sha256": "847f714452c9a5e7fc26b989cb2db5189d6dd68be2aa10d0a63f2de9eb91a011",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s seems to have recovered completely\nfrom the epidemic illness!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0102",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 102,
+      "text_offset": 22058,
+      "source_sha256": "3f5fcf04175c623fef4a57a46c9e2a0cc51a8508afce2b68b0c6ed833cdc3fa3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s has made a full recovery\nfrom the epidemic illness!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0103",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 103,
+      "text_offset": 22102,
+      "source_sha256": "4efb911ed7ad5b274e3d378e0df6316d5670ea8862b88c94f724d589d0dafddb",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is safely past\nthe worst of the epidemic illness!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0104",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 104,
+      "text_offset": 22156,
+      "source_sha256": "5dfbf01f126301e8118d1362e04dc679ed08f312ff31c58c0d2dc1c85bd37e2a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is all right now!!\nIt seems sheer fighting spirit\ndrove that epidemic illness away!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0105",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 105,
+      "text_offset": 22238,
+      "source_sha256": "092698bc09e29b831f9902041c0e577f84aff313491ce9799dd032172eeaba50",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, as a prize for last month's Hiruko battle,\nthe portrait '%s'\nhas arrived from Mount Oe.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0106",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 106,
+      "text_offset": 22316,
+      "source_sha256": "01b3eece40ec08cbbc7e0952b9ef5266806e15a4136384e49f177bb7f44063e0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, Hiruko has sent\nthe commemorative portrait '%s'\nand a message.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0107",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 107,
+      "text_offset": 22390,
+      "source_sha256": "0578490a75ba7da0321ae5571ca629ef35a16081b9fd592842b897d3590af11f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'Come play again. Hiruko☆'\n...That's what she says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0108",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 108,
+      "text_offset": 22430,
+      "source_sha256": "29eb58c1bdb6bd78b4bf327e26d98259132d7b849cca2a217f2e802c6f8194a1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, Hiruko has sent\nthe prize portrait '%s'\nand a certificate.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0109",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 109,
+      "text_offset": 22498,
+      "source_sha256": "1b142745517064a77a0a06666fe93bed92e15d8e03fdc309ad9eb617a3657d11",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'The You Tried Hard Award!! Hiruko☆'\n...That's what she says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0110",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 110,
+      "text_offset": 22544,
+      "source_sha256": "e2f854903934d2f9c57831327565437280404090e49da2938f4e091b1b6acc18",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, Hiruko has sent\nthe commemorative portrait '%s'\nand a letter.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0111",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 111,
+      "text_offset": 22616,
+      "source_sha256": "9e1205b0a48ca5fcea8bfcaaea50158ae3cd0bd2898b6a4dba391a85fcd1a6e2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'It's only a trifle,\nbut please do accept it. Hiruko☆'\n...That's what she says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0112",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 112,
+      "text_offset": 22544,
+      "source_sha256": "e2f854903934d2f9c57831327565437280404090e49da2938f4e091b1b6acc18",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, Hiruko has sent\nthe commemorative portrait '%s'\nand a letter.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0113",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 113,
+      "text_offset": 22688,
+      "source_sha256": "1fdf940feb53dcb89f3fbd7f645c20b29af33ff6d5045715f6b42447279a8ba9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'That's all my ideas for souvenirs.\nI'll pay with my body from now on♪\nHeh heh. Hiruko☆' ...That's what she says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Hiruko's bodily-payment innuendo retained without expanding it into an explicit act."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0114",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 114,
+      "text_offset": 22782,
+      "source_sha256": "cc72a82faf493287e1a839085721510f794dc20583785f3a97439b17b32db7b0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, as a prize for last month's Hiruko battle,",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0115",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 115,
+      "text_offset": 22816,
+      "source_sha256": "5e9ad7a3bca44fddb6d84cd02c5e0ecb1a95293a90a12e10b07651cbe1544753",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "the portrait '%s' and",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0116",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 116,
+      "text_offset": 22834,
+      "source_sha256": "2e69218017e52afc24923fd5579ca0002ea73d9bf9bc77fb0bee7f6906bde358",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "a letter have arrived from Mount Oe.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0117",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 117,
+      "text_offset": 22868,
+      "source_sha256": "649d7f3fa09a498317b2b355926f7844c9854ee9d6920d011a020355b59c3a0f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'Taking %d at once?\nYou're greedy. Hmph, hmph! Hiruko☆'\n...That's what she says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0118",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 118,
+      "text_offset": 22782,
+      "source_sha256": "cc72a82faf493287e1a839085721510f794dc20583785f3a97439b17b32db7b0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, as a prize for last month's Hiruko battle,",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0119",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 119,
+      "text_offset": 22834,
+      "source_sha256": "2e69218017e52afc24923fd5579ca0002ea73d9bf9bc77fb0bee7f6906bde358",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "a letter has arrived from Mount Oe.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:03:0120",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 3,
+      "index": 120,
+      "text_offset": 22688,
+      "source_sha256": "1fdf940feb53dcb89f3fbd7f645c20b29af33ff6d5045715f6b42447279a8ba9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "'That's all my ideas for souvenirs.\nI'll pay with my body from now on♪\nHeh heh. Hiruko☆' ...That's what she says.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports spells, class manuals, training, house expansion, coming-of-age eligibility, divine releases, epidemics and postgame Hiruko prizes. Runtime class/deity names retain exact placeholders. Informal divine letters contrast with Itsuka's polite delivery.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Identical letter variant to 113; source repetition preserved."
+      ]
+    }
+  ]
+}

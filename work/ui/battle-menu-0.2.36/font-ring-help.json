@@ -1,0 +1,85 @@
+{
+  "version": "0.2.36",
+  "context": "ring-help",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Attack with your ancestors' power (once",
+    "per hunt)"
+  ],
+  "objects": [
+    {
+      "text": "Hayate",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Attack",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Spells",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Items",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Defend",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Retreat",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Skills",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Hayate",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Status",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Clan Head's Ring",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Attack with your ancestors' power (once",
+      "atlas": "0x9b5c010",
+      "glyphs": 39,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "per hunt)",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

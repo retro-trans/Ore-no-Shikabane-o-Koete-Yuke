@@ -1,0 +1,1332 @@
+[
+  {
+    "text": "April",
+    "ancestors": [
+      {
+        "object": "0x9e0e080",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e0df40",
+        "vtable": "0x8a22298",
+        "geometry": [
+          22,
+          28,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e0d640",
+        "vtable": "0x8a3a230",
+        "geometry": [
+          8,
+          8,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Spells",
+    "ancestors": [
+      {
+        "object": "0x9e1a080",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e19f40",
+        "vtable": "0x8a22298",
+        "geometry": [
+          56,
+          195,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e199d0",
+        "vtable": "0x8a30258",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Items",
+    "ancestors": [
+      {
+        "object": "0x9e1a2e0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e1a1a0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          88,
+          220,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e199d0",
+        "vtable": "0x8a30258",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Status",
+    "ancestors": [
+      {
+        "object": "0x9e1a540",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e1a400",
+        "vtable": "0x8a22298",
+        "geometry": [
+          48,
+          246,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e199d0",
+        "vtable": "0x8a30258",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Equipment",
+    "ancestors": [
+      {
+        "object": "0x9e1a7a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e1a660",
+        "vtable": "0x8a22298",
+        "geometry": [
+          10,
+          220,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e199d0",
+        "vtable": "0x8a30258",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Endless Torii: One",
+    "ancestors": [
+      {
+        "object": "0x9e1b8a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e1b760",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          6,
+          117,
+          18
+        ]
+      },
+      {
+        "object": "0x9e1ad20",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          178,
+          238,
+          123,
+          28
+        ]
+      },
+      {
+        "object": "0x9e1a8c0",
+        "vtable": "0x8a2fc60",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Pack",
+    "ancestors": [
+      {
+        "object": "0x9e241a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3243245568,
+          0
+        ]
+      },
+      {
+        "object": "0x9e24060",
+        "vtable": "0x8a22298",
+        "geometry": [
+          110,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Use",
+    "ancestors": [
+      {
+        "object": "0x9431170",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1113325568,
+          0
+        ]
+      },
+      {
+        "object": "0x9431030",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          132,
+          16
+        ]
+      },
+      {
+        "object": "0x9430f20",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          10,
+          132,
+          16
+        ]
+      },
+      {
+        "object": "0x94e2ca0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          94,
+          28,
+          292,
+          34
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Discard",
+    "ancestors": [
+      {
+        "object": "0x94314e0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1110179840,
+          0
+        ]
+      },
+      {
+        "object": "0x94313a0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          132,
+          16
+        ]
+      },
+      {
+        "object": "0x9431290",
+        "vtable": "0x8a20170",
+        "geometry": [
+          150,
+          10,
+          132,
+          16
+        ]
+      },
+      {
+        "object": "0x94e2ca0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          94,
+          28,
+          292,
+          34
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Evergreen Elixir",
+    "ancestors": [
+      {
+        "object": "0x950b9a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950b860",
+        "vtable": "0x8a22298",
+        "geometry": [
+          16,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950b670",
+        "vtable": "0x8a41930",
+        "geometry": [
+          3,
+          10,
+          232,
+          16
+        ]
+      },
+      {
+        "object": "0x95090a0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          4,
+          84,
+          472,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Div. Favor Orb",
+    "ancestors": [
+      {
+        "object": "0x950bdf0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950bcb0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          16,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950bac0",
+        "vtable": "0x8a41930",
+        "geometry": [
+          237,
+          10,
+          232,
+          16
+        ]
+      },
+      {
+        "object": "0x95090a0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          4,
+          84,
+          472,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Div. Favor Orb",
+    "ancestors": [
+      {
+        "object": "0x950c240",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950c100",
+        "vtable": "0x8a22298",
+        "geometry": [
+          16,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950bf10",
+        "vtable": "0x8a41930",
+        "geometry": [
+          3,
+          28,
+          232,
+          16
+        ]
+      },
+      {
+        "object": "0x95090a0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          4,
+          84,
+          472,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Firestorm Tsl.",
+    "ancestors": [
+      {
+        "object": "0x950c690",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950c550",
+        "vtable": "0x8a22298",
+        "geometry": [
+          16,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950c360",
+        "vtable": "0x8a41930",
+        "geometry": [
+          237,
+          28,
+          232,
+          16
+        ]
+      },
+      {
+        "object": "0x95090a0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          4,
+          84,
+          472,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Catfish Tsl.",
+    "ancestors": [
+      {
+        "object": "0x950cae0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950c9a0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          16,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950c7b0",
+        "vtable": "0x8a41930",
+        "geometry": [
+          3,
+          46,
+          232,
+          16
+        ]
+      },
+      {
+        "object": "0x95090a0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          4,
+          84,
+          472,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Swift Wind Tsl.",
+    "ancestors": [
+      {
+        "object": "0x950cf30",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950cdf0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          16,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950cc00",
+        "vtable": "0x8a41930",
+        "geometry": [
+          237,
+          46,
+          232,
+          16
+        ]
+      },
+      {
+        "object": "0x95090a0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          4,
+          84,
+          472,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Asbestos Kimono",
+    "ancestors": [
+      {
+        "object": "0x950d380",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950d240",
+        "vtable": "0x8a22298",
+        "geometry": [
+          16,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950d050",
+        "vtable": "0x8a41930",
+        "geometry": [
+          3,
+          64,
+          232,
+          16
+        ]
+      },
+      {
+        "object": "0x95090a0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          4,
+          84,
+          472,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Fresh Green Hood",
+    "ancestors": [
+      {
+        "object": "0x950d7d0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950d690",
+        "vtable": "0x8a22298",
+        "geometry": [
+          16,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950d4a0",
+        "vtable": "0x8a41930",
+        "geometry": [
+          237,
+          64,
+          232,
+          16
+        ]
+      },
+      {
+        "object": "0x95090a0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          4,
+          84,
+          472,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Temporarily greatly increases the party's movement speed",
+    "ancestors": [
+      {
+        "object": "0x9510d60",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9510c20",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9510b10",
+        "vtable": "0x8a20c90",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9510a00",
+        "vtable": "0x8a41238",
+        "geometry": [
+          8,
+          40,
+          456,
+          16
+        ]
+      },
+      {
+        "object": "0x950fec0",
+        "vtable": "0x8a41390",
+        "geometry": [
+          4,
+          178,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Swift Wind Tsl.",
+    "ancestors": [
+      {
+        "object": "0x9511e10",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9511cd0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          8,
+          20,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950fec0",
+        "vtable": "0x8a41390",
+        "geometry": [
+          4,
+          178,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Swift Wind Tsl.",
+    "ancestors": [
+      {
+        "object": "0x9512070",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9511f30",
+        "vtable": "0x8a22298",
+        "geometry": [
+          10,
+          8,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x950fec0",
+        "vtable": "0x8a41390",
+        "geometry": [
+          4,
+          178,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Back",
+    "ancestors": [
+      {
+        "object": "0x9e23e50",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23d10",
+        "vtable": "0x8a22298",
+        "geometry": [
+          22,
+          4,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23b30",
+        "vtable": "0x8a440b0",
+        "geometry": [
+          423,
+          244,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Left:  1",
+    "ancestors": [
+      {
+        "object": "0x95236f0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x95235b0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          6,
+          51,
+          18
+        ]
+      },
+      {
+        "object": "0x9522b70",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          328,
+          174,
+          57,
+          28
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "17/30",
+    "ancestors": [
+      {
+        "object": "0x94b38d0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3255042048,
+          0
+        ]
+      },
+      {
+        "object": "0x94b3790",
+        "vtable": "0x8a22298",
+        "geometry": [
+          452,
+          4,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Use Swift Wind Tsl.?",
+    "ancestors": [
+      {
+        "object": "0x9525210",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x95250d0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          10,
+          10,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9525cd0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          0,
+          0,
+          138,
+          54
+        ]
+      },
+      {
+        "object": "0x9524fc0",
+        "vtable": "0x8a216c0",
+        "geometry": [
+          171,
+          109,
+          138,
+          54
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Yes",
+    "ancestors": [
+      {
+        "object": "0x95289c0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9528880",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          20,
+          16
+        ]
+      },
+      {
+        "object": "0x9528770",
+        "vtable": "0x8a20170",
+        "geometry": [
+          41,
+          28,
+          20,
+          16
+        ]
+      },
+      {
+        "object": "0x9525cd0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          0,
+          0,
+          138,
+          54
+        ]
+      },
+      {
+        "object": "0x9524fc0",
+        "vtable": "0x8a216c0",
+        "geometry": [
+          171,
+          109,
+          138,
+          54
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "No",
+    "ancestors": [
+      {
+        "object": "0x9528d30",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1065353216,
+          0
+        ]
+      },
+      {
+        "object": "0x9528bf0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          20,
+          16
+        ]
+      },
+      {
+        "object": "0x9528ae0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          77,
+          28,
+          20,
+          16
+        ]
+      },
+      {
+        "object": "0x9525cd0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          0,
+          0,
+          138,
+          54
+        ]
+      },
+      {
+        "object": "0x9524fc0",
+        "vtable": "0x8a216c0",
+        "geometry": [
+          171,
+          109,
+          138,
+          54
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

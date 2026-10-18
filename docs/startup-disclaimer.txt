@@ -1,0 +1,22 @@
+Opening disclaimer — local build 0.2.23
+
+This story is entirely fictional.
+It has no connection to real people, places,
+organizations, product names, or the like.
+
+The warning is not an indexed script row. It is warning.ppt (member4) in
+the executable-embedded EZBIND at original file offset0x275230. The build
+replaces its 480x272 image lettering using Noto Sans14 with the original
+palette, retains the four logo members, and appends the rebuilt archive.
+Both native archive accessors are guarded and repointed. Their0x88000
+resource allocation and startup timing are unchanged. The original embedded
+archive stays intact; all other ELF bytes except pointers/segment sizes match.
+data.ore changes only the title footer version. All script payloads match0.2.22.
+
+Build/check tools: build_startup_disclaimer.py, build_iso.py,
+test_startup_disclaimer.py, capture_startup_disclaimer.py,
+record_startup_disclaimer_qa.py. Run dry-run modes before writes.
+The native framebuffer matches the English image mask exactly (IoU1.0).
+The subsequent title screen and delivered/tested ISO identity are verified.
+Evidence and layout: work/ui/startup-disclaimer-0.2.23/.
+Full-playthrough and real PSP testing remain pending. No GitHub release.

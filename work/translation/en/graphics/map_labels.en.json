@@ -1,0 +1,1094 @@
+{
+  "schema_version": 1,
+  "version": "0.2.10",
+  "language": "en",
+  "status": "draft",
+  "rows": [
+    {
+      "id": "map-mount-oe",
+      "translation_en": "Mount Oe",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "d14_wm_01_a.ppt",
+          "original_archive": "0x4bf6000",
+          "entry": 0,
+          "translation": "Mount Oe",
+          "rectangle": [
+            485,
+            3,
+            511,
+            80
+          ],
+          "font_pixels": 13.5,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "279.ppt",
+          "entry": 3,
+          "original_archive": "0x4eaf000",
+          "translation": "Mount Oe",
+          "rectangle": [
+            0,
+            0,
+            64,
+            192
+          ],
+          "font_pixels": 25.0,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "verified_selected_context_0.2.11",
+      "fit_evidence": [
+        "work/ui/destination-fixes-0.2.11/destination-enter.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-white-bone-castle",
+      "translation_en": "White Bone Castle",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "d14_wm_06_a.ppt",
+          "original_archive": "0x4bf6000",
+          "entry": 1,
+          "translation": "White Bone Castle",
+          "rectangle": [
+            199,
+            3,
+            253,
+            85
+          ],
+          "font_pixels": 12.5,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "278.ppt",
+          "entry": 2,
+          "original_archive": "0x4eaf000",
+          "translation": "White Bone Castle",
+          "rectangle": [
+            0,
+            0,
+            112,
+            176
+          ],
+          "font_pixels": 15.5,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "native_asset_preview_checked; runtime_pending",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/native-contact-sheet.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-soyokuin",
+      "translation_en": "Soyokuin",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "d14_wm_02_a.ppt",
+          "original_archive": "0x4c16800",
+          "entry": 1,
+          "translation": "Soyokuin",
+          "rectangle": [
+            213,
+            3,
+            254,
+            81
+          ],
+          "font_pixels": 15.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_02_b.ppt",
+          "original_archive": "0x4c56800",
+          "entry": 1,
+          "translation": "Soyokuin",
+          "rectangle": [
+            213,
+            3,
+            254,
+            81
+          ],
+          "font_pixels": 15.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_02_c.ppt",
+          "original_archive": "0x4c95000",
+          "entry": 1,
+          "translation": "Soyokuin",
+          "rectangle": [
+            213,
+            3,
+            254,
+            81
+          ],
+          "font_pixels": 15.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_02_d.ppt",
+          "original_archive": "0x4cd4000",
+          "entry": 1,
+          "translation": "Soyokuin",
+          "rectangle": [
+            213,
+            3,
+            254,
+            81
+          ],
+          "font_pixels": 15.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_02_a.ppt",
+          "original_archive": "0x4d15800",
+          "entry": 1,
+          "translation": "Soyokuin",
+          "rectangle": [
+            213,
+            3,
+            254,
+            81
+          ],
+          "font_pixels": 15.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_02_b.ppt",
+          "original_archive": "0x4d55800",
+          "entry": 1,
+          "translation": "Soyokuin",
+          "rectangle": [
+            213,
+            3,
+            254,
+            81
+          ],
+          "font_pixels": 15.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_02_c.ppt",
+          "original_archive": "0x4d94000",
+          "entry": 1,
+          "translation": "Soyokuin",
+          "rectangle": [
+            213,
+            3,
+            254,
+            81
+          ],
+          "font_pixels": 15.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_02_d.ppt",
+          "original_archive": "0x4dd3000",
+          "entry": 1,
+          "translation": "Soyokuin",
+          "rectangle": [
+            213,
+            3,
+            254,
+            81
+          ],
+          "font_pixels": 15.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "276.ppt",
+          "entry": 0,
+          "original_archive": "0x4eaf000",
+          "translation": "Soyokuin",
+          "rectangle": [
+            0,
+            0,
+            64,
+            184
+          ],
+          "font_pixels": 25.0,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "verified_selected_context_0.2.10",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/final-kyoto.png",
+        "work/ui/map-fixes-0.2.10/final-soyokuin.png",
+        "work/ui/map-fixes-0.2.10/final-overview.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-kujuro",
+      "translation_en": "Kujuro",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "d14_wm_03_a.ppt",
+          "original_archive": "0x4c16800",
+          "entry": 2,
+          "translation": "Kujuro",
+          "rectangle": [
+            99,
+            3,
+            126,
+            83
+          ],
+          "font_pixels": 15.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_03_b.ppt",
+          "original_archive": "0x4c56800",
+          "entry": 2,
+          "translation": "Kujuro",
+          "rectangle": [
+            99,
+            3,
+            126,
+            83
+          ],
+          "font_pixels": 15.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_03_c.ppt",
+          "original_archive": "0x4c95000",
+          "entry": 2,
+          "translation": "Kujuro",
+          "rectangle": [
+            99,
+            3,
+            126,
+            83
+          ],
+          "font_pixels": 15.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_03_d.ppt",
+          "original_archive": "0x4cd4000",
+          "entry": 2,
+          "translation": "Kujuro",
+          "rectangle": [
+            99,
+            3,
+            126,
+            83
+          ],
+          "font_pixels": 15.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_03_a.ppt",
+          "original_archive": "0x4d15800",
+          "entry": 2,
+          "translation": "Kujuro",
+          "rectangle": [
+            99,
+            3,
+            126,
+            83
+          ],
+          "font_pixels": 15.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_03_b.ppt",
+          "original_archive": "0x4d55800",
+          "entry": 2,
+          "translation": "Kujuro",
+          "rectangle": [
+            99,
+            3,
+            126,
+            83
+          ],
+          "font_pixels": 15.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_03_c.ppt",
+          "original_archive": "0x4d94000",
+          "entry": 2,
+          "translation": "Kujuro",
+          "rectangle": [
+            99,
+            3,
+            126,
+            83
+          ],
+          "font_pixels": 15.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_03_d.ppt",
+          "original_archive": "0x4dd3000",
+          "entry": 2,
+          "translation": "Kujuro",
+          "rectangle": [
+            99,
+            3,
+            126,
+            83
+          ],
+          "font_pixels": 15.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "277.ppt",
+          "entry": 1,
+          "original_archive": "0x4eaf000",
+          "translation": "Kujuro",
+          "rectangle": [
+            0,
+            0,
+            64,
+            160
+          ],
+          "font_pixels": 25.0,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "verified_selected_context_0.2.10",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/final-kyoto.png",
+        "work/ui/map-fixes-0.2.10/final-soyokuin.png",
+        "work/ui/map-fixes-0.2.10/final-overview.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-torii-senmangu",
+      "translation_en": "Torii Senmangu",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "d14_wm_04_a.ppt",
+          "original_archive": "0x4c16800",
+          "entry": 3,
+          "translation": "Torii Senmangu",
+          "rectangle": [
+            223,
+            5,
+            254,
+            181
+          ],
+          "font_pixels": 18.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_04_b.ppt",
+          "original_archive": "0x4c56800",
+          "entry": 3,
+          "translation": "Torii Senmangu",
+          "rectangle": [
+            223,
+            5,
+            254,
+            181
+          ],
+          "font_pixels": 18.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_04_c.ppt",
+          "original_archive": "0x4c95000",
+          "entry": 3,
+          "translation": "Torii Senmangu",
+          "rectangle": [
+            223,
+            5,
+            254,
+            181
+          ],
+          "font_pixels": 18.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_04_d.ppt",
+          "original_archive": "0x4cd4000",
+          "entry": 3,
+          "translation": "Torii Senmangu",
+          "rectangle": [
+            223,
+            5,
+            254,
+            181
+          ],
+          "font_pixels": 18.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_04_a.ppt",
+          "original_archive": "0x4d15800",
+          "entry": 3,
+          "translation": "Torii Senmangu",
+          "rectangle": [
+            223,
+            5,
+            254,
+            181
+          ],
+          "font_pixels": 18.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_04_b.ppt",
+          "original_archive": "0x4d55800",
+          "entry": 3,
+          "translation": "Torii Senmangu",
+          "rectangle": [
+            223,
+            5,
+            254,
+            181
+          ],
+          "font_pixels": 18.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_04_c.ppt",
+          "original_archive": "0x4d94000",
+          "entry": 3,
+          "translation": "Torii Senmangu",
+          "rectangle": [
+            223,
+            5,
+            254,
+            181
+          ],
+          "font_pixels": 18.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_04_d.ppt",
+          "original_archive": "0x4dd3000",
+          "entry": 3,
+          "translation": "Torii Senmangu",
+          "rectangle": [
+            223,
+            5,
+            254,
+            181
+          ],
+          "font_pixels": 18.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "284.ppt",
+          "entry": 8,
+          "original_archive": "0x4eaf000",
+          "translation": "Torii Senmangu",
+          "rectangle": [
+            0,
+            0,
+            64,
+            232
+          ],
+          "font_pixels": 24.5,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "verified_selected_context_0.2.10",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/final-kyoto.png",
+        "work/ui/map-fixes-0.2.10/final-soyokuin.png",
+        "work/ui/map-fixes-0.2.10/final-overview.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-boga-aqueduct",
+      "translation_en": "Boga Aqueduct",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "d14_wm_05_a.ppt",
+          "original_archive": "0x4c16800",
+          "entry": 4,
+          "translation": "Boga Aqueduct",
+          "rectangle": [
+            218,
+            3,
+            254,
+            117
+          ],
+          "font_pixels": 14.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_05_b.ppt",
+          "original_archive": "0x4c56800",
+          "entry": 4,
+          "translation": "Boga Aqueduct",
+          "rectangle": [
+            218,
+            3,
+            254,
+            117
+          ],
+          "font_pixels": 14.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_05_c.ppt",
+          "original_archive": "0x4c95000",
+          "entry": 4,
+          "translation": "Boga Aqueduct",
+          "rectangle": [
+            218,
+            3,
+            254,
+            117
+          ],
+          "font_pixels": 14.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_05_d.ppt",
+          "original_archive": "0x4cd4000",
+          "entry": 4,
+          "translation": "Boga Aqueduct",
+          "rectangle": [
+            218,
+            3,
+            254,
+            117
+          ],
+          "font_pixels": 14.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_05_a.ppt",
+          "original_archive": "0x4d15800",
+          "entry": 4,
+          "translation": "Boga Aqueduct",
+          "rectangle": [
+            218,
+            3,
+            254,
+            117
+          ],
+          "font_pixels": 14.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_05_b.ppt",
+          "original_archive": "0x4d55800",
+          "entry": 4,
+          "translation": "Boga Aqueduct",
+          "rectangle": [
+            218,
+            3,
+            254,
+            117
+          ],
+          "font_pixels": 14.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_05_c.ppt",
+          "original_archive": "0x4d94000",
+          "entry": 4,
+          "translation": "Boga Aqueduct",
+          "rectangle": [
+            218,
+            3,
+            254,
+            117
+          ],
+          "font_pixels": 14.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_05_d.ppt",
+          "original_archive": "0x4dd3000",
+          "entry": 4,
+          "translation": "Boga Aqueduct",
+          "rectangle": [
+            218,
+            3,
+            254,
+            117
+          ],
+          "font_pixels": 14.0,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "283.ppt",
+          "entry": 7,
+          "original_archive": "0x4eaf000",
+          "translation": "Boga Aqueduct",
+          "rectangle": [
+            0,
+            0,
+            80,
+            232
+          ],
+          "font_pixels": 24.75,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "native_asset_preview_checked; runtime_pending",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/native-contact-sheet.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-crimson-flame-shrine",
+      "translation_en": "Crimson Flame Shrine",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "d14_wm_07_a.ppt",
+          "original_archive": "0x4c16800",
+          "entry": 5,
+          "translation": "Crimson Flame Shrine",
+          "rectangle": [
+            221,
+            4,
+            254,
+            112
+          ],
+          "font_pixels": 10.75,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_07_b.ppt",
+          "original_archive": "0x4c56800",
+          "entry": 5,
+          "translation": "Crimson Flame Shrine",
+          "rectangle": [
+            221,
+            4,
+            254,
+            112
+          ],
+          "font_pixels": 10.75,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_07_c.ppt",
+          "original_archive": "0x4c95000",
+          "entry": 5,
+          "translation": "Crimson Flame Shrine",
+          "rectangle": [
+            221,
+            4,
+            254,
+            112
+          ],
+          "font_pixels": 10.75,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_07_d.ppt",
+          "original_archive": "0x4cd4000",
+          "entry": 5,
+          "translation": "Crimson Flame Shrine",
+          "rectangle": [
+            221,
+            4,
+            254,
+            112
+          ],
+          "font_pixels": 10.75,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_07_a.ppt",
+          "original_archive": "0x4d15800",
+          "entry": 5,
+          "translation": "Crimson Flame Shrine",
+          "rectangle": [
+            221,
+            4,
+            254,
+            112
+          ],
+          "font_pixels": 10.75,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_07_b.ppt",
+          "original_archive": "0x4d55800",
+          "entry": 5,
+          "translation": "Crimson Flame Shrine",
+          "rectangle": [
+            221,
+            4,
+            254,
+            112
+          ],
+          "font_pixels": 10.75,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_07_c.ppt",
+          "original_archive": "0x4d94000",
+          "entry": 5,
+          "translation": "Crimson Flame Shrine",
+          "rectangle": [
+            221,
+            4,
+            254,
+            112
+          ],
+          "font_pixels": 10.75,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_07_d.ppt",
+          "original_archive": "0x4dd3000",
+          "entry": 5,
+          "translation": "Crimson Flame Shrine",
+          "rectangle": [
+            221,
+            4,
+            254,
+            112
+          ],
+          "font_pixels": 10.75,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "280.ppt",
+          "entry": 4,
+          "original_archive": "0x4eaf000",
+          "translation": "Crimson Flame Shrine",
+          "rectangle": [
+            0,
+            0,
+            80,
+            208
+          ],
+          "font_pixels": 15.5,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "native_asset_preview_checked; runtime_pending",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/native-contact-sheet.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-royal-requiem-tomb",
+      "translation_en": "Royal Requiem Tomb",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "d14_wm_08_a.ppt",
+          "original_archive": "0x4c16800",
+          "entry": 6,
+          "translation": "Royal Requiem Tomb",
+          "rectangle": [
+            223,
+            3,
+            255,
+            103
+          ],
+          "font_pixels": 10.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_08_b.ppt",
+          "original_archive": "0x4c56800",
+          "entry": 6,
+          "translation": "Royal Requiem Tomb",
+          "rectangle": [
+            223,
+            3,
+            255,
+            103
+          ],
+          "font_pixels": 10.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_08_c.ppt",
+          "original_archive": "0x4c95000",
+          "entry": 6,
+          "translation": "Royal Requiem Tomb",
+          "rectangle": [
+            223,
+            3,
+            255,
+            103
+          ],
+          "font_pixels": 10.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_08_d.ppt",
+          "original_archive": "0x4cd4000",
+          "entry": 6,
+          "translation": "Royal Requiem Tomb",
+          "rectangle": [
+            223,
+            3,
+            255,
+            103
+          ],
+          "font_pixels": 10.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_08_a.ppt",
+          "original_archive": "0x4d15800",
+          "entry": 6,
+          "translation": "Royal Requiem Tomb",
+          "rectangle": [
+            223,
+            3,
+            255,
+            103
+          ],
+          "font_pixels": 10.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_08_b.ppt",
+          "original_archive": "0x4d55800",
+          "entry": 6,
+          "translation": "Royal Requiem Tomb",
+          "rectangle": [
+            223,
+            3,
+            255,
+            103
+          ],
+          "font_pixels": 10.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_08_c.ppt",
+          "original_archive": "0x4d94000",
+          "entry": 6,
+          "translation": "Royal Requiem Tomb",
+          "rectangle": [
+            223,
+            3,
+            255,
+            103
+          ],
+          "font_pixels": 10.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "d14_wm_08_d.ppt",
+          "original_archive": "0x4dd3000",
+          "entry": 6,
+          "translation": "Royal Requiem Tomb",
+          "rectangle": [
+            223,
+            3,
+            255,
+            103
+          ],
+          "font_pixels": 10.25,
+          "kind": "map_sign"
+        },
+        {
+          "asset": "282.ppt",
+          "entry": 6,
+          "original_archive": "0x4eaf000",
+          "translation": "Royal Requiem Tomb",
+          "rectangle": [
+            0,
+            0,
+            80,
+            232
+          ],
+          "font_pixels": 18.75,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "native_asset_preview_checked; runtime_pending",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/native-contact-sheet.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-compass",
+      "translation_en": "KYO / N / E / S / W",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "d14_wm_0a_a.ppt",
+          "original_archive": "0x4c16800",
+          "entry": 7,
+          "translation": "KYO / N / E / S / W",
+          "rectangle": [
+            190,
+            193,
+            253,
+            256
+          ],
+          "kind": "compass"
+        },
+        {
+          "asset": "d14_wm_0a_b.ppt",
+          "original_archive": "0x4c56800",
+          "entry": 7,
+          "translation": "KYO / N / E / S / W",
+          "rectangle": [
+            190,
+            193,
+            253,
+            256
+          ],
+          "kind": "compass"
+        },
+        {
+          "asset": "d14_wm_0a_c.ppt",
+          "original_archive": "0x4c95000",
+          "entry": 7,
+          "translation": "KYO / N / E / S / W",
+          "rectangle": [
+            190,
+            193,
+            253,
+            256
+          ],
+          "kind": "compass"
+        },
+        {
+          "asset": "d14_wm_0a_d.ppt",
+          "original_archive": "0x4cd4000",
+          "entry": 7,
+          "translation": "KYO / N / E / S / W",
+          "rectangle": [
+            190,
+            193,
+            253,
+            256
+          ],
+          "kind": "compass"
+        },
+        {
+          "asset": "d14_wm_0a_a.ppt",
+          "original_archive": "0x4d15800",
+          "entry": 7,
+          "translation": "KYO / N / E / S / W",
+          "rectangle": [
+            190,
+            193,
+            253,
+            256
+          ],
+          "kind": "compass"
+        },
+        {
+          "asset": "d14_wm_0a_b.ppt",
+          "original_archive": "0x4d55800",
+          "entry": 7,
+          "translation": "KYO / N / E / S / W",
+          "rectangle": [
+            190,
+            193,
+            253,
+            256
+          ],
+          "kind": "compass"
+        },
+        {
+          "asset": "d14_wm_0a_c.ppt",
+          "original_archive": "0x4d94000",
+          "entry": 7,
+          "translation": "KYO / N / E / S / W",
+          "rectangle": [
+            190,
+            193,
+            253,
+            256
+          ],
+          "kind": "compass"
+        },
+        {
+          "asset": "d14_wm_0a_d.ppt",
+          "original_archive": "0x4dd3000",
+          "entry": 7,
+          "translation": "KYO / N / E / S / W",
+          "rectangle": [
+            190,
+            193,
+            253,
+            256
+          ],
+          "kind": "compass"
+        }
+      ],
+      "fit_status": "verified_selected_context_0.2.10",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/final-kyoto.png",
+        "work/ui/map-fixes-0.2.10/final-soyokuin.png",
+        "work/ui/map-fixes-0.2.10/final-overview.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-tour-of-hell",
+      "translation_en": "Tour of Hell",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "281.ppt",
+          "entry": 5,
+          "original_archive": "0x4eaf000",
+          "translation": "Tour of Hell",
+          "rectangle": [
+            0,
+            0,
+            64,
+            200
+          ],
+          "font_pixels": 25.0,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "native_asset_preview_checked; runtime_pending",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/native-contact-sheet.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    },
+    {
+      "id": "map-kyoto",
+      "translation_en": "Kyoto",
+      "status": "draft",
+      "assets": [
+        {
+          "asset": "285.ppt",
+          "entry": 9,
+          "original_archive": "0x4eaf000",
+          "translation": "Kyoto",
+          "rectangle": [
+            109,
+            27,
+            176,
+            192
+          ],
+          "font_pixels": 27.0,
+          "kind": "destination_banner"
+        }
+      ],
+      "fit_status": "verified_selected_context_0.2.10",
+      "fit_evidence": [
+        "work/ui/map-fixes-0.2.10/final-kyoto.png",
+        "work/ui/map-fixes-0.2.10/final-soyokuin.png",
+        "work/ui/map-fixes-0.2.10/final-overview.png"
+      ],
+      "context": "Overworld signs and selected destination. Map copies use the same glossary spelling across both sets and all seasons."
+    }
+  ]
+}

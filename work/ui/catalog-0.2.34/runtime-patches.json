@@ -1,0 +1,12 @@
+{
+  "version": "0.2.34",
+  "result": "PASS",
+  "elf_sha256": "81ecabe4a711085e0aa9ab23e87afa1153fda66c226b836380f4686c846ce737",
+  "archive_sha256": "34ce60c416a63d8a3240189eaf63ab786d132fd89e3d7f979e30b107998ef443",
+  "instruction_patches_verified": 27,
+  "adapters_verified": 2,
+  "tab_width_verified": 60,
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

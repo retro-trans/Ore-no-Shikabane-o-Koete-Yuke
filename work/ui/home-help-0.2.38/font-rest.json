@@ -1,0 +1,97 @@
+{
+  "version": "0.2.38",
+  "context": "rest",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Rest for one month to restore everyone's Health.",
+    "You cannot go on a sortie or perform Divine Union."
+  ],
+  "objects": [
+    {
+      "text": "Rest for one month to restore everyone's Health.",
+      "atlas": "0x9b5c010",
+      "glyphs": 48,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "You cannot go on a sortie or perform Divine Union.",
+      "atlas": "0x9b5c010",
+      "glyphs": 50,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Clan",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Sortie",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Divine Union",
+      "atlas": "0x9b5c010",
+      "glyphs": 12,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Items",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Rebuild",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Facilities",
+      "atlas": "0x9b5c010",
+      "glyphs": 10,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Buy / Sell",
+      "atlas": "0x9b5c010",
+      "glyphs": 10,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Chronicle",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Help",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "SAVE",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Settings",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Rest",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "version": "0.2.19",
+  "language": "en",
+  "status": "draft",
+  "rows": [
+    {
+      "file": "223.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 16,
+      "translation_en": "BUY / SELL",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        48,
+        112
+      ],
+      "fit_status": "verified_selected_context_0.2.19",
+      "fit_evidence": "work/ui/shop-layout-0.2.19/body-after.png"
+    },
+    {
+      "file": "109.ppt",
+      "archive_offset": 221184,
+      "member_entry": 12,
+      "translation_en": "ATK",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.19",
+      "fit_evidence": "work/ui/shop-layout-0.2.19/body-detailed.png"
+    },
+    {
+      "file": "110.ppt",
+      "archive_offset": 221184,
+      "member_entry": 14,
+      "translation_en": "DEF",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.19",
+      "fit_evidence": "work/ui/shop-layout-0.2.19/body-detailed.png"
+    },
+    {
+      "file": "111.ppt",
+      "archive_offset": 221184,
+      "member_entry": 15,
+      "translation_en": "AGI",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.19",
+      "fit_evidence": "work/ui/shop-layout-0.2.19/body-detailed.png"
+    }
+  ]
+}

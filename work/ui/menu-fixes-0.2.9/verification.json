@@ -1,0 +1,112 @@
+{
+  "version": "0.2.9",
+  "review": "Selected four requested screens visually reviewed; not full-game approval.",
+  "capture_method": "Actual guest display buffers; isolated PPSSPP profile, software backend.",
+  "texture_replacement": false,
+  "iso": "work/output/english-native-0.2.9.iso",
+  "iso_bytes": 1080086528,
+  "elf_sha256": "78edad152ec75fcf17b9fc6445afa0b3616107f0935276ebeb67458e5c9bdec8",
+  "archive_sha256": "3999a61344b47e1699ef4bfd90ad641a056fef3b90b4eabfd22e68d1423c95fe",
+  "cases": [
+    {
+      "request": 1,
+      "result": "pass",
+      "wording": "\"Sasara no Oen\"?\nIs that your choice?",
+      "explanation": "The old 64-byte runtime buffer cut off choice. The 256-byte allocation and formatter preserve the complete question; the popup measures its text.",
+      "screenshot": "deity-confirm.png"
+    },
+    {
+      "request": 2,
+      "result": "pass",
+      "box": [
+        162,
+        82,
+        156,
+        108
+      ],
+      "cell_width": 112,
+      "explanation": "All five labels fit. Best Equipment selected; full highlight remains inside the wider window.",
+      "screenshot": "character-best-equipment.png"
+    },
+    {
+      "request": 3,
+      "result": "pass",
+      "box": [
+        50,
+        64,
+        312,
+        90
+      ],
+      "cell_width": 96,
+      "explanation": "Twelve entries occupy three distinct columns. The draw key keeps the window above both the umbrella and SAVE poses.",
+      "screenshots": [
+        "home-menu.png",
+        "home-facilities.png",
+        "home-save.png"
+      ]
+    },
+    {
+      "request": 4,
+      "result": "pass",
+      "box": [
+        122,
+        165,
+        268,
+        54
+      ],
+      "cell_width": 248,
+      "explanation": "Family Photo and Portrait Studio native artwork translated. Both complete choices and their highlights fit below the banner heading.",
+      "screenshots": [
+        "portrait-studio.png",
+        "portrait-studio-long-choice.png"
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "work/ui/menu-fixes-0.2.9/deity-confirm.png",
+      "sha256": "4354e1a1ed550928aec5bb948321971b329d71e207260296676eec2ce15b0014"
+    },
+    {
+      "file": "work/ui/menu-fixes-0.2.9/character-menu.png",
+      "sha256": "cf9322d0ce0ea7a0c10ee2c01097d11ba3b8590bb93a2a0594e9976882715951"
+    },
+    {
+      "file": "work/ui/menu-fixes-0.2.9/character-best-equipment.png",
+      "sha256": "e1b7ddb6d5695048ab1d325413f72f88b0c108cda423f772dc708bc905f306ef"
+    },
+    {
+      "file": "work/ui/menu-fixes-0.2.9/home-menu.png",
+      "sha256": "0004a7f4b7ce6cae2a2e40c6e46b72c200b3e7e8c2ebc6f4039a06fdd82cb44f"
+    },
+    {
+      "file": "work/ui/menu-fixes-0.2.9/home-facilities.png",
+      "sha256": "84508db2e8a3881f7bf17ee780107d8d016457c1c777ca30e7d8248486ea362f"
+    },
+    {
+      "file": "work/ui/menu-fixes-0.2.9/home-save.png",
+      "sha256": "0f633d6578f03de60229f1c1300125f5c58c3c24ccc7c2209db430959c41cc22"
+    },
+    {
+      "file": "work/ui/menu-fixes-0.2.9/portrait-studio.png",
+      "sha256": "f1c5c447493bba971adb0c9b07b6d5200fd474ac4787112557759038a27487fe"
+    },
+    {
+      "file": "work/ui/menu-fixes-0.2.9/portrait-studio-long-choice.png",
+      "sha256": "9948154259104b823d27c33d8dcbdc4b0ff8296f002a6bfc89716b98a0d16cd4"
+    },
+    {
+      "file": "work/ui/menu-fixes-0.2.9/final-title.png",
+      "sha256": "5e002523d9113e82c475d792cbe3be7195ca4641065b076da29fa24483c45680"
+    }
+  ],
+  "checks": [
+    "ISO directory and replacement hashes",
+    "Unrelated archive payloads/members byte-identical",
+    "Actual MIPS stack/register preservation and contextual studio positioning",
+    "All 49 translation batches pass"
+  ],
+  "limitations": [
+    "Selected runtime name and menu contexts only; broad gameplay and real PSP testing remain pending."
+  ]
+}

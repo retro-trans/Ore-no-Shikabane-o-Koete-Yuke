@@ -1,0 +1,19 @@
+Six reported screens — local build 0.2.27
+
+Battle results: Points Earned, separate Victory/Offering Points totals,
+Next Growth above the portrait bars, Free Slots and spaced item units.
+Pause/schedule: Money and ryo are native ASCII literals. Count units have
+a space. Now: and Mo. %d: fit the right-aligned schedule date field.
+Formation: Press Circle to change / front and back rows. Two complete
+lines fit the original popup; original controls and row identity remain.
+Equipment: name/gender y88, age y108, class y128; band height64. Comparison
+stats begin y156. Compact Naginata is confined to the class dictionary.
+Potential: original full-size Spirit/Skill/Body at x2; icons x36; bars x54
+(maximum84, right edge138 inside142). Grid moves nine logical pixels right.
+Duplicate background words are removed; the header and frame stay intact.
+
+The native 4x Noto Sans font and prior 83 HD assets are retained. Source
+row IDs/tokens and unrelated archive members/executable bytes match0.2.26.
+Evidence: work/ui/six-screens-0.2.27/verification.json.
+Start the ISO normally; an older save state restores older executable code.
+Full-playthrough and physical PSP testing remain pending. No GitHub release.

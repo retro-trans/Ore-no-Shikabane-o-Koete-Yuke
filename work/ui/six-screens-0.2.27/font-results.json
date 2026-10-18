@@ -1,0 +1,141 @@
+{
+  "version": "0.2.27",
+  "context": "results",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Next Growth",
+    "Points Earned",
+    "Free Slots",
+    " items"
+  ],
+  "objects": [
+    {
+      "text": "Next Growth",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Hayate",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "8",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Next Growth",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Kirara",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "8",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Points Earned",
+      "atlas": "0x9b5c010",
+      "glyphs": 13,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Spoils",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Free Slots",
+      "atlas": "0x9b5c010",
+      "glyphs": 10,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Money",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Victory Points",
+      "atlas": "0x9b5c010",
+      "glyphs": 14,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Offering Points",
+      "atlas": "0x9b5c010",
+      "glyphs": 15,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "6",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "6",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "12",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": " items",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "1000 ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "2 ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Speed Up",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Next",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

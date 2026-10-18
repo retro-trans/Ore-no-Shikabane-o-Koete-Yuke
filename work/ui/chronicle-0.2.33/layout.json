@@ -1,0 +1,173 @@
+{
+  "version": "0.2.33",
+  "source_version": "0.2.32",
+  "elf_sha256": "83677056891403cf743bfef2133b6b1ef3cb9805a9c5f0720ade20b15a40dabb",
+  "archive_sha256": "91674c37ee5f284e85371e489b950cd814ed6f933ecddcc69d39571769b4d28a",
+  "elf_bytes": 4864594,
+  "archive_bytes": 228272128,
+  "patches": [
+    {
+      "address": "0x891900c",
+      "before": "0x3c0508a4",
+      "after": "0x3c0509cc",
+      "purpose": "Relocated English Chronicle heading: high pointer"
+    },
+    {
+      "address": "0x8919014",
+      "before": "0x24a5ef80",
+      "after": "0x24a5ba20",
+      "purpose": "Relocated English Chronicle heading: low pointer"
+    },
+    {
+      "address": "0x891903c",
+      "before": "0x3c0508a4",
+      "after": "0x3c0509cc",
+      "purpose": "Relocated English Chronicle heading: high pointer"
+    },
+    {
+      "address": "0x8919040",
+      "before": "0x24a5ef98",
+      "after": "0x24a5ba40",
+      "purpose": "Relocated English Chronicle heading: low pointer"
+    },
+    {
+      "address": "0x891b73c",
+      "before": "0x24050020",
+      "after": "0x24050008",
+      "purpose": "Year Start label at x8, clear of L icon at x88 and heading at x96"
+    }
+  ],
+  "literals": [
+    {
+      "context": "Chronicle unknown month",
+      "original_address": "0x8a3ef80",
+      "address": "0x9cbba20",
+      "translation_en": "Events: %4d / %s",
+      "placeholders": [
+        "%4d",
+        "%s"
+      ]
+    },
+    {
+      "context": "Chronicle numbered month",
+      "original_address": "0x8a3ef98",
+      "address": "0x9cbba40",
+      "translation_en": "Events: %4d / %2d",
+      "placeholders": [
+        "%4d",
+        "%2d"
+      ]
+    }
+  ],
+  "text_edits": [
+    {
+      "id": "ore:0000c000:0013:00:0066",
+      "old": "@Start of the Year",
+      "translation_en": "@Year Start",
+      "width_at_size12": 56.57142857142857,
+      "width_budget": 68
+    },
+    {
+      "id": "ore:0000c000:0013:00:0068",
+      "old": "@Last Month",
+      "translation_en": "@Prev",
+      "width_at_size12": 26.571428571428573,
+      "width_budget": 36
+    },
+    {
+      "id": "ore:0000c000:0013:00:0069",
+      "old": "@Next Month",
+      "translation_en": "@Next",
+      "width_at_size12": 27.428571428571427,
+      "width_budget": 44
+    }
+  ],
+  "layout": {
+    "heading": [
+      96,
+      8,
+      288,
+      32
+    ],
+    "year_start": [
+      8,
+      8
+    ],
+    "next_year": [
+      400,
+      8
+    ],
+    "prev_month": [
+      8,
+      128
+    ],
+    "next_month": [
+      424,
+      128
+    ],
+    "year_icons": [
+      [
+        88,
+        24
+      ],
+      [
+        392,
+        24
+      ]
+    ],
+    "month_icons": [
+      [
+        56,
+        144
+      ],
+      [
+        424,
+        144
+      ]
+    ]
+  },
+  "footer": {
+    "rows": [
+      {
+        "text": "v0.2.33",
+        "right": 474,
+        "top": 223,
+        "font_size": 14,
+        "bounds": [
+          426.5,
+          222.0,
+          475.0,
+          234.75
+        ]
+      },
+      {
+        "text": "github.com/retro-trans",
+        "right": 474,
+        "top": 241,
+        "font_size": 12,
+        "bounds": [
+          342.5,
+          240.0,
+          475.0,
+          253.75
+        ]
+      }
+    ],
+    "atlas_screen_origin": [
+      0,
+      201
+    ],
+    "copyright_exact": true
+  },
+  "checks": {
+    "calendar_math_and_record_lookup": "Byte-identical",
+    "unknown_month_marker": "Preserved",
+    "placeholder_types_and_order": "Preserved",
+    "history_event_rows": "Byte-identical",
+    "other_archive_members": "Byte-identical except title footer",
+    "renderer_icons_banners_and_profile_fix": "Byte-identical to 0.2.32",
+    "other_executable_bytes": "Only four format-pointer instructions, one label position and segment size change"
+  },
+  "texture_replacement": false,
+  "runtime_verification": "pending"
+}

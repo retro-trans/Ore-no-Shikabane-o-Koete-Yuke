@@ -1,0 +1,58 @@
+{
+  "version": "0.2.11",
+  "texture_replacement": false,
+  "font_raster_scale": 4,
+  "capture_method": "Actual guest framebuffer; isolated PPSSPP, software backend; final ISO",
+  "result": "PASS in Mount Oe destination context",
+  "screenshots": [
+    {
+      "file": "work/ui/destination-fixes-0.2.11/title.png",
+      "sha256": "19e6c4444ea0ac640ec6b548710edbda56259986e92fd758168c5f56e25e54ad"
+    },
+    {
+      "file": "work/ui/destination-fixes-0.2.11/destination-enter.png",
+      "sha256": "979f3b80f31a9195084be13bf31436e50ea4805344ed9dd32663779bfcad966c"
+    },
+    {
+      "file": "work/ui/destination-fixes-0.2.11/destination-records.png",
+      "sha256": "3335dbc7e599e690e0fadaf81569c018581852fd7ff277350d65b0e6b84aefe6"
+    },
+    {
+      "file": "work/ui/destination-fixes-0.2.11/destination-treasures.png",
+      "sha256": "a5400cd6036981012de935274362a3df2e57af5489b7a9f41285aecf7fcefd89"
+    }
+  ],
+  "translated_banner": "MOUNT OE; native 279.ppt from 0.2.10",
+  "menu": {
+    "labels": [
+      "Enter",
+      "Oni Records",
+      "Treasures"
+    ],
+    "cell_width": 88,
+    "columns": 3,
+    "bounds": [
+      79,
+      18,
+      322,
+      36
+    ],
+    "all_three_highlights": "verified",
+    "original_centering_and_navigation": "retained"
+  },
+  "visual_fit_record_ids": [
+    "ore:00027000:0001:00:0000",
+    "ore:00027000:0001:00:0001",
+    "ore:00027000:0001:00:0002"
+  ],
+  "elf_sha256": "6a6b02d210799497bd6ec02f0c6fb5d84bf49891e0fd1e2d9f1c8eb6c47efb25",
+  "archive_sha256": "a6245ab3836fbea5c0a5e40de6349a06f7dc6cdcfcaeb1de3b0fcc516d7ee46f",
+  "checks": {
+    "executable_diff": "One guarded 16-bit data field; code unchanged",
+    "unrelated_archive_payloads": "byte-identical",
+    "unrelated_title_members": "byte-identical",
+    "prior_map_labels_font_and_menu_fixes": "preserved",
+    "compression_round_trip": "pass"
+  },
+  "limitations": "Selected destination context only; full gameplay and real PSP testing remain pending."
+}

@@ -1,0 +1,59 @@
+Setup UI corrections — 0.2.8
+
+User reports: family-name instruction overflow; Japanese name-entry controls,
+label and confirmation; birth-date cursor inside the era name; old-font
+percentage values. These are layout/resource/rendering fixes to the draft.
+
+1. Kept the family-name instruction's three lines and kanji requirement,
+   shortening its third line after observing the actual 278-pixel text area.
+   Removed redundant (Male)/(Female) parentheses from Japanese Lad / Japanese
+   Maiden. The question already states both genders; shorter labels clear the
+   edge of the screen when the unselected character leaves.
+2. The earlier catalog searched EZBIND members, missing standalone root MLT
+   payload 27 at original offset 0x003B9800. Its 14 UI records are translated
+   in work/translation/en/name_entry/prompts.en.json. The 1,735 original
+   Japanese random-name choices remain player-name data. The original
+   three-character input limit is retained. This corrects the scope of the
+   earlier indexed-text draft coverage claim; it is not full-game approval.
+3. Name-entry labels use Input / Auto / OK, Family name / Given name, and
+   English confirmation/error prose. Runtime player names are preserved.
+4. The stored birthday was already Gregorian. The original renderer converted
+   it to an era year, while its cursor addressed the Japanese string's fixed
+   character positions. All four date templates now format YYYY/MM/DD; the
+   formatter receives the stored Gregorian year. Cursor fields use inclusive
+   character ranges 0..3, 5..6 and 8..9 through the original glyph-bound API.
+   Native patches: 0x08970704, 0x08970714, 0x089708BC, 0x08970728. A 24-byte
+   tail wrapper is appended at 0x09B7D4B0; segment padding adds four more bytes.
+   No date storage, validation, input limits or save format is changed.
+5. Full-width percent signs forced whole value strings into the old font
+   fallback. Translations now use printf %% escapes, producing ASCII percent
+   glyphs accepted by the existing native 4x VWF selector. The token checker
+   allows this exact literal-percent conversion while preserving arguments,
+   controls and pre-existing percent escapes. Battle EXP leaves more space
+   before the numeric column. The formatter pads numbers with U+00A0; the
+   selector at 0x09B5C100 now accepts that padding and gives it the transparent
+   space UVs, preserving its code, advance and destination quad. The original
+   4x atlas and width table are unchanged. Mixed Japanese still uses fallback.
+
+Build: update/export translations, repack_text, build_title_cards --version
+0.2.8, build_title_branding --version 0.2.8 with that graphics archive, then
+build_setup_ui and build_iso using EBOOT.setup.elf and data.setup.ore.
+Inspect each tool's dry run before --write. Prior builds and source ISO remain
+unchanged. No GitHub release is authorized or created.
+
+Checks: all 49 core batches pass; the standalone builder checks all 14 new
+source identities, controls and line counts and preserves every name-pool
+record. test_setup_ui executes actual MIPS for all three cursor ranges and
+five Gregorian years, checks tail-call registers and percent-token guards.
+Runtime captures and measured UI evidence: work/ui/setup-fixes-0.2.8/.
+Real PSP verification and full-game visual review remain pending.
+
+Runtime results: family instruction/entry, family confirmation, given-name
+entry/confirmation and the shorter gender labels pass on the final candidate.
+Year/month/day highlights measure [199,126,33,20], [239,126,17,20], and
+[263,126,16,20] in the actual 480x272 captures. Incrementing the day changes
+1980/01/01 to 1980/01/02. Birthday confirmation shows the Gregorian date.
+Thorough-mode values 125%, padded 94%, and 125% all return native atlas
+0x09B5C010; all 12 glyph descriptors have matching native UVs. The observed
+non-breaking-space advance is 11 and remains unchanged. See
+percent-native-font.json and verification.json beside the screenshots.

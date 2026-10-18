@@ -1,0 +1,29 @@
+*.iso
+*.cso
+*.bin
+*.ore
+*.pmf
+*.elf
+*.prx
+*.at3
+*.mlb
+*.ppt
+*.vpk
+*.zip
+__pycache__/
+work/source/
+/Oreshika Tainted Bloodlines (USA)/
+work/translation/**
+!work/translation/**/
+!work/translation/**/*.en.json
+work/output/*
+!work/output/.gitkeep
+# Native screenshots, extracted icon artwork and incoming reports stay local.
+work/ui/**/*.png
+work/ui/**/*.txt
+incoming/*
+!incoming/noto-sans/
+incoming/noto-sans/*
+!incoming/noto-sans/NotoSans-Regular.ttf
+!incoming/noto-sans/LICENSE.txt
+!incoming/noto-sans/source.json

@@ -1,0 +1,256 @@
+{
+  "version": "0.2.29",
+  "result": "PASS: HP/MP/HLTH reference symbols verified in status/roster and compact HP/MP in battle",
+  "iso": {
+    "version": "0.2.29",
+    "file": "work/output/english-native-0.2.29.iso",
+    "bytes": 1081145344,
+    "sha256": "66cb88120993b7d180ba1b5b74321517ed66d75a934344b0d4e00c73e94a481b"
+  },
+  "screens": [
+    {
+      "file": "work/ui/vital-icons-0.2.29/title.png",
+      "sha256": "e2135818c4f5021fffe2ddd81624260eb07cb766a4581c45ec3d89707a7ea7f0"
+    },
+    {
+      "file": "work/ui/vital-icons-0.2.29/status.png",
+      "sha256": "d9bfb4a8b17ea4b5ab18fa41c25ec43ccdca92749470c8fc7c81a5a2d406ab47"
+    },
+    {
+      "file": "work/ui/vital-icons-0.2.29/roster.png",
+      "sha256": "2d180a2755a88882abb1e0b52a779ff0e1fd4a8b0153f79f72f392daff9a0717"
+    },
+    {
+      "file": "work/ui/vital-icons-0.2.29/battle.png",
+      "sha256": "853b50d5952e48437ceb8f4f4aece37cd4992995728836b3adbb34988d6acb98"
+    }
+  ],
+  "reference": {
+    "file": "incoming/vital-icons-reference.png",
+    "sha256": "0864dbb2a2cadeb3bd3f822f074b1336c5fc365d5fb3f78a8fa60cf80e0ac734",
+    "dimensions": [
+      960,
+      544
+    ],
+    "source": "User-provided Oreshika screenshot; exact symbol pixels reused"
+  },
+  "icons": [
+    {
+      "stat": "HP",
+      "file": "11.ppt",
+      "archive_offset": 221184,
+      "member_entry": 13,
+      "descriptor": "0x9b85b10",
+      "pixels": "0x9b85f50",
+      "palette": "0x9b85b40",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "47a736556ce50a0beb3e8c120ef82393188cfd451444c2bcbcc276252e240429"
+    },
+    {
+      "stat": "HP",
+      "file": "107.ppt",
+      "archive_offset": 221184,
+      "member_entry": 10,
+      "descriptor": "0x9b8c7d0",
+      "pixels": "0x9b8cc10",
+      "palette": "0x9b8c800",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "103588e36fb627b76812fbcf936e5b61a1dc7f9bbab759d02a759a29a4d927f1"
+    },
+    {
+      "stat": "MP",
+      "file": "12.ppt",
+      "archive_offset": 221184,
+      "member_entry": 24,
+      "descriptor": "0x9b87f50",
+      "pixels": "0x9b88390",
+      "palette": "0x9b87f80",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "63474c9e962012d8086768c8ee42218718aead4a08d3a50d92b0485e24eb695f"
+    },
+    {
+      "stat": "MP",
+      "file": "108.ppt",
+      "archive_offset": 221184,
+      "member_entry": 11,
+      "descriptor": "0x9b8ec10",
+      "pixels": "0x9b8f050",
+      "palette": "0x9b8ec40",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "8b6e29b2926c70a3438f17c9071b2e0e995abd9ef5aab711bc7c120a2da0cb45"
+    },
+    {
+      "stat": "HLTH",
+      "file": "13.ppt",
+      "archive_offset": 221184,
+      "member_entry": 35,
+      "descriptor": "0x9b8a390",
+      "pixels": "0x9b8a7d0",
+      "palette": "0x9b8a3c0",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "3982154c8c42c20391935090cfd6572db1e721fd2f70689c5b6add33600c16ce"
+    },
+    {
+      "stat": "HLTH",
+      "file": "113.ppt",
+      "archive_offset": 221184,
+      "member_entry": 17,
+      "descriptor": "0x9b9a150",
+      "pixels": "0x9b9a590",
+      "palette": "0x9b9a180",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "eb5c969e20edc30e3c90174b7426021d0bbf1d59f64ef96a69cf24533689dd72"
+    }
+  ],
+  "observed_files": [
+    "107.ppt",
+    "108.ppt",
+    "11.ppt",
+    "113.ppt",
+    "12.ppt"
+  ],
+  "all_six_payloads": "Native memory matches executable",
+  "mips": "PASS: 48 actual MIPS crop cases and 6 embedded descriptor proxies; HD logical sizing, full/cropped/nonzero rectangles, repeated updates, ribbon limits, untagged fallback and saved registers.",
+  "checks": {
+    "existing_code_and_descriptors": "Byte-identical",
+    "other_executable_bytes": "Only six embedded palettes/pixel payloads changed",
+    "archive_members": "Byte-identical except version footer",
+    "scripts_and_text_tables": "Byte-identical to 0.2.28",
+    "geometry": "Original 24x16 and32x16 logical bounds; symbol aspect preserved",
+    "native_renderer": "Existing hooks reused",
+    "previous_element_icons": "Byte-identical"
+  },
+  "texture_replacement": false,
+  "github_release": false,
+  "limits": [
+    "Source detail is limited by the supplied screenshot.",
+    "Compact HLTH (13.ppt) payload and bounds verified; this slot was not visible in the selected live contexts.",
+    "Full-playthrough and physical PSP testing remain pending."
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "version": "0.2.20",
+  "language": "en",
+  "status": "Draft; selected native runtime fit checked",
+  "rows": [
+    {
+      "file": "120.ppt",
+      "archive_offset": 221184,
+      "member_entry": 25,
+      "translation_en": "Head",
+      "preview": "native-00036000-0025.png",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "121.ppt",
+      "archive_offset": 221184,
+      "member_entry": 26,
+      "translation_en": "Leader",
+      "preview": "native-00036000-0026.png",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "122.ppt",
+      "archive_offset": 221184,
+      "member_entry": 27,
+      "translation_en": "Party",
+      "preview": "native-00036000-0027.png",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "128.ppt",
+      "archive_offset": 221184,
+      "member_entry": 33,
+      "translation_en": "WPN",
+      "preview": "native-00036000-0033.png",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        24,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "129.ppt",
+      "archive_offset": 221184,
+      "member_entry": 34,
+      "translation_en": "HEAD",
+      "preview": "native-00036000-0034.png",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        24,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "130.ppt",
+      "archive_offset": 221184,
+      "member_entry": 36,
+      "translation_en": "ARM",
+      "preview": "native-00036000-0036.png",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        24,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "131.ppt",
+      "archive_offset": 221184,
+      "member_entry": 37,
+      "translation_en": "ACC",
+      "preview": "native-00036000-0037.png",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        24,
+        16
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "134.ppt",
+      "archive_offset": 221184,
+      "member_entry": 40,
+      "translation_en": "EQUIPMENT",
+      "preview": "native-00036000-0040.png",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        48,
+        192
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "224.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 17,
+      "translation_en": "DIVINE UNION",
+      "preview": "native-00b4a800-0017.png",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        48,
+        192
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "S000.ppt",
+      "archive_offset": 7708672,
+      "member_entry": 0,
+      "translation_en": "MISSING",
+      "preview": "native-0075a000-0000.png",
+      "status": "draft",
+      "label_rectangle": [
+        48,
+        11,
+        80,
+        119
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    },
+    {
+      "file": "S000.ppt",
+      "archive_offset": 188532736,
+      "member_entry": 0,
+      "translation_en": "MISSING",
+      "preview": "native-0b3cc800-0000.png",
+      "status": "draft",
+      "label_rectangle": [
+        48,
+        11,
+        80,
+        119
+      ],
+      "fit_status": "verified_selected_context_0.2.20",
+      "fit_evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+    }
+  ]
+}

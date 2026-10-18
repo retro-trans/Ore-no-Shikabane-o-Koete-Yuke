@@ -1,0 +1,30 @@
+{
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "images": [
+    {
+      "widget": "0x9ce2120",
+      "descriptor": "0x995c4e0",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    }
+  ]
+}

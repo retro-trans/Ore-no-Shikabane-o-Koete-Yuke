@@ -1,0 +1,31 @@
+{
+  "version": "0.2.21",
+  "scope": "Compact spell requirement captions; Spirit and Skill follow core glossary",
+  "terms": [
+    {
+      "jp": "\u5fc3\u4fee\u5f97",
+      "en": "Spirit Req.",
+      "context": "Spirit stats required to learn the selected spell"
+    },
+    {
+      "jp": "\u5fc3\u73fe\u5728",
+      "en": "Spirit Now",
+      "context": "Current Spirit stats"
+    },
+    {
+      "jp": "\u6280\u4fee\u5f97",
+      "en": "Skill Req.",
+      "context": "Skill stats required to learn the selected spell"
+    },
+    {
+      "jp": "\u6280\u73fe\u5728",
+      "en": "Skill Now",
+      "context": "Current Skill stats"
+    },
+    {
+      "jp": "\u6280\u529b",
+      "en": "MP",
+      "context": "Magic points badge"
+    }
+  ]
+}

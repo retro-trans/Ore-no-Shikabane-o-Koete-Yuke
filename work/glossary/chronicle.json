@@ -1,0 +1,30 @@
+{
+  "version": "0.2.33",
+  "terms": [
+    {
+      "source_jp": "\u51fa\u6765\u4e8b",
+      "translation_en": "Events",
+      "context": "Chronicle date heading"
+    },
+    {
+      "source_jp": "\u5e74\u982d",
+      "translation_en": "Year Start",
+      "context": "Chronicle L navigation"
+    },
+    {
+      "source_jp": "\u7fcc\u5e74",
+      "translation_en": "Next Year",
+      "context": "Chronicle R navigation"
+    },
+    {
+      "source_jp": "\u5148\u6708",
+      "translation_en": "Prev",
+      "context": "Previous Chronicle month"
+    },
+    {
+      "source_jp": "\u7fcc\u6708",
+      "translation_en": "Next",
+      "context": "Next Chronicle month"
+    }
+  ]
+}

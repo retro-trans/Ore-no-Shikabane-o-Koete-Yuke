@@ -1,0 +1,2309 @@
+{
+  "schema_version": 1,
+  "version": "0.2.1",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "dialogue_slices": [
+    {
+      "file": "itsuka.mlb",
+      "start": 680,
+      "rows_in_slice": 80,
+      "rows_examined": 86,
+      "adjacent_context": "Rows 678-679 before and 760-763 after. Festival, shop-sale and tournament reports, followed by Mount Oe announcements."
+    },
+    {
+      "file": "itsuka.mlb",
+      "start": 713,
+      "rows_in_slice": 80,
+      "rows_examined": 82,
+      "adjacent_context": "Rows 711-712 before; row 792 is the end of the file, so no following rows exist. This final 80-row window overlaps the preceding window by 47 rows. The batch stores 113 unique translations, with 115 unique source rows examined."
+    }
+  ],
+  "dialogue_rows_examined_unique": 115,
+  "rows": [
+    {
+      "id": "ore:0000c000:0015:09:0094",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 94,
+      "text_offset": 49212,
+      "source_sha256": "2cc6647fcde19ba7664ebde95da4c2c494ac2ed144e21165ca6fad6abc3d1ac5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan's investments in Religion\nhave apparently caught the emperor's eye.\nNext month, a statue of happiness will be erected.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0095",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 95,
+      "text_offset": 49300,
+      "source_sha256": "21f62dbc2d9e099128bfc740e13e643228d14b12b935644239a99575e567a92a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's called\n\"Mii-chan, Bringer of Fortune to the %@ Clan.\"",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Mii-chan is the statue's affectionate name; this row does not explicitly identify the statue with a named story deity."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0096",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 96,
+      "text_offset": 49348,
+      "source_sha256": "7a03106f51f4654f82684c01b535e3265314929536a5c21a58d3ad4a0ae5e8bf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The things important people come up with\nare quite beyond someone like me.\nYes, quite beyond me...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0097",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 97,
+      "text_offset": 49430,
+      "source_sha256": "e3d12d516fbfe5a26655e5072dd12b150e0961f0692ae35dd81b65e46d1eedbd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan's investments in Religion\nhave paid off. Next month, they're planning\nto erect a statue of the goddess of victory!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0098",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 98,
+      "text_offset": 49528,
+      "source_sha256": "7666d73401da9cdcf3a41dceb61337c990a42c300986c4431ce7a6dad48cfd11",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's called \"The %@ Clan's Goddess of Victory.\"\nThe name is fairly ordinary...\nBut as for her pose...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional trailing thought about the statue's pose; 9:99 supplies its description."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0099",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 99,
+      "text_offset": 49622,
+      "source_sha256": "3f2cbda6f60aad53b6abfcf843879b6b58c0963097b7e2d1bc4001d68bd968da",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Apparently, she looks like a silly child\nstanding on a chair, hand stretched eagerly up\nto answer the teacher's question...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "The silly pupil pose is a comparison for the goddess statue, not a child character being introduced."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0100",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 100,
+      "text_offset": 49718,
+      "source_sha256": "39d245768fd098bc61e308990da839fc4d52c78b14299672a14a393dc694db28",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Well, yes, in a way,\nI am looking forward to seeing it.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0101",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 101,
+      "text_offset": 49766,
+      "source_sha256": "f57f7c9b4cb129ecfc5be002733c145b490f1f04f6cd777d5207b86eb1c01612",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "With the %@ clan's investments in Religion,\nthey're going to make a huge stone lion\nto protect Kyoto!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0102",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 102,
+      "text_offset": 49868,
+      "source_sha256": "b413e7dfb6830ee0920674220a726ae8485ecf44f805a484af5d1d0154fbf629",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Um, the statue's name is...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional title-introduction fragment; 9:103 supplies the name."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0103",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 103,
+      "text_offset": 49894,
+      "source_sha256": "3b0e3bbcb1978a31744689e38dbfee29ae57ed69399d6f6671dfef8fdd8696a1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "\"Invincible Strength! The Lion of %$,\" apparently.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0104",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 104,
+      "text_offset": 49928,
+      "source_sha256": "4ae499effdd23328c0c8db130d4ca4430fc12357216103c3f0631d820e61c5df",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I don't dislike straightforward,\nwholehearted names like that.\nNot in the slightest!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0105",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 105,
+      "text_offset": 50018,
+      "source_sha256": "70472a2b8dbf4ec051f3ee37ab780371cb85e86311b7ff33e96ff22f469ec38b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "\"Invincible Strength! The Lion of %$,\" eh?\n...Not bad at all.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0106",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 106,
+      "text_offset": 50074,
+      "source_sha256": "0f2731f9f2cf9372ab58aeccaabfbf6604f171b855abff905a918b4896cb6781",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "At last, our investments in Religion\nare about to pay off in a big way!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0107",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 107,
+      "text_offset": 50138,
+      "source_sha256": "b6b1a73e784d8391b0a14b3f9b8f6c20dad1a28e4cab9bc157f0d19a521e9683",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Next month, a shrine for the %@ clan\nwill be completed, to comfort the souls\nof the %@ clan's ancestors!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0108",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 108,
+      "text_offset": 50230,
+      "source_sha256": "6aa021e644b3c67733b4475f4532291d44d51e411702ede544c3fe0dbc73070c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's called the \"Shine Forever,\nand Sleep in Peace, Souls of the %@ Clan\nShrine\"!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Long shrine name translated in full, including eternal radiance, peaceful sleep and the clan's ancestral souls."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0109",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 109,
+      "text_offset": 50328,
+      "source_sha256": "863f1f02981f43fda4764781ad23d919bc051aef61903bf6c6ba6af3409cfba5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Hmm...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Hesitation about the preceding shrine name; intentional interjection."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0110",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 110,
+      "text_offset": 50338,
+      "source_sha256": "dad4d10c8052b34ba8cf2bd891a3b61675eeadcd72405aed3be60cdec30e26af",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Is the name a little too long?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0111",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 111,
+      "text_offset": 50370,
+      "source_sha256": "b539a364b9ab98e7060abebbe7e1e9d40d86009dc9b9c6daec5c620f70e795a6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations, %$!!\nThe money the %@ clan invested in Religion\nhas finally paid off.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0112",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 112,
+      "text_offset": 50460,
+      "source_sha256": "3599ebfe776460177cd68f740eba1a602b94f6ff5819ae85cf3c1bdb71f06d71",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The spring tradition that hasn't been held in ages,\nthe Tsuina Festival of Warding,\nwill return this year!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0113",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 113,
+      "text_offset": 50560,
+      "source_sha256": "a307ba3df83c7689aba490374fa42b311ee6b649f3c29a7c54b025da4690ea5a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Tsuina Festival of Warding\nis a festival to drive away epidemics!!\nI hope we'll have a little less illness now.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0114",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 114,
+      "text_offset": 50646,
+      "source_sha256": "e899edd71e664fd705c5f3893ffb248f0e0fed1538edd77e70f1fcb0b023e4ed",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, the Tsuina Festival of Warding's\nfloats and portable shrines\nare lined up along the main street!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0115",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 115,
+      "text_offset": 50724,
+      "source_sha256": "b7668a7a518c4c0ef565e7a7a3f31040e442821f6ab155e4eeacd7919edfe27a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please take a good look later\nunder Rebuild, then Townscape.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0116",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 116,
+      "text_offset": 50780,
+      "source_sha256": "778e03fd3c0ba28dee0d1dd3f8b9048bb053cb936184bdac4863ec0b9f9c6551",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Kyoto's biggest festival will finally return next month!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0117",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 117,
+      "text_offset": 50818,
+      "source_sha256": "daca218ec63b120a2b8c2173476369e2bafbd785a9f928dbc1a1b42883726ac0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's all thanks to the %@ clan's\ntorrential investment in Religion!!\nThe people of the capital are showering us with gratitude!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "The downpour of investment and storm of gratitude are deliberately paired weather metaphors."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0118",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 118,
+      "text_offset": 50916,
+      "source_sha256": "e12bbbc458a8a273c7711063e83b7570d6951275d265650e8315606a0e7940ad",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You should hold your head high too, %$,\nas head of the %@ clan!\nProud and tall!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0119",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 119,
+      "text_offset": 50994,
+      "source_sha256": "220bb002f10f8bfc9a90e8baeb61938ddd8b0fb5859a1570c628f6d9f75f8a2d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Now, the festival to be held next month\nis the Urabon Water God Festival.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0120",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 120,
+      "text_offset": 51050,
+      "source_sha256": "ff9a834f86e93b62eaa23fd8e8b583257d371171c47e43e7e31d9a1b01014cf0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It honors ancestors, prays for safe childbirth\nand thanks the water god. Those are unrelated,\nbut this convenient festival handles all three at once!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Preserved all three unrelated purposes: honoring ancestors, safe childbirth and thanking the water god."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0121",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 121,
+      "text_offset": 51158,
+      "source_sha256": "7f1e19de6827fc05e2b98248e1682034c9740499b2fc2497dc2dee92b64be705",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "That's fine!! Festivals are for people.\nAs long as the participants and spectators have fun!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0122",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 122,
+      "text_offset": 51230,
+      "source_sha256": "a1a8f8d7ba839be421f14f87f635570b42e4f75b30c59a88fb51b9375a9bb059",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "This month, in July, the Urabon Water God Festival\nwill be held around town!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0123",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 123,
+      "text_offset": 51292,
+      "source_sha256": "52681e50852b68d92d9286dfaa2753e875c525f52cca3dd2b57c2caf8fa0b86c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please enjoy it to your heart's content later\nunder Rebuild, then Townscape.\nWatch the rivers to the east and west too.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0124",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 124,
+      "text_offset": 51380,
+      "source_sha256": "69dc3171b0e479f576eb17431357e49145616952f88988df9f71dc5ba880af70",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "One of Kyoto's four great festivals, lost for years,\nthe Bountiful Biceps Festival,\nwill return this year!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0125",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 125,
+      "text_offset": 51472,
+      "source_sha256": "93bb8573a35dca3a00325a4fd9cd3493048cb74798cf90d575c3923ee96cbac7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Bountiful Biceps Festival is an autumn festival!!\nAutumn means harvests, exercise\nand, of course, hearty appetites.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0126",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 126,
+      "text_offset": 51572,
+      "source_sha256": "1515318af72a01ae1a8bad49641910e4c4d6dc186af6ff4d2debf68de0c1b072",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "To thank the gods for this year's harvest and health,\nyoung men express their joy\nby baring their bodies!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Young men are the adults participating in the harvest festival; bare bodies preserve the source's reveal joke without adding graphic detail."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0127",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 127,
+      "text_offset": 51668,
+      "source_sha256": "1f4494525ed5c6434de890daaa88a549e39d5d72c0cd5165776ad6468d7ba149",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "That's the Bountiful Biceps Festival.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Concludes the festival description begun in 9:126."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0128",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 128,
+      "text_offset": 51698,
+      "source_sha256": "1164048b3c6e156d30145d246db61050bbdd864d06ecd0bc7615f90d50f5329f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Doesn't the \"baring\" part\nmake your heart race a little?\nI can't wait until next month!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0129",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 129,
+      "text_offset": 51778,
+      "source_sha256": "97a6db47e35e748c5c674782bb61d006c7c62815ebd73636eb50960c07768bd4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's the Bountiful Biceps Festival this month...\nThinking we'll have to watch that every year\nfrom now on is a little depressing...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0130",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 130,
+      "text_offset": 51874,
+      "source_sha256": "7941caa05a0eb907b5c3e29dcc6b46b3a25c9f8500c4ed1b4fb0f177bbeac8c3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You can see it under Rebuild,\nthen Townscape,\nbut perhaps you'd be better off not looking...?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0131",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 131,
+      "text_offset": 51948,
+      "source_sha256": "29eab99ff3b5bd5cc347fe5b2bb791a56d54e2ad2aa59867a9ff155113255cb4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan's investments in Religion\nhave revived a long-lost Kyoto winter tradition:\nthe Rice Cake and Snow Festival!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0132",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 132,
+      "text_offset": 52052,
+      "source_sha256": "630b0595b8c03feed53d2ab05536d501e61b96794d4c3ef7169ee0db4643052a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "At this festival, you can pray all at once for a safe home,\nprosperous business, a happy marriage, success in exams,\nfulfilled love, and whatever else you like!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0133",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 133,
+      "text_offset": 52160,
+      "source_sha256": "732bff97f805b8fb58cf784fd8f8e499974c6586850ebc8ce5d24266a9d28743",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "After all, the Rice Cake and Snow Festival honors\ntwo deities: Mochinohana Daikichi\nand Naeba no Shirayukihime.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0134",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 134,
+      "text_offset": 52248,
+      "source_sha256": "5aab1d7fb26f4f126ae6b69f5a13f5564790a23d4d9ae202faaff31143ff03a3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "With builds like theirs,\nthey can take on any wish!!\nBut...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing condition, continued in 9:135."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0135",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 135,
+      "text_offset": 52308,
+      "source_sha256": "d9305b061f23c0925ae150800a86080ed494b5ba2eaaf491706406780bdf3fa3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Only edible offerings are accepted!!\nAnd sweets in particular are said\nto bring wonderfully effective blessings.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0136",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 136,
+      "text_offset": 52402,
+      "source_sha256": "8ddf09575d920d190f5d225ac062f2c2626e6650c762096d2f3bf84b8b9df884",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The main street is bustling this month\nwith the Rice Cake and Snow Festival!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0137",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 137,
+      "text_offset": 52458,
+      "source_sha256": "31770e99dfc7769f5476fda4a0cc8461736fda4c9a1517855449c10ea4ac4395",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please have a little look later\nunder Rebuild, then Townscape.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0138",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 138,
+      "text_offset": 52516,
+      "source_sha256": "3c7299ce34d9ec506d7e5d36216c4f31383d225b625e4c4677ee6c1f6aea4475",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Adults and children alike are having such fun\nmaking snowmen and pounding rice cakes!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0139",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 139,
+      "text_offset": 52588,
+      "source_sha256": "ed05fe29f82a6459b3ece18111d725578f8b85659dc1ac5631adbabb29088b94",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I'm proud of the %@ clan's efforts\nto bring those ordinary scenes of daily life\nback to Kyoto.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0140",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 140,
+      "text_offset": 52680,
+      "source_sha256": "948a614384c40668dd15707a3fb3ac5d180e4a9b1b1f8c9100f2611adc7b95a9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is having a big sale on %s!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0141",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 141,
+      "text_offset": 52714,
+      "source_sha256": "1ac054d75ad168c36eda913cc5d19c66b44a7058991c0859096caa37e6bd75a5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is having a big sale too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0142",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 142,
+      "text_offset": 52742,
+      "source_sha256": "c1097d669236cf935e3c121def3a0dc635bbbb1bd6395ec45a5eaa9047148460",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s won't be outdone\nand is holding a big sale too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0143",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 143,
+      "text_offset": 52788,
+      "source_sha256": "0f41bb6f44f1d37a0ff1a037094fa76a95cab0c5f1cd1a03ce454fe9ce96e3f5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is joining in\nwith a big sale too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0144",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 144,
+      "text_offset": 52826,
+      "source_sha256": "aaa2b4353109970c5b8c2b9fc86c9fb3a895bb6e940cf9af4eda22f8ab0850f6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is slashing prices to the bone\nin a big sale too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0145",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 145,
+      "text_offset": 52866,
+      "source_sha256": "0ade2c1f197d9127a30e9221339711f5491996c052f17bfdad6adcb7615fc594",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is following suit\nwith a big sale too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0146",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 146,
+      "text_offset": 52908,
+      "source_sha256": "26d3aa7d1022422545938ca7bca5be07436fdd34c19173578a7bdbe296c35373",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is practically giving things away\nin a huge sale!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "The sales idiom means prices so low they feel like theft; no actual criminal accusation is inferred."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0147",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 147,
+      "text_offset": 52958,
+      "source_sha256": "47072ee579d66de7155980fc5a87359cbb7dd3f71275c44f7a59b1367f0fd646",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is holding a big sale\nto say a great big thank-you!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0148",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 148,
+      "text_offset": 53006,
+      "source_sha256": "f414555716c560ecbe5cd6c09a46f50c43421ed68a0123420213384ced84bfc4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I hope we find some real bargains!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0149",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 149,
+      "text_offset": 53044,
+      "source_sha256": "147344a24ccf2a5897151019482667a48ac28a3cc31637074fd0196a5ba9dd04",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Whether we buy anything or not,\nlet's at least check later!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0150",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 150,
+      "text_offset": 53108,
+      "source_sha256": "32d81cfb6c9287ed4edcfdc610496c8d074f4989b72ec20df6d8061912da8111",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Don't loosen your purse strings\njust because the prices are low.\nThat's exactly what the shops are after!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0151",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 151,
+      "text_offset": 53202,
+      "source_sha256": "a27557920c816f97098d2c6a068f778d64fee1aac5cb14eacc5a1d89f7bcaa0d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Only about thirty percent of kimonos bought on impulse\nat sales are worn at least twice!!\nPlease think carefully before you buy.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Preserved the numerical claim: only about thirty percent of impulse-bought sale kimonos are worn at least twice."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0152",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 152,
+      "text_offset": 53304,
+      "source_sha256": "36e352707e2b161084e5f098b98dc05d51c398d6aeec15d9eff982d93648fcea",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Shopkeepers say, \"Each item is a once-in-a-lifetime encounter,\"\nbut...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing quotation; Itsuka counters the shopkeepers in 9:153."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0153",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 153,
+      "text_offset": 53364,
+      "source_sha256": "eae849c2ad4d90c31d9068fd0bef809e1afacc7b9db653be117bc980cd3099b3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Things are things: you can manage without them.\nAnd people are people: when something's missing,\nthey find a way to make do.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports religious monuments and revived festivals to the clan head, then announces shop sales and gives spending advice. These are conditional event variants. Festival names and deity names follow the glossary; the family and player placeholders do not establish gender.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0000",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 0,
+      "text_offset": 53680,
+      "source_sha256": "ee5d8de264695fd2c2de8f1c2f6519c89139c37cb1fca229c731d3857d0fb514",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations, %$!!\nAn envoy has come to invite the %@ clan\nto the Spring Selection Tournament.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0001",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 1,
+      "text_offset": 53776,
+      "source_sha256": "ec29533e22df6bbd029d745570d426e28a24c73ebf5eb78e4c8975de37a43a87",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Just taking part in the Spring Selection Tournament is an honor.\nWith luck and a good performance,\nwe could join the great families in one stroke!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0002",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 2,
+      "text_offset": 53874,
+      "source_sha256": "3098e3a85b4e6c8df87353e3ddb5f430632720ad3793764a1379ca2b01df1370",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "But whether we enter\nis your decision, %$. To begin with,\nlet's take it easy and not push too hard.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0003",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 3,
+      "text_offset": 53968,
+      "source_sha256": "71daf5ffee6724e5189f1dd2b859e5c39c809c1df3be2dd0c381ef6ed2aa79bf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "An invitation to the Spring Selection Tournament\nhas arrived from the palace!!\nWhat an auspicious start to the spring!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0004",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 4,
+      "text_offset": 54054,
+      "source_sha256": "bbe88bfda552a5645d9a533d2f33c66cc2de4c1be3c4c9203904a89a71daa2b5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The emperor has invited us to the Spring Selection Tournament\nfor the hunting force. Let's seize this chance\nand win the whole thing with a bang!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0005",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 5,
+      "text_offset": 54160,
+      "source_sha256": "d34d1924cf054099d8aef14e9fbf05e7d21547f808d1ebce02e63fd98e524bd8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "An envoy has come to invite the %@ clan\nto the Spring Selection Tournament!!\nPlease bring home heaps of prize money!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0006",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 6,
+      "text_offset": 54252,
+      "source_sha256": "119763d7f00341945b195aa0a9835af3f0f83d34cb861e9eb1d00a85d52f0819",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan has received an imperial command\nto enter the Spring Selection Tournament for the hunting force.\nDo your best, and please don't get hurt.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0007",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 7,
+      "text_offset": 54348,
+      "source_sha256": "96d1bbef4a7f609a8d78395f08a9f260ec1d684d18f7e4942c0ebf53cb827e04",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "This month is the %s\nSelection Tournament for the Official\nShutendoji-Hunting Force.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0008",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 8,
+      "text_offset": 54416,
+      "source_sha256": "a6200d153943681ab9d9493d80a1a5b6358260bdc3079de6c6ef8f0fd3b8c055",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "This month's %s Selection Tournament\nfor the Official Shutendoji-Hunting Force is here.\nGive it everything you've got!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0009",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 9,
+      "text_offset": 54518,
+      "source_sha256": "25dd7ad0a135e48e129a7db68b3924b3d6a0b9343e3d5489ebbfe12a95a57f8e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "This month's %s Selection Tournament\nfor the Official Shutendoji-Hunting Force is here.\nLet's go all out and win!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0010",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 10,
+      "text_offset": 54614,
+      "source_sha256": "0e28f61e38ae391f10e5bea10f052ab4406b0d90f9d50e9dbfa90cbaabf12429",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "This month's %s Selection Tournament\nfor the Official Shutendoji-Hunting Force is here.\nI'm expecting a great big prize purse!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0011",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 11,
+      "text_offset": 54718,
+      "source_sha256": "9af46f4b1baf25fb69b70b2d17514cc2c20c40f3b44276054df9819fa8e322e2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "This month's %s Selection Tournament\nfor the Official Shutendoji-Hunting Force is here.\nLet's relax and enjoy ourselves!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0012",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 12,
+      "text_offset": 54816,
+      "source_sha256": "9f2e708c36b92e29c38a3595b084ed105b6e3fc6405c8ca5c99df35f696cf6fa",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "At last, next month\nthe gates of Mount Oe will open!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0013",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 13,
+      "text_offset": 54862,
+      "source_sha256": "ca1f0c9a2ad279adabf6cddccdb0ea1b2792c52ebbff5e72dc455586e181cf3f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "At last, next month\nthe gates of Mount Oe will open!!\nAre you ready?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0014",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 14,
+      "text_offset": 54936,
+      "source_sha256": "c1665ea985701a1d4eed483a4ee5991b6b4d0aae98a165bedc32d52e8e0f083e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe open next month!!\nHave you decided\nwho will join the party?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0015",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 15,
+      "text_offset": 55016,
+      "source_sha256": "a26b67565895902fa183c7a72ac81e1c8c0b6f851745786fea785a4fc3b74570",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe open next month.\nWhy not rest this month\nand build up your strength?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0016",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 16,
+      "text_offset": 55102,
+      "source_sha256": "13e1b19218a8bd70fe1776129a361e9ca3813b055eaaa191d0adad6ff46a0f50",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe are open\nthis month and next.\nBut please don't be reckless.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0017",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 17,
+      "text_offset": 55178,
+      "source_sha256": "1f8edd27fd7ce57be0422b3f3194d4004a5dafb0d65e90616efd0263105b8668",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe have opened.\nThe time has finally come!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0018",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 18,
+      "text_offset": 55226,
+      "source_sha256": "98693d14f833b219a94d922add1f7a36a3d7e2575f28ee542c0748afabbdbd97",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe have opened.\nIt'll be all right!! I'm here for you.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0019",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 19,
+      "text_offset": 55286,
+      "source_sha256": "54716c6a63699015fcfddaf69bc5123f24004e0672c2534dec87a54bbafd7b3f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe have opened.\nLet's go all out!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0020",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 20,
+      "text_offset": 55346,
+      "source_sha256": "895a1c8b34b0523b3e244e459a9bcd017999052609be5e4ad035ef8936052af8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe have opened.\nLet's put our wholehearted faith\nin the %@ clan's strength!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0021",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 21,
+      "text_offset": 55416,
+      "source_sha256": "5e73c1eb108e499e7f3e3a6052386f7bac2824d70630b40b2c9b857723e7e842",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe close at the end of this month.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0022",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 22,
+      "text_offset": 55446,
+      "source_sha256": "8881e8c553ee5575600dacbc61346d8c55e84e58f2fda70f49f985c0f2593a51",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe close at the end of this month.\nBut if you rush now, all the effort\nyou've built up could go to waste...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing caution retained; rushing risks wasting the clan's accumulated effort."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0023",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 23,
+      "text_offset": 55538,
+      "source_sha256": "d02a869079b9307f5c207304dc1731f9e3b922f0369144f0b418370bf85b483f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe close at the end of this month.\nIt might be wiser to save up our strength\nfor next year...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Hedged strategic suggestion retained; waiting is not mandatory."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0024",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 24,
+      "text_offset": 55626,
+      "source_sha256": "41ddcd7cccf49a92beab94dbfb07a52224b581cbf2da097616cd8a32de2587d4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe close at the end of this month.\nEven if this year doesn't work out,\nlet's keep believing in tomorrow!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0025",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 25,
+      "text_offset": 55716,
+      "source_sha256": "5a93b7dd844efd815fae16466a142645196f2e17fcb6ca860370edb909694e3f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gates of Mount Oe close at the end of this month.\nWaiting until the time is right takes a hundred times\nmore courage than a reckless sortie.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0026",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 26,
+      "text_offset": 55810,
+      "source_sha256": "2cdbd0ec1e80c37e5caa7a0bc98243bf4c5a71e1806e3a61e0a395e55aacf4ad",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The emperor has posted a proclamation around town.\nThis month is apparently the\n\"%s Oni Hunt Campaign\"!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0027",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 27,
+      "text_offset": 55898,
+      "source_sha256": "896bf5d29e0289a229a64b2a962f1c8491c6782c8cf85ae20f53ccc122f4df37",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The emperor has posted a proclamation around town.\nThis month is the \"%s Oni Hunt Campaign.\"\nThere's a hefty bounty on offer too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0028",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 28,
+      "text_offset": 55998,
+      "source_sha256": "2178412a2f87a820fbdda211fa366a3aaf1c18f3341f4463ed5a127917be8b08",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The bounty is only paid until the end of this month,\nso fight hard in %s\nand come back promptly.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "The bounty deadline is month-end; the advice is to fight at the location and return promptly."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0029",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 29,
+      "text_offset": 56096,
+      "source_sha256": "362c57ec05abd27e9be7cdee8969686b646e4f5e04803910f6ee466139080c65",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The emperor has proclaimed\na \"%s Oni Hunt Campaign\"!!\nThis generous offer lasts this month only.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0030",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 30,
+      "text_offset": 56182,
+      "source_sha256": "3e806b2636e8280c34e43230ff712c69d7209624dab2ca918a9e2f4bc2ac6483",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You'll receive a bounty based on your achievements!!\nIf you have no other plans, why not set out\nfor %s?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0031",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 31,
+      "text_offset": 56278,
+      "source_sha256": "9787b57be7919a375b1bad50d7c2799a7f8fb7b9f13f2b1e457621a4fb9c80d3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The notice boards around town\nannounce this month's \"%s Oni Hunt Campaign\"\nin great big letters!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0032",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 32,
+      "text_offset": 56366,
+      "source_sha256": "0a4d76b9d250956ca1cf85e4cfccea817d92ec59df0f7e95141c80b620b22316",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Apparently, if you distinguish yourselves in %s this month,\nthe emperor will reward you.\nHow could we pass that up!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0033",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 33,
+      "text_offset": 56460,
+      "source_sha256": "08691b573609f35a226d9baa030ca14afb47739caa656b1e9a291f63d5076fb6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The bounty for the \"%s Oni Hunt Campaign\"\nhas arrived!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0034",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 34,
+      "text_offset": 56512,
+      "source_sha256": "219776fb1363e74c45362ff9a6224544f76dfe5a2baa47dae17d8bcbe4fef533",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryo!!\nThat should buy an extra dish\nwith dinner for a while.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0035",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 35,
+      "text_offset": 56580,
+      "source_sha256": "33d85ada929211ce699884eafc1023866a927eea46c1d81a0b9518d2445b9f05",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryo!!\nWe can buy lots\nof delicious sweet buns!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0036",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 36,
+      "text_offset": 56642,
+      "source_sha256": "27069701aaa9f80efb801f91848682d08697aea6a367d05afe0057c95420d4af",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryo!!\nWell, let's gratefully accept\nanything we're offered.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0037",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 37,
+      "text_offset": 56726,
+      "source_sha256": "7ec17478e31ce79f60f9e28355e31f6f45403e251f63630236bc51c9e7d9dd8b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryo!!\n...Isn't the emperor surprisingly stingy?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0038",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 38,
+      "text_offset": 56778,
+      "source_sha256": "6f6df40e9d974724fe7c1762301903f48602c8928cbd832f045ae97f5be4bc1b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryo!!\nThat could buy mountains\nof goldfish and chicks!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0039",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 39,
+      "text_offset": 56836,
+      "source_sha256": "65a05d821d5e2d628e313e7e0940da6378fbc1308b12374ca1a28e3751a18b64",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryo!!\nWell, you can never\nhave too much money.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0040",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 40,
+      "text_offset": 56898,
+      "source_sha256": "c0ae7433e4b927170379ed684f43eaf5f60946ff574d7140f4530fbf103c58e5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0041",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 41,
+      "text_offset": 56916,
+      "source_sha256": "36f19176f3fd3cdfd4d1d0a1472b4165732e720b65ea28adb52ccca852fe701c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nWe could pay six months of neighborhood dues\nand still have plenty left over!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0042",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 42,
+      "text_offset": 56996,
+      "source_sha256": "1aeeb9a6e7d1b163b3e2a1dac4b172b60c2ca4c95cb596ad41250b7eb1a9d40b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nWith that much, we can properly fix\nthe leak in your room, %$!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0043",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 43,
+      "text_offset": 57082,
+      "source_sha256": "035651d3a0d2a3f3dffe380a23c5e74868061f9c1d642a9e1296ebdaca7a94ed",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nThat takes care of next month's\nfood expenses, at least!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0044",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 44,
+      "text_offset": 57162,
+      "source_sha256": "7bd4445655b5fb42ecd6e20f92f5e83e89437fecfb0b1d899cc8737b4354f296",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nLet's put it toward\nnew weapons or armor!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0045",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 45,
+      "text_offset": 57232,
+      "source_sha256": "9cd14648105aec6e6daab48393b4ecfb06e983b869b9c1311050b7d2e91d0f3a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nPlease be very careful\nnot to waste it.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0046",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 46,
+      "text_offset": 57294,
+      "source_sha256": "d43c6d4c080b9ade513f23de898c83ebaae81af8d4bfd95841b272f5d269c8c2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "An amazing %d ryooo!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0047",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 47,
+      "text_offset": 57320,
+      "source_sha256": "01cff9ff3ee548ddd6e11c963024668ac917bc654ab4b8b541490cc91e4a28b3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nThe emperor has been\nvery generous this month!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0048",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 48,
+      "text_offset": 57386,
+      "source_sha256": "27bc5b87a887b9d5a201aa2862652e19ed886a539425f1341e78e5c15bc4f317",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nI heard the emperor was a miser...\nIt'll probably rain tomorrow!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Unexpected generosity prompts the rain joke; no actual weather forecast is asserted."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0049",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 49,
+      "text_offset": 57466,
+      "source_sha256": "d841ed5221fba02b055f94eb3c6c26b43b7de50417a2aa6405eadb9ed4de7958",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nWe certainly won't be sleeping with our feet\npointed toward the palace for a while!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Gratitude idiom about not sleeping with one's feet toward a benefactor is retained as a court-directed joke."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0050",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 50,
+      "text_offset": 57538,
+      "source_sha256": "5bd4d31bef256fadb50135c02edd05daeb637bb476a1f3a1f60acb43f8cc98c8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nWell, it's a windfall. Why not spend it\non a great big treat for a change?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka cheekily suggests spending the windfall; the next row acknowledges the clan head may refuse."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0051",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 51,
+      "text_offset": 57624,
+      "source_sha256": "b72e76329490f30a02ac2f7926c02c0de9ef8f93e617d7b9bdf5a27118026953",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Surely there's nothing wrong\nwith that once in a while?\n...Still no?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Questions ask whether occasional spending is acceptable; not an order from the player."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:10:0052",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 10,
+      "index": 52,
+      "text_offset": 57702,
+      "source_sha256": "18c9da8d95c04b9d03261189a0a835057ebb245fd5358fd0cbc59aec5a8a569d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%d ryooo!!\nThe envoy said, \"Please be sure to use it\nto rebuild the capital.\"",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head with alternative tournament invitations, Mount Oe opening/closing notices and imperial bounty reports. The bounty is a monthly reward for hunting at the named location, not a standing promise. Family and player placeholders remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    }
+  ]
+}

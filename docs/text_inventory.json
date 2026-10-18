@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "version": "0.1.0",
+  "date": "2026-10-17",
+  "archive_count": 1837,
+  "member_count": 16637,
+  "mlt_files": 734,
+  "all_mlt_records": 16191,
+  "japanese_records": 11026,
+  "unique_japanese_strings": 8984,
+  "japanese_characters_with_repetitions": 134536,
+  "japanese_characters_unique_strings": 122691,
+  "main_workload_records": 9133,
+  "main_workload_unique_strings": 8027,
+  "main_workload_japanese_characters": 123662,
+  "main_workload_unique_japanese_characters": 115771,
+  "categories": {
+    "character_profile_traits": {
+      "records": 732,
+      "unique_strings": 728
+    },
+    "dialogue_narration_subtitles": {
+      "records": 3315,
+      "unique_strings": 3036
+    },
+    "names_and_terms": {
+      "records": 1290,
+      "unique_strings": 1242
+    },
+    "pronunciation_readings": {
+      "records": 1212,
+      "unique_strings": 1196
+    },
+    "speaker_names": {
+      "records": 681,
+      "unique_strings": 26
+    },
+    "ui_system_help": {
+      "records": 3796,
+      "unique_strings": 3372
+    },
+    "voice_or_event_metadata": {
+      "records": 0,
+      "unique_strings": 0
+    }
+  },
+  "errors": [],
+  "non_mlt_txt_files": 68,
+  "non_mlt_txt_ascii_only": 68,
+  "scope": "Indexed MLT records in data.ore only; not a full-game final total."
+}

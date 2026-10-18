@@ -1,0 +1,17 @@
+{
+  "before": [
+    96,
+    214,
+    288,
+    50
+  ],
+  "after": [
+    24,
+    214,
+    432,
+    50
+  ],
+  "text_width": 426,
+  "text_left_inset": 6,
+  "right_edge": 456
+}

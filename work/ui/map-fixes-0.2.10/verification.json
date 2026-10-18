@@ -1,0 +1,74 @@
+{
+  "version": "0.2.10",
+  "date": "2026-10-17",
+  "texture_replacement": false,
+  "font_raster_scale": 4,
+  "emulator": "Isolated project PPSSPP; software backend; final ISO",
+  "runtime_result": "PASS in selected April map context",
+  "verified": [
+    "Title footer v0.2.10",
+    "Kyoto portrait banner",
+    "Soyokuin selected-destination banner",
+    "Soyokuin, Kujuro and Torii Senmangu small map signs",
+    "English Kyoto compass"
+  ],
+  "native_asset_checks": {
+    "destination_banners": 10,
+    "map_sign_copies": 50,
+    "compass_copies": 8,
+    "preview": "work/ui/map-fixes-0.2.10/native-contact-sheet.png",
+    "coordinates": "work/output/english-native-0.2.10/map.report.json"
+  },
+  "remaining": "Other seasonal/late-game instances have static native-asset checks only; full playthrough and real PSP testing remain pending.",
+  "screenshots": [
+    {
+      "file": "work/ui/map-fixes-0.2.10/final-title.png",
+      "sha256": "7776fffaf11d23a3fbb7f2fe9f86eedc099692dae9cf03e9075d40c869537e72",
+      "display_dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/map-fixes-0.2.10/final-kyoto.png",
+      "sha256": "e2b6ebb6fdc8f2ab2bd1dd1184addf78eea6caf7cda66d09917a5a330fe7e377",
+      "display_dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/map-fixes-0.2.10/final-soyokuin.png",
+      "sha256": "29e98b51ab574f78a4d6cd7cba2ed04cf60ece125143f5645073ff8c7f5ffe37",
+      "display_dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/map-fixes-0.2.10/final-overview.png",
+      "sha256": "7aca99018a7a2034871e0a0cb885db63699665dd6019952d06ede9473711076b",
+      "display_dimensions": [
+        480,
+        272
+      ]
+    }
+  ],
+  "archive_sha256": "9773657db296108739cac71a9af2c887f715587775d68cf3b4f10de745bbede0",
+  "screen_rectangles": {
+    "kyoto_banner": [
+      400,
+      12,
+      60,
+      190
+    ],
+    "destination_banner": [
+      410,
+      30,
+      65,
+      210
+    ],
+    "map_signs": "World-space sprites; screen coordinates vary with party movement.",
+    "compass": "World-space sprite; coordinates vary with movement."
+  }
+}

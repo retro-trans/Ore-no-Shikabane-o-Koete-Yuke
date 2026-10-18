@@ -1,0 +1,17 @@
+{
+  "version": "0.2.15",
+  "length": 8,
+  "normalized": "poppPPPP",
+  "codepoints": [
+    "0xff50",
+    "0xff4f",
+    "0x70",
+    "0x70",
+    "0x50",
+    "0x50",
+    "0x50",
+    "0x50"
+  ],
+  "ninth_character_attempted": true,
+  "source": "Actual OSK output after Start; two legacy fullwidth letters followed by six typed Latin letters; no memory injection"
+}

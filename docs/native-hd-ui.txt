@@ -1,0 +1,16 @@
+Native HD UI — local build 0.2.26
+
+83 archive resources redirect to 63 unique embedded native images. Each proxy
+has its original decompressed byte size and logical dimensions. This avoids
+exceeding the fixed shared resource loader budget. Image binding redirects
+only tagged resources; source rectangles map from logical pixels to physical
+HD pixels on every update. Other sprites retain their original handling.
+
+Badges/digits use 4x rasters. Tall ribbons use192x512 storage and the Potential
+chart512x512, preserving original44x260/142x252 logical geometry. Native PSP
+texture replacement is disabled. All scripts and unrelated archive members
+match0.2.25. The existing eight-character names and punctuation fix remain.
+
+See work/ui/hd-fonts-0.2.26/verification.json for actual screens, native UV
+readbacks and explicit QA limits. Combat digits/results still need a live
+battle visual check. Saves were restored and verified. No GitHub release.

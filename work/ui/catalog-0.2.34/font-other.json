@@ -1,0 +1,188 @@
+{
+  "version": "0.2.34",
+  "context": "other",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Fled with Spoils",
+    "Stole and Fled",
+    "Total Value"
+  ],
+  "objects": [
+    {
+      "text": "- April -",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Back",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Weapons",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Armor",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Scrolls",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Curios",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Other",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Total Money Acquired",
+      "atlas": "0x9b5c010",
+      "glyphs": 20,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Total Accessories",
+      "atlas": "0x9b5c010",
+      "glyphs": 17,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "items",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Class Manuals",
+      "atlas": "0x9b5c010",
+      "glyphs": 13,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Fled with Spoils",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "items",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Total Value",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Stole and Fled",
+      "atlas": "0x9b5c010",
+      "glyphs": 14,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "items",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Total Value",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Treasure Collection Rate",
+      "atlas": "0x9b5c010",
+      "glyphs": 24,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "  0",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "%",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

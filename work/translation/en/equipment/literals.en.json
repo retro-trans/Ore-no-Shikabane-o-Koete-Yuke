@@ -1,0 +1,15 @@
+{
+  "version": "0.2.20",
+  "rows": [
+    {
+      "address": "0x9b7e098",
+      "translation_en": "Male"
+    },
+    {
+      "address": "0x9b7e0a0",
+      "translation_en": "Female"
+    }
+  ],
+  "status": "Draft; native font and selected runtime fit checked",
+  "evidence": "work/ui/equipment-deities-0.2.20/verification.json"
+}

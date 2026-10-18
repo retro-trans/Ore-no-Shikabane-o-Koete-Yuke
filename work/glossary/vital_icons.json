@@ -1,0 +1,48 @@
+{
+  "version": "0.2.31",
+  "source": "Original native PCSA00155 textures from the user-supplied Oreshika folder",
+  "terms": [
+    {
+      "symbol": "HP",
+      "source_sheet": "udtx_status_us.ppt",
+      "source_crop": [
+        0,
+        16,
+        24,
+        40
+      ],
+      "native_files": [
+        "11.ppt",
+        "107.ppt"
+      ]
+    },
+    {
+      "symbol": "MP",
+      "source_sheet": "udtx_status_us.ppt",
+      "source_crop": [
+        24,
+        16,
+        48,
+        40
+      ],
+      "native_files": [
+        "12.ppt",
+        "108.ppt"
+      ]
+    },
+    {
+      "symbol": "HLTH",
+      "source_sheet": "udtx_status_us.ppt",
+      "source_crop": [
+        48,
+        16,
+        72,
+        40
+      ],
+      "native_files": [
+        "13.ppt",
+        "113.ppt"
+      ]
+    }
+  ]
+}

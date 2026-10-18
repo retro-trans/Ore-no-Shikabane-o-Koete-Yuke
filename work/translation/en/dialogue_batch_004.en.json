@@ -1,0 +1,1641 @@
+{
+  "schema_version": 1,
+  "version": "0.2.1",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "dialogue_slices": [
+    {
+      "file": "itsuka.mlb",
+      "start": 600,
+      "rows_in_slice": 80,
+      "rows_examined": 86,
+      "adjacent_context": "Whole-file rows 598-599 before and 680-683 after. Contains four empty source records; these remain empty. Religious monument reports continue in the next slice."
+    }
+  ],
+  "rows": [
+    {
+      "id": "ore:0000c000:0015:09:0014",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 14,
+      "text_offset": 43648,
+      "source_sha256": "9608de9b21c6413954eb180351422fb4c3430d7bfcbc0e3b0433c25150223791",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Our investment in Religion has paid off.\nThe Offering Points required for each deity\nhave dropped a little!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0015",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 15,
+      "text_offset": 43728,
+      "source_sha256": "0dd5aeae3645e6ae3087da04a292f6cc3fe5c667ce6a6b9a8e2f03a8c286d4f7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan's investments in Religion\nhave the gods beaming!!\nTheir Offering Point costs have all gone down a little.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0016",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 16,
+      "text_offset": 43814,
+      "source_sha256": "b806fe0f25a0960a5b327217a9065870f466609bbbdc7b468387a8215db15fd8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Offering Points needed for Divine Union\nhave become even cheaper!!\nThat's our investment in Religion paying off.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0017",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 17,
+      "text_offset": 43908,
+      "source_sha256": "e9904709b17c81135211042b7e8ecd80d9418c542884daca19fe09abbb9c8135",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The gods' Offering Point costs have dropped!!\n...Only a little, though.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0018",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 18,
+      "text_offset": 43964,
+      "source_sha256": "29675fc9e06c0be0b199f804a2a2abc54c3fe5ad7d9acf2984c41550777b7985",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's for generations of the %@ clan to come.\nLet's keep investing in Religion\nwith a bang!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0019",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 19,
+      "text_offset": 44056,
+      "source_sha256": "d3d8d9e0352d4640ddc70e855a4f9475e7748c2b76bacbb32bd6dab19a9dba4f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Our investment in Religion has paid off.\nThe Offering Points required for each deity\nhave dropped by a measly amount.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0020",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 20,
+      "text_offset": 44138,
+      "source_sha256": "bec31a0e3313f39a04e0076620e17d28dba01be2b355079d64778af6a1bce130",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...The gods are surprisingly stingy, aren't they?\nThey could take a lesson from the shopkeepers\nand have a great big Offering Point sale...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional trailing wish retained; completed by the short line 9:21."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0021",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 21,
+      "text_offset": 44242,
+      "source_sha256": "0e0297649fcb37ab11cadb54df85fb5e6d9b5f97b8e5b355b6cd68179cfd9b55",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...If only they would!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional sentence ending split from 9:20; no rows merged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0022",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 22,
+      "text_offset": 44262,
+      "source_sha256": "8eee63cd22a370eff0db8881773f8a9907f1e6ad0c5990e3ce7912745ce88671",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Our investment in Religion has paid off!!\nOffering Point costs have dropped.\nOnly very slightly, though...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0023",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 23,
+      "text_offset": 44352,
+      "source_sha256": "92107931714a7e9255d063231334f692046a6b4a5879d7f5953ba529a8a5b775",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "But every little bit adds up!!\nUm, you know...\nThere's a proverb about that, isn't there!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0024",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 24,
+      "text_offset": 44448,
+      "source_sha256": "de324fb3603b661bafd4ef741ab094c5d6bcc45a480888436a03f0da6d597e94",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Pile up enough Chile and you get Argentina?\n...No, that's not quite right.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Adapted the deliberately wrong dust-piling proverb as piling up Chile into Argentina; preserves both country names and the accumulation joke."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0025",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 25,
+      "text_offset": 44504,
+      "source_sha256": "252273f6753ddd92e90d865f93d2e1d63c468e3ec412214cadf7807c9c9be99f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "\"Pile up chilies, liver, tongue, heart and tripe...\"\n...Better make sure they're cooked through!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Continues the bad-proverb gag with chilies, liver, tongue, heart and tripe. Chile/chili carries the sound shift into food without copying an existing translation."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0026",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 26,
+      "text_offset": 44570,
+      "source_sha256": "9233a7da905a09297c4d83feca18a492146143b57fdad010cea345255ebce39d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Offering Point costs have fallen quite a lot,\nso it's about time\nwe stopped investing in Religion.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0027",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 27,
+      "text_offset": 44660,
+      "source_sha256": "9f288aa59066e3936d1100c807e1284d01f6d16d6523cfff48af023e944080f8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Keep buttering them up any more\nand even those exalted gods\nwill turn into good-for-nothings!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0028",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 28,
+      "text_offset": 44748,
+      "source_sha256": "63adf95e91a1e55a10e058da7c2a31d1fab8b8bad343e11158d9f17c5dcbcb18",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Print Shop has opened!!\nApparently, it sells beauty prints of\nGion's most popular young women.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0029",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 29,
+      "text_offset": 44844,
+      "source_sha256": "61cc7da6ee427bd0c3ee5c499205240f37d5d00a3eca16f02dfa7a9999bf16d9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "And I hear the Portrait Studio\nhas a new, cute picture frame too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0030",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 30,
+      "text_offset": 44910,
+      "source_sha256": "6ba2357dadb156a65b0b9f58c82559c014e8ba2a3d2caf448be269b52fd0278d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Our investments in Entertainment have blossomed!!\nThe Portrait Studio has two new frames\nfull of spring flowers!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0031",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 31,
+      "text_offset": 45014,
+      "source_sha256": "1b1990c168a6b483195b41386f460d144ae515c2590072517fb03a8f23ad4131",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Portrait Studio in the entertainment sector\nhas another new frame!! This time,\nit's great blossoms lighting up the summer night sky.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0032",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 32,
+      "text_offset": 45104,
+      "source_sha256": "a5aa1e51e088c6102d831f172ccdc46710d458975389eaffdfdd8162e3fa4b58",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Portrait Studio's newest frame\nis bright, blazing red!!\nIt's Arashiyama in all its autumn glory.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Red autumn foliage at Arashiyama, not a literal fire."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0033",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 33,
+      "text_offset": 45184,
+      "source_sha256": "b55925d23aeb1bbf06bfbde5453c57315677ddd825232f2d568a2edaf819f432",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "This time, the Portrait Studio's new frame\nfeatures a great parade of snowmen!!\nThe biggest one must be General Winter, perhaps?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "General Winter is a playful personification, not a new established story character."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0034",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 34,
+      "text_offset": 45276,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0035",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 35,
+      "text_offset": 45278,
+      "source_sha256": "b494533c5ad3d10ef6763cdf684e4c13f2cc5c4908956aaa3e15a26211af26f4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Both new frames at the Portrait Studio\nlook terribly expensive,\nbut... looking is free!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0036",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 36,
+      "text_offset": 45376,
+      "source_sha256": "64a1677f5a6436b18c32409076c050b5ae379b65568e560ee754ab986ea98bce",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Portrait Studio's latest frame\ncrams in almost too much Japanese atmosphere!!\nHow about one as a conversation piece?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0037",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 37,
+      "text_offset": 45276,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0038",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 38,
+      "text_offset": 45276,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0039",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 39,
+      "text_offset": 45276,
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0040",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 40,
+      "text_offset": 45476,
+      "source_sha256": "521870edea7dd8e7fc09fff5a31571346f954d6bfa58ad6f6dc99fa429ea607c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Our investment in Public Works has paid off,\nand the Commodity Broker has opened!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0041",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 41,
+      "text_offset": 45538,
+      "source_sha256": "e689f615b73e21cf59f174c988736a06d11ad3c4d1b2aeb51bf4736abdced26b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Rice is the only commodity for now,\nbut they plan to add more one by one.\nSomething to look forward to!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0042",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 42,
+      "text_offset": 45622,
+      "source_sha256": "4f8e57e4664212acbbbc72180037ae2e0b7e48a22b108f7cb280ed9b580c8516",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Herbalist has a new medicine!!\nIt's called Rehmannia Golden-Ball Pills.\nIt certainly sounds potent, doesn't it...?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0043",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 43,
+      "text_offset": 45710,
+      "source_sha256": "ce7482eab6a8601c580ad44e9fc3c055241d0460a89ef15a46dab96c9dfcb180",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Anyway, that's another result\nof our investments in Public Works!! Don't let that put you off;\nlet's keep investing with a bang!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Public Works is the existing investment-sector label."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0044",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 44,
+      "text_offset": 45810,
+      "source_sha256": "4282f16fc80f736725228593802de7126fa1946d639c8983cae88eb14fcd675e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Commodity Broker will now deal in salt\nas well as rice!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0045",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 45,
+      "text_offset": 45868,
+      "source_sha256": "48f3aa553b9b0e1fba8f637dc4edd1cdb43d0570fc9223238da5e128f291d57b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The broker says that more commodities\nmean more opportunities\nto make a profit, but...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0046",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 46,
+      "text_offset": 45964,
+      "source_sha256": "19e32668100e7e1b8d9d2ee29132869d17d507a01d0758ef97a4e8d7325f3904",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Doesn't that mean more opportunities\nto lose money too?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka is pointing out that more chances to profit also mean more chances to lose."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0047",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 47,
+      "text_offset": 46022,
+      "source_sha256": "0d6569caf6b65544cd542bae2b2b304fdce7eed4ca9d086e60cefc5b02796e7f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Commodity Broker has added beans\nto the lineup this month!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0048",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 48,
+      "text_offset": 46072,
+      "source_sha256": "9a04b5afc3b1647edb9e06eee6416e810ce7cb295496092ae648a2329a8efdf7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "\"A celebratory rally! Prices are sure to soar!!\"",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Quoted sales pitch from the broker; not Itsuka's own forecast."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0049",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 49,
+      "text_offset": 46110,
+      "source_sha256": "71d8941a82a6a20bf2754bd1aac5aabcf96f47118acccbcafbe80587c1444135",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Well, the broker always\nhas something optimistic to say,\nso you can't rely on that at all.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0050",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 50,
+      "text_offset": 46204,
+      "source_sha256": "7346b8ea2a68f55a9c41287bc711839e798e9d3c3902e79ff5e5c643efaaa36e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Commodity Broker has added wheat\nto the lineup this month!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0051",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 51,
+      "text_offset": 46264,
+      "source_sha256": "573a30d50c0f312d41867add8e938e670be3abd721d28522d8638588e49e1228",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Whether you sweated to earn it\nor struck it rich on the market, money\ndoesn't come with its origins written on it...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing thought; source of money is irrelevant to its spendability. 9:52 supplies the caution."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0052",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 52,
+      "text_offset": 46364,
+      "source_sha256": "374c431874e501553eedcce93834a20e6537b3e5543c27eb1ba1d3054d0ab7a0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Still, keep it in moderation.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0053",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 53,
+      "text_offset": 46382,
+      "source_sha256": "3bb3bce891d69554dd67e9cd9c5b66d70e3c606afd44515e7547cb7cd276981b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Our investment in Public Works has paid off!!\nFor the first time in ages, the Herbalist\nhas a promising new product!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0054",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 54,
+      "text_offset": 46470,
+      "source_sha256": "e05476cd3aaab932a7e544097f2c4624b6250870c1b4f041e5a57cff71ad60cf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's called Eastern Horny-Goat Root, apparently...\nI think not knowing what's in the medicine\nwill make it easier to swallow.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "The fictional medicine's suggestive ingredient name is retained; Itsuka declines to identify the actual ingredients."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0055",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 55,
+      "text_offset": 46562,
+      "source_sha256": "c1e9513fdd61ff1d0f72d2d62c09c6b446c820b6d3a9b354dbe8d4f0a5471c6c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Thanks to our investment in Public Works,\nthe Commodity Broker now offers paper!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0056",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 56,
+      "text_offset": 46622,
+      "source_sha256": "a185f0dc41dd30a5d8bdd6490f4eedef474eef7bf104a53eb5d4b56a4a6a65d4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Herbalist has put\nanother new medicine on the shelves!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0057",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 57,
+      "text_offset": 46678,
+      "source_sha256": "6222d164ab3f54136e66ccc01cf8cdfe3ba7e80dbfa909dfd2ea1f4325afc5c8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's called Mystic Spring-Sun Decoction.\nIt sounds good for people who feel the cold.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0058",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 58,
+      "text_offset": 46732,
+      "source_sha256": "a995a83080398ab832a8815ff4f346e9590e56e81b29b17bbfba36617cb02b50",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Commodity Broker has added cotton\nthis month!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0059",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 59,
+      "text_offset": 46786,
+      "source_sha256": "f50a8bb9d681e14e23a609f006f96a598df60266dab8ae5593fb73cda6d9c3bc",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "How about making a killing on the market\nand putting the profits back into investment\nonce in a while? Go all out!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0060",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 60,
+      "text_offset": 46876,
+      "source_sha256": "11ac9623e3e328c71a1f604420eeab16eabc3a40322ea5295261f98205b7829d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Herbalist in the public sector\nhas developed yet another new medicine!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0061",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 61,
+      "text_offset": 46936,
+      "source_sha256": "509343ad340c0b937b34a1a2e1d3856df8478223e2684dc68d59a6fdb5946708",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "This one's called Snake-Whip Venom.\nThe name alone sounds a little dangerous...\nBut it might work...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0062",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 62,
+      "text_offset": 47024,
+      "source_sha256": "62fd589d8acf351ce6349095b0b872b161524cab10ab10b3aa42b8c387744efd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Commodity Broker's new arrival is hemp.\nIts price movements will be worth watching!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0063",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 63,
+      "text_offset": 47092,
+      "source_sha256": "ac5e1bd875369b85dbdce781886bd235e974208327dbb1435da2287bdecb090a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "After much anticipation,\nthe Herbalist's new product is here!!\nIt's called Tiger Bone, Dragon Blood.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0064",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 64,
+      "text_offset": 47162,
+      "source_sha256": "bf60d9c490c96fc277d2c7676bf9541f32bd53b6f710f6e0448bc2faf4a6cfbf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Whenever that Herbalist makes a new medicine,\nour family seems to be\nthe very first to hear about it...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0065",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 65,
+      "text_offset": 47258,
+      "source_sha256": "a3cf5eb940469ac9d0524366e892f4e0c6a89a086994a5e7c6a5f1ca6f1716e6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "We're not being used\nas human test subjects, are we?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka worries the family may be used as experimental subjects; not a statement that this is happening."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0066",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 66,
+      "text_offset": 47312,
+      "source_sha256": "4dc3182b9a72eb5dcdbc524ee1629f43c85a2d374f52ea989f979a10993e0af3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Commodity Broker has added\nanother new commodity this month.\nThis time, it's charcoal.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0067",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 67,
+      "text_offset": 47402,
+      "source_sha256": "93487f02111453423faeb85d767910b19dbb06a1530069060b1918980d5b53a2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "\"We've char-called it a day on new commodities!\"\nApparently, the broker kept telling\nthat awful charcoal joke...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Adapted the charcoal/done homophone as char-coal/char-called it a day. Deliberately bad sales pun; charcoal remains named in 9:66."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0068",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 68,
+      "text_offset": 47502,
+      "source_sha256": "3bd836b11dc9c4ac57100b494a64496bd4d84eab15b5416f7b3e305354768734",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It left the customers cold,\nand the market cooled off too...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Preserved the cold joke and the market cooling off, linking the consequence to 9:67."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0069",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 69,
+      "text_offset": 47558,
+      "source_sha256": "9bd7635bc2534fec87a5563ab7beeafa8827144b60ba9522baec551cc69981e6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Herbalist has made another new medicine!!\nThis latest masterpiece\nis called Goddess's Clove Wine.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0070",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 70,
+      "text_offset": 47640,
+      "source_sha256": "1e03e4ba392f784f692384976f5de8cd7c235cc98688095d07629af660118b65",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Am I the only one who finds it\nall the more suspicious\nbecause the name is more sensible than usual!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0071",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 71,
+      "text_offset": 47724,
+      "source_sha256": "1574a692ebfea0c6b13d4bc335a1d0b9bbc038375dfec462d5190779ccd5a6dc",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Apparently, the Herbalist\nhas finally perfected\nthe ultimate medicine!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0072",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 72,
+      "text_offset": 47786,
+      "source_sha256": "6829672df7e65667819b1f290f65358b7cad928d115f6eb3ad6259f371fdd720",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "So we can stop\ninvesting in Public Works now.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0073",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 73,
+      "text_offset": 47834,
+      "source_sha256": "2b589cbd6ec004877c59410a4aee7bd40a423f3403a8edefd31924c4e8faa6f4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "By the way, it's called Perfect Great-Demon Elixir.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0074",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 74,
+      "text_offset": 47870,
+      "source_sha256": "825f90dd278f3faf4e21abf8ae25f6e1a2b344d4e4b68b006c7f5312519bafe1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Well, the Herbalist has a taste\nfor those names, so what can you do?\nI'm used to it by now.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0075",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 75,
+      "text_offset": 47964,
+      "source_sha256": "68fb227b8cc62f895bf2454cbb3b7b7c5f2c84f97e6dfd2f01ebe484fcb73d42",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "With the %@ clan's investments in Religion,\nthey're going to build a tower so high\neven the gods above the clouds can see it.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0076",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 76,
+      "text_offset": 48054,
+      "source_sha256": "204e76d753514bd1d2c71e61cc56aba90d671282a0b6ded81be8d85bb3bad0ed",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The tower's name will be...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional name-introduction fragment; the next row supplies the tower's title."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0077",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 77,
+      "text_offset": 48068,
+      "source_sha256": "84783f6420870bb18a75a8eaa9c1feaffb09d4f5660f9c787958abf77341d94c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "\"Reach the Heavens! The %@ Clan's Tower of Prayer.\"",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0078",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 78,
+      "text_offset": 48100,
+      "source_sha256": "935219c94b57ba1984d91c5426be977d12fb746b88037f0026b177ec0277f142",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The name's a little embarrassing,\nbut they're really trying their best\nto show the %@ clan some consideration...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing justification retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0079",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 79,
+      "text_offset": 48198,
+      "source_sha256": "b210099bc7e26af36bd2a5ea5fe0feaeb5938a89b208a2a2ba0533bf88a638fd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Getting along with people\ncan be so complicated...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0080",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 80,
+      "text_offset": 48242,
+      "source_sha256": "4d92194e082d63a029ce4a831742aa321ef2e72b0ac1649fbc9b2d17894152ab",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Next month, they're using the %@ clan's\ninvestments in Religion to build\na great big statue of a god! Bam!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0081",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 81,
+      "text_offset": 48350,
+      "source_sha256": "63874cfb1f992842c3833f0902806ec1cabe18df81dd73187cb3025f5834ae0e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "And the name of this enormous statue is...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional name-introduction fragment, completed by 9:82."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0082",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 82,
+      "text_offset": 48378,
+      "source_sha256": "3c65981e2aeb3f5db91e4729447f2c5a3ec3ca2017bb1d9f358caecaf88b4599",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Apparently, it's written\n\"Great-%$-Vishana-%@-Throne Deity Statue,\" but...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "The generated statue name is intentionally unreadable. A coined Vishana compound preserves the source's mangled religious title and placeholder order; pronunciation remains uncertain as 9:83 states."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0083",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 83,
+      "text_offset": 48432,
+      "source_sha256": "2e2b9f42c3af3ae1aca90712da259e707e34ed3c7a963e4685fe6953815edb57",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Nobody knows\nhow you're supposed to pronounce it...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0084",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 84,
+      "text_offset": 48480,
+      "source_sha256": "34ed24861d017c194b3a1db5efb4a7aebf99e9021f8747976f6e3696454467bf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Our investments in Religion have given\nthe %@ clan a wonderful reputation in the capital!!\nAnd at last, next month...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing announcement, completed in 9:85."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0085",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 85,
+      "text_offset": 48568,
+      "source_sha256": "52060370819265cc9fc607a69697693235168cab16acd677b350eff5bb93cb02",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "To celebrate the %@ clan's coming victory,\nthey're building the \"Go, %@ Clan!\"\nTorii-Shaped Triumphal Arch!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0086",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 86,
+      "text_offset": 48666,
+      "source_sha256": "66667dad47f8e30ecbe30f6004dbc2234943513791a10845ee270c72e705bb65",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Let's put even more spirit into our efforts\nand go all out, so our own exploits\nlive up to that magnificent arch!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0087",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 87,
+      "text_offset": 48758,
+      "source_sha256": "1e1b2448bafd8ef00dbceed7102eaf11c4b861dcd9d4b80052d0a0ff0b358dac",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "They're going to use some of the %@ clan's\ninvestments in Religion\nto build a new bridge over the Kamo River!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0088",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 88,
+      "text_offset": 48860,
+      "source_sha256": "29b1adae3957dfe1bda7e139d1b462dd37f8a443eab009dd443a65a1410993c8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The bridge will be called\n\"Race to the Future! The %@ Grand Bridge.\"",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0089",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 89,
+      "text_offset": 48904,
+      "source_sha256": "d0acb8a736a259766cbcf5173e33fc5d9de32268635ed23379b44fcfc0eae377",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "They used \"kakeru\" for both\n\"span a bridge\" and \"race ahead.\"",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "The Japanese bridge/span and race/run homophone is adapted as spanning/racing into the future, with the explanation retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0090",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 90,
+      "text_offset": 48954,
+      "source_sha256": "8ebb5adeafd7462e6314776c639253197fdf7abdd78f563b28f4ec5bfee2504e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...Ha-ha-ha.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Awkward laugh responds to the immediately preceding bridge pun."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0091",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 91,
+      "text_offset": 48964,
+      "source_sha256": "5fdd874e084b47c7da17139d18091d20ea23bf14a27ffb410ff62271ca2c4752",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan's investments\nin Religion have paid off. Next month,\na splendid temple will be built!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0092",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 92,
+      "text_offset": 49044,
+      "source_sha256": "136c3476af7a85ab46146696e26a54d3a2ea6d749972c38998fc3dbda3fa0bf8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Its formal name is\n\"Temple of Hiruko Taishoten, Goddess of Wisdom and Beauty,\"\nbut...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Formal temple title names Hiruko; the following comic nickname is a shortening joke, not a second goddess."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0093",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 93,
+      "text_offset": 49110,
+      "source_sha256": "d1012adbb077459d9a7b7347ee1c2ce7fb158d34a0a71b5a7405694bbb9720f3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's too long to remember, so everyone\ncalls it the Tiny Tots Temple.\nIsn't that awful!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head in conditional rebuilding reports: religious discounts, entertainment frames, Public Works shops and medicines, then extravagant religious monuments. Milestones are alternative reports. Lower Offering Points means lower Divine Union costs. Empty records stay empty.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Tiny Tots Temple adapts the irreverent childlike nickname; exact Japanese sound play is not reproducible in the formal English title."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1632 @@
+{
+  "schema_version": 1,
+  "version": "0.2.36",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "dialogue_slices": [
+    {
+      "file": "itsuka.mlb",
+      "start": 520,
+      "rows_in_slice": 80,
+      "rows_examined": 86,
+      "adjacent_context": "Whole-file rows 518-519 before and 600-603 after. Begins by continuing the Divine Union tutorial and ends with the first religious-investment report."
+    }
+  ],
+  "rows": [
+    {
+      "id": "ore:0000c000:0015:07:0016",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 16,
+      "text_offset": 36392,
+      "source_sha256": "e60236bf43ac5d4e09907675b921d039d6a6be011fa5ac29e76b4e6be4f5bd8e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@You won't be able to choose Sortie or Rest,\nso please keep that in mind\nwhen planning your month.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0017",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 17,
+      "text_offset": 36476,
+      "source_sha256": "42827d4e10549321d6ae7ebeaec9f6269df5d509020ae22da2f8921bcf4109a3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Buy / Sell is for buying and selling items!!\nYou only have to give the orders here, %$.\nI'll run into town to do the shopping.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0018",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 18,
+      "text_offset": 36574,
+      "source_sha256": "b6568f8cc24e9d7fedcad3ede42e10563cd94ef446bec92ee9da49971c6134fe",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@At least once a year, let's clear out\nall that junk gathering dust in the storehouse\nand sell it off with a bang!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0019",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 19,
+      "text_offset": 36672,
+      "source_sha256": "9442d1b958baa3ca7b264f6ff161179913688b5cae7d1806f2e3a7d4c9f49696",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@You can't sell weapons or armor anyone is wearing.\nWe couldn't have someone catching a cold\nbecause their clothes suddenly vanished!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0020",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 20,
+      "text_offset": 36770,
+      "source_sha256": "fb2f97d1eefa0ce753f1454877371f953ca46870f014a2064403946037342296",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Um, and as for shopping,\nyou'll need to invest quite a bit\nbefore the shops are any use at all.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0021",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 21,
+      "text_offset": 36870,
+      "source_sha256": "7d28224f94cfbd70222d54bcf7d88e55b2380dcf3adb1ab5d0ee1fb49bba888e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Thanks to Shuten, the capital is in ruins.\nThere isn't a single shop\nwith a decent selection!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0022",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 22,
+      "text_offset": 36966,
+      "source_sha256": "b07bc53b6b41576d9687e1abd8f2bfb9f9962633fa4e1d292e49eb7c5af0724c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@But don't worry!!\nI'll put my heart into making equipment\nfor your children's first battles.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0023",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 23,
+      "text_offset": 37062,
+      "source_sha256": "01fee06298e57874422fa785f6eb47ac20543910dffcffd524c3419d28ed93ce",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Facilities lets you visit various places\nbesides the weapon shop, armor shop\nand general store.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0024",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 24,
+      "text_offset": 37146,
+      "source_sha256": "9e4157bef37773982e8f49dc3b74b615de26e2e84cecfd8b8b84d1c8c11d48cd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@As life returns to the capital,\nwe should get more useful services\nand more ridiculous little extras too.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0025",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 25,
+      "text_offset": 37242,
+      "source_sha256": "8fc70f7abc6b248f08c687b1ed99c476af1f11edc1baba77462156bffbda1f97",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Ridiculous little extras!!\nDoesn't that sound fun?\nI can hardly wait!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0026",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 26,
+      "text_offset": 37314,
+      "source_sha256": "48fec1c9a3638c8a21c5f0bff5de35d40a1c6172c2edba197f49a24209a9da68",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Rebuild lets you invest in restoring\nthe beauty and bustle of this capital\nafter Shutendoji's rampage.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0027",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 27,
+      "text_offset": 37408,
+      "source_sha256": "8e2c9778311f732b270d1b4a4e59cfdc6c8347f3c0aeea732de986e0a4c98bc1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@And for that, above all, we need money!!\nGood intentions and stirring slogans\nwon't get people moving, will they?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0028",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 28,
+      "text_offset": 37502,
+      "source_sha256": "0c349f37fd240817ba63d6110eb2d69e32322cd2f22b8ebe84fd6a4412217ae7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@More shops mean more goods!!\nSkilled craftspeople and pretty young women\nwill come flocking here too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0029",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 29,
+      "text_offset": 37600,
+      "source_sha256": "9b90737ae35854efd030d99c1edcc1affb075355fcf3821d2f1447bae003fd22",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Exactly!! You're not throwing money away.\nIt'll come back around one day,\nmany times over, with a bang!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0030",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 30,
+      "text_offset": 37710,
+      "source_sha256": "eabbf27c0eea339a7ca5537530d4a4bcc3584789652f0c678df2d451811c1ab8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@...I think. Probably.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Short qualification of the preceding investment promise, not a separate factual guarantee."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0031",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 31,
+      "text_offset": 37736,
+      "source_sha256": "632ebfdcea1aaf5dc22956d2a251dd042de75212fd71ad520464bb84209f3d2f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Rest lets the whole family\nspend a month relaxing at home,\nrecovering strength for tomorrow.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0032",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 32,
+      "text_offset": 37824,
+      "source_sha256": "2fb4e859df3c6bfefcf68a4406269e51bb88adc3fc165204ee426c24ad7e7311",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@You can still buy, sell, invest in rebuilding\nand read reports,\nbut you can't perform Divine Union or set out.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0033",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 33,
+      "text_offset": 37910,
+      "source_sha256": "589970d3da59be2422ad552aaa826b5c152a8dc1626aad641d935131902763da",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Incidentally, anyone who isn't chosen\nfor Divine Union or a sortie\nrests on their own anyway.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0034",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 34,
+      "text_offset": 38012,
+      "source_sha256": "43594dc7a42f0709306c247eab2b5b436f808abc70a038eaeaf061b308a25041",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Well, once in a while, why not have everyone\ngather around the low table\nand enjoy a nice meal together!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0035",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 35,
+      "text_offset": 38108,
+      "source_sha256": "e4b77aa464f5aaa94a616f5ec5c653fb6eb3081c1b688f2a0a77a418929b3854",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@...So, how about\na good, hearty rest right now!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0036",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 36,
+      "text_offset": 38174,
+      "source_sha256": "e400268ac46cfd222bf7793a2d128a2ab1ae474a541bb6ac4b5928c02af8cdaf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Then please work hard next month!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0037",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 37,
+      "text_offset": 38212,
+      "source_sha256": "c01a8f7e3d30f90f48bf7ecf095c42dd550aaa637e59d200f12643ec4e72be7e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Hee-hee, we don't have time for that, do we?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0038",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 38,
+      "text_offset": 38246,
+      "source_sha256": "23c5bdb96006d2dbe4ae87d90c6cff1e6d6532fd11b577d6d9d8e9e86f60d278",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Save records your current progress.\nYou can create\nonly one set of save data!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0039",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 39,
+      "text_offset": 38332,
+      "source_sha256": "7b1994d7a9c6377c37ac64e7033e014f10e27d31cf53bcdb7b5d5595cbbecc35",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@They say you never know what lies ahead,\nbut sometimes enjoying bad luck is part of life...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing thought retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0040",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 40,
+      "text_offset": 38404,
+      "source_sha256": "803e804c7f96ccea9ebf91ec3c2e0011e5bdd466d36a11d17f102fa6ab59f026",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Whatever happens, save only once a day\nand avoid resetting as much as you can.\nThat's the spirit I'd like you to play in!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Once-a-day saving and avoiding resets are Itsuka's requested play style, not a claimed engine restriction."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0041",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 41,
+      "text_offset": 38502,
+      "source_sha256": "f8409299fabe7e76144d64f8c21417270656205087c2662c3fd9d196853c2c7d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@With that understood,\nwould you like to save?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0042",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 42,
+      "text_offset": 38548,
+      "source_sha256": "024deb5cad904b33d434c6f3c5cf2284b162c09de7a0e07d16e75b3f37737fc9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@\"Save only once a day.\"\nLet's make that a %@ clan rule\nfrom today onward!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0043",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 43,
+      "text_offset": 38624,
+      "source_sha256": "0c9047d722cd5b8ef4f225e0a7c6bc0f7da239a97a3e60955203564e3d00af37",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@There are two places to keep your items:\nthe Pack and the Storehouse!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0044",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 44,
+      "text_offset": 38690,
+      "source_sha256": "2154076d1b4edcaea603debb5ad80d62b308cbbf9469eca4d137de1ae93541e6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@The Pack doesn't hold all that much,\nbut it's wonderfully handy:\nyou can take it straight out on a sortie.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0045",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 45,
+      "text_offset": 38786,
+      "source_sha256": "18b56b9bc4f5dc8cb2ce5a0884f3f7434a59fee8f55233b9803b9f8c246aa12f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@The Storehouse is... well, a storehouse!!\nYou can keep mountains of items in it,\nbut you certainly can't carry it around...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0046",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 46,
+      "text_offset": 38886,
+      "source_sha256": "1473ca769020b8799416382627e5d1f02538aca7009acca25988aa0d92637cc6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@When you return from a hunt, sort out\nyour loot-filled Pack before you forget.\nToss anything you won't need soon into storage!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0047",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 47,
+      "text_offset": 38992,
+      "source_sha256": "77816564bd762414b251224e0a4f0d5b9fb14f9d36c09af2cfbdad598a55189c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Help gives rather slapdash explanations\nof this world's special terms and systems,\nalong with some rather unreliable advice.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0048",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 48,
+      "text_offset": 39082,
+      "source_sha256": "f08296ddc16843294ee16d82c50a30bb26deebc13c2bf387275f40bf0169630e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@As the person writing it, perhaps I shouldn't say this,\nbut I'm very confident in its inaccuracy!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0049",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 49,
+      "text_offset": 39158,
+      "source_sha256": "98d3e088ab984363cd34e34c73e0ed16ebfdb2bf0caf749c50fda38c5b54bae6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@So when you're feeling stuck,\nI'd be delighted if you read it for a laugh,\na little comfort, or just to pass the time!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0050",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 50,
+      "text_offset": 39258,
+      "source_sha256": "d992e6a13dba6236293d61c5288e22379a1d1a36f73f85c28fe7bd7892a38a05",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Settings includes text display speed,\nswitching between the play-time modes,\nand so on and so forth.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional list fragment; Settings is the subject, continued across its displayed lines."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0051",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 51,
+      "text_offset": 39334,
+      "source_sha256": "8234682be993b36484cf9c78e3f5cc6e1037dffb771c6c18668f920d06ded274",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Just tell me whenever you want to change anything\nto suit your own style and preferences, %$.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0052",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 52,
+      "text_offset": 39406,
+      "source_sha256": "0a136683e0c969a934cf2ef556dbcffe8c938f0c759ef8f72ae011338f2692e0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@To change something, select the option\nand press the ○ button.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0053",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 53,
+      "text_offset": 39460,
+      "source_sha256": "884d0bdac124066bf42c705e86dc5684cb9ce3f5620d6debe15e73addd1d9c56",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Births, new clan heads taking office,\nvictories over powerful enemies...\nThe Chronicle is the history of the %@ clan.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0054",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 54,
+      "text_offset": 39562,
+      "source_sha256": "4edc2d317210e7bb8245090b239d2b00e2adf05115229ea4c993801484ffdd0e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@But since the one writing it is me,\nthe world's least detail-minded person,\nhee-hee...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing fragment retained; continued in 7:55."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0055",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 55,
+      "text_offset": 39636,
+      "source_sha256": "6e2a304e91d044b5ab32d95940c53951f1d9d02864582126618058958e6122ab",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@I'm absolutely sure some details are missing!!\nI'm sooo sorry!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0056",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 56,
+      "text_offset": 39692,
+      "source_sha256": "704f14e7005099f2767860af4ffb2e32f2b2729780bd28dfe495ce7a82995a7a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@So, %$, I'd recommend keeping\nyour own history of the %@ clan\nin your own words!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0057",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 57,
+      "text_offset": 39792,
+      "source_sha256": "b5b9e33107fb101ba076a947f3ede89eb9ebc0c5761afd93c00ae4dcc6829c45",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@The party leader's job is very important,\nso please remember\nwhat I'm about to tell you!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0058",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 58,
+      "text_offset": 39884,
+      "source_sha256": "5f617533670e955fb25aa4ab2ddd7dcc2d23934565b4a934b529d3b9e144cde4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@First: when you aren't joining a sortie, %$,\nplease appoint someone you trust\nto lead the party.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0059",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 59,
+      "text_offset": 39968,
+      "source_sha256": "e0d008f61b7a40a0624350e72a77dd3eb23eecea1917dcf1eb21b513f68e406c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Second: during battle, everyone except the leader\nwill regularly suggest\nthree tactics of their own.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0060",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 60,
+      "text_offset": 40058,
+      "source_sha256": "df5658a0c02d3ae565c3cd020db13180bb0228616df1b0ad07c2979cbaca368a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@You can reject those suggestions,\nbut please try to choose one when possible\nto encourage their initiative.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0061",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 61,
+      "text_offset": 40164,
+      "source_sha256": "88466b11db6c410798fd2d01b66f761a575d55d4db0878b8ad2de964f12d14d6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Third: if the leader can no longer fight,\nthe party retreats at once, even if the others are fine.\nKeep a close eye on the leader's HP.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0062",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 62,
+      "text_offset": 40264,
+      "source_sha256": "f8f30fc4931c07c46c60a07fe80546d65a988a9a4ee290b9853aff91afdb0197",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@For Best Equipment, I hand things out\nin the order you selected the party,\njudging only by the equipment's numbers.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0063",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 63,
+      "text_offset": 40366,
+      "source_sha256": "0df3e600d8f9b3b042a4b71590a372da23d376753fdade51f973e42cab826823",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@So choose the party in the order\nyou want its members to receive the best equipment.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0064",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 64,
+      "text_offset": 40438,
+      "source_sha256": "625d24148d98d029a861e736625a96c331029d6e4b7f11654c3401b92e15abdd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Also, I hear some weapons and armor\nhave special effects...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing fragment retained; special effects are dismissed in 7:65."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0065",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 65,
+      "text_offset": 40508,
+      "source_sha256": "a9aad4336f9211d3d6c2cac7028e20974b0b445191e7049b1a0136dbb7e5125f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@I don't worry about\nthose fiddly little details at all!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0066",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 66,
+      "text_offset": 40574,
+      "source_sha256": "cc0b2331c55f7b4a1967e823919fb047827d5bc1f87ecd33af73f4079dc02a43",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@You shouldn't worry either, %$.\nFussing over every little thing\nwill make you go bald!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0067",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 67,
+      "text_offset": 40664,
+      "source_sha256": "c82c95f944f3ff99d33b5cccecc83d30cb53ac68a273b9998b436788e27a7723",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Before your first sortie,\nplease allow me, %$,\nto offer some advice.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0068",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 68,
+      "text_offset": 40732,
+      "source_sha256": "e6be0ebe02545ea2eff11134c06b9a51c74fa7e778394cdc0eff686c185600ef",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Until you're used to the tactics of battle,\ndon't skimp on medicine. Heal your HP early,\nwhile you still have plenty to spare.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0069",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 69,
+      "text_offset": 40828,
+      "source_sha256": "8f12889e18fd789d5600a592e4edf6b2a8de050327e0ff24a7022f24bb27d8e3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@If you meet an unexpectedly powerful enemy,\nuse your last resort under Skills:\nthe Clan Head's Ring.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "pending_selected_context_0.2.36",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Standardized the accessory as Clan Head's Ring from the item table and PSP wiki. The battle-menu source calls it a bracelet; the discrepancy is recorded in the glossary.",
+        "Compact battle UI alias; retains item identity. Previous English: @If you meet an unexpectedly powerful enemy,\nuse your last resort under Skills / Other:\nthe Clan Head's Ring."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0070",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 70,
+      "text_offset": 40930,
+      "source_sha256": "26ce22a22029b4c7d20cff35c210636e76caabd34dc3fa9a82588df245a5da26",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@If you're stuck in a dungeon\nwith no way out, choose Return.\nWell, do your best!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains home menu actions to the clan head, including investment, rest, saving, inventory, leadership and the first sortie. Rows 16 onward continue the previous slice's month-long Divine Union explanation. Tone is respectful, chatty and teasing; no gender is inferred for runtime family members.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0000",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 0,
+      "text_offset": 41080,
+      "source_sha256": "111f1d4379991b6b20e087aecb728ba79cfd4bc2e9fe1dac7f5e8108e2beed44",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, I have something important\nto discuss with you.\nPlease stay calm and hear me out.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0001",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 1,
+      "text_offset": 41152,
+      "source_sha256": "1c108cc9a46179035d9219e21272c1597cfc102a7cf12bc1295bad3ca221dc77",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The backup memory\nis getting close to full.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0002",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 2,
+      "text_offset": 41216,
+      "source_sha256": "84a15eb28d6fd15f1218fe4e2fb6d76c57b8fcb14f6b84e51f1dda692bce2546",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Once it's all used up,\nyou won't be able to continue the game.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0003",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 3,
+      "text_offset": 41276,
+      "source_sha256": "2f040d09107fc610fc526f1ac3e21630cc1a0251792ec87df68328eb072739a3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The remaining space holds roughly\ntwenty more characters...\nOr, in years, a little less than ten.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0004",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 4,
+      "text_offset": 41358,
+      "source_sha256": "7d114a38ab4dea5457ed7cb3c5a60c270032e6b3a7e72a701da518e6e1561851",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "So please give up collecting\ntreasures and beauty prints from today\nand devote yourself to defeating Shuten.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0005",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 5,
+      "text_offset": 41452,
+      "source_sha256": "9c689f2a5e2c47b215d9ef6e2cd10c43f59e3b8750243bdc16cdc9ca2cb506b4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You'll be fine!! With the %@ clan's\ncurrent strength,\nthree years should be more than enough!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0006",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 6,
+      "text_offset": 41530,
+      "source_sha256": "dbe6fec8f2acbd3207a53bc70c268224c7045e0eb646affe5aa2b561a8d60740",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Good mooorning, %$!!\nThis month, we'll finally get Shutendoji...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source interruption retained; Itsuka changes the subject in 8:7."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0007",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 7,
+      "text_offset": 41586,
+      "source_sha256": "23dc3c8b8b63bd53641bf79389eee2a97edeb2e70ffdf2ea68ab3a65161f5726",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Oh, right, that reminds me...\nI've heard all about it, %$!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0008",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 8,
+      "text_offset": 41638,
+      "source_sha256": "91e0d3c2a6d565f2da5f4c37a9ae544cae0d13e3759bb5bf1bb0cb281e509bd2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You went out while I was napping\nand even defeated Shutendoji\nbefore coming home!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0009",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 9,
+      "text_offset": 41720,
+      "source_sha256": "a9059257f03726f48e0249135150670633b7e85b22bb58ba8be8ea43e82aa3e0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Honestly... Keeping something so important\na secret from me until now\nis just mean! Hmph!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:08:0010",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 8,
+      "index": 10,
+      "text_offset": 41810,
+      "source_sha256": "e4a011ed6a700fed991f486f38a7f2db0dceb55fb9b69495929ec43ca33204c9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "So what happened to Shutendoji\nin the end?\nPlease tell me too!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Conditional storage-capacity warnings followed by Itsuka's cheeky post-victory dialogue. The capacity figures are translated as the source states them; this legacy-style warning has not been shown to trigger in the PSP build.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0000",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 0,
+      "text_offset": 42516,
+      "source_sha256": "08a61df2691c57426ce8a8b22572a49052db1843e20186581a985a278b5596ba",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A new accessory shop has opened!!\nAnd the other shops in the commercial sector\nhave improved their selections a fair bit too.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0001",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 1,
+      "text_offset": 42606,
+      "source_sha256": "699c8e9a5ea36eb36a25dcf8483af899262aa3c7707e507505537bb987af293b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "All thanks to the %@ clan's investments!!\nI'll hold my head high\nand go shopping with a bang!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0002",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 2,
+      "text_offset": 42704,
+      "source_sha256": "0766b6a4394b37fc4f37d276ec1c350ddc2777e3d0c5a5fb90dc5d99e575c365",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Good news!! The %@ clan's investments\nin the commercial sector have paid off.\nAll the shops have more goods in stock!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0003",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 3,
+      "text_offset": 42810,
+      "source_sha256": "04b69e0051b253c3eaa40ed3fefec5234aaeacd50def58d75843ed23c4070be3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Let's keep investing generously\nto strengthen our fighting force.\nGo all out!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0004",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 4,
+      "text_offset": 42890,
+      "source_sha256": "0cd7a047cd52baabf3cc44b0ca71caf2ad4c8a23b7466ad3756666bc360d29b2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Our investments have paid off!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0005",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 5,
+      "text_offset": 42918,
+      "source_sha256": "c88e19fcafcd21994c6bb0a7333992354343c9a38a9bd78145df158eea98bbef",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The shops in the commercial sector\nhave expanded their selections in all sorts of ways!!\nPlease take a good look later.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0006",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 6,
+      "text_offset": 43014,
+      "source_sha256": "13d825a32040ce92b0f22067fdf34071106c5db428722d08dc744ccb259b04ee",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Our investments have paid off again!!\nThe weapon, armor, accessory and general stores\nhave all changed their stock with a bang!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0007",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 7,
+      "text_offset": 43116,
+      "source_sha256": "5bd5bf9099f682a88d4f07b1c15aa261bcf4a291b533f9231a00f09d036ba624",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The shops in the commercial sector\nare getting quite well stocked!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0008",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 8,
+      "text_offset": 43174,
+      "source_sha256": "e91d3a7ccba9d283ee5d408c4f9ce2d80ecec6ecf7becf224c35033d9ac7915b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Let's seize this chance\nto give our fighting strength a big boost!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0009",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 9,
+      "text_offset": 43228,
+      "source_sha256": "f5da4854ec495b43d1566c92652c084e539e7986322e29eeedb7bb85d75de3ef",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The commercial sector has grown again!!\nUseful weapons and armor are piled so high\nthey're spilling out in front of the shops!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0010",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 10,
+      "text_offset": 43328,
+      "source_sha256": "2b22496374d436f499adadce6db974d319864c5fff3efcca21138b2550faa32b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "There are so many tempting things\nI can't make up my mind\nwhat to buy first!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0011",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 11,
+      "text_offset": 43408,
+      "source_sha256": "427dd222b57d050fc37cfdb66c55560830904b62062d4e702e5b8fbd8be2da8d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "At last, every shop in the commercial sector\nhas the best possible selection!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0012",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 12,
+      "text_offset": 43472,
+      "source_sha256": "2a1ce90cab76c4f929ac6f836bc72228dbbb54ddc7ed897a01eb5252911b7827",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The supply of weapons and armor is stable too.\nWe don't need to invest in commerce anymore!!\nReally!! There's nothing to worry about!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:09:0013",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 9,
+      "index": 13,
+      "text_offset": 43574,
+      "source_sha256": "3bf544aff5c2db0de206c6a30927c5f333ca5a656a07126fb3ad9b519bd6159a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Thanks to our investment in religion,\nthe Offering Points required for each deity\nhave dropped a tiny bit!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports conditional commercial-investment milestones, then the first religious-investment discount. These are alternative progress reports, not a single uninterrupted speech. Reduced Offering Points means a reduced required cost, not a deduction from the clan's balance.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "version": "0.2.23",
+  "native_resolution": [
+    480,
+    272
+  ],
+  "native_image": "EBOOT:warning.ppt",
+  "font": "Noto Sans",
+  "font_size": 14,
+  "lines": [
+    "This story is entirely fictional.",
+    "It has no connection to real people, places,",
+    "organizations, product names, or the like."
+  ],
+  "line_bounds": [
+    [
+      144.5,
+      110.5,
+      335.25,
+      125.0
+    ],
+    [
+      99.0,
+      130.75,
+      381.0,
+      145.0
+    ],
+    [
+      103.0,
+      150.75,
+      377.0,
+      165.0
+    ]
+  ],
+  "embedded_archive": {
+    "original_offset": "0x275230",
+    "new_file_offset": "0x366320",
+    "new_address": "0x9b7e320",
+    "bytes": 30548,
+    "sha256": "bb6f2d3f062211fd8a1f5a31622f81388c071ed616cb99b2bf927f4f47d0213a",
+    "original_logos": "All four decoded logo assets byte-identical",
+    "warning_member": 4,
+    "warning_name": "warning.ppt",
+    "warning_sha256": "8e9dc117495e169b72e8828f82cbf49507fe8bfebdbdd47a7381733912416fa9"
+  },
+  "native_texture_palette": "unchanged",
+  "texture_replacement": false
+}

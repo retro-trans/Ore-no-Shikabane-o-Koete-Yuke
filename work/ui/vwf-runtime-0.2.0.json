@@ -1,0 +1,91 @@
+{
+  "version": "0.2.0",
+  "emulator": "PPSSPP v1.20.4",
+  "game": "UCJS10117",
+  "texture_replacement": false,
+  "native_image_pointer": "0x9b5c010",
+  "glyphs": [
+    {
+      "character": "P",
+      "advance": 9,
+      "destination_rect_quarter_units": [
+        0,
+        0,
+        18,
+        40
+      ],
+      "source_rect_64ths": [
+        0,
+        15360,
+        2304,
+        20480
+      ]
+    },
+    {
+      "character": "U",
+      "advance": 11,
+      "destination_rect_quarter_units": [
+        19,
+        0,
+        41,
+        40
+      ],
+      "source_rect_64ths": [
+        11520,
+        15360,
+        14336,
+        20480
+      ]
+    },
+    {
+      "character": "S",
+      "advance": 8,
+      "destination_rect_quarter_units": [
+        42,
+        0,
+        58,
+        40
+      ],
+      "source_rect_64ths": [
+        7424,
+        15360,
+        9472,
+        20480
+      ]
+    },
+    {
+      "character": "H",
+      "advance": 11,
+      "destination_rect_quarter_units": [
+        59,
+        0,
+        81,
+        40
+      ],
+      "source_rect_64ths": [
+        12032,
+        10240,
+        14848,
+        15360
+      ]
+    }
+  ],
+  "boot_verified": true,
+  "native_hook_executed": true,
+  "source_sampling_scale": 4,
+  "visual_verification": "Not complete: GPU screenshot API returned Could not download output in this hidden test instance.",
+  "non_ascii_fallback_verified": true,
+  "fallback_codepoints": [
+    26368,
+    21021,
+    12363,
+    12425,
+    12466,
+    12540,
+    12512,
+    12434,
+    22987,
+    12417,
+    12427
+  ]
+}

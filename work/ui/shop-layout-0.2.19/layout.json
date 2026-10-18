@@ -1,0 +1,57 @@
+{
+  "version": "0.2.19",
+  "stock": [
+    56,
+    42,
+    474,
+    168
+  ],
+  "owned": [
+    56,
+    8,
+    208,
+    34
+  ],
+  "funds": [
+    290,
+    10,
+    470,
+    34
+  ],
+  "comparison_frame": [
+    50,
+    174,
+    474,
+    242
+  ],
+  "comparison_cells": {
+    "visible": 4,
+    "width": 100,
+    "pitch": 104,
+    "left": 6,
+    "top": 4,
+    "name": [
+      0,
+      0
+    ],
+    "equipped_marker": [
+      0,
+      20
+    ],
+    "stat_label": [
+      20,
+      20
+    ],
+    "delta": "right-aligned; signed ASCII, original color retained",
+    "paging": "Original controls; clamped to four visible members"
+  },
+  "equipment_details": {
+    "left": 6,
+    "top": 44,
+    "width": 412,
+    "stat_region": 96,
+    "type_left": 112
+  },
+  "background_art": "Two large background kanji preserved byte-for-byte",
+  "runtime_verification": "PASS: selected contexts; see verification.json"
+}

@@ -1,0 +1,219 @@
+Translation investigation — 0.2.5
+Date: 2026-10-17
+Target language: English
+Status: partial English drafts and experimental native VWF test build; visual QA pending.
+
+Input identification
+
+The provided ISO is the PSP game, disc ID UCJS10117. PARAM.SFO records
+APP_VER 01.00 and DISC_VERSION 1.01; these are separate metadata fields,
+not confirmation that an external game update has been applied.
+ISO size: 847,937,536 bytes. The source image was not modified.
+
+Confirmed text inventory
+
+The data.ore archive contains 1,837 EZBIND containers and 16,637 indexed
+members, including 734 MLT message tables. All 734 tables were decoded
+without extraction errors. These contain 16,191 total records, including
+voice filenames, blank records, formatting-only records, and Japanese text.
+
+Japanese-bearing records:                 11,026
+Distinct Japanese strings:                8,984
+Kana/kanji characters, with repetitions: 134,536
+Kana/kanji characters in distinct strings:122,691
+
+Main translation workload, excluding pronunciation guides and speaker labels:
+Records:                                  9,133
+Distinct strings:                         8,027
+Kana/kanji characters, with repetitions: 123,662
+Kana/kanji characters in distinct strings:115,771
+
+Japanese-bearing records by inferred content category:
+  UI, system messages and help:           3,796
+  Dialogue, narration and subtitles:      3,315
+  Item/enemy/deity/spell names and terms:  1,290
+  Character profile traits:                 732
+  Pronunciation readings:                 1,212
+  Repeated speaker-name labels:             681
+
+Counts are text records, not spoken lines or Japanese words. A record can
+contain several displayed lines. Distinct strings use exact Unicode text:
+punctuation or spacing differences remain separate. Category labels are
+inferred from asset names; they are not verified scene annotations.
+Character counts use the reproducible kana/kanji filter in catalog_text.py;
+they exclude whitespace, ASCII, most punctuation and engine syntax.
+Do not add category-level distinct counts: the same text can appear in
+more than one category.
+
+The 68 .txt archive members are entirely ASCII; samples describe texture
+animation settings. They are not currently assigned for translation.
+
+Scope still to investigate
+
+This is a confirmed count of indexed MLT text in data.ore, not an exhaustive
+count of everything the player sees. data.bin is 272,633,408 bytes, but only
+its first 3,648 bytes contain any nonzero data; the remaining 272,629,760
+bytes are zero. Its short prefix has an invalid gzip-like stream and has
+not been decoded. This suggests padding/filler, not a 272 MB text archive;
+that interpretation is not claimed as a proven content classification.
+EBOOT.BIN was decrypted locally. Two embedded MLT tables were found and all
+18 records drafted/relocated; both loaders are verified live. BOOT.BIN is
+entirely zero-filled. Name-input character sets and color-control tables
+are engine data and retained unchanged.
+Image-based lettering, movie-embedded text, and other binary formats have
+not received an exhaustive visual/text audit. The final total may grow.
+
+Extraction findings
+
+EZBIND has an eight-byte magic, a member count and an alignment field,
+followed by 16-byte records: relative filename offset, stored length,
+relative payload offset and filename hash. Alignment values 4 and 64
+occur. All discovered .mlb members are in alignment-4 containers.
+Custom compressed message members begin 1F 8B 09 00, followed by their
+unpacked length and a raw DEFLATE stream. Decoded sizes are checked.
+
+MLT has a section count in byte 3 and absolute section offsets. Ordinary
+sections contain a record count and absolute string pointers. Player text
+is UTF-16LE; voice cue tables contain ASCII filenames. Some pointers alias
+strings in other sections, so section-local bounds are insufficient.
+Subtitle sections marked 0x1111 prefix their pointer arrays with 16-bit
+frame positions, padded to four-byte alignment with FFFF when necessary.
+
+Every local source record has a stable archive/member/section/index ID,
+its decoded offset, and a SHA-256 hash of the original string. Original
+text is in work/source/corpus.json and the ignored bilingual batch.
+
+Glossary and translation progress
+
+work/glossary/core.json contains 1,308 entries; credits.json separately records
+273 staff names and notices, including 23 explicitly provisional project
+romanizations authorized by the user after research. Sources distinguish game evidence,
+PSP reference material, and project-chosen English wording. The English
+spellings are project choices, not claimed official translations.
+
+Current combined draft: 11,580 records, including all 11,026 Japanese-bearing
+records and 554 retained non-Japanese records. There are 9,060 manually
+drafted records, 1,065 terminology copies and 1,455 linked name/readings.
+Distinct main-string draft coverage is 8,027/8,027 (100%),
+leaving no indexed main record IDs untranslated. Four records have actual
+visual-fit evidence; none are meaning-approved. All 732 Japanese profile traits
+are drafted, with ambiguous idioms and one context-selected food sense
+explicitly noted. This is partial translation, not a completed game.
+
+The second dialogue slice is indexed rows 440-519: 5:40-62, 6:0-40,
+7:0-15. Again 86 rows were examined: 2 before and 4 after the 80-row slice.
+Those two historical consecutive Itsuka drafts cover rows 360-519. See the
+batch metadata for conditional sword reports and tutorial context.
+
+The 0.2.1 continuation adds 273 Itsuka records, reaching row 792 and the
+end of that file. The new ranges are 520-599, 600-679 and 680-792. Review
+used 80-row windows 680-759 and 713-792 at the end, with 47 overlapping
+records stored only once. There were 275 unique Itsuka source records
+examined for these 273 new drafts. Four empty source records remain empty.
+Added 76 facility-service records include medicines, print-shop prompts,
+family photographs, storage-box warnings and frame titles. Full dialogue
+metadata and individual non-obvious decisions accompany the exports.
+
+Historical initial batch (0.1.0): 207 records, including 202 Japanese-bearing records and
+5 retained non-Japanese entries. This represents 201 distinct main source
+strings, or 2.50% of 8,027. There are 7,826 distinct main strings remaining.
+No records are marked approved or game-tested.
+
+  home.mlb:       99 records — all home menus, prompts and help
+  config.mlb:     18 records — all settings labels
+  prologue.mlb:    6 records — opening narration
+  gamesys.mlb:     4 records — difficulty names
+  itsuka.mlb:     80 records — dialogue and tutorials
+
+The dialogue slice comprises indexed rows 360–439, sections 4:0–39 and
+5:0–39 (zero-based). 86 rows were examined: the 80 translated records,
+two preceding records, and four following records. Indexed order groups
+event variants and includes late-game material; it is not chronological
+opening dialogue. Context and individual decisions accompany the drafts.
+
+Review decisions and open questions
+
+Itsuka's self-reference becomes I where natural, with explicit notes.
+The imagined reaction to her resemblance to Hiruko is marked as a quote.
+The sentence crossing 4:20–21 retains its row boundary and names Hiruko
+as the decision-maker. Deliberate trailing fragments are flagged.
+No gender was inferred for the variable clan head or family members.
+Itsuka's catchphrase is adapted to each sentence rather than repeated
+mechanically. Engine controls and placeholders remain exact.
+
+Kenpuku is a provisional reading of the swordsmith's name: references
+confirm the role and spelling but not the pronunciation. Verify against
+the voice or manual before finalizing. The large-armor category remains
+distinct from heavy armor. The supernatural scarlet mark is provisionally
+called a seal pending a screenshot and terminology review. Character
+personality and gender fields remain null wherever research did not
+establish them. There was no separate proofreader or sub-agent pass.
+
+Validation and game integration
+
+Read-only checks passed for source hashes, unique row IDs, the consecutive
+80-row dialogue slice, exact control/placeholder order, line-break counts,
+glossary names, Japanese residue outside engine controls, and equivalence
+between bilingual data and the source-free English export.
+
+These checks do not prove visual fit. The historical initial batch had 202 of
+207 records with an English UTF-16 payload longer than the Japanese.
+Expanded strings must be relocated and all affected pointers rebuilt;
+do not trim the translation to the old byte slots. Font support, wrapping,
+archive repacking and native code-path execution are now verified as
+described in docs/native-vwf.txt. Real PSP behavior and visual layout
+remain untested.
+Title and gender-setup boxes are measured from actual guest-display captures.
+work/ui/verified_screens.json records coordinates and the records checked.
+Other box/placeholder limits remain unverified.
+
+Title/setup, battle and facility menus, help, item/deity/spell/enemy lists,
+event dialogue, wills, ending narration and subtitle tracks are drafted.
+Twenty-three staff name readings remain provisional. The user explicitly
+authorized researched project romaji for these names, with uncertainty recorded.
+Five user-approved neutral nonsexual adaptations replace three Itsuka lines
+and two portrait captions; the rows are explicitly marked as adaptations.
+Capture actual UI screens to establish text-box widths and wrapping rules.
+The local 0.2.5 test ISO reuses the native font component from 0.2.0 and the
+embedded-message extension from 0.2.3. Six title-card graphic labels are
+patched inside native game assets; texture replacement is disabled.
+All 49 batches pass structural checks. Archive/ISO round trips pass;
+0.2.4 live boot, native-font execution, embedded message loading and selected
+actual-screen fit checks are verified in the isolated emulator.
+The test ISO is experimental; a successful boot does not approve
+all translated scenes or establish a complete translation.
+
+References used for glossary research
+
+Official premise:
+https://store.playstation.com/ja-jp/concept/10005802
+Publisher-provided PSP character description (Itsuka):
+https://www.4gamer.net/games/130/G013082/20110518031/
+Publisher-provided PSP character description (Kitsuto):
+https://game.watch.impress.co.jp/docs/news/455245.html
+Character overview, including names and roles:
+https://gameline.jp/oreshika/キャラクター/
+PSP deity names/readings:
+https://w.atwiki.jp/oreshika_psp/pages/18.html
+PSP classes:
+https://w.atwiki.jp/oreshika_psp/pages/14.html
+PSP stats:
+https://w.atwiki.jp/oreshika_psp/pages/57.html
+PSP swordsmith:
+https://w.atwiki.jp/oreshika_psp/pages/75.html
+
+Japanese script is retained only in ignored source/translation working
+files. English-only translation copies are produced by tools/strip_jp.py.
+Japanese names, glossary terms and exact engine control tokens are kept
+where permitted by AGENTS.md. No Git repository exists in this folder;
+no commit, remote publication or GitHub release was made.
+
+0.2.8 scope correction and setup QA
+
+The EZBIND-only catalog omitted standalone root MLT payload 27 at original
+offset 0x003B9800. Auditing all 3,868 top-level payloads found this one raw MLT:
+14 UI prompts, now translated, plus 1,735 Japanese random player-name choices
+retained as name-generation data. Earlier 100% figures refer to the indexed
+EZBIND text draft. See standalone_root_text_audit.json and setup-fixes.txt.
+The local 0.2.8 build also fixes setup overflow, date display/cursor and native
+percentage font selection. Broader gameplay/layout review is still pending.

@@ -1,0 +1,31 @@
+{
+  "version": "0.2.37",
+  "result": "PASS",
+  "elf_sha256": "815308f8d8ef3691bfa70c44cd5645f12f1051ee7a4ee09e6cd9f977dd8d7582",
+  "archive_sha256": "15489cc5f9007462b157a6f4ece0dd6b8c38f33d757d87afff256974d99f55b0",
+  "patches_verified": 4,
+  "wrapper_verified": true,
+  "panels": [
+    {
+      "object": "0x9ddd7b0",
+      "geometry": [
+        24,
+        198,
+        432,
+        66
+      ],
+      "background_alpha": 200,
+      "line_widths": [
+        412,
+        412,
+        412
+      ],
+      "advance_icon_position": [
+        412,
+        46
+      ]
+    }
+  ],
+  "game_memory_writes": false,
+  "texture_replacement": false
+}

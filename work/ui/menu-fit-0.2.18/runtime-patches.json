@@ -1,0 +1,211 @@
+{
+  "version": "0.2.18",
+  "iso": "work/source/qa-inventory-0.2.18c.iso",
+  "elf_sha256": "4d6c14133931715cab38dd088aa7eb58415be89b87abaaf0876b0a12a702f6fb",
+  "archive_sha256": "ccfc45b592f5150d7f6ca4d1934ba3d61a0b9d06600f178b4c9673c01fc74ff7",
+  "native_patches_verified": [
+    {
+      "address": "0x88db038",
+      "value": "0x240500e8",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db02c",
+      "value": "0x240500e8",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db338",
+      "value": "0x24050002",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db344",
+      "value": "0x24050004",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db348",
+      "value": "0x24060002",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db390",
+      "value": "0x24060054",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db45c",
+      "value": "0x240500e8",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db470",
+      "value": "0x24050002",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db47c",
+      "value": "0x24050004",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db480",
+      "value": "0x24060002",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db4c8",
+      "value": "0x24060054",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88dbb34",
+      "value": "0x24050084",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88dbd58",
+      "value": "0x2406001c",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db548",
+      "value": "0x24050084",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db638",
+      "value": "0x2406001c",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db6ac",
+      "value": "0x240500c8",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db6d8",
+      "value": "0x24060002",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db878",
+      "value": "0x2406001c",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db8ec",
+      "value": "0x240500c8",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db918",
+      "value": "0x24060002",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88dbab8",
+      "value": "0x2406001c",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930a10",
+      "value": "0x2406fffc",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930a14",
+      "value": "0x24050055",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930a60",
+      "value": "0x24060000",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930a64",
+      "value": "0x2405006e",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930c58",
+      "value": "0x24050190",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930c68",
+      "value": "0x24060000",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930ce0",
+      "value": "0x240501c4",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930cf0",
+      "value": "0x24060004",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930d9c",
+      "value": "0x24050004",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930dac",
+      "value": "0x240600b2",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930510",
+      "value": "0x240501d8",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8930564",
+      "value": "0x240501c8",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x89304d8",
+      "value": "0x24050004",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x8a45f04",
+      "value": "0x64",
+      "method": "raw descriptor data"
+    },
+    {
+      "address": "0x8a45f1c",
+      "value": "0x64",
+      "method": "raw descriptor data"
+    },
+    {
+      "address": "0x8a45f34",
+      "value": "0x54",
+      "method": "raw descriptor data"
+    },
+    {
+      "address": "0x8a45f4c",
+      "value": "0x5c",
+      "method": "raw descriptor data"
+    },
+    {
+      "address": "0x88db354",
+      "value": "0xe6df808",
+      "method": "original disassembly encoding beneath JIT markers"
+    },
+    {
+      "address": "0x88db48c",
+      "value": "0xe6df808",
+      "method": "original disassembly encoding beneath JIT markers"
+    }
+  ],
+  "wrapper_original_opcodes": "pass",
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

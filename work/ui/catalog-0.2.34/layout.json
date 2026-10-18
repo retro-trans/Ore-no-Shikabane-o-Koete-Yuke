@@ -1,0 +1,295 @@
+{
+  "version": "0.2.34",
+  "source_version": "0.2.33",
+  "elf_sha256": "81ecabe4a711085e0aa9ab23e87afa1153fda66c226b836380f4686c846ce737",
+  "archive_sha256": "34ce60c416a63d8a3240189eaf63ab786d132fd89e3d7f979e30b107998ef443",
+  "elf_bytes": 4864672,
+  "archive_bytes": 228272128,
+  "patches": [
+    {
+      "address": "0x894dfbc",
+      "before": "0xe20acb8",
+      "after": "0xe72eea0",
+      "purpose": "Hide separate denominator object; fraction is rendered by current-count object"
+    },
+    {
+      "address": "0x894e02c",
+      "before": "0xe20ad27",
+      "after": "0xe72eea0",
+      "purpose": "Remove items only from Scrolls"
+    },
+    {
+      "address": "0x894e280",
+      "before": "0xe20acb8",
+      "after": "0xe72eea4",
+      "purpose": "Render acquired and total together as %d/%d, preserving actual acquired count"
+    },
+    {
+      "address": "0x894e298",
+      "before": "0x2405016d",
+      "after": "0x24050190",
+      "purpose": "Right-align complete Scrolls fraction at x400"
+    },
+    {
+      "address": "0x88e351c",
+      "before": "0x24050014",
+      "after": "0x24050010",
+      "purpose": "Curios heading size"
+    },
+    {
+      "address": "0x88e354c",
+      "before": "0x24050082",
+      "after": "0x24050078",
+      "purpose": "Curios heading x"
+    },
+    {
+      "address": "0x88e35b0",
+      "before": "0x24050122",
+      "after": "0x24050130",
+      "purpose": "Acquired caption x"
+    },
+    {
+      "address": "0x88e3620",
+      "before": "0x24050186",
+      "after": "0x240501b0",
+      "purpose": "Curios count right edge"
+    },
+    {
+      "address": "0x88e3680",
+      "before": "0x24050190",
+      "after": "0x240501ba",
+      "purpose": "Curios items unit x"
+    },
+    {
+      "address": "0x8943d90",
+      "before": "0x240500c3",
+      "after": "0x24050177",
+      "purpose": "Escape quantity and items column"
+    },
+    {
+      "address": "0x8943e10",
+      "before": "0x240500c8",
+      "after": "0x2405017c",
+      "purpose": "Escape quantity and items column"
+    },
+    {
+      "address": "0x8944068",
+      "before": "0x240500c3",
+      "after": "0x24050177",
+      "purpose": "Escape quantity and items column"
+    },
+    {
+      "address": "0x89440d0",
+      "before": "0x240500c8",
+      "after": "0x2405017c",
+      "purpose": "Escape quantity and items column"
+    },
+    {
+      "address": "0x8943e9c",
+      "before": "0x2406009b",
+      "after": "0x240600ae",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x8943f0c",
+      "before": "0x2406009b",
+      "after": "0x240600ae",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x8943f74",
+      "before": "0x2406009b",
+      "after": "0x240600ae",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x8943fec",
+      "before": "0x240600b4",
+      "after": "0x240600bb",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x894405c",
+      "before": "0x240600b4",
+      "after": "0x240600bb",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x89440c4",
+      "before": "0x240600b4",
+      "after": "0x240600bb",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x8944138",
+      "before": "0x240600b4",
+      "after": "0x240600ce",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x89441a4",
+      "before": "0x240600b4",
+      "after": "0x240600ce",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x894420c",
+      "before": "0x240600b4",
+      "after": "0x240600ce",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x8944284",
+      "before": "0x240600cd",
+      "after": "0x240600e0",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x89442e4",
+      "before": "0x240600e6",
+      "after": "0x240600f8",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x894433c",
+      "before": "0x240600e8",
+      "after": "0x240600fa",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x89443c8",
+      "before": "0x240600e9",
+      "after": "0x240600fb",
+      "purpose": "Separate escape value rows and fit collection bar"
+    },
+    {
+      "address": "0x8944424",
+      "before": "0x240600e6",
+      "after": "0x240600f8",
+      "purpose": "Separate escape value rows and fit collection bar"
+    }
+  ],
+  "literals": [
+    {
+      "address": "0x9cbba60",
+      "hex_bytes": "0000",
+      "purpose": "Empty localized Scrolls suffix"
+    },
+    {
+      "address": "0x9cbba70",
+      "hex_bytes": "25642f256400",
+      "purpose": "Current count / total, no spaces or unit"
+    }
+  ],
+  "wrappers": [
+    {
+      "name": "empty_scrolls_unit",
+      "address": "0x9cbba80",
+      "words": [
+        "0x3c0509cc",
+        "0x24a5ba60",
+        "0xa20ad27",
+        "0x0"
+      ]
+    },
+    {
+      "name": "scrolls_fraction",
+      "address": "0x9cbba90",
+      "words": [
+        "0x3c0509cc",
+        "0x24a5ba70",
+        "0xa20acb8",
+        "0x24070049"
+      ]
+    }
+  ],
+  "tab_geometry": {
+    "address": "0x8a49798",
+    "before": 30,
+    "after": 60,
+    "columns": 5
+  },
+  "text_edit": {
+    "id": "ore:00027000:0001:00:0026",
+    "before": "Total Acquired",
+    "after": "Acquired"
+  },
+  "layout": {
+    "curios": {
+      "heading": [
+        120,
+        78,
+        16
+      ],
+      "caption": [
+        304,
+        80
+      ],
+      "count_right": 432,
+      "unit_x": 442
+    },
+    "other": {
+      "main_y": [
+        80,
+        105,
+        130,
+        155,
+        187
+      ],
+      "escape_value_y": [
+        174,
+        206
+      ],
+      "collection_y": 224,
+      "bar_y": 248,
+      "bar_bottom": 264
+    },
+    "scrolls": {
+      "format": "%d/%d",
+      "right": 400,
+      "unit": ""
+    }
+  },
+  "checks": {
+    "unrelated_archive_members": "Byte-identical except title footer",
+    "other_executable_bytes": "Only guarded layout/call patches, one menu width and segment size",
+    "counter_getters_totals_and_scroll_paging": "Byte-identical",
+    "prior_translations_icons_and_profile_fix": "Preserved",
+    "shared_items_unit": "Preserved"
+  },
+  "footer": {
+    "rows": [
+      {
+        "text": "v0.2.34",
+        "right": 474,
+        "top": 223,
+        "font_size": 14,
+        "bounds": [
+          426.5,
+          222.0,
+          475.0,
+          234.75
+        ]
+      },
+      {
+        "text": "github.com/retro-trans",
+        "right": 474,
+        "top": 241,
+        "font_size": 12,
+        "bounds": [
+          342.5,
+          240.0,
+          475.0,
+          253.75
+        ]
+      }
+    ],
+    "atlas_screen_origin": [
+      0,
+      201
+    ],
+    "copyright_exact": true
+  },
+  "runtime_verification": "pending",
+  "texture_replacement": false
+}

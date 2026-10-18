@@ -1,0 +1,134 @@
+Native VWF and 4x font patch — 0.2.0
+Date: 2026-10-17
+Target: PSP UCJS10117, provided APP_VER 01.00 / DISC_VERSION 1.01 image
+Status: experimental native implementation; partial English, visual QA pending
+
+User requirement
+
+Native game patch. Do not use emulator texture replacement. The font raster
+has four times the logical glyph resolution. The PSP's display stays 480x272;
+this is not a claim that physical PSP hardware renders a 1920x1088 frame.
+The isolated PPSSPP inspection profile independently uses 4x rendering and
+explicitly disables ReplaceTextures and SaveNewTextures.
+
+Renderer findings and implementation
+
+The game already has variable-width measurement. Its Latin advance leaf is
+at 0x08b2ea74; advances start one byte after the leaf prefix. The patch updates
+95 printable ASCII advances, respecting the native minimum of four pixels
+and the renderer's existing tracking.
+
+The original cache uses 22x22 cells in a 512x512 texture. It is dynamic and
+also serves Japanese text, so replacing that cache with a static atlas would
+break uncached Japanese glyphs. Instead the patch appends an immutable atlas
+and a guarded native selector to a second ELF PT_LOAD segment at 0x09b5c000.
+
+Hook:       0x089ba8b4
+Selector:   0x09b5c100 (132 bytes)
+Image:      0x09b5c010
+UV map:     0x09b5c200
+T4 pixels:  0x09b5d000 (131,072 bytes)
+Total added segment/RAM: 135,168 bytes
+
+The selector first scans the entire text object's descriptors. Entirely ASCII
+objects use the new atlas; mixed/non-ASCII objects return the original image
+pointer and retain all original UV descriptors. Control tags are interpreted
+by the engine before this descriptor stage. Non-ASCII punctuation or runtime
+Japanese names therefore cause that whole object to use the old font.
+
+Each glyph descriptor is 28 bytes. Character/advance fields are at +4/+6;
+destination rectangles at +8..+14 are in quarter-pixel units; source UVs at
++16..+22 are in 64ths. The patch changes only source rectangles and requests
+vertex refresh. Destination geometry, line height and layout stay native.
+Each logical 20-pixel glyph cell samples an 80-pixel-high raster. Atlas cells
+are packed by measured advance, within the PSP's 512-pixel texture dimensions.
+
+Font: Noto Sans Regular, 14 logical pixels, rasterized at 56 pixels; white
+RGBA4444 palette with 16 alpha levels, T4 pixels. Source TTF and its SIL OFL
+license are in incoming/noto-sans; the output includes the license. The
+source metadata pins the upstream commit and TTF checksum. No textures.ini
+or emulator texture pack is part of this patch.
+
+Binary prerequisites and guards
+
+work/source/EBOOT.decrypted.elf must have SHA-256:
+fa0650a6caf567bd21b64d821ac22b036b6b5151302c40eb3f487b2ff4a113e3
+
+The encrypted executable has PRX tag d91613f0. This local research used the
+existing GPL PPSSPP type-2 decryption port at:
+E:/Projects/Lost Heroes/tools/eboot_decrypt.py
+The decrypted executable is ignored and not distributed. Decryption has not
+yet been made a self-contained project step; a clean checkout needs a locally
+supplied verified ELF. build_vwf.py checks its hash, original hook words,
+program-header space and absence of overlap with the original BSS.
+
+Patched ELF SHA-256:
+8b465f18ca7d5dc550dba2f5a5d1cb451fa801e65e9f5b35d37d508948018b5c
+
+Text and ISO rebuilding
+
+repack_text.py consumes the English-only exports and verifies source hashes
+and controls against the local original archive. It relocates every affected
+MLT string, rebuilding absolute section/string pointers while preserving
+subtitle timing headers. It reparses every rebuilt MLT and compares every
+record to the expected translation or unchanged original. Recompression is
+verified by decompression. EZBIND names, alignment and member hashes survive.
+
+The data.ore root starts with 0x4000 bytes of hash buckets. Root metadata is
+at 0x4000, with 3,868 real records and an end sentinel. Packed root offsets
+use 2,048-byte boundaries and low-bit padding. The builder preserves all
+hashes/buckets, updates relocated offsets and checks a byte-identical root
+round trip before editing. Raw root payloads, including the Japanese PGF,
+remain unchanged. No text is squeezed into its original byte slot.
+
+build_iso.py copies the original ISO, appends the replacements, and updates
+both endian copies of directory extents/sizes and the volume block count.
+It rereads directory entries and verifies replacement SHA-256 values. The
+original ISO is never opened for writing. Output overwrite is rejected.
+
+Evidence and limits
+
+tools/test_native_vwf.py executes the actual MIPS selector under Unicorn:
+3 execution cases, 103 geometry checks and 95 width-table checks passed.
+Japanese fallback leaves descriptors unchanged and the hook preserves s1.
+
+work/ui/vwf-runtime-0.2.0.json records a live PPSSPP font-only boot: the hook
+returned the new image for PUSH and the original image for Japanese menu
+text. Sampling rectangles were verified at runtime. This proves code-path
+execution and geometry, not a visually correct final image.
+
+work/ui/english-runtime-0.2.0.json additionally verifies the combined ISO
+booted and loaded the translated title help 'Begin a new game.' The live
+native image pointer and all 17 glyph advances/4x UV rectangles matched.
+tools/check_runtime_vwf.py reproduces this limited check in the local test
+instance; its default is a dry run. This is not a full menu/scene playthrough.
+
+The host-output screenshot endpoint was unreliable. capture_psp_frame.py now
+captures the actual guest display buffer at sceDisplaySetFrameBuf using the
+software backend. Actual 480x272 title/menu and setup captures are in work/ui;
+verified_screens.json records measured boxes and the four text records checked.
+The six native English menu-card labels are visibly complete. Other dialogue,
+runtime-expanded names and numerical fields still require display checks.
+Hardware PSP boot/performance is untested.
+
+Executable message extension (0.2.3 and later)
+
+Two additional MLT tables were found inside the ELF at file offsets 0x21c9f0
+and 0x246f84. Their 18 translated records are relocated to 0x09b7d000 and
+0x09b7d190. Two verified LUI/ADDIU address pairs are updated. This adds 1,196
+bytes beyond the font component. check_embedded_text.py verifies round trips,
+English exports and actual MIPS address materialization. The live 0.2.4 test
+confirms that both loader objects accept the relocated table bytes. Save/error
+dialog display scenarios remain untested.
+
+Native graphic labels (0.2.4 and later)
+
+build_title_cards.py changes only the label strips in six native PPT images.
+It preserves the flower artwork, palette, dimensions and geometry, then rebuilds
+the archive. This is a game-asset patch, with texture replacement disabled.
+The actual title-menu display is saved as work/ui/title-menu-0.2.4.png.
+
+English drafts remain unapproved. Long lines, runtime names and numerical
+expansions need visual layout review. Text boxes, new wrapping, name-input
+lengths, image lettering, executable text and data.bin coverage remain work.
+No GitHub release was requested or created.

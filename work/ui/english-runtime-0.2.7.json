@@ -1,0 +1,18 @@
+{
+  "version": "0.2.7",
+  "font_component_version": "0.2.0",
+  "game": "UCJS10117",
+  "combined_build_boot_verified": true,
+  "translated_title_reached": true,
+  "native_hook_executed": true,
+  "source_sampling_scale": 4,
+  "texture_replacement": false,
+  "captures": [
+    {
+      "text": "Begin a new game.",
+      "glyphs_checked": 17,
+      "image": "0x9b5c010"
+    }
+  ],
+  "visual_verification": "Pending; glyph descriptors are runtime evidence, not a screenshot."
+}

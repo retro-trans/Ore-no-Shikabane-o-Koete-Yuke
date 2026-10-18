@@ -1,0 +1,14 @@
+{
+  "version": "0.2.2",
+  "source_elf_sha256": "fa0650a6caf567bd21b64d821ac22b036b6b5151302c40eb3f487b2ff4a113e3",
+  "candidate_records": 2709,
+  "by_encoding": {
+    "utf-16-le": 2697,
+    "cp932": 12
+  },
+  "candidates_with_kana": 700,
+  "candidates_with_stored_pointer": 1656,
+  "status": "Unreviewed candidates, not an added translation denominator. Binary noise and engine literals require manual classification.",
+  "source_only_inventory": "work/source/executable_text_candidates.json",
+  "scope": "Aligned UTF-16 and null-terminated CP932 candidates in .rodata/.data; not every possible encoding or computed string."
+}

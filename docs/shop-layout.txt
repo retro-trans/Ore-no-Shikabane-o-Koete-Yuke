@@ -1,0 +1,32 @@
+Native shop layout — local build 0.2.19
+
+The two large helmet and armor background characters are preserved byte-for-byte.
+The left BUY / SELL ribbon and three small popup icons are native PPT edits using
+the original palettes. No texture replacement is used. Funds, ryo, comparison
+labels and Gear Stats are six separately tracked native executable literals.
+
+Native 480x272 layout (rectangles use left, top, right, bottom):
+Stock: [56,42,474,168], one 398-pixel cell, six visible rows, original stock/paging.
+Ownership: [56,8,208,34]. Funds: [290,10,470,34].
+Comparison: [50,174,474,242], four 100-pixel cells at 104-pixel pitch.
+Names occupy their own row. Equipped markers, stat labels and signed changes
+occupy the next row. Native paging exposes every member; the fifth object stays
+allocated for the existing destructor but is not attached or rendered.
+Equipment details start at local [6,44], width 412. Stat/value region is 96;
+armor type and restrictions start at x112. Four intermediate buffers are now
+128 bytes each, at stack offsets 0xE0/0x160/0x1E0/0x260 in a 0x2E0 frame.
+Saved registers and other locals retain their original offsets. All formatter
+arguments/restriction words remain; the wrapper inserts separators as required.
+
+Build: tools/build_shop_layout.py (dry run, then --write), then tools/build_iso.py.
+Source inputs are pinned to delivered 0.2.18 hashes. Only the described guarded
+executable bytes, appended 100-byte strings/wrapper, four native graphic assets
+and footer version change. All script payloads and other archive members match.
+
+Validation: tools/test_shop_layout.py; tools/verify_shop_runtime.py;
+tools/check_shop_font.py; work/ui/shop-layout-0.2.19/verification.json.
+The delivered ISO is byte-identical to the tested candidate. Runtime screenshots
+use the original test party with two eight-letter names. Paging with up to 12
+members is tested through actual native MIPS routines. Selected initial stocks
+and screens are checked; full-game dynamic names and real PSP remain unverified.
+Original project-profile save files are restored after QA. No release created.

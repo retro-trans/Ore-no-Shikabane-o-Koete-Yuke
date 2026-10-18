@@ -1,0 +1,41 @@
+{
+  "version": "0.2.25",
+  "native_resolution": [
+    480,
+    272
+  ],
+  "stat_badge_native_size": [
+    32,
+    16
+  ],
+  "stat_badge_sample_rectangle": [
+    0,
+    0,
+    24,
+    16
+  ],
+  "parent_display_names": [
+    {
+      "translation_en": "Genta",
+      "full_advance_at_size_16": 46.857142857142854
+    },
+    {
+      "translation_en": "Orin",
+      "full_advance_at_size_16": 34.285714285714285
+    }
+  ],
+  "name_matching": {
+    "hook": "0x882b544",
+    "wrapper": "0x9b85a8c",
+    "wrapper_bytes": 128,
+    "names": {
+      "Genta": "0x9b85a74",
+      "Orin": "0x9b85a80"
+    },
+    "source_records": "unchanged",
+    "match": "Exact two-character parent name followed by UTF-16 NUL only"
+  },
+  "portrait_art_and_hud_coordinates": "unchanged",
+  "source_records": "unchanged",
+  "scripts": "byte-identical"
+}

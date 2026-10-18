@@ -1,0 +1,65 @@
+Local build 0.2.16 — 2026-10-17
+
+Native footer
+The original copyright_sce.ppt palette and copyright pixels are retained.
+Its expanded 480x128 sprite begins at native screen (0,201). The version
+is 14 pixels at right=474, top=223. github.com/retro-trans is 12 pixels at
+right=474, top=241. Both have one-pixel dark outlines. The title help box
+remains 300 pixels wide and now begins at x=12.
+
+Itsuka uses a later global draw pass than the original copyright sprite.
+The footer therefore registers independently at key 0x8003. The matching
+title destructor unregisters it before releasing its texture. Embedded
+title-object ownership and the original position are retained. Actual MIPS
+checks cover manager/object/key arguments, return, stack and saved register.
+
+Latin Auto names
+The native standalone name table retains all 14 UI prompts. Its three
+Auto sections contain 22 surnames, 85 female names and 73 male names.
+Visible names use ASCII Hepburn letters with at most eight characters;
+none is truncated. The candidate table stores the game's original fullwidth
+Latin convention so duplicate-name comparisons match stored/decoded names.
+The native VWF displays these through the normal Latin atlas.
+The original runtime shuffling/cycling and compact-name encoder are used.
+Source indexes, readings and choices are in work/glossary/latin_auto_names.json.
+96 entries have explicit source kana. 22 are Kyoto place names. 62 use
+project-selected conventional kanji readings and remain provisional.
+This is a curated pool, not a claim that all 1,735 original candidates
+have verified readings. Excluded candidates remain in the source archive.
+
+Romanization references
+https://www.ezairyu.mofa.go.jp/passport/hebon.html
+https://www.city.kyoto.lg.jp/bunshi/cmsfiles/contents/0000206/206129/english-ura.pdf
+https://www2.city.kyoto.lg.jp/kotsu/webguide/en/tika/pop_station_map.html
+
+Controller Start
+The hardware log recorded simultaneous XInput 0x10 (Start) and legacy
+joystick 0x80 (button 8). Default PPSSPP controls map device 20/key 108
+to PSP Start, but device 10/key 195 (button 8) to PSP R. In PPSSPP's OSK,
+R switches language and is handled before Start. This explains the reported
+behavior if both device paths reach the game. Raw recording alone does
+not prove that PPSSPP accepted both paths; its duplicate-device detection
+can also suppress a path.
+
+With PPSSPP closed, tools/fix_controller_input.py backed up the user and
+isolated project INIs under work/source/controller-backup-0.2.16/ and set:
+AllowXInput=True, AllowDInput=False, AllowHIDInput=False.
+Control bindings and game saves were retained. This change takes effect
+on the next PPSSPP launch and is not part of the PSP ISO. Other controllers
+requiring DirectInput/HID need those paths re-enabled or a separate profile.
+The physical controller has not been retested after this configuration
+change. A native PSP Start signal successfully finishes the keyboard.
+
+PPSSPP 1.20.4 source references
+https://github.com/hrydgard/ppsspp/blob/v1.20.4/Core/Dialog/PSPOskDialog.cpp
+https://github.com/hrydgard/ppsspp/blob/v1.20.4/Windows/DinputDevice.cpp
+https://github.com/hrydgard/ppsspp/blob/v1.20.4/Common/Input/KeyCodes.h
+
+Verification and limits
+Actual guest framebuffers and coordinates are in work/ui/latin-auto-0.2.16/.
+The existing eight-character-name save loads. Auto-generated Hachijo and
+Aran display in the native HD font; Aran reopens in the English keyboard
+and remains intact after Start finishes entry. The saved QA game was not
+overwritten. Name format/legacy compatibility follows 0.2.15.
+Physical PSP, broad gameplay coverage, and independent name-reading review
+remain pending. No release was created or published.

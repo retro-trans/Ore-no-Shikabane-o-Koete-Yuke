@@ -1,0 +1,4138 @@
+{
+  "version": "0.2.25",
+  "measurement_status": "Selected title/setup, character/home/Portrait Studio/dungeon destination menus, shared inventory/category/shop windows, equipment/Divine Union/deity menus and overworld labels measured from actual PSP display captures; build-specific evidence is linked separately. Other gameplay screens remain unverified.",
+  "maximum_characters_allowed": null,
+  "text_box_coordinates": [
+    {
+      "id": "title_menu",
+      "screenshot": "work/ui/title-menu-0.2.4.png",
+      "caption_box": [
+        91,
+        222,
+        297,
+        30
+      ],
+      "caption_text_bounds_available": [
+        100,
+        229,
+        278,
+        17
+      ],
+      "caption": "Begin a new game.",
+      "native_graphic_labels_visually_verified": 6,
+      "cards": [
+        {
+          "label": "NEW GAME",
+          "rectangle": [
+            20,
+            10,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "CONTINUE",
+          "rectangle": [
+            100,
+            10,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "PROLOGUE",
+          "rectangle": [
+            180,
+            10,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "ADOPTION",
+          "rectangle": [
+            28,
+            117,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "SHARE DEITY",
+          "rectangle": [
+            108,
+            117,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "SOUL UNION",
+          "rectangle": [
+            188,
+            117,
+            57,
+            94
+          ]
+        }
+      ],
+      "findings": "Six English labels are readable and contained within the native cards. Disabled cards retain the game's dimming. Title logo remains Japanese artwork."
+    },
+    {
+      "id": "setup_gender",
+      "screenshot": "work/ui/setup-gender-full-0.2.4.png",
+      "dialogue_box": [
+        91,
+        6,
+        297,
+        69
+      ],
+      "text_bounds_available": [
+        100,
+        16,
+        278,
+        49
+      ],
+      "observed_lines": 3,
+      "findings": "All three English prompt lines and both gender labels are visibly complete. This does not establish fit for other dialogue or runtime-expanded placeholders."
+    }
+  ],
+  "additional_build_evidence": [
+    {
+      "version": "0.2.7",
+      "feature": "Native title version and group footer",
+      "screenshots": [
+        "work/ui/title-branding-0.2.7/title-idle.png",
+        "work/ui/title-branding-0.2.7/title-menu.png"
+      ],
+      "rectangle": [
+        442,
+        234,
+        38,
+        25
+      ],
+      "findings": "v0.2.7 and retro-trans are fully visible on both title states, clear of the menu character and caption. Copyright pixels and placement are preserved."
+    },
+    {
+      "version": "0.2.8",
+      "feature": "Five reported setup UI fixes",
+      "verification": "work/ui/setup-fixes-0.2.8/verification.json"
+    },
+    {
+      "version": "0.2.9",
+      "evidence": "work/ui/menu-fixes-0.2.9/verification.json",
+      "scope": "Four requested deity/character/home/studio fixes"
+    },
+    {
+      "version": "0.2.10",
+      "evidence": "work/ui/map-fixes-0.2.10/verification.json",
+      "scope": "Native overworld labels; core script fit count unchanged"
+    },
+    {
+      "version": "0.2.11",
+      "evidence": "work/ui/destination-fixes-0.2.11/verification.json",
+      "scope": "Mount Oe banner and three dungeon destination menu labels"
+    },
+    {
+      "version": "0.2.12",
+      "evidence": "work/ui/alphabet-0.2.12/verification.json",
+      "scope": "Native Latin name input, case/language switching, validation and save reload"
+    },
+    {
+      "version": "0.2.15",
+      "evidence": "work/ui/names-0.2.15/verification.json",
+      "scope": "Eight English characters, native fullwidth Latin HD font, two-row portrait labels, actual save/reload"
+    },
+    {
+      "version": "0.2.16",
+      "evidence": "work/ui/latin-auto-0.2.16/verification.json",
+      "scope": "Enlarged full footer, Latin Auto names, original long-name save loading, native Start and emulator input correction"
+    },
+    {
+      "version": "0.2.17",
+      "evidence": "work/ui/dialogue-reflow-0.2.17/verification.json",
+      "scope": "Curse overflow and two naturally reflowed Itsuka tutorial messages"
+    },
+    {
+      "version": "0.2.18",
+      "evidence": "work/ui/menu-fit-0.2.18/verification.json",
+      "scope": "Shared inventory, category paging, descriptions and shop menu fit"
+    },
+    {
+      "version": "0.2.19",
+      "evidence": "work/ui/shop-layout-0.2.19/verification.json",
+      "scope": "Native shop stock, funds, ownership, comparison, restrictions and Gear Stats popup; two background kanji preserved"
+    },
+    {
+      "version": "0.2.20",
+      "evidence": "work/ui/equipment-deities-0.2.20/verification.json",
+      "scope": "Equipment graphics/slots, wider Divine Union submenu, two-line deity rows and complete details; core fit count unchanged"
+    },
+    {
+      "version": "0.2.21",
+      "evidence": "work/ui/character-spells-0.2.21/verification.json",
+      "scope": "Character submenu, full portrait selector, English spell labels and paging; core fit count unchanged"
+    },
+    {
+      "version": "0.2.22",
+      "evidence": "work/ui/detailed-roster-0.2.22/verification.json",
+      "scope": "English HP/Loyalty/Health badges and separated detailed-roster equipment/status columns; core fit count unchanged"
+    },
+    {
+      "version": "0.2.23",
+      "evidence": "work/ui/startup-disclaimer-0.2.23/verification.json",
+      "scope": "English embedded startup disclaimer and following title screen; indexed script fit count unchanged"
+    },
+    {
+      "version": "0.2.24",
+      "evidence": "work/ui/punctuation-0.2.24/verification.json",
+      "scope": "ASCII exclamation marks closer to preceding letters; exact Orin passage before/after; existing core fit count unchanged"
+    },
+    {
+      "version": "0.2.25",
+      "evidence": "work/ui/battle-hud-0.2.25/verification.json",
+      "scope": "PARTIAL: title/prologue boot and native MIPS name conversion pass; combat transition halts at PC 0 in isolated testing, also observed on base 0.2.24; battle visual check pending; core fit count unchanged"
+    }
+  ],
+  "note": "Observed source lengths are NOT display limits. Runtime placeholders have unknown expanded widths. Drafts preserve row identity and controls. Requested line-count reflows are scoped by source/target hashes in UI layouts; remaining wrapping and display contexts still require QA.",
+  "rows_exceeding_original_utf16_bytes": 10936,
+  "required_build_strategy": "Relocate expanded text and update pointers; never truncate to original byte slots.",
+  "tables": [
+    {
+      "file": "HistoryText.mlb",
+      "drafted_records": 70,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 63,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "MsDataSave.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 20,
+      "english_observed_max_literal_line_characters": 52,
+      "source_observed_max_lines": 6,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "battle.mlb",
+      "drafted_records": 205,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 49,
+      "source_observed_max_lines": 4,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "boss_name.mlb",
+      "drafted_records": 32,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 28,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "brave.mlb",
+      "drafted_records": 30,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "chara_name.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "config.mlb",
+      "drafted_records": 18,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 17,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "connect.mlb",
+      "drafted_records": 192,
+      "source_observed_max_literal_line_characters": 25,
+      "english_observed_max_literal_line_characters": 55,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "dungeon_common.mlb",
+      "drafted_records": 176,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 36,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltDMenu.mlb",
+      "drafted_records": 35,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 27,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltFacil.mlb",
+      "drafted_records": 272,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 56,
+      "source_observed_max_lines": 7,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltFacil_yomi.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 27,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltGozen.mlb",
+      "drafted_records": 107,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 55,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltMarket.mlb",
+      "drafted_records": 57,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltRevival.mlb",
+      "drafted_records": 32,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 55,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltSave.mlb",
+      "drafted_records": 12,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 40,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltShop.mlb",
+      "drafted_records": 24,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 32,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltSmith.mlb",
+      "drafted_records": 19,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltSpell.mlb",
+      "drafted_records": 53,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 68,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "eMltTrain.mlb",
+      "drafted_records": 24,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ending.mlb",
+      "drafted_records": 460,
+      "source_observed_max_literal_line_characters": 42,
+      "english_observed_max_literal_line_characters": 63,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "enemy.mlb",
+      "drafted_records": 627,
+      "source_observed_max_literal_line_characters": 11,
+      "english_observed_max_literal_line_characters": 23,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a01r08_00.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a01r08_00_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a02r04_00.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 8,
+      "english_observed_max_literal_line_characters": 9,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a02r04_00_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_01.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 34,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_01_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_02.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_02_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_03.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_03_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_04.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 33,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_04_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_05.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 36,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_05_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_06.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_06_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_07.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_07_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_08.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 21,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_08_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_09.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_09_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 10,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a03r01_10.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 21,
+      "english_observed_max_literal_line_characters": 54,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_00.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_00_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_01.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 37,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_01_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_02.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_02_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_03.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 49,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_03_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_04.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_04_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_05.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_05_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_06.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_06_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_07.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 37,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_07_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_08.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 38,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_08_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_09.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 30,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_09_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_10.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 29,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_10_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_11.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 34,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_11_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_12.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_12_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_13.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_13_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_14.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 34,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_14_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 17,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_15.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_15_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_16.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 15,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_16_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_17.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 8,
+      "english_observed_max_literal_line_characters": 24,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_17_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_18.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_18_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_19.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 11,
+      "english_observed_max_literal_line_characters": 21,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_19_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_20.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 11,
+      "english_observed_max_literal_line_characters": 33,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_20_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_21.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_21_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_22.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 34,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_22_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_24.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 40,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_24_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_25.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 33,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d01a05r01_25_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a01r10_00.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 7,
+      "english_observed_max_literal_line_characters": 9,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a01r10_00_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 12,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a02r01_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 57,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a02r01_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a02r01_01.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a02r01_01_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a02r01_02.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 57,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a02r01_02_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_01.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 46,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_01_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_02.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 46,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_02_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_03.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 26,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_03_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_04.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_04_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_05.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 13,
+      "english_observed_max_literal_line_characters": 26,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_05_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_06.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_06_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_07.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 37,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_07_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_08.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_08_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_09.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 18,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_09_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_10.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 23,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_10_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_11.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 25,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_11_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_12.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 25,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_12_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_13.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r07_13_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d02a03r09_02.mlb",
+      "drafted_records": 11,
+      "source_observed_max_literal_line_characters": 22,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a01r09_00.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a01r09_00_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 18,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a01r09_01.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a01r09_01_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 18,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_01.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 36,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_01_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 11,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_02.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_02_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_03.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 33,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_03_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_04.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_04_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 11,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_05.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_05_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_06.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 34,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_06_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 11,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_07.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 30,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_07_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 11,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_08.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 21,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_08_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_09.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 8,
+      "english_observed_max_literal_line_characters": 18,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_09_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 28,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_10.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 33,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_10_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_11.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 40,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r05_11_NAME.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 28,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d03a02r07_02.mlb",
+      "drafted_records": 11,
+      "source_observed_max_literal_line_characters": 22,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a01r11_00.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a01r11_00_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 15,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a01r11_01.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a01r11_01_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 15,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r01_00.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r01_00_NAME.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r01_01.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r01_01_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r01_02.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r01_02_NAME.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_01.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 13,
+      "english_observed_max_literal_line_characters": 32,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_01_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_02.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_02_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_03.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_03_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_04.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 13,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_04_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_05.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 29,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_05_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_06.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_06_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_07.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 33,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_07_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_08.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 29,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r08_08_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d04a02r09_02.mlb",
+      "drafted_records": 11,
+      "source_observed_max_literal_line_characters": 22,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_00_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_01.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_01_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_02.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_02_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_03.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_03_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_04.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 51,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_04_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_05.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 23,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_05_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_06.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 13,
+      "english_observed_max_literal_line_characters": 28,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_06_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_07.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 29,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_07_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_08.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_08_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_10.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_10_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_11.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a01r10_11_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a02r01_00.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a02r01_00_NAME.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 46,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_01.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 49,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_01_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_02.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 36,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_02_NAME.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_03.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_03_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_04.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 8,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_04_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_05.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 17,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_05_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_06.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 20,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_06_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_07.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 29,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_07_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_08.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r01_08_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d05a05r02_02.mlb",
+      "drafted_records": 11,
+      "source_observed_max_literal_line_characters": 22,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_00.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 32,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_00_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_01.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_01_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_02.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_02_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_03.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_03_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_04.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_04_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_05.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 47,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_05_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_06.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_06_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_07.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 8,
+      "english_observed_max_literal_line_characters": 22,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_07_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_09.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r01_09_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d06a05r03_02.mlb",
+      "drafted_records": 11,
+      "source_observed_max_literal_line_characters": 22,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a02r04_00.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 7,
+      "english_observed_max_literal_line_characters": 15,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a02r04_00_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 15,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_00.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_00_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_01.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 38,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_01_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_02.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_02_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_03.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 29,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_03_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_04.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 46,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_04_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_05.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 11,
+      "english_observed_max_literal_line_characters": 23,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_05_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_06.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 6,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_06_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_07.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 18,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_07_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_08.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 19,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_08_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_09.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 38,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_09_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 14,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_10.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r01_10_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d07a05r02_02.mlb",
+      "drafted_records": 11,
+      "source_observed_max_literal_line_characters": 22,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r01_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r01_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r01_01.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r01_01_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r02_01.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 8,
+      "english_observed_max_literal_line_characters": 9,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r02_01_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 12,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r02_02.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 21,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r02_02_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 12,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r02_03.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 38,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r02_03_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 12,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d08a05r03_02.mlb",
+      "drafted_records": 11,
+      "source_observed_max_literal_line_characters": 22,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r02_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r02_03.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 37,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_00_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_01.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 23,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_01_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_02.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 13,
+      "english_observed_max_literal_line_characters": 23,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_02_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_03.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 28,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_03_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_04.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_04_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_05.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 11,
+      "english_observed_max_literal_line_characters": 21,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_05_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_06.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 27,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_06_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_07.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 22,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_07_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_08.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 34,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a02r03_08_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a03r01_00.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 52,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a03r01_00_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a04r01_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a04r01_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a06r01_00.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 47,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a06r01_00_NAME.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a06r01_01.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a06r01_01_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r01_00.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 47,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r01_00_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_00.mlb",
+      "drafted_records": 13,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 40,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_00_NAME.mlb",
+      "drafted_records": 12,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_01.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 46,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_01_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_02.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 27,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_02_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_03.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 13,
+      "english_observed_max_literal_line_characters": 31,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_03_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_04.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 34,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_04_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_05.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 40,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_05_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_06.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_06_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_07.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_07_NAME.mlb",
+      "drafted_records": 2,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_08.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 18,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_08_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_09.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 13,
+      "english_observed_max_literal_line_characters": 28,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_09_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_10.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 11,
+      "english_observed_max_literal_line_characters": 21,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_10_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_11.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 10,
+      "english_observed_max_literal_line_characters": 22,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_11_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_12.mlb",
+      "drafted_records": 20,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_12_NAME.mlb",
+      "drafted_records": 19,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_13.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 11,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_13_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_14.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 15,
+      "english_observed_max_literal_line_characters": 36,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_14_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_15.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_15_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_16.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 35,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_16_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 4,
+      "english_observed_max_literal_line_characters": 8,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_17.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 33,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_17_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_18.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 13,
+      "english_observed_max_literal_line_characters": 22,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_d09a07r02_18_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_00.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 36,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_00_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_01.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_01_NAME.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_02.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_02_NAME.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_03.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 47,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_03_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_04.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_04_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_05.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 47,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_05_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_06.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_06_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_07.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 28,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_07_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_08.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_08_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_09.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_09_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_10.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_common_10_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_00.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_00_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_01.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 37,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_01_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_02.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_02_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_03.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_03_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_04.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_04_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_05.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_05_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_06.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_06_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_07.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_07_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_08.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 47,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_08_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_09.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 46,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_09_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_10.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 35,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_10_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_11.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 40,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d1_11_NAME.mlb",
+      "drafted_records": 1,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d2_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d2_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d2_01.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d2_01_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d3_00.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 38,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d3_00_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d3_01.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d3_01_NAME.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d3_02.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 38,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d3_02_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d3_03.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d3_03_NAME.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d4_00.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 54,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d4_00_NAME.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d4_01.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 54,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d4_01_NAME.mlb",
+      "drafted_records": 8,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d5_00.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d5_00_NAME.mlb",
+      "drafted_records": 3,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d5_01.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 46,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d5_01_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d6_00.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d6_00_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d6_01.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d6_01_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d6_02.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d6_02_NAME.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d6_03.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d6_03_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d7_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 52,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d7_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d8_00.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d8_00_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d9_00.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 41,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_d9_00_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_00.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 45,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_00_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_01.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 39,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_01_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_02.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 51,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_02_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_03.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 54,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_03_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_04.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 20,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_04_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_05.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 43,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_05_NAME.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_06.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_06_NAME.mlb",
+      "drafted_records": 5,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_07.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 52,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_kitsuto_orochi_07_NAME.mlb",
+      "drafted_records": 4,
+      "source_observed_max_literal_line_characters": 3,
+      "english_observed_max_literal_line_characters": 7,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_op_00.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_op_00_NAME.mlb",
+      "drafted_records": 7,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 12,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_op_01.mlb",
+      "drafted_records": 10,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_op_01_NAME.mlb",
+      "drafted_records": 10,
+      "source_observed_max_literal_line_characters": 2,
+      "english_observed_max_literal_line_characters": 5,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_op_02.mlb",
+      "drafted_records": 13,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 35,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "ev_op_02_NAME.mlb",
+      "drafted_records": 13,
+      "source_observed_max_literal_line_characters": 2,
+      "english_observed_max_literal_line_characters": 11,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "explane.mlb",
+      "drafted_records": 530,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 68,
+      "source_observed_max_lines": 6,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "family.mlb",
+      "drafted_records": 80,
+      "source_observed_max_literal_line_characters": 20,
+      "english_observed_max_literal_line_characters": 46,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "family_message.mlb",
+      "drafted_records": 81,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 53,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "family_tree.mlb",
+      "drafted_records": 12,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 26,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "field.mlb",
+      "drafted_records": 76,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 36,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "gamesys.mlb",
+      "drafted_records": 235,
+      "source_observed_max_literal_line_characters": 20,
+      "english_observed_max_literal_line_characters": 42,
+      "source_observed_max_lines": 4,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "gimmick_text.mlb",
+      "drafted_records": 60,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 40,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "hiruko.mlb",
+      "drafted_records": 34,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 48,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "home.mlb",
+      "drafted_records": 99,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 63,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "intro.mlb",
+      "drafted_records": 732,
+      "source_observed_max_literal_line_characters": 9,
+      "english_observed_max_literal_line_characters": 47,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "item_etc.mlb",
+      "drafted_records": 125,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 56,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "item_help.mlb",
+      "drafted_records": 223,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 79,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "item_kana.mlb",
+      "drafted_records": 630,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 33,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "item_name.mlb",
+      "drafted_records": 631,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 33,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "itsuka.mlb",
+      "drafted_records": 793,
+      "source_observed_max_literal_line_characters": 20,
+      "english_observed_max_literal_line_characters": 64,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "kosin.mlb",
+      "drafted_records": 53,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 52,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "mercy.mlb",
+      "drafted_records": 59,
+      "source_observed_max_literal_line_characters": 18,
+      "english_observed_max_literal_line_characters": 62,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "monster.mlb",
+      "drafted_records": 365,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 24,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "monster_kana.mlb",
+      "drafted_records": 364,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 24,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "moviesubtitle.mlb",
+      "drafted_records": 246,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 50,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "phantasmagoria.mlb",
+      "drafted_records": 31,
+      "source_observed_max_literal_line_characters": 14,
+      "english_observed_max_literal_line_characters": 63,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "prologue.mlb",
+      "drafted_records": 6,
+      "source_observed_max_literal_line_characters": 16,
+      "english_observed_max_literal_line_characters": 44,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "skill.mlb",
+      "drafted_records": 33,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 21,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "skill_help.mlb",
+      "drafted_records": 33,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 64,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "spell.mlb",
+      "drafted_records": 96,
+      "source_observed_max_literal_line_characters": 5,
+      "english_observed_max_literal_line_characters": 16,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "spell_help.mlb",
+      "drafted_records": 83,
+      "source_observed_max_literal_line_characters": 17,
+      "english_observed_max_literal_line_characters": 58,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "spell_kana.mlb",
+      "drafted_records": 83,
+      "source_observed_max_literal_line_characters": 7,
+      "english_observed_max_literal_line_characters": 13,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "spirit_kana.mlb",
+      "drafted_records": 127,
+      "source_observed_max_literal_line_characters": 12,
+      "english_observed_max_literal_line_characters": 23,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "spirit_name.mlb",
+      "drafted_records": 127,
+      "source_observed_max_literal_line_characters": 6,
+      "english_observed_max_literal_line_characters": 23,
+      "source_observed_max_lines": 1,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "spirit_voice.mlb",
+      "drafted_records": 547,
+      "source_observed_max_literal_line_characters": 20,
+      "english_observed_max_literal_line_characters": 74,
+      "source_observed_max_lines": 2,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "title.mlb",
+      "drafted_records": 157,
+      "source_observed_max_literal_line_characters": 20,
+      "english_observed_max_literal_line_characters": 49,
+      "source_observed_max_lines": 5,
+      "fit_status": "unverified"
+    },
+    {
+      "file": "will.mlb",
+      "drafted_records": 876,
+      "source_observed_max_literal_line_characters": 19,
+      "english_observed_max_literal_line_characters": 61,
+      "source_observed_max_lines": 3,
+      "fit_status": "unverified"
+    }
+  ]
+}

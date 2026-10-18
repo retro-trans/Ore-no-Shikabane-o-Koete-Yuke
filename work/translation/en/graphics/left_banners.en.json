@@ -1,0 +1,487 @@
+{
+  "version": "0.2.32",
+  "status": "Final-ISO April and herbal banner verified; other months preview checked",
+  "rows": [
+    {
+      "file": "258.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 51,
+      "translation_en": "HERBAL MEDICINE",
+      "context": "Medicine shop",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "HERBAL MEDICINE",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "09c37d140091575932508ed7006c028313bdcfaca0aa89ada9ed5eaf6e7e2572"
+    },
+    {
+      "file": "242.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 35,
+      "translation_en": "JANUARY",
+      "context": "Calendar month 1",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "JANUARY",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "a92986ad13c363b92d2bdb556603a96a16c1f47776e6a4f2f4b2e0e275e12400"
+    },
+    {
+      "file": "243.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 36,
+      "translation_en": "FEBRUARY",
+      "context": "Calendar month 2",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "FEBRUARY",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "c4af622a2e06187b9b0e052ba213f033bd0fc63cd8df2dba5422ba300c5a4619"
+    },
+    {
+      "file": "244.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 37,
+      "translation_en": "MARCH",
+      "context": "Calendar month 3",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "MARCH",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "2877727fa462682f4f7f37840f584acd29de74b0b6603994f965ce4c6157fb01"
+    },
+    {
+      "file": "245.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 38,
+      "translation_en": "APRIL",
+      "context": "Calendar month 4",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "APRIL",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "d45f0bf8cfc842efe53f3282f3ed96afdf0c46b0b44b018240e8a3bfa78bac83"
+    },
+    {
+      "file": "246.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 39,
+      "translation_en": "MAY",
+      "context": "Calendar month 5",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "MAY",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "08f1d74407359f2210825018e7e8aa744278dbdc8d4503b32f3cfd21e7baa44e"
+    },
+    {
+      "file": "247.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 40,
+      "translation_en": "JUNE",
+      "context": "Calendar month 6",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "JUNE",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "b7c6e5947faf8005b42c0f0f39a3502326dc2cb050e7fd70b940fc18c23018b6"
+    },
+    {
+      "file": "248.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 41,
+      "translation_en": "JULY",
+      "context": "Calendar month 7",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "JULY",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "e294361fa44c50d65923c635ed561533524f5f1665f0f8001f548dc4591dc923"
+    },
+    {
+      "file": "249.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 42,
+      "translation_en": "AUGUST",
+      "context": "Calendar month 8",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "AUGUST",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "85941e34b4bca33383220c7b503cd7e45954415d7e2db1545955448b7fc09dc4"
+    },
+    {
+      "file": "250.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 43,
+      "translation_en": "SEPTEMBER",
+      "context": "Calendar month 9",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "SEPTEMBER",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "cb44df90d8d2a05d90ac25896adac10a669b39cc51619f5f557e8f2a944ed025"
+    },
+    {
+      "file": "251.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 44,
+      "translation_en": "OCTOBER",
+      "context": "Calendar month 10",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "OCTOBER",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "d04f50496094af1503860aa79574e6451f850acc9bad0d4fecf15b5b8d3a0fed"
+    },
+    {
+      "file": "252.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 45,
+      "translation_en": "NOVEMBER",
+      "context": "Calendar month 11",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "NOVEMBER",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "b77b25c6120ae966801646f0b5b2888de583b108d420a732948c0ec3b93ea27f"
+    },
+    {
+      "file": "253.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 46,
+      "translation_en": "DECEMBER",
+      "context": "Calendar month 12",
+      "pixel_format": 4,
+      "palette_colors": 16,
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "DECEMBER",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "7077cbd5f69f25690430d25b73f98dc50f196fcb67f67b81f4865977f35ede67"
+    }
+  ]
+}

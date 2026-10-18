@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "version": "0.2.9",
+  "language": "en",
+  "status": "draft",
+  "rows": [
+    {
+      "file": "219.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 12,
+      "translation_en": "FAMILY PHOTO",
+      "status": "draft",
+      "label_rectangle": [
+        68,
+        9,
+        148,
+        140
+      ],
+      "fit_status": "verified_selected_context_0.2.9",
+      "context": "Native Portrait Studio banner; camera and outer floral frame retained.",
+      "fit_evidence": "work/ui/menu-fixes-0.2.9/portrait-studio.png"
+    },
+    {
+      "file": "260.ppt",
+      "archive_offset": 11839488,
+      "member_entry": 53,
+      "translation_en": "PORTRAIT STUDIO",
+      "status": "draft",
+      "label_rectangle": [
+        0,
+        0,
+        48,
+        264
+      ],
+      "fit_status": "verified_selected_context_0.2.9",
+      "context": "Vertical facility heading. Uses the established glossary term.",
+      "fit_evidence": "work/ui/menu-fixes-0.2.9/portrait-studio.png"
+    }
+  ]
+}

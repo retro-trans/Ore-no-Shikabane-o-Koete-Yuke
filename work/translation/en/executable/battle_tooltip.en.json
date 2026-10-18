@@ -1,0 +1,25 @@
+{
+  "version": "0.2.36",
+  "scope": "Native battle tooltip layout and measured wrapping",
+  "layout": {
+    "item_tooltip": [
+      206,
+      114,
+      266,
+      84
+    ],
+    "skills_tooltip": [
+      206,
+      134,
+      264,
+      64
+    ]
+  },
+  "name_budget": {
+    "reference": "Young Leaf Pills",
+    "metric_units": 110,
+    "consumables": 66,
+    "shortened": 47
+  },
+  "abbreviations": "work/glossary/battle_abbreviations.json"
+}

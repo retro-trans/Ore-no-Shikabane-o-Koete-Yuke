@@ -1,0 +1,69 @@
+{
+  "version": "0.2.8",
+  "source": "work\\output\\english-native-0.2.8\\data.graphics.ore",
+  "source_sha256": "5ffb316eb6587ef291d6ffa1d28b2eb9e9bd55a514efc459fe98929cd0e52d05",
+  "output_sha256": "18b408c72d9e2333bdf860b933d14fb1c9bfec5e366082adaef2407616722cd3",
+  "bytes": 228593664,
+  "native_asset": "copyright_sce.ppt",
+  "member_entry": 25,
+  "texture_replacement": false,
+  "all_other_archive_members_unchanged": true,
+  "runtime_fit": "pending",
+  "rows": [
+    {
+      "text": "v0.2.8",
+      "right": 478,
+      "top": 236,
+      "font_size": 7.5,
+      "outline": 1,
+      "alignment": "right"
+    },
+    {
+      "text": "retro-trans",
+      "right": 478,
+      "top": 248,
+      "font_size": 6.5,
+      "outline": 1,
+      "alignment": "right"
+    }
+  ],
+  "editable_rectangle": [
+    442,
+    234,
+    480,
+    259
+  ],
+  "atlas_screen_origin": [
+    0,
+    233
+  ],
+  "original_format": {
+    "width": 352,
+    "height": 16,
+    "texture_width": 512,
+    "texture_height": 16,
+    "format": 5,
+    "swizzled": true
+  },
+  "output_format": {
+    "width": 480,
+    "height": 64,
+    "texture_width": 512,
+    "texture_height": 64,
+    "format": 5,
+    "swizzled": true
+  },
+  "extra_uncompressed_bytes": 25088,
+  "original_copyright_pixels_and_palette_exact": true,
+  "executable": {
+    "source_elf_sha256": "830332ff4e7af40ad59dc125997eb4e895a0ed8dec895ddcb440fd998da3f97b",
+    "output_elf_sha256": "cfb4cc0f220e1dbfb9957f5eab6005c3a32aa534fc85cf8dab0ac923c0c52304",
+    "patches": [
+      {
+        "address": "0x89797b0",
+        "original": "0xe26ed89",
+        "replacement": "0xe26ed9b"
+      }
+    ]
+  }
+}

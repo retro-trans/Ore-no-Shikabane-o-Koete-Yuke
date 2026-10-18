@@ -1,0 +1,151 @@
+{
+  "version": "0.2.30",
+  "context": "longest-fixture",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Reputation: Knows more than",
+    "experience warrants"
+  ],
+  "objects": [
+    {
+      "text": "Hayate",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0 yr",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Male",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Swordsman",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Reputation: Knows more than",
+      "atlas": "0x9b5c010",
+      "glyphs": 27,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "experience warrants",
+      "atlas": "0x9b5c010",
+      "glyphs": 19,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "99/",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "99",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "35/",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "35",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "100/",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "100",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Status",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "137",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "131",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "127",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "100",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0",
+      "atlas": "0x9b5c010",
+      "glyphs": 1,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Spirit",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Skill",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Body",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Potential",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Back",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

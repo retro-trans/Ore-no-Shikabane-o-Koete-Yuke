@@ -1,0 +1,335 @@
+{
+  "version": "0.2.4",
+  "capture_method": "Guest PSP display buffer at sceDisplaySetFrameBuf, software backend",
+  "display_dimensions": [
+    480,
+    272
+  ],
+  "texture_replacement": false,
+  "visual_fit_verified_record_ids": [
+    "ore:0000c000:0000:00:0000",
+    "ore:0000c000:0000:00:0001",
+    "ore:0000c000:0000:00:0002",
+    "ore:0000c000:0000:00:0003",
+    "ore:0000c000:0000:00:0004",
+    "ore:0000c000:0000:00:0005",
+    "ore:0000c000:0000:00:0006",
+    "ore:0000c000:0000:00:0007",
+    "ore:0000c000:0000:00:0008",
+    "ore:0000c000:0000:00:0009",
+    "ore:0000c000:0000:00:0010",
+    "ore:0000c000:0000:00:0011",
+    "ore:0000c000:0001:00:0001",
+    "ore:0000c000:0001:00:0012",
+    "ore:0000c000:0001:00:0013",
+    "ore:0000c000:0001:00:0014",
+    "ore:0000c000:0009:00:0000",
+    "ore:0000c000:0009:00:0001",
+    "ore:0000c000:0009:00:0002",
+    "ore:0000c000:0009:00:0003",
+    "ore:0000c000:0009:00:0013",
+    "ore:0000c000:0010:00:0056",
+    "ore:0000c000:0010:00:0057",
+    "ore:0000c000:0015:04:0006",
+    "ore:0000c000:0015:04:0007",
+    "ore:00027000:0001:00:0000",
+    "ore:00027000:0001:00:0001",
+    "ore:00027000:0001:00:0002",
+    "ore:00027000:0001:00:0016",
+    "ore:00027000:0001:00:0017",
+    "ore:00028000:0000:00:0000",
+    "ore:00028000:0000:00:0002",
+    "ore:00028000:0000:00:0004",
+    "ore:00028000:0000:00:0011",
+    "ore:00028000:0000:00:0014",
+    "ore:00028000:0000:00:0053",
+    "ore:00028000:0000:04:0003",
+    "ore:00028000:0000:10:0006",
+    "ore:00028000:0000:11:0005",
+    "ore:00028000:0000:12:0003",
+    "ore:00028000:0002:00:0002",
+    "ore:00028000:0003:01:0008",
+    "ore:00028000:0003:01:0009",
+    "ore:00028000:0003:01:0010",
+    "ore:00028000:0003:01:0011",
+    "ore:00028000:0003:01:0019",
+    "ore:00028000:0003:01:0020",
+    "ore:00028000:0003:01:0021",
+    "ore:00028000:0003:03:0000",
+    "ore:00028000:0003:03:0003",
+    "ore:00028000:0003:03:0004",
+    "ore:00028000:0003:03:0006",
+    "ore:001e8000:0000:01:0004",
+    "ore:001e8000:0000:02:0000",
+    "ore:001e8000:0000:02:0001",
+    "ore:001e8000:0000:02:0002",
+    "ore:001e8000:0000:02:0003",
+    "ore:001e8000:0000:02:0015",
+    "ore:001e8000:0000:02:0016",
+    "ore:001e8000:0000:03:0002",
+    "ore:001e8000:0000:03:0013",
+    "ore:001e8000:0000:04:0004",
+    "ore:001e8000:0000:06:0002",
+    "ore:001e8000:0000:06:0004"
+  ],
+  "meaning_approved_records": 0,
+  "screens": [
+    {
+      "id": "title_menu",
+      "screenshot": "work/ui/title-menu-0.2.4.png",
+      "caption_box": [
+        91,
+        222,
+        297,
+        30
+      ],
+      "caption_text_bounds_available": [
+        100,
+        229,
+        278,
+        17
+      ],
+      "caption": "Begin a new game.",
+      "native_graphic_labels_visually_verified": 6,
+      "cards": [
+        {
+          "label": "NEW GAME",
+          "rectangle": [
+            20,
+            10,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "CONTINUE",
+          "rectangle": [
+            100,
+            10,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "PROLOGUE",
+          "rectangle": [
+            180,
+            10,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "ADOPTION",
+          "rectangle": [
+            28,
+            117,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "SHARE DEITY",
+          "rectangle": [
+            108,
+            117,
+            57,
+            94
+          ]
+        },
+        {
+          "label": "SOUL UNION",
+          "rectangle": [
+            188,
+            117,
+            57,
+            94
+          ]
+        }
+      ],
+      "findings": "Six English labels are readable and contained within the native cards. Disabled cards retain the game's dimming. Title logo remains Japanese artwork."
+    },
+    {
+      "id": "setup_gender",
+      "screenshot": "work/ui/setup-gender-full-0.2.4.png",
+      "dialogue_box": [
+        91,
+        6,
+        297,
+        69
+      ],
+      "text_bounds_available": [
+        100,
+        16,
+        278,
+        49
+      ],
+      "observed_lines": 3,
+      "findings": "All three English prompt lines and both gender labels are visibly complete. This does not establish fit for other dialogue or runtime-expanded placeholders."
+    }
+  ],
+  "measurement_note": "Coordinates estimated from the actual 480x272 captures. Observed source lengths remain separate from display limits; character limits are not inferred.",
+  "additional_build_evidence": [
+    {
+      "version": "0.2.7",
+      "feature": "Native title version and group footer",
+      "screenshots": [
+        "work/ui/title-branding-0.2.7/title-idle.png",
+        "work/ui/title-branding-0.2.7/title-menu.png"
+      ],
+      "rectangle": [
+        442,
+        234,
+        38,
+        25
+      ],
+      "findings": "v0.2.7 and retro-trans are fully visible on both title states, clear of the menu character and caption. Copyright pixels and placement are preserved."
+    },
+    {
+      "version": "0.2.8",
+      "feature": "Five reported setup UI fixes",
+      "verification": "work/ui/setup-fixes-0.2.8/verification.json"
+    },
+    {
+      "version": "0.2.9",
+      "evidence": "work/ui/menu-fixes-0.2.9/verification.json",
+      "scope": "Four requested deity/character/home/studio fixes"
+    },
+    {
+      "version": "0.2.10",
+      "evidence": "work/ui/map-fixes-0.2.10/verification.json",
+      "scope": "Native overworld labels; core script fit count unchanged"
+    },
+    {
+      "version": "0.2.11",
+      "evidence": "work/ui/destination-fixes-0.2.11/verification.json",
+      "scope": "Mount Oe banner and three dungeon destination menu labels"
+    },
+    {
+      "version": "0.2.12",
+      "evidence": "work/ui/alphabet-0.2.12/verification.json",
+      "scope": "Native Latin name input, case/language switching, validation and save reload"
+    },
+    {
+      "version": "0.2.15",
+      "evidence": "work/ui/names-0.2.15/verification.json",
+      "scope": "Eight English characters, native fullwidth Latin HD font, two-row portrait labels, actual save/reload"
+    },
+    {
+      "version": "0.2.16",
+      "evidence": "work/ui/latin-auto-0.2.16/verification.json",
+      "scope": "Enlarged full footer, Latin Auto names, original long-name save loading, native Start and emulator input correction"
+    },
+    {
+      "version": "0.2.17",
+      "evidence": "work/ui/dialogue-reflow-0.2.17/verification.json",
+      "scope": "Curse overflow and two naturally reflowed Itsuka tutorial messages"
+    },
+    {
+      "version": "0.2.18",
+      "evidence": "work/ui/menu-fit-0.2.18/verification.json",
+      "scope": "Shared inventory, category paging, descriptions and shop menu fit"
+    },
+    {
+      "version": "0.2.19",
+      "evidence": "work/ui/shop-layout-0.2.19/verification.json",
+      "scope": "Native shop stock, funds, ownership, comparison, restrictions and Gear Stats popup; two background kanji preserved"
+    },
+    {
+      "version": "0.2.20",
+      "evidence": "work/ui/equipment-deities-0.2.20/verification.json",
+      "scope": "Equipment graphics/slots, wider Divine Union submenu, two-line deity rows and complete details; core fit count unchanged"
+    },
+    {
+      "version": "0.2.21",
+      "evidence": "work/ui/character-spells-0.2.21/verification.json",
+      "scope": "Character submenu, full portrait selector, English spell labels and paging; core fit count unchanged"
+    },
+    {
+      "version": "0.2.22",
+      "evidence": "work/ui/detailed-roster-0.2.22/verification.json",
+      "scope": "English HP/Loyalty/Health badges and separated detailed-roster equipment/status columns; core fit count unchanged"
+    },
+    {
+      "version": "0.2.23",
+      "evidence": "work/ui/startup-disclaimer-0.2.23/verification.json",
+      "scope": "English embedded startup disclaimer and following title screen; indexed script fit count unchanged"
+    },
+    {
+      "version": "0.2.24",
+      "evidence": "work/ui/punctuation-0.2.24/verification.json",
+      "scope": "ASCII exclamation marks closer to preceding letters; exact Orin passage before/after; existing core fit count unchanged"
+    },
+    {
+      "version": "0.2.25",
+      "evidence": "work/ui/battle-hud-0.2.25/verification.json",
+      "scope": "PARTIAL: title/prologue boot and native MIPS name conversion pass; combat transition halts at PC 0 in isolated testing, also observed on base 0.2.24; battle visual check pending; core fit count unchanged"
+    },
+    {
+      "version": "0.2.26",
+      "evidence": "work/ui/hd-fonts-0.2.26/verification.json",
+      "scope": "PASS: selected shared HD UI screens; battle visual QA pending; core indexed fit count unchanged"
+    },
+    {
+      "version": "0.2.27",
+      "evidence": "work/ui/six-screens-0.2.27/verification.json",
+      "scope": "PASS: six reported screens checked in the final ISO; indexed fit count unchanged"
+    },
+    {
+      "version": "0.2.28",
+      "evidence": "work/ui/element-icons-0.2.28/verification.json",
+      "scope": "PASS: all four shared reference element sprites verified on status/abilities/Potential and deity list; indexed text fit count unchanged"
+    },
+    {
+      "version": "0.2.29",
+      "evidence": "work/ui/vital-icons-0.2.29/verification.json",
+      "scope": "PASS: HP/MP/HLTH reference symbols verified in status/roster and compact HP/MP in battle; indexed text fit count unchanged"
+    },
+    {
+      "version": "0.2.30",
+      "evidence": "work/ui/profile-traits-0.2.30/verification.json",
+      "scope": "PASS: complete profile traits, native two-line placement and repeated character switching; indexed text fit count unchanged"
+    },
+    {
+      "version": "0.2.31",
+      "evidence": "work/ui/native-icons-0.2.31/verification.json",
+      "scope": "PASS: original Oreshika HP/MP/HLTH and four element designs replace screenshot copies; indexed text fit count unchanged"
+    },
+    {
+      "version": "0.2.32",
+      "evidence": "work/ui/left-banners-0.2.32/verification.json",
+      "scope": "PASS: English herbal-medicine and calendar ribbons; indexed text fit count unchanged"
+    },
+    {
+      "version": "0.2.33",
+      "evidence": "work/ui/chronicle-0.2.33/verification.json",
+      "scope": "PASS: English Chronicle heading, clear navigation labels and month changes; indexed text fit count unchanged"
+    },
+    {
+      "version": "0.2.34",
+      "evidence": "work/ui/catalog-0.2.34/verification.json",
+      "scope": "PASS: clear catalog tabs and escape statistics; Acquired caption; Scrolls 0/73 without items; indexed text fit count unchanged"
+    },
+    {
+      "version": "0.2.35",
+      "evidence": "work/ui/status-layout-0.2.35/verification.json",
+      "scope": "PASS: traits enclosed by full-height Status/Abilities frame; Potential group names clear of gold axis and elements; text coverage counts unchanged"
+    },
+    {
+      "version": "0.2.36",
+      "evidence": "work/ui/battle-menu-0.2.36/verification.json",
+      "scope": "PASS: separate battle commands, full Equipment submenu, complete wrapped tooltips and compact consumable names; accumulated indexed fit count unchanged"
+    },
+    {
+      "version": "0.2.37",
+      "evidence": "work/ui/dialogue-window-0.2.37/verification.json",
+      "scope": "PASS: translated Pack confirmation/count; wider translucent story dialogue; accumulated indexed fit count unchanged"
+    },
+    {
+      "version": "0.2.38",
+      "evidence": "work/ui/home-help-0.2.38/verification.json",
+      "scope": "PASS: centered wider home description box; complete Rest text; accumulated indexed fit count unchanged"
+    }
+  ],
+  "latest_evidence_version": "0.2.38"
+}

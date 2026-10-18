@@ -1,0 +1,18 @@
+{
+  "version": "0.2.21",
+  "rows": [
+    {
+      "archive_offset": 221184,
+      "member_entry": 11,
+      "file": "108.ppt",
+      "translation_en": "MP",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_evidence": "work/ui/character-spells-0.2.21/spells-after.png"
+    }
+  ]
+}

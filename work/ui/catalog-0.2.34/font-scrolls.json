@@ -1,0 +1,74 @@
+{
+  "version": "0.2.34",
+  "context": "scrolls",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Scrolls Acquired",
+    "Acquired",
+    "0/73"
+  ],
+  "objects": [
+    {
+      "text": "- April -",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Back",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Weapons",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Armor",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Scrolls",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Curios",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Other",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Scrolls Acquired",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Acquired",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0/73",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

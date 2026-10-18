@@ -1,0 +1,12 @@
+{
+  "version": "0.2.15",
+  "params": "0x9ca6d1c",
+  "field": "0x9ca6d5c",
+  "language": 2,
+  "inputtype": "0xd00f",
+  "outtext": "0x9ca6f90",
+  "limit": 8,
+  "capacity": 128,
+  "initial_length": 0,
+  "source": "Actual request at sceUtilityOskInitStart; final ISO"
+}

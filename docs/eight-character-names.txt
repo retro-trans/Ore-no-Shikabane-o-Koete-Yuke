@@ -1,0 +1,52 @@
+Native English names, build 0.2.15
+
+The old three-character limit came from eight-byte UCS-2 save fields:
+three two-byte characters followed by a two-byte terminator. Raising only
+the keyboard limit would allow the game to truncate names or overwrite
+adjacent fields. The user selected a maximum of eight English characters.
+
+Four to eight printable Latin characters are now packed into the same eight
+bytes. The first code unit uses a reserved UCS-2 surrogate range, three length
+bits and the first eight payload bits. The remaining six bytes hold the rest
+of the 56-bit, seven-bits-per-character payload. Names of up to three
+characters retain the original game's conversion and storage. Auto and all
+1,735 Japanese name-pool records are unchanged. Japanese or mixed names
+longer than three characters are rejected without overwriting the old name.
+
+Each text consumer uses a local iterator, with no global scratch ring.
+A leading packed name terminates at its encoded length, without reading the
+next save field. Ordinary eight-byte record setters copy packed bytes intact;
+larger text buffers expand the name. Logical comparison includes all eight
+letters. Both native formatters handle packed literal names and substitutions.
+The legacy byte converter retains its original contract and is tested against
+the unmodified converter for ordinary text and decoded long names.
+
+Decoded names use the game's original fullwidth Latin conventions. This also
+keeps percent signs and brackets in names from becoming text-format/control
+syntax. The glyph constructor at 0x089BA6EC maps U+FF01..U+FF5E to ASCII and
+U+3000 to a space before width/spacing measurement. The native 4x atlas then
+renders Latin names, including legacy short-name confirmations. Real Japanese
+keeps its existing fallback. The atlas and its geometry are unchanged. The
+PSP system keyboard still uses the system OSK font; no texture replacement.
+
+The name-value window is 248 pixels wide, centered at x=116. Both portrait-card
+constructors retain name y=87, move age y=87 to y=99, and extend the frame
+height from 104 to 116 pixels. This gives long names their own row.
+
+Compatibility: original short/Japanese name bytes and save structure are
+unchanged. Saves with longer names require build 0.2.15 or newer. Do not load
+them in the original game or older patches. Preserve backups when switching
+builds. The earlier internal 0.2.13/0.2.14 candidates are superseded.
+
+Build: tools/build_long_names.py (dry run unless --write)
+Checks: tools/test_name_font.py, tools/test_long_names.py
+Evidence: work/ui/names-0.2.15/verification.json
+ISO: work/output/english-native-0.2.15.iso
+
+The isolated QA profile uses actual keyboard entry and game save/load; name
+and save memory are never injected. Selected tests cover the eight-character
+family WWWWWWWW, given aaaaAAAA and child bbbbBBBB, plus the original
+three-character fullwidth confirmation path. Machine checks include 127
+varied names and original byte-conversion comparisons. All 49 main translation
+batches pass. Full-playthrough name contexts and physical PSP performance
+remain pending; indexed draft coverage is not full-game quality approval.

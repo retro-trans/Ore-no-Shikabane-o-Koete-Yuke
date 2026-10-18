@@ -1,0 +1,2338 @@
+{
+  "schema_version": 1,
+  "version": "0.2.36",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "rows": [
+    {
+      "id": "ore:0000c000:0019:01:0240",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 240,
+      "text_offset": 36660,
+      "source_sha256": "db49d6ed853d38dfb78b5786c481899df2f832d6c75cac9e509442f1e5275696",
+      "category": "ui_system_help",
+      "translation_en": "About half of all attack spells are Fire spells.\nFire Skill's true value lies in dealing\nlarge amounts of damage through magic.\nNaturally, those gifted in Fire Skill\nwill tend to specialize\nin attack spells.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0241",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 241,
+      "text_offset": 36836,
+      "source_sha256": "50c4ef5b84a71b5d7830e55b3a989bf70c7c85d9eb51dc58e5df107bd15e15c3",
+      "category": "ui_system_help",
+      "translation_en": "This is the ability\nto use all sorts of spells effectively.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0242",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 242,
+      "text_offset": 36880,
+      "source_sha256": "190b130fda604ecf63b522104908b9e91a67dc8e8557e6798d8ccafc39d52f30",
+      "category": "ui_system_help",
+      "translation_en": "Even if you obtain a scroll,\nyou cannot use its spell until your Skill\nmeets the learning requirements.\nAnd even the same spell\ncan vary so wildly with the caster's Skill\nthat it hardly seems like the same spell at all.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0243",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 243,
+      "text_offset": 37042,
+      "source_sha256": "99aaf226153fd5fc4e07b28df0c0e1932b65a730551c05c50b0cee6b29b71146",
+      "category": "ui_system_help",
+      "translation_en": "Water Skill is the power to cherish life.\nIt forms the foundation for learning\nspells that restore your allies' HP.\nIncluding at least one person\nwith high Water Skill in the party\nis a basic rule for surviving battles.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0244",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 244,
+      "text_offset": 37218,
+      "source_sha256": "39a082affcf1a1f3fbe539f9c0139eae782674ea05db971a2827280224d9ad19",
+      "category": "ui_system_help",
+      "translation_en": "If you keep uniting with deities of the same line\nfor generation after generation, the blood grows\nmore concentrated and its traits become clearer.\nIt's a great way\nto raise your fighting strength quickly\nand dramatically... But...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0245",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 245,
+      "text_offset": 37410,
+      "source_sha256": "3ef08527970cfbd75171f6a47911000bb63e08d806fbab7f24f755a99a2fa4b5",
+      "category": "ui_system_help",
+      "translation_en": "It's a double-edged sword that also makes\nfrail children more likely to be born.\nEverything in moderation... Or perhaps\nin for a penny, in for a pound... Hey, now!\nThe decision is yours, %$.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0246",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 246,
+      "text_offset": 37556,
+      "source_sha256": "915b7e98827f8a3c942a11d24ec2377a0455accb46d62ac8cf9f3ed4c8971b36",
+      "category": "ui_system_help",
+      "translation_en": "She's currently heaven's youngest deity,\nand also its most powerful!!\nAfter thousands of years of division,\nshe used some outrageously forceful methods\nto bring all of heaven together with a bang!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0247",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 247,
+      "text_offset": 37712,
+      "source_sha256": "cb43873ccb30ed9f29cd51c3cbb6069d1e0f2566c91d30d926c4d8c8e294b0f3",
+      "category": "ui_system_help",
+      "translation_en": "And she's quite beautiful too!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0248",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 248,
+      "text_offset": 37740,
+      "source_sha256": "87a3d4313de75905c88cb9d8ba0fec7c36185a521d06eda5c81378f93e7745ea",
+      "category": "ui_system_help",
+      "translation_en": "That means she has plenty of enemies,\nbut I'm absolutely on her side.\nGo! Go! Hiruko!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained.",
+        "Hiruko is explicitly female in the glossary; the cheer retains her name."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0249",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 249,
+      "text_offset": 37838,
+      "source_sha256": "8f0a1ac99c46b6afddb232b7ffe6bdaefb651b295272d9d26ee0648e62bac1d7",
+      "category": "ui_system_help",
+      "translation_en": "Actually, my hairstyle\nis copied from Hiruko...\nWhen people say we look alike,\nI'm a little embarrassed,\nbut it still makes me happy!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Itsuka refers to herself by name; English uses I in this row.",
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0250",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 250,
+      "text_offset": 37960,
+      "source_sha256": "59988c9419982ae88be25df4dd710636d5ec7f764c7ee6a130987fd5ecc92c2b",
+      "category": "ui_system_help",
+      "translation_en": "Whether to favor numbers or quality in the clan...\nIn other words, how many Offering Points\nto save before Divine Union is the difficult question.\nPerhaps five to seven times\nover two years is a safe balance...\nI don't really know! Ha ha!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained.",
+        "Five to seven unions over two years is uncertain character advice, not a verified optimum."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0251",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 251,
+      "text_offset": 38144,
+      "source_sha256": "33be3ac920506d5cd0cb4bdb05ebe7d4ac11c7e7017523b08bce3d93defc14a5",
+      "category": "ui_system_help",
+      "translation_en": "When certain conditions are met,\nyou can enshrine the spirit of a deceased\nfamily member as a deity.\nThis new deity\nis called a clan deity.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0252",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 252,
+      "text_offset": 38288,
+      "source_sha256": "32469ff323cf080751ff2f8f0abff961536bdcd2a27a081c3dc03cb40777cf11",
+      "category": "ui_system_help",
+      "translation_en": "Through Divine Union, the deceased's blood\nwill live again and again, giving the %$ clan\nstrength that lasts forever.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained.",
+        "The unusual clan placeholder %$ is retained exactly as in source."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0253",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 253,
+      "text_offset": 38382,
+      "source_sha256": "409a39ccd3ea757e03899b6245368236b583e40988425a1a3f2e31414a554f3d",
+      "category": "ui_system_help",
+      "translation_en": "Heaven's second most powerful deity,\nafter Hiruko.\nHiruko's adoptive parent and guardian.\nAnd, of course, the supreme leader\nwho ruled heaven before Hiruko!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0254",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 254,
+      "text_offset": 38520,
+      "source_sha256": "1cb68f8e67df3e5745b6bd17504c9c73ab78960dc376f649476d3fa5d10e9c1c",
+      "category": "ui_system_help",
+      "translation_en": "The one who rescued you from Mount Oe, %$,\nand arranged all sorts of help for you\nwas actually Yuko Taishoten.\nHeaven's wonderfully kind mother!!\nThough asking her age\nmight be a little frightening...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0255",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 255,
+      "text_offset": 38694,
+      "source_sha256": "9ccbe2812f7585903da39453a3b6d784176b2dcca7422a96e907d010dc97dcf6",
+      "category": "ui_system_help",
+      "translation_en": "During a hunt, watch HP constantly,\nboth in battle and while moving.\nAim to keep it above seventy percent of maximum.\nIf the Health warning appears,\nrestore HP immediately.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0256",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 256,
+      "text_offset": 38862,
+      "source_sha256": "8f8334878d37c66afb71fb792ff3b777d43571c74f4d32765db51f1f625476d9",
+      "category": "ui_system_help",
+      "translation_en": "Half HP is out of the question!!\nHealth will drain before your eyes\nlike water from a bucket with no bottom.\nUntil you've learned this world's\nrules and ways, don't go running\nall over the place with the X button.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0257",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 257,
+      "text_offset": 39044,
+      "source_sha256": "67fcb17b903a5043766d64c6b36ce44d019de6e6df298155e67b9149c0e478eb",
+      "category": "ui_system_help",
+      "translation_en": "I've also added an explanation\nabout \"○○.\"\nPlease read it when you have a moment!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0258",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 258,
+      "text_offset": 39136,
+      "source_sha256": "1abf587957cde6268d97eea30fb0e6d716509d5e5c3315b98c1a25f041368742",
+      "category": "ui_system_help",
+      "translation_en": "\"Plan your year on New Year's Day!!\"\nThis is a perfect opportunity. Write down\nyour goals for the year\nand stick them somewhere you'll see them.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0259",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 259,
+      "text_offset": 39252,
+      "source_sha256": "c9936da87cdf3534d5a3f1b602938bea4502f4cf73a3e53b5ac6cd35aa5d54b2",
+      "category": "ui_system_help",
+      "translation_en": "* Removed after combining with the preceding and following messages.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained.",
+        "Source is an apparent developer note saying the message was removed after merging. Translated for inventory completeness; display path unverified."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0260",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 260,
+      "text_offset": 39292,
+      "source_sha256": "35cefe1d580436f8cfb0e3bfde396dc38fbc6e3cc51e391cacae3b9e4522ff52",
+      "category": "ui_system_help",
+      "translation_en": "When making plans, weigh the present, a month ahead,\nand a year ahead in roughly\na three-to-two-to-one ratio.\nThat's about the right balance\nbetween doing what's best right now\nand thinking far into the future.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0261",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 261,
+      "text_offset": 39494,
+      "source_sha256": "9012384ef920e6093070a4877f39069ea9b6dfd9b6aebe3b9848db95cd4c535f",
+      "category": "ui_system_help",
+      "translation_en": "Probably. Ha ha!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0262",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 262,
+      "text_offset": 39510,
+      "source_sha256": "46974fa44c5751d0048c969d5e1e03604a8b35ff3e4f4c2bc41643b23e1c9924",
+      "category": "ui_system_help",
+      "translation_en": "Predict where prices for rice, wheat, and other goods\nwill be in six months, and invest in likely risers.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0263",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 263,
+      "text_offset": 39578,
+      "source_sha256": "57de46a3027ca80c48dfa87dd504e96ded32fd072a67c06aa7504ef6cc937cea",
+      "category": "ui_system_help",
+      "translation_en": "If the price six months later is higher\nthan when you bought,\nthe difference is a big, beautiful profit!\nWell, buy things near their lowest price\nwithout stretching your finances.\nThat's the most basic rule of all.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0264",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 264,
+      "text_offset": 39750,
+      "source_sha256": "2c3c70ebb29ca0014ccdd593922c09d0c3d80ab1f1019dde3206f64b0aca8d6a",
+      "category": "ui_system_help",
+      "translation_en": "Incidentally, you can buy only one type of commodity a month.\nPlease don't get carried away\nand ruin the family fortune.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0265",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 265,
+      "text_offset": 39848,
+      "source_sha256": "683532f4152ee87d10d75083b4320b1aafe6cc93f6a9a0afc47bf9466b1e9d19",
+      "category": "ui_system_help",
+      "translation_en": "Unlike ordinary medicine, herbal remedies\nare remarkable medicines that restore Health.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0266",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 266,
+      "text_offset": 39916,
+      "source_sha256": "6d39c82223dc80c26aebabc5f3a37ec15b1df19b8656981e3a1980069ae5430d",
+      "category": "ui_system_help",
+      "translation_en": "But each person can take them only once a month.\nAnd the prices exploit people's vulnerability.\nThey're outrageous!\nEven their names\nsound terribly suspicious. If you can manage\nwithout them, that's best of all.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0267",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 267,
+      "text_offset": 40108,
+      "source_sha256": "6500724309ebddfa661e34bc774ea4623e376345e6446983e13153ebbf4d0d55",
+      "category": "ui_system_help",
+      "translation_en": "As people and shops return to the capital,\nmoney flows in from across the country.\nThen, drawn by that golden gleam,\nwhite-faced \"Kyoto beauties born out in the provinces\"\ncome flocking in from everywhere too!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0268",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 268,
+      "text_offset": 40266,
+      "source_sha256": "04a2a319c456756efbebbb312e5a9df78450b9a1666c47dbd8d9c989a7d9e901",
+      "category": "ui_system_help",
+      "translation_en": "For better or worse, that's Kyoto!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0269",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 269,
+      "text_offset": 40296,
+      "source_sha256": "e629459a6a4eb3d6c501910437c639a97aac4ecf9b7d70cf1fb8dcdde0db7b1f",
+      "category": "ui_system_help",
+      "translation_en": "The Print Shop sells portraits\nof those lovely ladies as \"beauty prints\"\nto connoisseurs.\nRumor has it... there are some duds\nmixed in, but apparently that only\nfires up collectors even more...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0270",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 270,
+      "text_offset": 40482,
+      "source_sha256": "588279cdfc89b1d4b551e622bdc000400cdd5a98bd237ec9304ece211950dfaa",
+      "category": "ui_system_help",
+      "translation_en": "A mysterious shop that preserves\nyour family's appearance at this very moment forever,\nso you can look at it whenever you like.\nThe prices are reasonable, so for New Year's, birthdays,\nor commemorating a mighty enemy's defeat...\nPlease give it a try on occasions like those.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0271",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 271,
+      "text_offset": 40680,
+      "source_sha256": "5b9dd3773866f7a07069115679ba1f5ae9423e8b243f4d49d9de137242b3cd7d",
+      "category": "ui_system_help",
+      "translation_en": "The Portrait Studio has just one drawback:\nthere's a limit to how many pictures it can keep.\nOnly thirty!!\nFor everyone in the %@ clan,\nI wish at least your number of memories\ncould be greater than other people's...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0272",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 272,
+      "text_offset": 40850,
+      "source_sha256": "1566dcf5426079030a57a12e23e1f0666a54b590aae830b9a458eb692c6656ff",
+      "category": "ui_system_help",
+      "translation_en": "Every sword Kenpuku forges\nis a one-of-a-kind custom creation.\nOf course, you can name it too.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0273",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 273,
+      "text_offset": 40936,
+      "source_sha256": "2ea9ffc9951477df51bed7b908620c838a78b233e5c083203485d724f57c07e1",
+      "category": "ui_system_help",
+      "translation_en": "And the more you use it,\nthe sharper it supposedly gets!!\n...Or so the rumors may or may not say.\nApparently they're rather expensive, but why not try?\nWhen you have some money to spare,\nperhaps you could place an order.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0274",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 274,
+      "text_offset": 41116,
+      "source_sha256": "81b9ab14adf1559268f5dfb2557dc361f8628a06c9cb6baecf2660a2b2a4f20c",
+      "category": "ui_system_help",
+      "translation_en": "The Commerce sector includes weapon, armor,\naccessory, and general goods shops.\nAt the changing of the seasons,\nthey often hold big sales\nand replace their stock.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0275",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 275,
+      "text_offset": 41258,
+      "source_sha256": "21324d68765680b3e239a63159ff7fe009da573da3da47b7513f28f359d30c87",
+      "category": "ui_system_help",
+      "translation_en": "As rebuilding progresses, the selection improves.\nYou'll have more chances to obtain rare weapons,\narmor, accessories, items, and so on.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0276",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 276,
+      "text_offset": 41356,
+      "source_sha256": "61a9e8a33463984e98fc87d8c976ee46627571d33ba5037c0ba659034018243b",
+      "category": "ui_system_help",
+      "translation_en": "Frankly, this sector isn't a matter\nof life and death. You can manage\nperfectly well without it...\nBut people need a little room to breathe,\nor rather, now and then\nyou have to let loose and relax!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0277",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 277,
+      "text_offset": 41542,
+      "source_sha256": "ccabc8751eef4e89911b636b82d6a422b2a2fc1060ef8311af72f6fe2bd5c4fb",
+      "category": "ui_system_help",
+      "translation_en": "Why not invest as casually\nas giving yourself a treat when something nice happens?\nYou can gaze at family photos\nand grow sentimental, then grin over beauty prints.\nI think there's a certain charm\nto that way of spending your time.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0278",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 278,
+      "text_offset": 41740,
+      "source_sha256": "ba11290632b1ef8f7e985f5603df32432d9b8198bf058cfdb4a219c4a2c6c168",
+      "category": "ui_system_help",
+      "translation_en": "By investing money,\nyou can rebuild the capital\nthat Shutendoji and the oni destroyed.\nAs life returns to the city,\nvarious shops will naturally open\nand more kinds of goods will be traded.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0279",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 279,
+      "text_offset": 41900,
+      "source_sha256": "dad94deb1fecf48d99e39ebde9489040fb54d53d9737b0890a9fd951b426925a",
+      "category": "ui_system_help",
+      "translation_en": "Continued investment will indirectly\ngive the %@ clan powerful support\nin fulfilling its vow.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0280",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 280,
+      "text_offset": 41976,
+      "source_sha256": "a919b65fa628a4b6e329d952d9d184d0a0401a21e931329f51cbd2ced0ff4270",
+      "category": "ui_system_help",
+      "translation_en": "The Commodity Broker is a financial service\nthat's quite handy to have around.\nIf you're the sort to say,\n\"Money's money, damn it,\nno matter how you get it!!\" then it's perfect for you.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0281",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 281,
+      "text_offset": 42124,
+      "source_sha256": "060b48aac5ad9e48cda1107ed50e778b54d70ec4499c7e307a8f73a9bed19a8b",
+      "category": "ui_system_help",
+      "translation_en": "Next is the Herbalist.\nThey say healing is a benevolent art,\nand medicine is insurance against misfortune.\nIt's an important shop that teaches you\neven health and life can, to some extent,\nbe bought with money.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained.",
+        "The claim about buying health is commentary on the fictional herbalist, not real medical advice."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0282",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 282,
+      "text_offset": 42284,
+      "source_sha256": "96adc05be95c8c80e6ecfc3c33f278abdfbb9827b1ac3a945c21070cb114ec2e",
+      "category": "ui_system_help",
+      "translation_en": "Public Works reflects the capital's overall strength!!\nTo develop this sector, you'll also need\nto invest in the other three.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0283",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 283,
+      "text_offset": 42378,
+      "source_sha256": "51b4659b5bab512f04609b8d0e507725ea257b8a13a528a9c0869f378f201903",
+      "category": "ui_system_help",
+      "translation_en": "Investment in Religion pays for the repair\nand construction of shrines, temples, and the like.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0284",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 284,
+      "text_offset": 42446,
+      "source_sha256": "dab92a3d5b543a2c3d33477df7762bd6aa24280a2a109f8b43e83534e0c5a5f1",
+      "category": "ui_system_help",
+      "translation_en": "As religious facilities grow grander,\nthe people's faith deepens\nand the gods are delighted.\nIt's odd to call it a thank-you gift,\nbut the Offering Points needed for Divine Union\nfall just a tiny bit.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0285",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 285,
+      "text_offset": 42630,
+      "source_sha256": "66eda8a33c19679e694eeaa177554ef2c8254e17ab637a069adcb3e415edd6d7",
+      "category": "ui_system_help",
+      "translation_en": "When particular conditions are met,\nreligious monuments may be built\nor festivals held.\nOn special occasions like those,\nI think the gods will stop being stingy\nand give those point costs a great big cut!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0286",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 286,
+      "text_offset": 42824,
+      "source_sha256": "39830b31bd9adf30775b97cd52b4d6799d4814c4bf12fa68a6566a81e385dfcf",
+      "category": "ui_system_help",
+      "translation_en": "Each class has up to four secret arts:\nsurefire techniques that develop naturally\nwhen Spirit, Skill, and Body are all strong enough.\nIncidentally, their names preserve\nthe name of whoever devised them,\nsomething like \"Itsuka Radish Chop.\"",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained.",
+        "Itsuka's name remains part of the hypothetical secret art title."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0287",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 287,
+      "text_offset": 43006,
+      "source_sha256": "8d33bdc673fa9087664a5bd03befe01b1c720f5735f831ed729b912b4b9343e7",
+      "category": "ui_system_help",
+      "translation_en": "First, one person chooses\nan attack spell others can also use\nand declares a combined spell!!\nThe second and third people\nchoose the same spell on their own turns!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0288",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 288,
+      "text_offset": 43138,
+      "source_sha256": "72ca18832981a1885b0598c33db6f552d6cfc92b04af87ad8e25272c0c6f7efd",
+      "category": "ui_system_help",
+      "translation_en": "When the person who began the combined spell\ngets their next turn,\nbang! The combined spell is complete!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0289",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 289,
+      "text_offset": 43230,
+      "source_sha256": "cdb26455020c4339d2662decd0be6d3d8561ffea2e232a5bfce71700ebe3bdb2",
+      "category": "ui_system_help",
+      "translation_en": "To make it more effective,\nincrease the total number of participants.\nAnd start it with whoever has the highest Skill\nin the attribute needed to learn that spell.\nDon't forget those two things!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained.",
+        "The relevant Skill attribute, not MP, determines the recommended initiator."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0290",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 290,
+      "text_offset": 43392,
+      "source_sha256": "97aba8105ba127fb2a791c095dbe3ec47af8f67995be67ddea7a2619280989d7",
+      "category": "ui_system_help",
+      "translation_en": "You can select and use secret arts\nfrom Skills in battle.\nUnlike spells, secret arts push\nyour own body to its limits. Naturally,\nsome of them seriously damage your Health!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "pending_selected_context_0.2.36",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained.",
+        "Compact battle UI alias; retains item identity. Previous English: You can select and use secret arts\nfrom Skills / Other in battle.\nUnlike spells, secret arts push\nyour own body to its limits. Naturally,\nsome of them seriously damage your Health!!"
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0291",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 291,
+      "text_offset": 43562,
+      "source_sha256": "b00e3802c4d05025a7c1a1749b73712aea4a9eed955da8f4a50985224fb61fa2",
+      "category": "ui_system_help",
+      "translation_en": "So relying on secret arts alone\nis far too dangerous!! Use them too much\nand you'll shorten your life...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0292",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 292,
+      "text_offset": 43656,
+      "source_sha256": "aef961a64302144dcb6bcf832e5037a09932d113e0f03df8bf9c2446338a00c3",
+      "category": "ui_system_help",
+      "translation_en": "Secret arts pass to one child alone.\nYou can teach an art to only one\nof your own children of the same class\nby personally training them.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0293",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 293,
+      "text_offset": 43762,
+      "source_sha256": "3c7730fdbc570f798dfccdda577a0afbf528f5b6209cc1ab74e6b93f9cc8c351",
+      "category": "ui_system_help",
+      "translation_en": "Anyone who masters a secret art should\nhave a successor and train them as soon as possible,\nso that hard-earned technique isn't lost.\nIf inheritance should fail,\nthe art will be lost until someone appears\nwhose Spirit, Skill, and Body meet its requirements again.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0294",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 294,
+      "text_offset": 43960,
+      "source_sha256": "b183b9c0a20101a910d3f54244ad3556df922b4435f3f6a7711d7a76a457fcd8",
+      "category": "ui_system_help",
+      "translation_en": "If a parent and child in the party\nhave mastered the same offensive secret art,\nthey can combine that art.\nIt's powerful enough with one user,\nbut together, they can finish an enemy in a single blow!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0295",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 295,
+      "text_offset": 44118,
+      "source_sha256": "266a222a33aafb676a0c46ad10e1fa92c4c982af522526d6ec940f01eff22a31",
+      "category": "ui_system_help",
+      "translation_en": "Combining it across three generations,\nparent, child, and grandchild, is even more amazing.\nBut please, watch everyone's Health carefully.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0296",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 296,
+      "text_offset": 44212,
+      "source_sha256": "287151706804fde76938c8da522168c8f3707fa857105c90193b63a31b48fee0",
+      "category": "ui_system_help",
+      "translation_en": "Time passes during battle too.\n...Though it advances only after\na certain number of people have acted.\nSo there's absolutely no need\nto rush your orders.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0297",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 297,
+      "text_offset": 44368,
+      "source_sha256": "1ae69ba1956298b767a49c34183df5ffe3ab6880ceb13a30f39609c21cd2f87c",
+      "category": "ui_system_help",
+      "translation_en": "If anything, to save time, think carefully\nabout how to win in fewer moves,\nthen give concise, stylish orders.\n\"Open with a combined Karanka,\nthen finish in eight moves!! Got it!?\"\nSomething like that, for example...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0298",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 298,
+      "text_offset": 44566,
+      "source_sha256": "82700c2127069ee6c1e13232a60424d7353c3cfba508f3e021c7ed502da43de9",
+      "category": "ui_system_help",
+      "translation_en": "While walking through a cave or dungeon,\neight flames at the upper left of the screen\nrepresent the time available for one month.\nAs time passes,\nthey go out one by one.\nWhen they're all gone, the month ends.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0299",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 299,
+      "text_offset": 44758,
+      "source_sha256": "13158075f717a676fbf65a3dcbc6aab7f5ae68e469aabb9a83f63181a1ec3d59",
+      "category": "ui_system_help",
+      "translation_en": "Decide whether to continue hunting or return to Kyoto\nafter checking Health Changes if You Continue\nand the Schedule.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0300",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 300,
+      "text_offset": 44852,
+      "source_sha256": "8f228e400f6e60411b8661b17b14d4d20c514f9d72bf78ec034e80b478e957e2",
+      "category": "ui_system_help",
+      "translation_en": "A sortie, rest, or Divine Union\nuses up one month.\nThere are twelve months in a year, of course.\nDuring an adventure, incidentally,\na month takes about fifteen to twenty minutes\nof real time on average.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0301",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 301,
+      "text_offset": 45018,
+      "source_sha256": "8da0414773f10ece1d258f30058a44b319f68340b4e92d3d5dd4ba95d13923af",
+      "category": "ui_system_help",
+      "translation_en": "While a window is open,\ntime stops completely,\neven while traveling.\nIf the phone suddenly rings or nature calls,\nremember this before you panic or have an accident.\nPlease put it to good use.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0302",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 302,
+      "text_offset": 45178,
+      "source_sha256": "ff4ed006add1d24229bf34574b8d257affdca80d33c061be35b59401654746cf",
+      "category": "ui_system_help",
+      "translation_en": "If you avoid enemies, a month lasts\nabout four real minutes. That's enough\nto cover quite a distance.\nWatch HP and Health,\nand run with X. Reaching the deepest parts\nof a dungeon needn't be a dream!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0303",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 303,
+      "text_offset": 45368,
+      "source_sha256": "f12583878d2fe341c77c48848ca532c9e668032a178bbe86b4be74064686daf0",
+      "category": "ui_system_help",
+      "translation_en": "...Perhaps? I've never been on a sortie,\nso how would I possibly know\nall that? Ha ha!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, final body entries. Previous entries 238-239 and the alternate help table examined. Spell attributes, deities, facilities, investment, secret arts, and time. Uncertain advice remains explicitly uncertain.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing fragments and line-break counts retained.",
+        "Itsuka undercuts her own travel-time advice in this final row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0000",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 0,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0001",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 1,
+      "text_offset": 45676,
+      "source_sha256": "8499aedbb7af81b8779b0bb2b35bf51e6e210d23a4c238b561ff12e392c01895",
+      "category": "ui_system_help",
+      "translation_en": "@This class fights with bare hands and feet.\nSpeed and sheer number of attacks are its strengths.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0002",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 2,
+      "text_offset": 45734,
+      "source_sha256": "3f08f25dd4964c1611ca3961af8004d506db7a8ed8d3f2357cbd75dfcd0f9582",
+      "category": "ui_system_help",
+      "translation_en": "@From the front row, they pound\none enemy in the enemy front row.\nFrom the back, they attack with flying kicks!!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0003",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 3,
+      "text_offset": 45822,
+      "source_sha256": "49e953de475031d53f00988701fc9a8bdc8e4f6d8a87b38474e63720f0f8388d",
+      "category": "ui_system_help",
+      "translation_en": "@They're limited to medium armor,\nbut dodge so well that it's no problem!\nTheir equipment is cheap too. A bargain!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0004",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 4,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0005",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 5,
+      "text_offset": 45916,
+      "source_sha256": "0535381633cc87fb046d2a42beed90a92609c2761d211b93043bbd0b6f077df2",
+      "category": "ui_system_help",
+      "translation_en": "@\"Plan your year on New Year's Day!!\"",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0006",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 6,
+      "text_offset": 45950,
+      "source_sha256": "539803b907c1df783d866abeda64f8297e445dce6c69b2fa44cf83415aac560b",
+      "category": "ui_system_help",
+      "translation_en": "@This is a perfect opportunity! Write down your goals\nfor the year and stick them\nsomewhere you'll see them.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0007",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 7,
+      "text_offset": 46036,
+      "source_sha256": "639855e33f6463a264fb625a53591d8b14e6efb98b5b7c79f625608d70107065",
+      "category": "ui_system_help",
+      "translation_en": "@When planning, weigh the present, a month ahead,\nand a year ahead in roughly\na three-to-two-to-one ratio.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0008",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 8,
+      "text_offset": 46140,
+      "source_sha256": "36b5a32dc6a734ace1bf929e9452326a4874cb7da8d10b93c8a801c570822c37",
+      "category": "ui_system_help",
+      "translation_en": "@That's about the right balance\nbetween doing what's best right now\nand thinking far into the future.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0009",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 9,
+      "text_offset": 46240,
+      "source_sha256": "64af55f809c1893460d5c97151b09945bff45b8d2bd36614ca654f4b0b3ff7f1",
+      "category": "ui_system_help",
+      "translation_en": "@Probably. Ha ha!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0010",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 10,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0011",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 11,
+      "text_offset": 46258,
+      "source_sha256": "222ddd28f002f71ebe34ef6f5cefa74956684d86c1dc3a76fe78430e6e63c5be",
+      "category": "ui_system_help",
+      "translation_en": "@When you're moving through a dungeon or cave,\nlook at the eight blue flames\nthat show your remaining time. If one is red...",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0012",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 12,
+      "text_offset": 46358,
+      "source_sha256": "777395ad0a90ba30628309fad60646552b0223f50b4b91d74969663e2afd57f9",
+      "category": "ui_system_help",
+      "translation_en": "@That's a Red Flame of Frenzy!!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0013",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 13,
+      "text_offset": 46388,
+      "source_sha256": "21c246e963d59ec3d563aa127a2ad170e74a0a4224921bff6e622ad27c22779d",
+      "category": "ui_system_help",
+      "translation_en": "@When that flame's turn comes, until it burns out,\nthe spinning oni treasure list\nwill be bursting with rare, valuable prizes!!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0014",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 14,
+      "text_offset": 46494,
+      "source_sha256": "1cc0e60ab7ef6539e06dac61db298d4a8178c707f32b54cb69f5f853cc5ea3e4",
+      "category": "ui_system_help",
+      "translation_en": "@They're pouring out left and right!!\nRoll up, roll up, and win big!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0015",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 15,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0016",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 16,
+      "text_offset": 46558,
+      "source_sha256": "af7472bff848e57e6a7ecc643c04e954a6b05cdf86ee2a26b18af92097126e4d",
+      "category": "ui_system_help",
+      "translation_en": "@You can send a copy of one family member\nto another clan as an adoptee,\nor welcome an adoptee into your own family.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0017",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 17,
+      "text_offset": 46650,
+      "source_sha256": "2771fb619194d5f06c8a765c129535de3b06d60147f5302e3a799eba02bbf44e",
+      "category": "ui_system_help",
+      "translation_en": "@Bringing in another clan's blood\nis an efficient way to make up for\ntraits the %@ clan lacks.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0018",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 18,
+      "text_offset": 46730,
+      "source_sha256": "c3c79c215001620e8c00cc007a56d2fb5ad4f988e1600e1fca99195e921a21d5",
+      "category": "ui_system_help",
+      "translation_en": "@Incidentally, you cannot return an adoptee\nto their original clan\nto make more copies of the same character.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0019",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 19,
+      "text_offset": 46822,
+      "source_sha256": "2cc933c1b8ae971ce8bbc938ed65210fbd4b6785c10230b4428f0fd75f9ea1bc",
+      "category": "ui_system_help",
+      "translation_en": "@Equipment and secret arts do not transfer either!\nTrying to find an exploit and cheat\nis a waste of time. Ha ha!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0020",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 20,
+      "text_offset": 46916,
+      "source_sha256": "3baec37851f77a1318c058c6b7597ba380fad323e5937a808789f5851a9e868d",
+      "category": "ui_system_help",
+      "translation_en": "@You cannot use Adoption during play.\nSave and quit, then\nselect it from the title screen.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0021",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 21,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0022",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 22,
+      "text_offset": 47014,
+      "source_sha256": "0e2f3e5867e97caa99f950c52713068b00e97ab87d8d3faff439c3ae04654915",
+      "category": "ui_system_help",
+      "translation_en": "@Giving another clan a copy of a %@ clan deity,\nor receiving a copy of another clan's deity,\nis called Share Deity.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0023",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 23,
+      "text_offset": 47114,
+      "source_sha256": "877ea2e0184d8ad6dc0485a1631728df3dde7fe3c426d4adcad4e88281de9bfe",
+      "category": "ui_system_help",
+      "translation_en": "@Clan deities keep the family's surname.\nNow, just imagine this:",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0024",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 24,
+      "text_offset": 47184,
+      "source_sha256": "e93e44de244ed5b0c19a855b22f127ec975a6df7c89846acb073c2378f59bf80",
+      "category": "ui_system_help",
+      "translation_en": "@Your friends kneeling and praying\nto a deity of the [当家] clan!\nIt gives you a little feeling of superiority. Ha ha!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0025",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 25,
+      "text_offset": 47282,
+      "source_sha256": "50e9beb7e25d813e824f7665cf8fc0b5677285a07acd18aa2d46a2cdd6e15efe",
+      "category": "ui_system_help",
+      "translation_en": "@You cannot use Share Deity during play.\nSave and quit, then\nselect it from the title screen.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0026",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 26,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0027",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 27,
+      "text_offset": 47380,
+      "source_sha256": "585b76d3e763e31833db138c971098488e2cf6889c42560c60067e5d0f71e0c4",
+      "category": "ui_system_help",
+      "translation_en": "@The pack is the bag of items\nyour party takes on a hunt.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0028",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 28,
+      "text_offset": 47432,
+      "source_sha256": "7fb88e29ff84942a22be49f6e8e8a6466f30f6e8baad854dbd514247be6a367c",
+      "category": "ui_system_help",
+      "translation_en": "@It holds only thirty items.\nUnnecessary things just get in the way.\nAnd if an enemy steals them, it's a total loss...",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0029",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 29,
+      "text_offset": 47538,
+      "source_sha256": "89955fa56f343766b8ec57617027fe16189eff033fb1aeb73eb6917a5cdde3f6",
+      "category": "ui_system_help",
+      "translation_en": "@Take only the bare minimum of consumables.\nLeave with space to spare and return full of treasure!\nThat's the ideal way to use your pack.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0030",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 30,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0031",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 31,
+      "text_offset": 47642,
+      "source_sha256": "f9baaa136a9fa71903bec214da83cd2169683f6a3f034f7408e41f4da38daa11",
+      "category": "ui_system_help",
+      "translation_en": "@If two or more party members\ncan use the same attack spell,\nplease try combining it.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0032",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 32,
+      "text_offset": 47746,
+      "source_sha256": "6a13b29e97cb25a67fbcfd3e2b6718019520550fceb92e4f2f5c265377fdb406",
+      "category": "ui_system_help",
+      "translation_en": "@The spell takes a little longer to go off,\nbut the effect more than makes up for that delay\nwith a tremendous bang!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0033",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 33,
+      "text_offset": 47844,
+      "source_sha256": "ab2661f821c94cc9bf0fe599f5a31af580aaf50303ec7573ccdc93428478c1b2",
+      "category": "ui_system_help",
+      "translation_en": "@The more people join in,\nthe bigger and bigger the effect!!\n...It's truly amazing!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0034",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 34,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0035",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 35,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0036",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 36,
+      "text_offset": 47942,
+      "source_sha256": "c21301ef8a54f15e06a8c632747d99b2bb880dca9884b09da245825d690e6e07",
+      "category": "ui_system_help",
+      "translation_en": "@When a man and woman from the %@ clan\nand another clan join together and have a child,\nit is called Soul Union.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0037",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 37,
+      "text_offset": 48026,
+      "source_sha256": "4c001a01f11935628f6fed162c7fd01db12ca46b0a43197425f51665ac6b41c4",
+      "category": "ui_system_help",
+      "translation_en": "@As the name suggests, this sacred ceremony\nbinds soul to soul.\nEach person can do it only once in a lifetime.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0038",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 38,
+      "text_offset": 48120,
+      "source_sha256": "28003a84ebb311c1c2cbad9655dbee187e0a164155459bab83966434b01f8c7d",
+      "category": "ui_system_help",
+      "translation_en": "@Both clans bear the curse,\nso let's join hands\nto fulfill our shared vow.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0039",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 39,
+      "text_offset": 48188,
+      "source_sha256": "fb3c95da3fe1e5d3246351d1066528ca5f2e493fb7e8d8770032bc804bc4f097",
+      "category": "ui_system_help",
+      "translation_en": "@You cannot use Soul Union during play.\nSave and quit, then\nselect it from the title screen.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0040",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 40,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0041",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 41,
+      "text_offset": 48286,
+      "source_sha256": "9bbb5927655d63c118c5413114a6e2d8691c62414d8de80bb1d45a3620a11614",
+      "category": "ui_system_help",
+      "translation_en": "@Every sword Kenpuku forges\nis a one-of-a-kind custom creation.\nOf course, you can name it too.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0042",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 42,
+      "text_offset": 48370,
+      "source_sha256": "31e997d31b83b23a3ab9c4b22c92ed807321c1afff8144f5309ddbcf74c0e326",
+      "category": "ui_system_help",
+      "translation_en": "@And the more you use it,\nthe sharper it supposedly gets!!\n...Or so the rumors may or may not say.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0043",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 43,
+      "text_offset": 48460,
+      "source_sha256": "6cc1ed4e20c1300ebeb7dd61a5ab9d6c34f20fb58882817c0eeeec016a55caca",
+      "category": "ui_system_help",
+      "translation_en": "@Apparently they're rather expensive, but why not try?\nWhen you have some money to spare,\nperhaps you could place an order.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0044",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 44,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0045",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 45,
+      "text_offset": 48550,
+      "source_sha256": "1643d5749b13bb8457e75eb1541c151009ed58ff6065bd1e183434980c976b87",
+      "category": "ui_system_help",
+      "translation_en": "@If a parent and child in the party\nhave mastered the same offensive secret art,\nthey can combine that art.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0046",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 46,
+      "text_offset": 48648,
+      "source_sha256": "9e8c5de5520875dc1dbda395bfa4cbfdd7a3b6eb1530196b3259e230b1376203",
+      "category": "ui_system_help",
+      "translation_en": "@It's powerful enough with one user,\nbut together, they can finish an enemy in a single blow!!",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0047",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 47,
+      "text_offset": 48712,
+      "source_sha256": "98e8213468b71a23fd32d8ed650cf5f65401be333acb94c1389a201d28e66ec8",
+      "category": "ui_system_help",
+      "translation_en": "@Combining it across three generations,\nparent, child, and grandchild, is even more amazing.\nBut please, watch everyone's Health carefully.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0048",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 48,
+      "text_offset": 45672,
+      "source_sha256": "c3641f8544d7c02f3580b07c0f9887f0c6a27ff5ab1d4a3e29caf197cfc299ae",
+      "category": "ui_system_help",
+      "translation_en": "@",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0049",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 49,
+      "text_offset": 48808,
+      "source_sha256": "8c24a1ba5d7d918721de2e6406e49a579e3fb6812c6953469bdffa47965370cf",
+      "category": "ui_system_help",
+      "translation_en": "@Divine Union doesn't just\nmake your clan stronger.\nThe deities grow too.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0050",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 50,
+      "text_offset": 48896,
+      "source_sha256": "479a1e1be27ab60c3cf6272c7a57fe0ed3c5ba2c079fcc577432d29f75b1e77e",
+      "category": "ui_system_help",
+      "translation_en": "@Each union improves the chosen deity's\ngenetic information, sometimes a lot,\nbut usually just a little.",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:02:0051",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 2,
+      "index": 51,
+      "text_offset": 48988,
+      "source_sha256": "b62abdd8cd2f725f9accdb7598fbfb00011f535c9abe4bbc352b7e07659ce4bd",
+      "category": "ui_system_help",
+      "translation_en": "@So if you keep choosing\nyour favorite deity for Divine Union,\ntheir ranking in heaven might eventually change???",
+      "status": "draft",
+      "kind": "alternate_help",
+      "context": "Alternate short-form help paragraphs. Leading @ markers, empty @ records, engine clan tag, and original line-break counts are retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source continuation fragments retained within the alternate help sequence."
+      ]
+    }
+  ]
+}

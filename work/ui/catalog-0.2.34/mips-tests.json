@@ -1,0 +1,73 @@
+{
+  "version": "0.2.34",
+  "result": "PASS",
+  "elf_sha256": "81ecabe4a711085e0aa9ab23e87afa1153fda66c226b836380f4686c846ce737",
+  "cases": 12,
+  "checks": [
+    "Actual MIPS adapter execution at original native setter/formatter targets",
+    "Zero, single and double digit counts through complete collection",
+    "Original cText receiver, stack, return address and callee-save registers retained"
+  ],
+  "examples": [
+    {
+      "adapter": "empty_scrolls_unit",
+      "acquired": 0,
+      "text": ""
+    },
+    {
+      "adapter": "empty_scrolls_unit",
+      "acquired": 1,
+      "text": ""
+    },
+    {
+      "adapter": "empty_scrolls_unit",
+      "acquired": 9,
+      "text": ""
+    },
+    {
+      "adapter": "empty_scrolls_unit",
+      "acquired": 10,
+      "text": ""
+    },
+    {
+      "adapter": "empty_scrolls_unit",
+      "acquired": 72,
+      "text": ""
+    },
+    {
+      "adapter": "empty_scrolls_unit",
+      "acquired": 73,
+      "text": ""
+    },
+    {
+      "adapter": "scrolls_fraction",
+      "acquired": 0,
+      "text": "0/73"
+    },
+    {
+      "adapter": "scrolls_fraction",
+      "acquired": 1,
+      "text": "1/73"
+    },
+    {
+      "adapter": "scrolls_fraction",
+      "acquired": 9,
+      "text": "9/73"
+    },
+    {
+      "adapter": "scrolls_fraction",
+      "acquired": 10,
+      "text": "10/73"
+    },
+    {
+      "adapter": "scrolls_fraction",
+      "acquired": 72,
+      "text": "72/73"
+    },
+    {
+      "adapter": "scrolls_fraction",
+      "acquired": 73,
+      "text": "73/73"
+    }
+  ]
+}

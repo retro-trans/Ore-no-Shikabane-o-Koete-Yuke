@@ -1,0 +1,192 @@
+{
+  "version": "0.2.17",
+  "requested_scope": "Three screenshot-reported passages; English line positions may differ from Japanese",
+  "font_raster_scale": 4,
+  "texture_replacement": false,
+  "rows": [
+    {
+      "id": "ore:001e8000:0000:03:0002",
+      "translation": "The first is the Curse of Short Life.\nYou will grow many times faster than\nordinary people and die within a few years.",
+      "old_line_widths": [
+        201.429,
+        315.429,
+        156.857
+      ],
+      "line_widths": [
+        201.429,
+        217.714,
+        254.571
+      ],
+      "font_logical_size": 12,
+      "atlas_metrics_size": 14,
+      "nonfinal_advance_budget": 278,
+      "final_advance_budget": 256,
+      "last_line_icon_reserve": 14,
+      "context": "Setup curse introduction",
+      "context_review": "Original row and both neighboring records examined; meaning and all words unchanged",
+      "fit_status": "verified_selected_context_0.2.17",
+      "screenshot": "work/ui/dialogue-reflow-0.2.17/curse.png",
+      "frame_rectangle": [
+        90,
+        6,
+        390,
+        76
+      ],
+      "frame_width": 300,
+      "frame_height": 70,
+      "text_ink_rectangles": [
+        [
+          103,
+          17,
+          301,
+          26
+        ],
+        [
+          100,
+          35,
+          316,
+          47
+        ],
+        [
+          101,
+          53,
+          353,
+          65
+        ]
+      ],
+      "ink_measurement": "White glyph cores from actual framebuffer; shadow excluded. Complete text and borders also visually inspected.",
+      "advance_icon_rectangle": [
+        370,
+        56,
+        387,
+        73
+      ],
+      "advance_icon_coordinate_note": "Conservative animation envelope; horizontal clearance checked",
+      "last_line_to_icon_gap": 17
+    },
+    {
+      "id": "ore:0000c000:0015:04:0006",
+      "translation": "...But first, equip your swords and armor,\nget all your items ready, and make sure\nyou haven't forgotten anything!",
+      "old_line_widths": [
+        242.571,
+        142.286,
+        278.571
+      ],
+      "line_widths": [
+        242.571,
+        232.286,
+        188.571
+      ],
+      "font_logical_size": 12,
+      "atlas_metrics_size": 14,
+      "nonfinal_advance_budget": 268,
+      "final_advance_budget": 254,
+      "last_line_icon_reserve": 14,
+      "context": "Itsuka sortie tutorial",
+      "context_review": "Original row and both neighboring records examined; meaning and all words unchanged",
+      "fit_status": "verified_selected_context_0.2.17",
+      "screenshot": "work/ui/dialogue-reflow-0.2.17/equipment.png",
+      "frame_rectangle": [
+        24,
+        198,
+        312,
+        264
+      ],
+      "frame_width": 288,
+      "frame_height": 66,
+      "text_ink_rectangles": [
+        [
+          35,
+          209,
+          276,
+          221
+        ],
+        [
+          35,
+          227,
+          265,
+          239
+        ],
+        [
+          34,
+          245,
+          224,
+          257
+        ]
+      ],
+      "ink_measurement": "White glyph cores from actual framebuffer; shadow excluded. Complete text and borders also visually inspected.",
+      "advance_icon_rectangle": [
+        288,
+        236,
+        309,
+        263
+      ],
+      "advance_icon_coordinate_note": "Conservative animation envelope; horizontal clearance checked",
+      "last_line_to_icon_gap": 64
+    },
+    {
+      "id": "ore:0000c000:0015:04:0007",
+      "translation": "And please look over all the information, too.\nA quick skim will do!",
+      "old_line_widths": [
+        123.429,
+        139.714,
+        119.143
+      ],
+      "line_widths": [
+        266.571,
+        119.143
+      ],
+      "font_logical_size": 12,
+      "atlas_metrics_size": 14,
+      "nonfinal_advance_budget": 268,
+      "final_advance_budget": 254,
+      "last_line_icon_reserve": 14,
+      "context": "Itsuka sortie tutorial",
+      "context_review": "Original row and both neighboring records examined; meaning and all words unchanged",
+      "fit_status": "verified_selected_context_0.2.17",
+      "screenshot": "work/ui/dialogue-reflow-0.2.17/information.png",
+      "frame_rectangle": [
+        24,
+        198,
+        312,
+        264
+      ],
+      "frame_width": 288,
+      "frame_height": 66,
+      "text_ink_rectangles": [
+        [
+          34,
+          209,
+          300,
+          218
+        ],
+        [
+          34,
+          227,
+          155,
+          236
+        ]
+      ],
+      "ink_measurement": "White glyph cores from actual framebuffer; shadow excluded. Complete text and borders also visually inspected.",
+      "advance_icon_rectangle": [
+        288,
+        236,
+        309,
+        263
+      ],
+      "advance_icon_coordinate_note": "Conservative animation envelope; horizontal clearance checked",
+      "last_line_to_icon_gap": 133
+    }
+  ],
+  "line_break_exceptions": [
+    {
+      "id": "ore:0000c000:0015:04:0007",
+      "source_sha256": "1aabc5b745092da3457245a4ed31e919938853438ab3d4d094b532933f45ce59",
+      "translation_sha256": "17e8b940e844d91d35b0bbd6bbe239ecb728263af3856a6c1653399e4631258a",
+      "source_lines": 3,
+      "target_lines": 2,
+      "reason": "User-requested English dialogue reflow"
+    }
+  ],
+  "runtime_verification": "PASS: all three complete messages fit their actual windows and clear the advance icons"
+}

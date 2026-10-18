@@ -1,0 +1,28 @@
+Dungeon destination menu, local build 0.2.11 (2026-10-17)
+
+The reported Japanese banner is Mount Oe. The native 279.ppt English plaque
+introduced in 0.2.10 is retained; no new spelling or text translation is needed.
+
+The top menu uses its own native parameter table at 0x08A39FA8:
+  (1, 3, 15, 4, 30, 16, 10, 10, 15, 15, 0)
+The signed short at +8 (0x08A39FB0) changes from 30 to 88 pixels. This field
+feeds the same text-cell/highlight width routine used by the other menu fixes.
+The constructor at 0x088F4530 copies the table to its stack, passes it to
+0x088221E0, then inserts Enter / Oni Records / Treasures. The menu retains
+horizontal centering and its original -100 y offset via 0x0882387C.
+Only this guarded 16-bit field differs in the executable; code is unchanged.
+No extra memory or texture replacement is used.
+
+The archive differs from 0.2.10 only in copyright_sce.ppt, updated to v0.2.11.
+All unrelated root payloads and title archive members are byte-identical.
+Earlier local builds are preserved. No GitHub release has been created.
+
+Builder: tools/build_destination_menu.py (dry run unless --write)
+Native build report: work/output/english-native-0.2.11/destination.report.json
+Actual captures and measured bounds: work/ui/destination-fixes-0.2.11/
+
+Follow-up discovery: the separate Oni Records page still contains native
+Japanese artwork. Its heading is 286.ppt in original archive 0x04EAF000,
+entry 10; adjacent 287.ppt, 288.ppt and 289.ppt are the treasure heading,
+slain-count label and preferred-technique label. These are separate from the
+reported destination banner and remain outside this build's verified fixes.

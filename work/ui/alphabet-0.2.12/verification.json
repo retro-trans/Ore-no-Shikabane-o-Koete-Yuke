@@ -1,0 +1,129 @@
+{
+  "version": "0.2.12",
+  "result": "PASS in selected family/given-name contexts",
+  "texture_replacement": false,
+  "capture_method": "Actual guest framebuffer; isolated PPSSPP software backend; final ISO",
+  "screenshots": [
+    {
+      "file": "work/ui/alphabet-0.2.12/title.png",
+      "sha256": "5faec7e2f19c527a6b9d4b5dda5cd7c62bdeb95e77e0aa634774a9a818d36225"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/lowercase.png",
+      "sha256": "999ae8d04c38bdcf0639b57adba0e6ba538214fafc429f072413e5d38ebff0f4"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/uppercase.png",
+      "sha256": "476a81d50408333177d20a7207557ff9f536389326be7fd1eb24bc90970801cb"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/japanese-retained.png",
+      "sha256": "bf604991980e293b12ce9153e194ff939f25f2979027e07773b9b979130ec9c9"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/mixed-case.png",
+      "sha256": "a640b68f5d9b1347445ea32d1600ad093bec471f4d9c1df0f034af24b86e092c"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/family-entered.png",
+      "sha256": "3122efaba806a7f885b357e0812fc9c058cac2a68d654697ed60d403dc99f54b"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/family-confirm.png",
+      "sha256": "2da4bfc44875118193c68c5398da963b868f08210d89ebf45ea39e9a898790b3"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/given-entered.png",
+      "sha256": "f56f54f72afca2b127bb3b513c75bed15c3174c6c8237245ec75780ec96bd11a"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/child-entered.png",
+      "sha256": "52668c5e0cd22621c1cd409d89b01b4f9c36ed86606af356402054200681a248"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/save-complete.png",
+      "sha256": "edac0ea352a905d3abe57b348e381ba9e65040e5c5d01406036821e391b599fe"
+    },
+    {
+      "file": "work/ui/alphabet-0.2.12/reloaded-names.png",
+      "sha256": "51f05d83c08e0a0b93b9373423544cae77891cb184542fc62764b1b9aefb421f"
+    }
+  ],
+  "native_request": {
+    "version": "0.2.12",
+    "params": "0x9ca362c",
+    "field": "0x9ca366c",
+    "language": 2,
+    "inputtype": "0xd00f",
+    "outtext": "0x9ca38a0",
+    "limit": 3,
+    "capacity": 128,
+    "source": "Actual request at sceUtilityOskInitStart; final ISO"
+  },
+  "reloaded_names": {
+    "source": "After actual game reset and save reload; no name-memory writes",
+    "family_storage": "Original game normalizes family Latin letters to fullwidth Unicode; letter case retained",
+    "names": {
+      "AbZ": {
+        "fullwidth_codepoints": [
+          "0xff21",
+          "0xff42",
+          "0xff3a"
+        ],
+        "normalized": "AbZ",
+        "guest_addresses": {
+          "utf-16-le": "0x9ba30e8",
+          "utf-8": null
+        },
+        "save_offset": -1
+      },
+      "1Te": {
+        "fullwidth_codepoints": [
+          "0xff11",
+          "0xff34",
+          "0xff45"
+        ],
+        "normalized": "1Te",
+        "guest_addresses": {
+          "utf-16-le": "0x9ba30f0",
+          "utf-8": null
+        },
+        "save_offset": -1
+      },
+      "aaa": {
+        "fullwidth_codepoints": [
+          "0xff41",
+          "0xff41",
+          "0xff41"
+        ],
+        "normalized": "aaa",
+        "guest_addresses": {
+          "utf-16-le": "0x9ba33d6",
+          "utf-8": null
+        },
+        "save_offset": -1
+      }
+    },
+    "save_sha256": "354ac8c9ffa1e772f9e1f23e0c1e89c8318cb2714eb559a25d76c07929d0917c"
+  },
+  "checks": {
+    "executable_diff": "Three guarded instructions only; no segment growth",
+    "unrelated_archive_payloads": "byte-identical",
+    "unrelated_title_members": "byte-identical",
+    "other_title_text": "unchanged",
+    "original_name_pools": "preserved",
+    "compression_round_trip": "pass"
+  },
+  "tested": [
+    "English lowercase is the default",
+    "Select toggles uppercase",
+    "Japanese remains available with shoulder-button switching",
+    "OSK output AbZ preserves both cases",
+    "Fourth character is rejected at the original three-character limit",
+    "Family, given and child names accepted by game validation and native rendering",
+    "AbZ family, 1Te given and aaa child names survive actual game save and reload; original fullwidth storage preserves case"
+  ],
+  "keyboard_font": "PSP system OSK font; game display retains native 4x VWF",
+  "save_profile": "Project-isolated UCJS10117; previous QA save backed up under work/source/qa-backup-before-0.2.12/",
+  "limitations": "Physical PSP and unvisited name-entry error paths remain untested. Three-character limit retained."
+}

@@ -1,0 +1,43 @@
+Native title footer — local build 0.2.7
+
+Reference: user-supplied SRW Z title-screen screenshot. Two light gray lines
+with dark outlines, right aligned near the lower-right corner:
+  v0.2.7
+  retro-trans
+
+The footer uses copyright_sce.ppt, entry 25 of the original title archive
+at 0x001E8000. Its centered sprite stays at (240,265). The expanded 480x64
+image begins at screen (0,233); original copyright pixels are copied exactly
+to asset (64,24), preserving their screen position (64,257). Title and setup
+background assets are unchanged.
+
+Screen footer rectangle: [442,234,480,259], using right edge 478.
+Version text top: 236, size 7.5. Group text top: 248, size 6.5 logical
+pixels. Noto Sans Regular, rendered at 4x before reduction, with a 1-pixel
+dark outline. The group name fits to the right of the menu portrait.
+The native VWF executable and its 4x font atlas remain unchanged.
+
+The native swizzled T8 format and original RGBA palette are retained. Footer
+letters are quantized to that palette; original copyright indices are copied
+unchanged. Texture size is 512x64, within PSP's 512x512 limit. Uncompressed
+asset growth: 25,088 bytes. Archive/ISO byte lengths are unchanged because
+compressed growth fits in existing padding. No texture replacement is used.
+All other archive members are byte-identical to the translated 0.2.5 archive.
+
+One guarded instruction in the 0.2.3 executable is changed:
+  0x089797B0: title-menu sprite hide call becomes sprite show.
+Original centered alignment and sprite placement are retained.
+The original title destructor still removes/frees the sprite. Native VWF and
+embedded message code/data are unchanged; there is no added executable RAM.
+Real PSP boot/performance testing is still pending.
+
+Build with tools/build_title_branding.py, inspecting its dry run first, then
+the existing ISO builder. The builder reads the translated 0.2.5 graphics
+archive and never modifies the source ISO or earlier delivered local builds.
+Output and guest-framebuffer capture evidence: work/ui/title-branding-0.2.7/.
+
+Runtime checks: both lines are fully visible on title-idle.png and
+title-menu.png. setup-after-title.png confirms normal title teardown removes
+the footer before gender setup. Native 4x VWF execution and title-caption
+glyph geometry pass in work/ui/english-runtime-0.2.7.json. Final archive and
+ELF reproduce byte-for-byte; ISO directory extents and replacement hashes pass.

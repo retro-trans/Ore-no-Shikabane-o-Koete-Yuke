@@ -1,0 +1,15 @@
+Battle HUD translation — local build 0.2.25
+
+Compact battle badges 11.ppt and 12.ppt (common archive entries13/24)
+read HP and MP. Their original32x16 textures and24x16 sample regions
+are retained. The two parent names use exact aliases in the borrowed-text
+setter at0x0882B544, after formatting and before lines are constructed.
+Only the exact terminated canonical name matches; longer strings and
+other characters remain unchanged. Source/save records are never rewritten.
+
+PASS: 13 actual MIPS trampoline cases and 13 full native text-setter cases; exact aliases only, source records untouched, child line text/counts correct, original stack/store instructions replayed, arguments and saved registers preserved.
+
+QA: PARTIAL: title/prologue boot and native MIPS name conversion pass; combat transition halts at PC 0 in isolated testing, also observed on base 0.2.24; battle visual check pending
+The final ISO matches the tested candidate. All script payloads and
+unrelated assets match0.2.24; the earlier punctuation fix remains.
+Evidence: work/ui/battle-hud-0.2.25/. No GitHub release.

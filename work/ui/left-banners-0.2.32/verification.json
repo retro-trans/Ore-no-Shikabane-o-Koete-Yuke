@@ -1,0 +1,123 @@
+{
+  "version": "0.2.32",
+  "result": "PASS: English herbal-medicine and calendar ribbons",
+  "iso": {
+    "version": "0.2.32",
+    "file": "work/output/english-native-0.2.32.iso",
+    "bytes": 1081077760,
+    "sha256": "b95f8e5bf84815557374326715f39fff0d111eb580c46d0f2ca14f8d4a42df1e"
+  },
+  "screens": [
+    {
+      "file": "work/ui/left-banners-0.2.32/title.png",
+      "sha256": "0baca7ea9e5ebb2b96b9e0ea980efbceed30d9c05785e64e65709cc54c55890c"
+    },
+    {
+      "file": "work/ui/left-banners-0.2.32/home.png",
+      "sha256": "73869cd8be0c88b21ff784bc9136a8ec4dae2378f99509d05937295f6746841c"
+    },
+    {
+      "file": "work/ui/left-banners-0.2.32/herbal-medicine.png",
+      "sha256": "dfa6f740b1811fae5a58a749213c69a76fe95df24686c445845f0be1b506f39b"
+    },
+    {
+      "file": "work/ui/left-banners-0.2.32/status.png",
+      "sha256": "705fc10d03d2ce0733d0101c2a5cbe430e1119c0d6b84220a7929dc66b811f5c"
+    }
+  ],
+  "runtime": [
+    {
+      "version": "0.2.32",
+      "result": "PASS",
+      "context": "home",
+      "elf_sha256": "e06a8d06a9c49684ba7755b5f3d44d5b34b5d6c6cc1edddbcf5144337132f44b",
+      "archive_sha256": "57c75624a2a125ff69a2a4ad2179279821236d09f63edc6ee4724aed2c559845",
+      "required": "APRIL",
+      "rendering_hooks": "Verified through JIT-aware disassembly",
+      "draws": [
+        {
+          "text": "APRIL",
+          "file": "245.ppt",
+          "widget": "0x9dda0d0",
+          "descriptor": "0x8dc81f0",
+          "pixel_format": 4,
+          "logical_size": [
+            44,
+            260
+          ],
+          "physical_uv": [
+            0,
+            0,
+            88,
+            260
+          ],
+          "native_texture": [
+            128,
+            512
+          ],
+          "pixels_and_palette": "Exact match with final data archive"
+        }
+      ],
+      "texture_replacement": false,
+      "game_memory_writes": false,
+      "save_record_writes": false
+    },
+    {
+      "version": "0.2.32",
+      "result": "PASS",
+      "context": "herbal",
+      "elf_sha256": "e06a8d06a9c49684ba7755b5f3d44d5b34b5d6c6cc1edddbcf5144337132f44b",
+      "archive_sha256": "57c75624a2a125ff69a2a4ad2179279821236d09f63edc6ee4724aed2c559845",
+      "required": "HERBAL MEDICINE",
+      "rendering_hooks": "Verified through JIT-aware disassembly",
+      "draws": [
+        {
+          "text": "HERBAL MEDICINE",
+          "file": "258.ppt",
+          "widget": "0x9dda0d0",
+          "descriptor": "0x8eb1ce0",
+          "pixel_format": 4,
+          "logical_size": [
+            44,
+            260
+          ],
+          "physical_uv": [
+            0,
+            0,
+            88,
+            260
+          ],
+          "native_texture": [
+            128,
+            512
+          ],
+          "pixels_and_palette": "Exact match with final data archive"
+        }
+      ],
+      "texture_replacement": false,
+      "game_memory_writes": false,
+      "save_record_writes": false
+    }
+  ],
+  "mips": "PASS: 112 actual MIPS crop cases and 10 embedded descriptor proxies; HD logical sizing, full/cropped/nonzero rectangles, repeated updates, ribbon limits, untagged fallback and saved registers.",
+  "checks": {
+    "existing_executable_bytes": "Only two renderer redirects and appended segment size change; small replacement wrappers appended",
+    "existing_icons_and_profile_fix": "Byte-identical to 0.2.31",
+    "other_archive_members": "Byte-identical except title version footer",
+    "translations_and_scripts": "Byte-identical to 0.2.31",
+    "resource_loader_sizes": "All thirteen retain exactly 13744 decompressed bytes",
+    "calendar_logic": "Unchanged; all twelve existing month images translated",
+    "background_shop_sign": "Unchanged"
+  },
+  "translated_banners": 13,
+  "original_resource_bytes_each": 13744,
+  "resident_added_bytes": 388,
+  "texture_replacement": false,
+  "save_record_writes": false,
+  "github_release": false,
+  "limits": [
+    "All twelve month images were preview-checked; April and the herbal-medicine banner were observed in the final ISO.",
+    "Four-bit palettes use sixteen colors and 2x horizontal/native vertical sampling to fit the original memory budgets.",
+    "Full playthrough and physical PSP testing remain pending."
+  ]
+}

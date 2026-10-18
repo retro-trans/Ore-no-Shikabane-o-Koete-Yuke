@@ -1,0 +1,13 @@
+{
+  "version": "0.2.36",
+  "result": "PASS",
+  "elf_sha256": "0c25f5ffc34a8fc8a43788034400730c67bfb5ee2451144aff953fa00690ab23",
+  "archive_sha256": "b935c586538a9219e28a4e401071d8367515748e0a08290088e1f9abe6ebe5b6",
+  "patches_verified": 7,
+  "submenu_width": 84,
+  "wrap_code_verified": true,
+  "buffer_guard": "Unchanged",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

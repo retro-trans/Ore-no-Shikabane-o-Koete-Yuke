@@ -1,0 +1,20 @@
+{
+  "version": "0.2.23",
+  "tested_iso": "work/source/qa-disclaimer-0.2.23.iso",
+  "result": "PASS",
+  "mask_intersection_over_union": 1.0,
+  "frames_examined": 107,
+  "actual_display": "Native PSP framebuffer",
+  "native_pointer_instructions": [
+    "0x881ad40",
+    "0x881ad48",
+    "0x881ad4c",
+    "0x881ad54"
+  ],
+  "embedded_archive_sha256": "bb6f2d3f062211fd8a1f5a31622f81388c071ed616cb99b2bf927f4f47d0213a",
+  "elf_sha256": "6bb601ecd0cecc789f980a20e03c4f5a9e7f5b3ad176427681c67088f87b09c9",
+  "archive_sha256": "0f8a389746717c8d817a0a344490f476ebd30e815bc92832e901439f2434957e",
+  "game_memory_writes": false,
+  "button_input": false,
+  "texture_replacement": false
+}

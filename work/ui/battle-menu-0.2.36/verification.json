@@ -1,0 +1,124 @@
+{
+  "version": "0.2.36",
+  "result": "PASS: separate battle commands, full Equipment submenu, complete wrapped tooltips and compact consumable names",
+  "iso": {
+    "version": "0.2.36",
+    "file": "work/output/english-native-0.2.36.iso",
+    "bytes": 1081079808,
+    "sha256": "061e5bdef3ee88b1152c41806b45f58961e607c1ced8ab25e235ccac46ea952c"
+  },
+  "screens": [
+    {
+      "file": "work/ui/battle-menu-0.2.36/title.png",
+      "sha256": "52e483dc834242cb711ee9ec44317f0595f6e77e5e93c4056fb32c7c3ba4e920"
+    },
+    {
+      "file": "work/ui/battle-menu-0.2.36/main-menu.png",
+      "sha256": "386056c827938c328c51e11b8201f6c17cdd804d55425d3ece2d4c39cfb4459e"
+    },
+    {
+      "file": "work/ui/battle-menu-0.2.36/equipment-submenu.png",
+      "sha256": "ee14207b6fcc42c43b8406ce5ded9687bd5c95c70579f88cf443c5747dfca0b9"
+    },
+    {
+      "file": "work/ui/battle-menu-0.2.36/evergreen-help.png",
+      "sha256": "3b3e67be36ebbf5737e96dd76f25247cfc771522f93461fca9c83c45569e0181"
+    },
+    {
+      "file": "work/ui/battle-menu-0.2.36/divine-orb.png",
+      "sha256": "a8e4d3df327132af51d916f3d9f2a5ef3d8e3b0554f66dffcf2a831f4beb95f1"
+    },
+    {
+      "file": "work/ui/battle-menu-0.2.36/ring-help.png",
+      "sha256": "a274c870ce63364522808cf391bc09a03651d74f2fec00d12ae0a8ae5fea8ad8"
+    }
+  ],
+  "runtime": {
+    "version": "0.2.36",
+    "result": "PASS",
+    "elf_sha256": "0c25f5ffc34a8fc8a43788034400730c67bfb5ee2451144aff953fa00690ab23",
+    "archive_sha256": "b935c586538a9219e28a4e401071d8367515748e0a08290088e1f9abe6ebe5b6",
+    "patches_verified": 7,
+    "submenu_width": 84,
+    "wrap_code_verified": true,
+    "buffer_guard": "Unchanged",
+    "texture_replacement": false,
+    "game_memory_writes": false,
+    "save_record_writes": false
+  },
+  "mips": {
+    "version": "0.2.36",
+    "result": "PASS",
+    "elf_sha256": "0c25f5ffc34a8fc8a43788034400730c67bfb5ee2451144aff953fa00690ab23",
+    "description_cases": 226,
+    "consumable_names": 66,
+    "max_lines": 3,
+    "checks": [
+      "Actual MIPS adapter execution",
+      "Complete text and source-buffer preservation",
+      "Caller stack, return address and callee-save registers",
+      "Measured line budget and 16-pixel child placement",
+      "Buffer guard and unique names within Young Leaf Pills width"
+    ],
+    "examples": [
+      {
+        "id": "ore:00028000:0002:00:0004",
+        "lines": [
+          "Restores a moderate amount of HP to",
+          "one ally"
+        ]
+      },
+      {
+        "id": "ore:00028000:0002:00:0022",
+        "lines": [
+          "Very slightly raises one ally's Wind Spirit"
+        ]
+      },
+      {
+        "id": "ore:00028000:0002:00:0053",
+        "lines": [
+          "Borrows your divine parent's power"
+        ]
+      },
+      {
+        "id": "ore:00023800:0000:00:0022",
+        "lines": [
+          "Attack with your ancestors' power (once",
+          "per hunt)"
+        ]
+      }
+    ]
+  },
+  "names_checked": 66,
+  "names_shortened": 47,
+  "reference": "Young Leaf Pills",
+  "layout": {
+    "item_tooltip": [
+      206,
+      114,
+      266,
+      84
+    ],
+    "skills_tooltip": [
+      206,
+      134,
+      264,
+      64
+    ]
+  },
+  "checks": {
+    "item_ids_effects_and_inventory": "Byte-identical",
+    "source_descriptions": "Unchanged except consistent item-name references",
+    "unrelated_members": "Byte-identical except footer",
+    "prior_icons_profiles_and_catalog": "Preserved",
+    "gameplay_and_save_format": "Unchanged"
+  },
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false,
+  "github_release": false,
+  "limits": [
+    "Visual battle checks cover the reported menus, ring tooltip, Evergreen Elixir and Div. Favor Orb. Other descriptions/names passed measured MIPS/static checks.",
+    "Full playthrough and physical PSP testing remain pending."
+  ]
+}

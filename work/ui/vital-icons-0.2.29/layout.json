@@ -1,0 +1,314 @@
+{
+  "version": "0.2.29",
+  "source_version": "0.2.28",
+  "elf_sha256": "6ce2eaf6da4bb998ebb7e2756d50dbe5d4c6d3268b83aee0e5e156b5e278de95",
+  "archive_sha256": "bd1de4e47235a348f62354639f9221bd977cddd0c8e67ebb3ddf829ee6453045",
+  "elf_bytes": 4862320,
+  "archive_bytes": 228341760,
+  "reference": {
+    "file": "incoming/vital-icons-reference.png",
+    "sha256": "0864dbb2a2cadeb3bd3f822f074b1336c5fc365d5fb3f78a8fa60cf80e0ac734",
+    "dimensions": [
+      960,
+      544
+    ],
+    "source": "User-provided Oreshika screenshot; exact symbol pixels reused"
+  },
+  "extraction": {
+    "HP": {
+      "source_region": [
+        69,
+        209,
+        92,
+        233
+      ],
+      "source_ink_bounds": [
+        70,
+        209,
+        90,
+        231
+      ],
+      "source_glyph_size": [
+        20,
+        22
+      ],
+      "colored_pixels": 197
+    },
+    "MP": {
+      "source_region": [
+        69,
+        231,
+        92,
+        251
+      ],
+      "source_ink_bounds": [
+        73,
+        234,
+        88,
+        251
+      ],
+      "source_glyph_size": [
+        15,
+        17
+      ],
+      "colored_pixels": 122
+    },
+    "HLTH": {
+      "source_region": [
+        68,
+        249,
+        93,
+        273
+      ],
+      "source_ink_bounds": [
+        69,
+        249,
+        92,
+        272
+      ],
+      "source_glyph_size": [
+        23,
+        23
+      ],
+      "colored_pixels": 279
+    }
+  },
+  "icons": [
+    {
+      "stat": "HP",
+      "file": "11.ppt",
+      "archive_offset": 221184,
+      "member_entry": 13,
+      "descriptor": "0x9b85b10",
+      "pixels": "0x9b85f50",
+      "palette": "0x9b85b40",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "47a736556ce50a0beb3e8c120ef82393188cfd451444c2bcbcc276252e240429"
+    },
+    {
+      "stat": "HP",
+      "file": "107.ppt",
+      "archive_offset": 221184,
+      "member_entry": 10,
+      "descriptor": "0x9b8c7d0",
+      "pixels": "0x9b8cc10",
+      "palette": "0x9b8c800",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "103588e36fb627b76812fbcf936e5b61a1dc7f9bbab759d02a759a29a4d927f1"
+    },
+    {
+      "stat": "MP",
+      "file": "12.ppt",
+      "archive_offset": 221184,
+      "member_entry": 24,
+      "descriptor": "0x9b87f50",
+      "pixels": "0x9b88390",
+      "palette": "0x9b87f80",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "63474c9e962012d8086768c8ee42218718aead4a08d3a50d92b0485e24eb695f"
+    },
+    {
+      "stat": "MP",
+      "file": "108.ppt",
+      "archive_offset": 221184,
+      "member_entry": 11,
+      "descriptor": "0x9b8ec10",
+      "pixels": "0x9b8f050",
+      "palette": "0x9b8ec40",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "8b6e29b2926c70a3438f17c9071b2e0e995abd9ef5aab711bc7c120a2da0cb45"
+    },
+    {
+      "stat": "HLTH",
+      "file": "13.ppt",
+      "archive_offset": 221184,
+      "member_entry": 35,
+      "descriptor": "0x9b8a390",
+      "pixels": "0x9b8a7d0",
+      "palette": "0x9b8a3c0",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "3982154c8c42c20391935090cfd6572db1e721fd2f70689c5b6add33600c16ce"
+    },
+    {
+      "stat": "HLTH",
+      "file": "113.ppt",
+      "archive_offset": 221184,
+      "member_entry": 17,
+      "descriptor": "0x9b9a150",
+      "pixels": "0x9b9a590",
+      "palette": "0x9b9a180",
+      "pixel_bytes": 8192,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "eb5c969e20edc30e3c90174b7426021d0bbf1d59f64ef96a69cf24533689dd72"
+    }
+  ],
+  "footer": {
+    "rows": [
+      {
+        "text": "v0.2.29",
+        "right": 474,
+        "top": 223,
+        "font_size": 14,
+        "bounds": [
+          426.5,
+          222.0,
+          475.0,
+          234.75
+        ]
+      },
+      {
+        "text": "github.com/retro-trans",
+        "right": 474,
+        "top": 241,
+        "font_size": 12,
+        "bounds": [
+          342.5,
+          240.0,
+          475.0,
+          253.75
+        ]
+      }
+    ],
+    "atlas_screen_origin": [
+      0,
+      201
+    ],
+    "copyright_exact": true
+  },
+  "checks": {
+    "existing_code_and_descriptors": "Byte-identical",
+    "other_executable_bytes": "Only six embedded palettes/pixel payloads changed",
+    "archive_members": "Byte-identical except version footer",
+    "scripts_and_text_tables": "Byte-identical to 0.2.28",
+    "geometry": "Original 24x16 and32x16 logical bounds; symbol aspect preserved",
+    "native_renderer": "Existing hooks reused",
+    "previous_element_icons": "Byte-identical"
+  },
+  "texture_replacement": false,
+  "runtime_verification": "pending"
+}

@@ -1,0 +1,48 @@
+Dialogue reflow — local build 0.2.17, 2026-10-17
+
+The user reported overflow in the Curse of Short Life explanation and
+unnatural hard breaks in two Itsuka tutorial messages. All three fixes
+retain every word. Neighboring records were reviewed for context.
+
+Curse explanation: keep three lines, moving the break before “ordinary
+people”. Predicted line advances at native logical size 12 are 201.429,
+217.714 and 254.571 pixels. Previously the middle line was 315.429 pixels.
+
+Equipment reminder: move “and make sure” onto the second line, leaving
+“you haven't forgotten anything!” on the third. Predicted advances are
+242.571, 232.286 and 188.571 pixels. The old final line was 278.571 pixels
+and collided with the window edge/advance icon.
+
+Information advice: use a complete first sentence on line one and the
+short second sentence on line two. Predicted advances are 266.571 and
+119.143 pixels. The full first line fits the dialogue box, including its
+visible final punctuation; final-line space is reserved for the icon.
+
+Measurements use the embedded native VWF advance table, scaled from its
+14-unit atlas metrics to the dialogue's logical size 12. Actual framebuffers
+and measured window/text/icon coordinates are recorded with the UI layout.
+These are fixes for the three reported passages, not a claim that every
+dialogue record has automatic English word wrapping or has been fit checked.
+
+The two-line advice intentionally differs from the source's three lines,
+as the user requested. check_translation.py accepts this exact source and
+target hash pair through work/ui/dialogue-reflow-0.2.17/layout.json. All
+other source identity, placeholders, controls, row and line-count checks
+remain active. No records were split, merged or reordered.
+
+The native executable is byte-identical to 0.2.16. Only the three dialogue
+records and the native footer version change in data.ore. The expanded
+message tables relocate their strings/pointers; no original byte-slot
+truncation is used. Previous Latin Auto/name/font/menu fixes are retained.
+
+All three complete messages were reached naturally and captured in game.
+Native getter/return breakpoints verify the exact final text without any
+register, text or save-memory substitution. Actual glyph cores fit inside
+their windows and the last lines clear the advance icons. The information
+advice uses two text lines inside the original three-line-height window.
+An optional input-isolated test profile disables physical controller
+backends for scripted QA and retains the regular profile separately.
+
+All 49 translation batches and ISO replacement checksums pass. Full-game
+layout review, independent meaning review and physical PSP testing remain
+outside this selected-context verification. No release was published.

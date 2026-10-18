@@ -1,0 +1,9 @@
+{
+  "version": "0.2.38",
+  "result": "PASS",
+  "elf_sha256": "007bfe919f1b916901a5de6ac99e4e9e86500bdac4dff6da48ab28035cffc9a5",
+  "archive_sha256": "f32ed958f35d9d317813e4871def7260cd3cfd1e71a970e59a610471f40a904f",
+  "patches_verified": 2,
+  "game_memory_writes": false,
+  "texture_replacement": false
+}

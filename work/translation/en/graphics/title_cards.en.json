@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "version": "0.2.8",
+  "language": "en",
+  "status": "draft",
+  "rows": [
+    {
+      "file": "bunsya.ppt",
+      "archive_offset": 1998848,
+      "member_entry": 33,
+      "translation_en": "SHARE DEITY",
+      "status": "draft",
+      "source_sha256": "2b0ba54dc8d2a050e138a31fb7d0c0ac3cb83ae3ada1b3cbca3f7a9de277f933",
+      "output_sha256": "2bc1e2d0ca22edb22978720ca86268da3be8039ea99fdf3c0f54c28acc35fab4",
+      "label_rectangle": [
+        34,
+        0,
+        23,
+        94
+      ],
+      "fit_status": "unverified_in_game",
+      "context": "Title-menu flower card. Matches the corresponding title.mlb English label."
+    },
+    {
+      "file": "yousi.ppt",
+      "archive_offset": 1998848,
+      "member_entry": 34,
+      "translation_en": "ADOPTION",
+      "status": "draft",
+      "source_sha256": "8894b40bdd4161df89f1d95ca02ce22867b5dbb768fc358432141f18d99e85f2",
+      "output_sha256": "ef8bd771661b91bf331b4bf9c614eb2c4021c5c03d23d725ba8c5e002e976e63",
+      "label_rectangle": [
+        34,
+        0,
+        23,
+        94
+      ],
+      "fit_status": "unverified_in_game",
+      "context": "Title-menu flower card. Matches the corresponding title.mlb English label."
+    },
+    {
+      "file": "keizoku.ppt",
+      "archive_offset": 1998848,
+      "member_entry": 35,
+      "translation_en": "CONTINUE",
+      "status": "draft",
+      "source_sha256": "0d92dbdca555f8826e23dd4585be33f2a37596f2f9767e08d7b6ede6ee4e6953",
+      "output_sha256": "8a3c81a20a822aeb76902a2babe00ac65044c6bac6d6a1df60bd409f0e580512",
+      "label_rectangle": [
+        34,
+        0,
+        23,
+        94
+      ],
+      "fit_status": "unverified_in_game",
+      "context": "Title-menu flower card. Matches the corresponding title.mlb English label."
+    },
+    {
+      "file": "kaisi.ppt",
+      "archive_offset": 1998848,
+      "member_entry": 36,
+      "translation_en": "NEW GAME",
+      "status": "draft",
+      "source_sha256": "884f62209c986e1058f2c2e419f29a1640311c3ea33799061e331b0e0d63cc3f",
+      "output_sha256": "95a5512f4d1861e77966bc531e03c762bf9409bfa22c2d9181dfc613b9ec4e7c",
+      "label_rectangle": [
+        34,
+        0,
+        23,
+        94
+      ],
+      "fit_status": "unverified_in_game",
+      "context": "Title-menu flower card. Matches the corresponding title.mlb English label."
+    },
+    {
+      "file": "jyosyou.ppt",
+      "archive_offset": 1998848,
+      "member_entry": 37,
+      "translation_en": "PROLOGUE",
+      "status": "draft",
+      "source_sha256": "5fd157144dfb205ae33bd7a56cc034dcb9e0744122c5aef75eaeaeeacce1bd7f",
+      "output_sha256": "5957d7b21bf260189a3a00241cbc15622234f67e49ac5bd38f44a062f849a153",
+      "label_rectangle": [
+        34,
+        0,
+        23,
+        94
+      ],
+      "fit_status": "unverified_in_game",
+      "context": "Title-menu flower card. Matches the corresponding title.mlb English label."
+    },
+    {
+      "file": "kekkon.ppt",
+      "archive_offset": 1998848,
+      "member_entry": 38,
+      "translation_en": "SOUL UNION",
+      "status": "draft",
+      "source_sha256": "2a8191275322744a3143130a78d89fc11f426f88ebbcff289433bd2d88672d6f",
+      "output_sha256": "5662e727862b53746d91f054dc776124f6818d7756518e05fd8b3f5ba1f41d14",
+      "label_rectangle": [
+        34,
+        0,
+        23,
+        94
+      ],
+      "fit_status": "unverified_in_game",
+      "context": "Title-menu flower card. Matches the corresponding title.mlb English label."
+    }
+  ]
+}

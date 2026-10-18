@@ -1,0 +1,19 @@
+{
+  "version": "0.2.4",
+  "status": "PASS",
+  "runtime_tables_loaded": [
+    {
+      "table": "0x9b7d000",
+      "loader_object": "0x9fe3610",
+      "records": 8,
+      "accepted": true
+    },
+    {
+      "table": "0x9b7d190",
+      "loader_object": "0x9c1fcb0",
+      "records": 10,
+      "accepted": true
+    }
+  ],
+  "limitation": "Loader acceptance is verified. Save-dialog and error-message display/layout scenarios remain separate tests."
+}

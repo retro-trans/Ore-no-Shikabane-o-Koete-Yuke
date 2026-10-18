@@ -1,0 +1,56 @@
+Local menu fixes, build 0.2.9 (2026-10-17)
+
+User references: incoming/menu-ui-report-0.2.8/01..04.
+The first question was not an unfinished translation: title.mlb 3:13 is
+"%s"?\nIs that your choice? A UTF-16 runtime formatting buffer was 64 bytes.
+Native calls at 0x089756E0 and 0x08975718 now agree on 256 bytes, preserving
+both the name and the complete question. The generic confirmation widget
+measures the resulting text and sizes its box automatically.
+
+Character menu (Details, Sortie Prep, Select Items, Best Equipment, Sort):
+0x08901134 changes the width argument of 0x088222D4 from 64 to 112.
+The existing layout function uses that width for text cells, highlights and
+the outer window. Its original icon spacing and centered placement remain.
+
+Home menu: 0x0891F538 changes the same per-column width from 48 to 96.
+The 4-row / 3-column grid, two-pixel gaps, ten-pixel margins, item ordering
+and input mapping are preserved. Rebuild and Facilities are separate items.
+The outer box is 312x90 at native screen position (50,64).
+The constructor tail at 0x0891F56C jumps to a 36-byte wrapper at 0x09B7D4D0.
+It sets the window's draw-list key to 0x8003 before restoring the original
+stack/registers and returning. Itsuka's preview container uses 0x8002;
+the wider menu therefore stays in front of her umbrella/SAVE sign. Popups
+and dialogue layers retain their higher ordering. No portrait positions change.
+
+Portrait Studio: the dedicated 11-short layout at 0x08A37F80 is
+(2,1,4,2,128,16,10,10,10,10,0). Only its width short at +8 changes to 248.
+The two rows remain one column; their outer box is 268x54 at (122,165).
+A contextual tail wrapper at 0x09B7D500 replaces the centering call at
+0x08967564. Only table 0x08A37F80 receives a +56 vertical offset; other
+callers retain their original centering. Choices sit below the English heading.
+Native assets in original root 106 / EZBIND 0x00B4A800:
+  entry 12, 219.ppt: Family Photo banner, 480x160, T8 swizzled.
+  entry 53, 260.ppt: Portrait Studio vertical heading, 48x264, T8 swizzled.
+Lettering is rasterized at 4x before reduction to the original native image
+dimensions. Original palettes, storage formats and image geometry remain.
+The native banner uses a burgundy/gold title plaque over its old calligraphy;
+the camera, projection beam and outer floral frame keep original pixels.
+The vertical heading reuses native diamond artwork under English lettering.
+Portrait Studio follows the existing glossary term for this facility.
+
+Builder: tools/build_menu_fixes.py, dry run by default. Hash-guarded 0.2.8
+ELF/archive inputs. Seven guarded instruction words, one layout short and
+the segment lengths change; the wrappers/padding add 84 bytes. All other
+existing bytes are unchanged. Only the two studio images
+and version footer differ in the archive. All unrelated root payloads and
+EZBIND members are checked byte-for-byte despite relocated root offsets.
+The 0.2.8 font selector/date wrapper and 14 standalone prompts are retained.
+No texture replacement; native atlas and width table remain unchanged.
+tools/test_menu_ui.py executes the actual MIPS hooks to verify constructor
+stack/register/return preservation and the studio-only positioning condition.
+
+Runtime evidence and measured bounds: work/ui/menu-fixes-0.2.9/verification.json.
+QA uses an isolated emulator profile, a newly created test clan/save and
+actual guest framebuffer captures. User saves in Documents/PPSSPP are untouched.
+Earlier build files remain available. Broad game QA and real PSP tests remain
+outside these four screen fixes; this is a local test build, not a release.

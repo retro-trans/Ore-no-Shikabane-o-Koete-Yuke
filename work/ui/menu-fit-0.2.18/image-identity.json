@@ -1,0 +1,9 @@
+{
+  "version": "0.2.18",
+  "result": "PASS: delivered ISO is byte-identical to the actual tested image",
+  "tested_image": "work/source/qa-inventory-0.2.18c.iso",
+  "delivered_image": "work/output/english-native-0.2.18.iso",
+  "bytes": 1079937024,
+  "sha256": "da8786fda1e1c3e9678544d333917d5e7a6a8813a803926efdc18b796d409811",
+  "method": "Independent streamed SHA-256 reads of both complete ISO files"
+}

@@ -1,0 +1,170 @@
+{
+  "version": "0.2.37",
+  "context": "pack-confirm",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Use Swift Wind Tsl.?",
+    "Yes",
+    "No"
+  ],
+  "objects": [
+    {
+      "text": "April",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Spells",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Items",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Status",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Equipment",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Endless Torii: One",
+      "atlas": "0x9b5c010",
+      "glyphs": 18,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Pack",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Use",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Discard",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Evergreen Elixir",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Div. Favor Orb",
+      "atlas": "0x9b5c010",
+      "glyphs": 14,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Div. Favor Orb",
+      "atlas": "0x9b5c010",
+      "glyphs": 14,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Firestorm Tsl.",
+      "atlas": "0x9b5c010",
+      "glyphs": 14,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Catfish Tsl.",
+      "atlas": "0x9b5c010",
+      "glyphs": 12,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Swift Wind Tsl.",
+      "atlas": "0x9b5c010",
+      "glyphs": 15,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Asbestos Kimono",
+      "atlas": "0x9b5c010",
+      "glyphs": 15,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Fresh Green Hood",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Temporarily greatly increases the party's movement speed",
+      "atlas": "0x9b5c010",
+      "glyphs": 56,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Swift Wind Tsl.",
+      "atlas": "0x9b5c010",
+      "glyphs": 15,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Swift Wind Tsl.",
+      "atlas": "0x9b5c010",
+      "glyphs": 15,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Back",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Left:  1",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "17/30",
+      "atlas": "0x9b5c010",
+      "glyphs": 5,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Use Swift Wind Tsl.?",
+      "atlas": "0x9b5c010",
+      "glyphs": 20,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Yes",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "No",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

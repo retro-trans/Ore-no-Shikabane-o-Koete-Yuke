@@ -1,0 +1,302 @@
+{
+  "version": "0.2.37",
+  "result": "PASS: translated Pack confirmation/count; wider translucent story dialogue",
+  "iso": {
+    "version": "0.2.37",
+    "file": "work/output/english-native-0.2.37.iso",
+    "bytes": 1081079808,
+    "sha256": "210fd195d9863cbe427b895b5e7396b4af1fc948db954b76c118c52b629800b6"
+  },
+  "screens": [
+    {
+      "file": "work/ui/dialogue-window-0.2.37/title.png",
+      "sha256": "3a4527e37aa4a50b43048fd0d65e96a7492de4fba567ba5b145873ea916d3f2a"
+    },
+    {
+      "file": "work/ui/dialogue-window-0.2.37/story-first.png",
+      "sha256": "e81e5ec44080b9d2f8970d84652ea1ea4612e0c4ae45d0deb6a77d522524ec2c"
+    },
+    {
+      "file": "work/ui/dialogue-window-0.2.37/story-long.png",
+      "sha256": "f135a56c36e8999a017b0b06ea49a9e497257e29f55407a94c28c581b7559c56"
+    },
+    {
+      "file": "work/ui/dialogue-window-0.2.37/pack-confirm.png",
+      "sha256": "440fd72d548285de1fcfe2966f34f215c51414bbdec9c0cbbe7211d143c6fda6"
+    }
+  ],
+  "runtime": {
+    "version": "0.2.37",
+    "result": "PASS",
+    "elf_sha256": "815308f8d8ef3691bfa70c44cd5645f12f1051ee7a4ee09e6cd9f977dd8d7582",
+    "archive_sha256": "15489cc5f9007462b157a6f4ece0dd6b8c38f33d757d87afff256974d99f55b0",
+    "patches_verified": 4,
+    "wrapper_verified": true,
+    "panels": [
+      {
+        "object": "0x9ddd7b0",
+        "geometry": [
+          24,
+          198,
+          432,
+          66
+        ],
+        "background_alpha": 200,
+        "line_widths": [
+          412,
+          412,
+          412
+        ],
+        "advance_icon_position": [
+          412,
+          46
+        ]
+      }
+    ],
+    "game_memory_writes": false,
+    "texture_replacement": false
+  },
+  "mips": {
+    "version": "0.2.37",
+    "result": "PASS",
+    "elf_sha256": "815308f8d8ef3691bfa70c44cd5645f12f1051ee7a4ee09e6cd9f977dd8d7582",
+    "cases": [
+      {
+        "geometry": [
+          24,
+          198,
+          288,
+          66
+        ],
+        "extended": true,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          196,
+          288,
+          66
+        ],
+        "extended": true,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          198,
+          432,
+          66
+        ],
+        "extended": true,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          180,
+          288,
+          66
+        ],
+        "extended": true,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          179,
+          288,
+          66
+        ],
+        "extended": false,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          90,
+          6,
+          300,
+          70
+        ],
+        "extended": false,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          10,
+          200,
+          300,
+          60
+        ],
+        "extended": false,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          198,
+          220,
+          48
+        ],
+        "extended": false,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          0,
+          0,
+          288,
+          66
+        ],
+        "extended": false,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          206,
+          134,
+          264,
+          64
+        ],
+        "extended": false,
+        "result": "PASS"
+      }
+    ],
+    "update_cases": [
+      {
+        "geometry": [
+          24,
+          198,
+          288,
+          66
+        ],
+        "native_resize_calls": 1,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          196,
+          288,
+          66
+        ],
+        "native_resize_calls": 1,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          198,
+          432,
+          66
+        ],
+        "native_resize_calls": 0,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          180,
+          288,
+          66
+        ],
+        "native_resize_calls": 1,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          179,
+          288,
+          66
+        ],
+        "native_resize_calls": 0,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          90,
+          6,
+          300,
+          70
+        ],
+        "native_resize_calls": 0,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          10,
+          200,
+          300,
+          60
+        ],
+        "native_resize_calls": 0,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          24,
+          198,
+          220,
+          48
+        ],
+        "native_resize_calls": 0,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          0,
+          0,
+          288,
+          66
+        ],
+        "native_resize_calls": 0,
+        "result": "PASS"
+      },
+      {
+        "geometry": [
+          206,
+          134,
+          264,
+          64
+        ],
+        "native_resize_calls": 0,
+        "result": "PASS"
+      }
+    ],
+    "caller_state": "Stack, return address, saved registers preserved; update retains original return values",
+    "scope": "Only width, three line widths and background corner alpha/dirty flag changed in selected bottom panels; late placement invokes real resize once"
+  },
+  "layout": {
+    "native_class": "0x08a22ba8",
+    "selection": "x=24, y>=180, width=288 or already extended 432",
+    "before_width": 288,
+    "after_width": 432,
+    "frame_right": 456,
+    "text_width": 412,
+    "background_alpha": 200,
+    "background_opacity": 0.784,
+    "border_and_text_alpha": "Unchanged"
+  },
+  "reported_line": {
+    "id": "ore:0000c000:0015:02:0018",
+    "runtime_name_example": "Hayate",
+    "line_advances": [
+      311.143,
+      208.286,
+      167.143
+    ],
+    "old_text_budget": 268,
+    "new_text_budget": 412,
+    "words": "Unchanged",
+    "validation": "Measured against shared native geometry; representative story dialogue verified live"
+  },
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false,
+  "github_release": false,
+  "limits": [
+    "Selected natural story and Pack screens checked; full playthrough and physical PSP testing pending.",
+    "Widening applies to the shared left-aligned bottom story panel. Menu help and centered alerts retain their existing layouts."
+  ]
+}

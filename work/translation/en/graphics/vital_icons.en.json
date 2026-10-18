@@ -1,0 +1,428 @@
+{
+  "version": "0.2.31",
+  "category": "Original Oreshika native HP/MP/HLTH artwork",
+  "reference": {
+    "source": "User-supplied Oreshika Tainted Bloodlines (USA), PCSA00155",
+    "archive_bytes": 2106042368,
+    "source_archive": "work/source/vita3k-icons-profile/ux0/app/PCSA00155/data.img",
+    "native_sheets": {
+      "udtx_status_us.ppt": {
+        "archive_offset": 1638172672,
+        "entry": 0,
+        "name": "udtx_status_us.ppt",
+        "member_offset": 1638173016,
+        "size": 45819,
+        "packed_sha256": "418d8e15271ed9438e143c6d04d3f44c8ec40830fa9a513d0738af101cc9dead",
+        "gxt_sha256": "1b02fe81fb05e2abcd8623fe2ed0e890c322e2a2c79d8440c05946b418523616",
+        "decoded_rgba_sha256": "fbf02e797de5e49f4859d42bd3e0f4e83d4e4d36bf4dd7a8ec7a018cb5314f0b",
+        "archive_compression": "custom_deflate",
+        "width": 512,
+        "height": 512,
+        "kind": "0x0",
+        "format": "0x87000000",
+        "compression": "DXT5",
+        "mipmaps": 1,
+        "source_pixel_bytes": 262144,
+        "resampled": false
+      },
+      "uitx_icon_us.ppt": {
+        "archive_offset": 1635518464,
+        "entry": 2,
+        "name": "uitx_icon_us.ppt",
+        "member_offset": 1635540844,
+        "size": 118704,
+        "packed_sha256": "242dd963655f863f19eb6b4e9f2bdb8c4d9f54e8c5c16faf09be5044e88c963a",
+        "gxt_sha256": "9e58c7ced64322df9a956b31fe6a4da2a63b8f932423ab4ee07bf9892dc2a69b",
+        "decoded_rgba_sha256": "339867a8e8dc89e6e77e1302b3df091c5a5269e2df068d667895796d637aa1ab",
+        "archive_compression": "custom_deflate",
+        "width": 512,
+        "height": 1024,
+        "kind": "0x0",
+        "format": "0x87000000",
+        "compression": "DXT5",
+        "mipmaps": 1,
+        "source_pixel_bytes": 524288,
+        "resampled": false
+      }
+    },
+    "icons": [
+      {
+        "symbol": "HP",
+        "sheet": "udtx_status_us.ppt",
+        "crop": [
+          0,
+          16,
+          24,
+          40
+        ],
+        "width": 24,
+        "height": 24,
+        "rgba_sha256": "0df44ecba9ac800c4839af5c16a9b51f704cf862a4ae4a192975a4794eae6e94",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "MP",
+        "sheet": "udtx_status_us.ppt",
+        "crop": [
+          24,
+          16,
+          48,
+          40
+        ],
+        "width": 24,
+        "height": 24,
+        "rgba_sha256": "60bac3e94d34dc217bc449c54df432f713c494ce13cab674716a762f9531d602",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "HLTH",
+        "sheet": "udtx_status_us.ppt",
+        "crop": [
+          48,
+          16,
+          72,
+          40
+        ],
+        "width": 24,
+        "height": 24,
+        "rgba_sha256": "dd95e55d90303b5a4cc904928dca4953ef884153b966587ce52ec151c331fa8f",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "Fire",
+        "sheet": "uitx_icon_us.ppt",
+        "crop": [
+          444,
+          0,
+          476,
+          32
+        ],
+        "width": 32,
+        "height": 32,
+        "rgba_sha256": "f4f775343ece702292ca9e88595506d3346a66caf5bb1d6694413df5cf65f1b6",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "Water",
+        "sheet": "uitx_icon_us.ppt",
+        "crop": [
+          444,
+          32,
+          476,
+          64
+        ],
+        "width": 32,
+        "height": 32,
+        "rgba_sha256": "0e1eb4cd215f593a5f00d8b5f973889fd29363d9b419858ae67b89e6aa0fb8d1",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "Wind",
+        "sheet": "uitx_icon_us.ppt",
+        "crop": [
+          444,
+          64,
+          476,
+          96
+        ],
+        "width": 32,
+        "height": 32,
+        "rgba_sha256": "eb9578b26e646045f08e08ca85b0b26597156eb56f8ea7b0a49561f91a131243",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "Earth",
+        "sheet": "uitx_icon_us.ppt",
+        "crop": [
+          444,
+          96,
+          476,
+          128
+        ],
+        "width": 32,
+        "height": 32,
+        "rgba_sha256": "df723fecadb5b36f46dde01b40a6b789a0d27732ec816bb16cfee703f3245122",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      }
+    ]
+  },
+  "rows": [
+    {
+      "stat": "HP",
+      "file": "11.ppt",
+      "archive_offset": 221184,
+      "member_entry": 13,
+      "descriptor": "0x9b85b10",
+      "pixels": "0x9b85f50",
+      "palette": "0x9b85b40",
+      "pixel_bytes": 8192,
+      "source_sheet": "udtx_status_us.ppt",
+      "native_crop": [
+        0,
+        16,
+        24,
+        40
+      ],
+      "physical_icon_box": [
+        20,
+        4,
+        76,
+        60
+      ],
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "4365a52e9ad30154fe2ed314168b420d73da094bc72d05894b41e602cdbf3511"
+    },
+    {
+      "stat": "HP",
+      "file": "107.ppt",
+      "archive_offset": 221184,
+      "member_entry": 10,
+      "descriptor": "0x9b8c7d0",
+      "pixels": "0x9b8cc10",
+      "palette": "0x9b8c800",
+      "pixel_bytes": 8192,
+      "source_sheet": "udtx_status_us.ppt",
+      "native_crop": [
+        0,
+        16,
+        24,
+        40
+      ],
+      "physical_icon_box": [
+        36,
+        4,
+        92,
+        60
+      ],
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "4ab5385031befd10a6358d16e7784ae0990b60480a1ec689b80733726aa75ec6"
+    },
+    {
+      "stat": "MP",
+      "file": "12.ppt",
+      "archive_offset": 221184,
+      "member_entry": 24,
+      "descriptor": "0x9b87f50",
+      "pixels": "0x9b88390",
+      "palette": "0x9b87f80",
+      "pixel_bytes": 8192,
+      "source_sheet": "udtx_status_us.ppt",
+      "native_crop": [
+        24,
+        16,
+        48,
+        40
+      ],
+      "physical_icon_box": [
+        20,
+        4,
+        76,
+        60
+      ],
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "0c190655a771ec4531a7116036801ac20dc35460677bf6d3e0ef7152be0ba9b6"
+    },
+    {
+      "stat": "MP",
+      "file": "108.ppt",
+      "archive_offset": 221184,
+      "member_entry": 11,
+      "descriptor": "0x9b8ec10",
+      "pixels": "0x9b8f050",
+      "palette": "0x9b8ec40",
+      "pixel_bytes": 8192,
+      "source_sheet": "udtx_status_us.ppt",
+      "native_crop": [
+        24,
+        16,
+        48,
+        40
+      ],
+      "physical_icon_box": [
+        36,
+        4,
+        92,
+        60
+      ],
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "497ca0b52d48b73fbdab438f07798ab9ef78c1ff1e0a0c0b9cdfc0d13f44bd93"
+    },
+    {
+      "stat": "HLTH",
+      "file": "13.ppt",
+      "archive_offset": 221184,
+      "member_entry": 35,
+      "descriptor": "0x9b8a390",
+      "pixels": "0x9b8a7d0",
+      "palette": "0x9b8a3c0",
+      "pixel_bytes": 8192,
+      "source_sheet": "udtx_status_us.ppt",
+      "native_crop": [
+        48,
+        16,
+        72,
+        40
+      ],
+      "physical_icon_box": [
+        20,
+        4,
+        76,
+        60
+      ],
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "7af657cc8dd7621095ee7fb0a8bf30dd1db0bcfaf69ffcf0f3cd4f64850f3b1b"
+    },
+    {
+      "stat": "HLTH",
+      "file": "113.ppt",
+      "archive_offset": 221184,
+      "member_entry": 17,
+      "descriptor": "0x9b9a150",
+      "pixels": "0x9b9a590",
+      "palette": "0x9b9a180",
+      "pixel_bytes": 8192,
+      "source_sheet": "udtx_status_us.ppt",
+      "native_crop": [
+        48,
+        16,
+        72,
+        40
+      ],
+      "physical_icon_box": [
+        36,
+        4,
+        92,
+        60
+      ],
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "7a599e2af0922c0501162778efbfc946ba54fc03c1e8220ccd7cce3cfecde4ca"
+    }
+  ]
+}

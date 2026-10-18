@@ -1,0 +1,90 @@
+{
+  "version": "0.2.28",
+  "result": "PASS",
+  "context": "deities",
+  "elf_sha256": "dc9d35f8f17ccaa7e09a553925db7064f5eaf14b2bdc6a17384378ae169a3cef",
+  "archive_sha256": "21c29baa28c2ffcc106948a68425a4d47f4211d43bb34ee345caa78cbebb06ab",
+  "palettes_and_pixels": "All four match the built executable",
+  "existing_hooks": "Unchanged original native instructions verified through JIT-aware disassembly",
+  "draws": [
+    {
+      "element": "Fire",
+      "widget": "0x9e0f5c0",
+      "descriptor": "0x9cb6070",
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_uv": [
+        0,
+        0,
+        64,
+        56
+      ],
+      "native_texture": [
+        64,
+        64
+      ]
+    },
+    {
+      "element": "Water",
+      "widget": "0x9e0ffb0",
+      "descriptor": "0x9cb74b0",
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_uv": [
+        0,
+        0,
+        64,
+        56
+      ],
+      "native_texture": [
+        64,
+        64
+      ]
+    },
+    {
+      "element": "Wind",
+      "widget": "0x9e109a0",
+      "descriptor": "0x9cb88f0",
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_uv": [
+        0,
+        0,
+        64,
+        56
+      ],
+      "native_texture": [
+        64,
+        64
+      ]
+    },
+    {
+      "element": "Earth",
+      "widget": "0x9e11390",
+      "descriptor": "0x9cb9d30",
+      "logical_size": [
+        16,
+        14
+      ],
+      "physical_uv": [
+        0,
+        0,
+        64,
+        56
+      ],
+      "native_texture": [
+        64,
+        64
+      ]
+    }
+  ],
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

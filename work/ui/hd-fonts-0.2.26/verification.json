@@ -1,0 +1,60 @@
+{
+  "version": "0.2.26",
+  "result": "PASS: selected shared HD UI screens; battle visual QA pending",
+  "iso": {
+    "version": "0.2.26",
+    "file": "work/output/english-native-0.2.26.iso",
+    "bytes": 1081131008,
+    "sha256": "988121682a2605930130ab8ed50c369bef1843ebb40cd3db048dec0c57c4cb38"
+  },
+  "screens": [
+    {
+      "file": "work/ui/hd-fonts-0.2.26/final-title.png",
+      "sha256": "e32e1479090065de380e972bd76f0f392efa988a839a8a7a889300253f68f46b"
+    },
+    {
+      "file": "work/ui/hd-fonts-0.2.26/final-status.png",
+      "sha256": "ab5e589ff415642b3af38743f4c8b4cff1f1c38cb12244eba8788b173db2c40a"
+    },
+    {
+      "file": "work/ui/hd-fonts-0.2.26/final-roster.png",
+      "sha256": "1cae701e5d7417daa0e73c6d94a78d0a9a8c84d4d8bb9918ee0437a1006b7d4f"
+    },
+    {
+      "file": "work/ui/hd-fonts-0.2.26/final-equipment.png",
+      "sha256": "680d89a06104499ee2664126da066fe33d13b70aa37c6c3306ef87e5bbd76496"
+    },
+    {
+      "file": "work/ui/hd-fonts-0.2.26/final-spells.png",
+      "sha256": "1f90c3d019f3a6b7628f5dfd1b10e5412221bb9d6de2adc685293319a710cb55"
+    }
+  ],
+  "native_runtime_images": 23,
+  "mips": "PASS: 40 actual MIPS crop cases and 83 embedded descriptor proxies; HD logical sizing, full/cropped/nonzero rectangles, repeated updates, ribbon limits, untagged fallback and saved registers.",
+  "checks": {
+    "all_scripts": "byte-identical",
+    "unrelated_archive_members": "byte-identical",
+    "archive_decompressed_resource_sizes": "exactly preserved",
+    "source_logical_geometry": "preserved",
+    "crop_rectangles": "mapped to physical HD coordinates"
+  },
+  "assets": 83,
+  "unique_native_images": 63,
+  "combat_digit_assets": 50,
+  "additional_translated_label_groups": 16,
+  "shared_intermediate_images_byte_identical": 32,
+  "additional_component_evidence": [
+    "oni-after.png",
+    "runtime-oni.json",
+    "dungeon-walk.png"
+  ],
+  "additional_component_source_elf": "b245821fe3e10bc8abd47bd091f1354f875fd83c4cb47c1ddfb3ca9b062bae72",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "github_release": false,
+  "limits": [
+    "Combat digit placement and battle-results screen still need live battle visual verification.",
+    "Full-playthrough and physical PSP tests remain pending.",
+    "Unrelated graphic text outside this screenshot-focused pass is not declared complete."
+  ]
+}

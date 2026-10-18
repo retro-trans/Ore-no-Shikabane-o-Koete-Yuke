@@ -1,0 +1,32 @@
+{
+  "version": "0.2.6",
+  "movie_files": 8,
+  "sampled_frames_reviewed": 96,
+  "sampling_interval_seconds": 10,
+  "movies": [
+    {"file": "HI.pmf", "samples": 6},
+    {"file": "KAZE.pmf", "samples": 6},
+    {"file": "MIZU.pmf", "samples": 6},
+    {"file": "TUCHI.pmf", "samples": 6},
+    {"file": "ore1.pmf", "samples": 31},
+    {"file": "ore3.pmf", "samples": 20},
+    {"file": "ore4.pmf", "samples": 10},
+    {"file": "ore5.pmf", "samples": 11}
+  ],
+  "findings": "No readable Japanese dialogue or caption lettering observed baked into the reviewed movie frames. Decorative magic-circle artwork was retained. The separate 246-record subtitle table has English drafts and preserved timing arrays.",
+  "limitations": "Frames between samples have not all been visually inspected. This is not a claim of frame-by-frame movie QA or verified subtitle fit/timing during a complete playthrough.",
+  "source_previews": "Ignored local work/source/movie-audit directory",
+  "graphics": {
+    "title_cards": "Six native English card labels visibly verified in game in 0.2.4; asset bytes unchanged in subsequent builds.",
+    "title_logo": "Original Japanese calligraphy retained as title artwork.",
+    "other_environment_art": "No exhaustive visual audit; incidental lettering may remain."
+  },
+  "data_bin": {
+    "bytes": 272633408,
+    "nonzero_bytes": 3638,
+    "last_nonzero_offset": 3647,
+    "zero_suffix_bytes": 272629760,
+    "sha256": "bd03adc18cbd907b53397f470bd7bded3fcad10e935d275106e97fca51996903",
+    "finding": "Nonzero data exists only in the first 3648 bytes; its gzip-like prefix is invalid. Padding/filler is an inference, not a proven decoding. Original file remains unchanged."
+  }
+}

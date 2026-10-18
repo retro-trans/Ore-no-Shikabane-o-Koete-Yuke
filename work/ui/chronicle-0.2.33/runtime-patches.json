@@ -1,0 +1,32 @@
+{
+  "version": "0.2.33",
+  "result": "PASS",
+  "elf_sha256": "83677056891403cf743bfef2133b6b1ef3cb9805a9c5f0720ade20b15a40dabb",
+  "archive_sha256": "91674c37ee5f284e85371e489b950cd814ed6f933ecddcc69d39571769b4d28a",
+  "instruction_patches_verified": 5,
+  "relocated_formats": [
+    {
+      "context": "Chronicle unknown month",
+      "original_address": "0x8a3ef80",
+      "address": "0x9cbba20",
+      "translation_en": "Events: %4d / %s",
+      "placeholders": [
+        "%4d",
+        "%s"
+      ]
+    },
+    {
+      "context": "Chronicle numbered month",
+      "original_address": "0x8a3ef98",
+      "address": "0x9cbba40",
+      "translation_en": "Events: %4d / %2d",
+      "placeholders": [
+        "%4d",
+        "%2d"
+      ]
+    }
+  ],
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

@@ -1,0 +1,20 @@
+{
+  "version": "0.2.37",
+  "scope": "Native Pack literals",
+  "rows": [
+    {
+      "address": "0x8a4155c",
+      "translation_en": "Left: %2d",
+      "format_arguments": [
+        "%2d"
+      ]
+    },
+    {
+      "address": "0x8a41570",
+      "translation_en": "Use %s?",
+      "format_arguments": [
+        "%s"
+      ]
+    }
+  ]
+}

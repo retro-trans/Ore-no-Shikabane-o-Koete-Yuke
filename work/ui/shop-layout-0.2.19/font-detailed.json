@@ -1,0 +1,168 @@
+{
+  "version": "0.2.19",
+  "context": "detailed",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Gear Stats"
+  ],
+  "objects": [
+    {
+      "text": "Funds:",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "1000 ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Roof-Tile Robe",
+      "atlas": "0x9b5c010",
+      "glyphs": 14,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "490 ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Silkworm-Cocoon Kimono",
+      "atlas": "0x9b5c010",
+      "glyphs": 22,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "211 ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Hemp-Rope Kimono",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "78 ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Straw Belly Wrap",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "57 ryo",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Owned:",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "0 items",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Defense",
+      "atlas": "0x9b5c010",
+      "glyphs": 7,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "23",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Body Light Armor Female Exclusive",
+      "atlas": "0x9b5c010",
+      "glyphs": 33,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "aaaaAAAA",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Cannot Equip",
+      "atlas": "0x9b5c010",
+      "glyphs": 12,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "bbbbBBBB",
+      "atlas": "0x9b5c010",
+      "glyphs": 8,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "DEF",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "-4",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Back",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Detailed Info",
+      "atlas": "0x9b5c010",
+      "glyphs": 13,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Gear Stats",
+      "atlas": "0x9b5c010",
+      "glyphs": 10,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "---",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "23",
+      "atlas": "0x9b5c010",
+      "glyphs": 2,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "---",
+      "atlas": "0x9b5c010",
+      "glyphs": 3,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

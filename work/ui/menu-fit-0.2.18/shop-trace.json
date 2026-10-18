@@ -1,0 +1,21 @@
+[
+  {
+    "kind": "descriptor",
+    "object": "0x9cb5cb0",
+    "argument": "0x8a45ee4",
+    "caller": "0x8950718",
+    "descriptor": [
+      4,
+      1,
+      4,
+      2,
+      184,
+      16,
+      10,
+      10,
+      10,
+      10,
+      2
+    ]
+  }
+]

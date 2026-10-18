@@ -1,0 +1,27 @@
+Original Oreshika icon assets — local build 0.2.31
+
+The supplied PCSA00155 game uses PFS encryption. Vita3K extracted a separate
+local working copy using the included local license. Source folders and keys
+were not uploaded. Tool version/hash are in extraction-tool.json.
+
+The decrypted data.img contains EZBIND archives. Selected original US UI sheets:
+udtx_status_us.ppt: archive 1638172672, entry 0; native 512x512 BC3 GXT.
+uitx_icon_us.ppt: archive 1635518464, entry 2; native 512x1024 BC3 GXT.
+HP/MP/HLTH: [0,16,24,40], [24,16,48,40], [48,16,72,40].
+Fire/Water/Wind/Earth: x444..476, y0..32 / 32..64 / 64..96 / 96..128.
+Recovered PNGs in incoming/oreshika-native-icons retain exact decoded pixels
+and alpha. No screenshot masks or redraws are used. The native source is BC3
+compressed; it is not a vector master. Decoder Morton order follows Vita3K:
+https://github.com/Vita3K/Vita3K/blob/master/vita3k/renderer/src/texture/format.cpp
+
+Each crop is placed at 56x56 physical pixels in the existing PSP 4x native
+sprites, retaining original logical bounds: compact vitals24x16, standard
+vitals32x16, elements16x14. Existing palette conversion is required by the PSP
+format. Ten embedded pixel/palette payloads change; descriptors, renderer,
+scripts and profile-trait code remain byte-identical to0.2.30.
+
+Source coordinates/hashes, 5,824 independent BC3 pixel checks, selected actual
+framebuffer captures, all-ten native payload readbacks and 48 actual MIPS crop
+cases plus ten proxy cases are recorded in work/ui/native-icons-0.2.31/.
+Original isolated-profile saves restored. Texture replacement disabled.
+No release was created. Full-game and physical PSP testing remain pending.

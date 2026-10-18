@@ -1,0 +1,266 @@
+{
+  "version": "0.2.33",
+  "result": "PASS: English Chronicle heading, clear navigation labels and month changes",
+  "iso": {
+    "version": "0.2.33",
+    "file": "work/output/english-native-0.2.33.iso",
+    "bytes": 1081077760,
+    "sha256": "e0171fd4b809015d4041de38faf107ef8cb2d61ee52108a014cd0183f9234ad3"
+  },
+  "screens": [
+    {
+      "file": "work/ui/chronicle-0.2.33/title.png",
+      "sha256": "a2508f10d7e74700cf52d032fbef6d79910ebcb8c359a06a5ff7236798e08e95"
+    },
+    {
+      "file": "work/ui/chronicle-0.2.33/chronicle.png",
+      "sha256": "b75904d211ed0b003060928803f6914d917c8ed158b342efe9e7c7a7e616a7c6"
+    },
+    {
+      "file": "work/ui/chronicle-0.2.33/chronicle-next.png",
+      "sha256": "fee292e0a36f23059647e871d7b8660c9e10a6f7b4b1f85f9e7db4c82d422d3c"
+    },
+    {
+      "file": "work/ui/chronicle-0.2.33/chronicle-prev.png",
+      "sha256": "7a1cb0e6b9f5079b6a915d7713878891c4f6ec62a31166a9ce1b45c263be4adb"
+    }
+  ],
+  "runtime_patch_proof": {
+    "version": "0.2.33",
+    "result": "PASS",
+    "elf_sha256": "83677056891403cf743bfef2133b6b1ef3cb9805a9c5f0720ade20b15a40dabb",
+    "archive_sha256": "91674c37ee5f284e85371e489b950cd814ed6f933ecddcc69d39571769b4d28a",
+    "instruction_patches_verified": 5,
+    "relocated_formats": [
+      {
+        "context": "Chronicle unknown month",
+        "original_address": "0x8a3ef80",
+        "address": "0x9cbba20",
+        "translation_en": "Events: %4d / %s",
+        "placeholders": [
+          "%4d",
+          "%s"
+        ]
+      },
+      {
+        "context": "Chronicle numbered month",
+        "original_address": "0x8a3ef98",
+        "address": "0x9cbba40",
+        "translation_en": "Events: %4d / %2d",
+        "placeholders": [
+          "%4d",
+          "%2d"
+        ]
+      }
+    ],
+    "texture_replacement": false,
+    "game_memory_writes": false,
+    "save_record_writes": false
+  },
+  "mips": {
+    "version": "0.2.33",
+    "result": "PASS",
+    "elf_sha256": "83677056891403cf743bfef2133b6b1ef3cb9805a9c5f0720ade20b15a40dabb",
+    "cases": 18,
+    "checks": [
+      "Both relocated ASCII format pointers reached through actual MIPS",
+      "Year/month arithmetic and all four special historical indices",
+      "16-bit upper boundary and year transitions",
+      "Stored record index, adjacent guards, stack and callee-save registers"
+    ],
+    "examples": [
+      {
+        "month_index": 0,
+        "format": "Events: %4d / %2d",
+        "year": 1015,
+        "month": 1,
+        "text": "Events: 1015 /  1"
+      },
+      {
+        "month_index": 1,
+        "format": "Events: %4d / %2d",
+        "year": 1015,
+        "month": 2,
+        "text": "Events: 1015 /  2"
+      },
+      {
+        "month_index": 10,
+        "format": "Events: %4d / %2d",
+        "year": 1015,
+        "month": 11,
+        "text": "Events: 1015 / 11"
+      },
+      {
+        "month_index": 11,
+        "format": "Events: %4d / %2d",
+        "year": 1015,
+        "month": 12,
+        "text": "Events: 1015 / 12"
+      },
+      {
+        "month_index": 12,
+        "format": "Events: %4d / %2d",
+        "year": 1016,
+        "month": 1,
+        "text": "Events: 1016 /  1"
+      },
+      {
+        "month_index": 24,
+        "format": "Events: %4d / %2d",
+        "year": 1017,
+        "month": 1,
+        "text": "Events: 1017 /  1"
+      },
+      {
+        "month_index": 25,
+        "format": "Events: %4d / %2d",
+        "year": 1017,
+        "month": 2,
+        "text": "Events: 1017 /  2"
+      },
+      {
+        "month_index": 26,
+        "format": "Events: %4d / %2d",
+        "year": 1017,
+        "month": 3,
+        "text": "Events: 1017 /  3"
+      },
+      {
+        "month_index": 34,
+        "format": "Events: %4d / %2d",
+        "year": 1017,
+        "month": 11,
+        "text": "Events: 1017 / 11"
+      },
+      {
+        "month_index": 35,
+        "format": "Events: %4d / %s",
+        "year": 1017,
+        "month": "?",
+        "text": "Events: 1017 / ?"
+      },
+      {
+        "month_index": 36,
+        "format": "Events: %4d / %2d",
+        "year": 1017,
+        "month": 12,
+        "text": "Events: 1017 / 12"
+      },
+      {
+        "month_index": 37,
+        "format": "Events: %4d / %s",
+        "year": 1018,
+        "month": "?",
+        "text": "Events: 1018 / ?"
+      },
+      {
+        "month_index": 38,
+        "format": "Events: %4d / %s",
+        "year": 1018,
+        "month": "?",
+        "text": "Events: 1018 / ?"
+      },
+      {
+        "month_index": 39,
+        "format": "Events: %4d / %2d",
+        "year": 1018,
+        "month": 4,
+        "text": "Events: 1018 /  4"
+      },
+      {
+        "month_index": 47,
+        "format": "Events: %4d / %2d",
+        "year": 1018,
+        "month": 12,
+        "text": "Events: 1018 / 12"
+      },
+      {
+        "month_index": 48,
+        "format": "Events: %4d / %2d",
+        "year": 1019,
+        "month": 1,
+        "text": "Events: 1019 /  1"
+      },
+      {
+        "month_index": 1199,
+        "format": "Events: %4d / %2d",
+        "year": 1114,
+        "month": 12,
+        "text": "Events: 1114 / 12"
+      },
+      {
+        "month_index": 65535,
+        "format": "Events: %4d / %2d",
+        "year": 6476,
+        "month": 4,
+        "text": "Events: 6476 /  4"
+      }
+    ]
+  },
+  "native_font": "Both date forms and visible navigation captions use the embedded 4x English atlas; glyph UVs verified",
+  "paging_headings": [
+    "Events: 1018 / ?",
+    "Events: 1018 /  4",
+    "Events: 1018 / ?"
+  ],
+  "layout": {
+    "heading": [
+      96,
+      8,
+      288,
+      32
+    ],
+    "year_start": [
+      8,
+      8
+    ],
+    "next_year": [
+      400,
+      8
+    ],
+    "prev_month": [
+      8,
+      128
+    ],
+    "next_month": [
+      424,
+      128
+    ],
+    "year_icons": [
+      [
+        88,
+        24
+      ],
+      [
+        392,
+        24
+      ]
+    ],
+    "month_icons": [
+      [
+        56,
+        144
+      ],
+      [
+        424,
+        144
+      ]
+    ]
+  },
+  "checks": {
+    "calendar_math_and_record_lookup": "Byte-identical",
+    "unknown_month_marker": "Preserved",
+    "placeholder_types_and_order": "Preserved",
+    "history_event_rows": "Byte-identical",
+    "other_archive_members": "Byte-identical except title footer",
+    "renderer_icons_banners_and_profile_fix": "Byte-identical to 0.2.32",
+    "other_executable_bytes": "Only four format-pointer instructions, one label position and segment size change"
+  },
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false,
+  "github_release": false,
+  "limits": [
+    "Full playthrough and physical PSP testing remain pending."
+  ]
+}

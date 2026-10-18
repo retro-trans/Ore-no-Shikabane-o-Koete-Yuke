@@ -1,0 +1,49 @@
+Native English name input — build 0.2.12, 2026-10-17
+
+Historical build notes. Build 0.2.15 adds eight English characters and fixes
+fullwidth Latin rendering; see docs/eight-character-names.txt for current use.
+
+The reported keyboard is sceUtility OSK, not a game-owned character grid.
+The game's field initializer at 0x0881B8C8 requested only 0xD000:
+hiragana, katakana and kanji. The request at sceUtilityOskInitStart
+(import stub 0x08A19178) was confirmed in the isolated test instance.
+
+The new mask 0xD00F retains those bits and adds Latin digits, symbols,
+lowercase and uppercase. The field language is English (2), independent
+of the system's default input language. The game still supplies its
+three-character output limit and a 128-code-unit buffer. No save data
+layout or name-generation pool changes are made.
+
+Three guarded instructions:
+0x0881B8F0: ori v0, zero, 0xD000 -> 0xD00F.
+0x0881B928: redundant store-zero to the already zeroed unknown field
+           becomes addiu v0, zero, 2.
+0x0881B92C: store v0 to field.language instead of store-zero.
+The preceding memset still clears every unknown field. Actual MIPS tests
+compare every field byte and verify stack and saved-register preservation.
+
+The family-name instruction's last line is adapted for Latin input. It
+no longer requires kanji. All other text and prior fixes are preserved.
+The title footer changes to v0.2.12. No texture replacement is used;
+the system keyboard uses PSP OSK rendering and game names use the native
+game renderer. Physical PSP hardware verification is still pending.
+
+Builder: tools/build_english_keyboard.py (dry run unless --write)
+MIPS check: tools/test_english_keyboard.py
+Native report: work/output/english-native-0.2.12/keyboard.report.json
+Runtime evidence: work/ui/alphabet-0.2.12/
+
+Runtime: final ISO opens in lowercase English; Select switches case and
+shoulder buttons reach Japanese and return to English. The OSK produced AbZ
+and rejected a fourth character. Family, given and child names passed game
+validation. The isolated save was written, the game reset, and the save loaded.
+The original game stores Latin name characters as fullwidth Unicode in its
+name fields: reloaded AbZ at 0x09BA30E8, 1Te at 0x09BA30F0 and aaa at
+0x09BA33D6. Unicode normalization yields the exact entered strings, preserving
+both letter cases. The loaded roster also visibly displays 1Te and aaa.
+No name or save memory was edited to produce these results. The earlier QA
+save is backed up under work/source/qa-backup-before-0.2.12/.
+
+API references:
+https://github.com/pspdev/pspsdk/blob/master/src/utility/psputility_osk.h
+https://github.com/hrydgard/ppsspp/blob/master/Core/Dialog/PSPOskDialog.cpp

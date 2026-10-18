@@ -1,0 +1,13 @@
+Reference element icons — local build0.2.28
+
+Fire/red/flame, Water/blue/droplet, Wind/green/swirl, Earth/yellow/rock.
+The exact screenshot icon pixels are reused from incoming/element-icons-reference.png.
+Crop coordinates and source SHA256 are recorded in work/ui/element-icons-0.2.28/layout.json.
+The four shared native resources17/18/19/20.ppt have unchanged16x14 logical geometry
+and1328-byte decompressed proxies. Each new64x64 texture has a64x56 visible region;
+the square artwork is centered inside it without distortion. Existing native image
+binding/UV hooks are reused; no new renderer code or gameplay/text changes.
+
+Actual status/Potential/abilities and deity-list screenshots and native image readbacks
+are in work/ui/element-icons-0.2.28/. All earlier0.2.27 fixes remain. No texture pack
+or GitHub release. Full-playthrough and physical PSP testing remain pending.

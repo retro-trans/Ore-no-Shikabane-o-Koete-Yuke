@@ -1,0 +1,12 @@
+{
+  "version": "0.2.34",
+  "terms": [
+    {
+      "translation_en": "Acquired",
+      "context": "Item Catalog quantity caption",
+      "replaces": "Total Acquired"
+    }
+  ],
+  "scrolls_fraction": "%d/%d",
+  "shared_items_suffix": "Retained outside Scrolls"
+}

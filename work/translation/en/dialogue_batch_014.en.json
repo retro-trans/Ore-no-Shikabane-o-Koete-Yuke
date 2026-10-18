@@ -1,0 +1,3238 @@
+{
+  "schema_version": 1,
+  "version": "0.2.4",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "dialogue_slices": [
+    {
+      "file": "itsuka.mlb",
+      "start": 0,
+      "rows_in_slice": 80,
+      "rows_examined": 84,
+      "adjacent_context": "Child-arrival and divine-parent promotion variants. Following rows 80-83 examined. Three child-sexualization records are explicitly unresolved and absent from translated rows."
+    },
+    {
+      "file": "itsuka.mlb",
+      "start": 80,
+      "rows_in_slice": 80,
+      "rows_examined": 86,
+      "adjacent_context": "Rows 78-79 before and 160-163 after examined. Homecoming, condolences, tournament and seasonal greetings."
+    }
+  ],
+  "dialogue_rows_examined_unique": 164,
+  "rows": [
+    {
+      "id": "ore:0000c000:0015:00:0000",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 0,
+      "text_offset": 396,
+      "source_sha256": "b9f3f2d69729e2aa20d9607d2708f6f86a0e8a9e843c0ebdc72c91b79047cb50",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, I've brought\na new family member\nfrom %s!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka announces a new child to the clan head. Divine Union and inter-clan Soul Union arrivals use separate variants. Runtime names remain gender-neutral except the explicitly stated sex of the child.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0001",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 1,
+      "text_offset": 460,
+      "source_sha256": "dd063153a6581253d757b53a2a352996b8903781a2699f3e89c004463bb59fc3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Wonderful news!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka announces a new child to the clan head. Divine Union and inter-clan Soul Union arrivals use separate variants. Runtime names remain gender-neutral except the explicitly stated sex of the child.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0002",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 2,
+      "text_offset": 480,
+      "source_sha256": "93e00c047ae684adb6576545825402813fc2699302bc4d98ff6b8943432d6f96",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, %s entrusted me\nwith a new family member,\nand I've brought them home!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka announces a new child to the clan head. Divine Union and inter-clan Soul Union arrivals use separate variants. Runtime names remain gender-neutral except the explicitly stated sex of the child.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0003",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 3,
+      "text_offset": 542,
+      "source_sha256": "e41a3f416e4cddee4935d7cc8a4eb12977f15457b91625c407fbb75a3f83578e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka announces a new child to the clan head. Divine Union and inter-clan Soul Union arrivals use separate variants. Runtime names remain gender-neutral except the explicitly stated sex of the child.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0004",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 4,
+      "text_offset": 568,
+      "source_sha256": "a05fcf3b712de8992db49ec3a4a5d4814061e92b88cecf63749ec956998b82bc",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, the child of %s\nand the other clan's union has arrived!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka announces a new child to the clan head. Divine Union and inter-clan Soul Union arrivals use separate variants. Runtime names remain gender-neutral except the explicitly stated sex of the child.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0005",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 5,
+      "text_offset": 542,
+      "source_sha256": "e41a3f416e4cddee4935d7cc8a4eb12977f15457b91625c407fbb75a3f83578e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka announces a new child to the clan head. Divine Union and inter-clan Soul Union arrivals use separate variants. Runtime names remain gender-neutral except the explicitly stated sex of the child.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0006",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 6,
+      "text_offset": 620,
+      "source_sha256": "1ccadaac4a60c4cc0e9e312045a62945d92293c6226fb4ff853bf7bf70b19e0a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka announces a new child to the clan head. Divine Union and inter-clan Soul Union arrivals use separate variants. Runtime names remain gender-neutral except the explicitly stated sex of the child.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0007",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 7,
+      "text_offset": 640,
+      "source_sha256": "6560db14ccec76d1cc739ad8549b99b5b1382bf968925b3df7efd5f3e7e3a55c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nHe seems to like climbing\nroofs and trees.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka announces a new child to the clan head. Divine Union and inter-clan Soul Union arrivals use separate variants. Runtime names remain gender-neutral except the explicitly stated sex of the child.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0008",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 8,
+      "text_offset": 698,
+      "source_sha256": "72afd4b7e608c6714c8c790244eb3060be6096ad17adb2ee06d0c06902a94343",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nHe played a prank as soon as he arrived,\nso I gave him a scolding!!",
+      "status": "draft",
+      "kind": "approved_neutral_adaptation",
+      "context": "Neutral nonsexual replacement approved by the user on 2026-10-17; deliberately adapted rather than a faithful translation.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "adapted_with_user_approval",
+      "review_notes": [
+        "Replace sexual contact with nonsexual mischief.",
+        "User explicitly selected: Use neutral alternatives."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0009",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 9,
+      "text_offset": 782,
+      "source_sha256": "9842e3eb9c99148446a77428b63d9753341e0a123fb1147a9b3e10ea22ca7a8f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A brave-looking boy.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces a boy to the clan head, describing appearance and temperament. No unspoken parent gender inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0010",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 10,
+      "text_offset": 810,
+      "source_sha256": "cdb4c16aa9175efa93029baf860e6a987274d9c5ed3d8389ba3e8f772ef3f296",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A bright-looking boy.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces a boy to the clan head, describing appearance and temperament. No unspoken parent gender inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0011",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 11,
+      "text_offset": 840,
+      "source_sha256": "7b8f6c014135c64258fec6acc30344ba3ef1edf99cfb26e192a66f46688814eb",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A cute little boy.\nIf I had to choose,\nI'd say he takes after his father!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces a boy to the clan head, describing appearance and temperament. No unspoken parent gender inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0012",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 12,
+      "text_offset": 910,
+      "source_sha256": "476a72e0153473d4656896d837d09318ebb47e0ded24b90af993e911b381f2bc",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nHis mouth is just like his mother's!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces a boy to the clan head, describing appearance and temperament. No unspoken parent gender inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0013",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 13,
+      "text_offset": 956,
+      "source_sha256": "ba3114d27b6ed4918f11a5fac3ea9a06790a7f119cabb59a5b99d1cfa49fa041",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A well-built boy.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces a boy to the clan head, describing appearance and temperament. No unspoken parent gender inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0014",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 14,
+      "text_offset": 984,
+      "source_sha256": "a7c6a683da2944f43f955119e9dae9c5bf2e843ca5e5922095e550f929b0b112",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nThere's something extraordinary\nin the sparkle of his eyes!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces a boy to the clan head, describing appearance and temperament. No unspoken parent gender inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0015",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 15,
+      "text_offset": 1056,
+      "source_sha256": "52bb605c38d4b6a8547290bec245c8c1ec072d6e717e105593b242eee918bd1d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A gentle-looking boy.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces a boy to the clan head, describing appearance and temperament. No unspoken parent gender inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0016",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 16,
+      "text_offset": 1086,
+      "source_sha256": "7bed5df7d8c6a9bd595fb95074c375664c45f22d5094554bdde4fdce1bd1bfec",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nHe's made quite an impression already.\nLet's give him a warm welcome!!",
+      "status": "draft",
+      "kind": "approved_neutral_adaptation",
+      "context": "Neutral nonsexual replacement approved by the user on 2026-10-17; deliberately adapted rather than a faithful translation.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "adapted_with_user_approval",
+      "review_notes": [
+        "Replace sexualized body appraisal with a neutral introduction.",
+        "User explicitly selected: Use neutral alternatives."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0017",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 17,
+      "text_offset": 1174,
+      "source_sha256": "8263fb2a6185c80d897ac25f03835bfe0a9e029fdf1fc93ffdda5d149937a8f5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A strong-willed-looking boy.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0018",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 18,
+      "text_offset": 1204,
+      "source_sha256": "785c5d25e09755cc2f4e7eb71cd79446f86a39ce2e2437ba84ccc3ec727c72a9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nThat broad forehead is a sign of intelligence.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0019",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 19,
+      "text_offset": 1256,
+      "source_sha256": "d8366be7bb3d2937d270bcd7dd2728e617210a968d46cb0597bcfa95a07caf8b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nHe certainly has a healthy appetite!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0020",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 20,
+      "text_offset": 1310,
+      "source_sha256": "339c94f247e5a57b7577c738bf08588518e77ec78ebc6761e2f1c0a3bfc8c4f1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy. I can't quite tell\nwhat he's thinking.\nAn interesting little fellow.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0021",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 21,
+      "text_offset": 1384,
+      "source_sha256": "092497a0f3fef1a878a9cb8841e482d81d5f80632d9ae73588b5192c85b2b487",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\n...He still wants to nurse,\nwhich has me a little stumped.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0022",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 22,
+      "text_offset": 1458,
+      "source_sha256": "5b0b1b9f638373fd8e659a0b80a9ae972b0f8450d6f82dcb07636779479c3a51",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nHe's bursting with energy!!\nI think we'll get along wonderfully.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0023",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 23,
+      "text_offset": 1536,
+      "source_sha256": "3394528d3ceb46833cf370471b5b21b0b3fb6a540697e306c6b5ee8a01cc4c1a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nActually, he still wets the bed...\nNo, don't worry! I'll manage.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0024",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 24,
+      "text_offset": 1610,
+      "source_sha256": "a9bd79a13e1e834d1a29b00e43cafeef48dc069a31bffeb7f78c836ad3647a3d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nApparently, he hates vegetables.\n...What am I going to do?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0025",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 25,
+      "text_offset": 1672,
+      "source_sha256": "f9b269ac756d4c9b898bd27de09736f03d2ce838dc385c9fa9eecad75545149b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nHe's a little unusual,\nbut he might amount to something great.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0026",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 26,
+      "text_offset": 1750,
+      "source_sha256": "e32c409dd9d3a153c9cc43a87bd6424dd8a7fed6e9e9f19454d0aa68963e92d5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a boy.\nHe loves washing and cleaning.\n...Such a help!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0027",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 27,
+      "text_offset": 1818,
+      "source_sha256": "0a583d3f770a020119bd2caf483217115ac5d799838418f7a28e8a0ef510a547",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0028",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 28,
+      "text_offset": 1834,
+      "source_sha256": "c97c8d68e8e3d0672cc07eeab4397b225c51aa1c672c6db8fe272c6b8d3e112d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nShe'll happily gobble up anything\nexcept simmered fish.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0029",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 29,
+      "text_offset": 1898,
+      "source_sha256": "cf303b5271eae1dbd1970004de33d20c4b16f1d587cbd7d6c19abc079d2cf37d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl. She seems to have\na bit of a fiery temper.\nI wonder which parent she takes after?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0030",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 30,
+      "text_offset": 1982,
+      "source_sha256": "fda87023288e06bd6760c2d899fc2fbcd3c9757ce5149320e238002a7cf43543",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nBut what a bold personality!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0031",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 31,
+      "text_offset": 2030,
+      "source_sha256": "a4a757d77e98891fe92a6c0343b303ad3aff3070455680c33581ec1e4f4cf9e3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nHer handwriting is lovely.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0032",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 32,
+      "text_offset": 2074,
+      "source_sha256": "1dd47bdc2b4cd836defc6d66919758bdc509f8bf0c9382dea777f6396ab0fce8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nShe has the same sweet scent as her mother.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0033",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 33,
+      "text_offset": 2122,
+      "source_sha256": "d07e72d77dc063bfecbecbf47aa2bccadb70d1c2e2393528263cbe510853e45c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A girl with adorable dimples.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0034",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 34,
+      "text_offset": 2156,
+      "source_sha256": "56b256f1a5bcd1dabe613933773f04fb28071d15fce05be94584714d69cf5d77",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl. She says her dream\nis to become clan head.\nSomething to look forward to!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0035",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 35,
+      "text_offset": 2230,
+      "source_sha256": "39c7745c39eb54ed8a29a558b35dd252202f02874a4cda2395f0402210a7be42",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A girl with mysterious eyes.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0036",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 36,
+      "text_offset": 2260,
+      "source_sha256": "d0b52db77e4c0d6226315f0a4c29dcc53ffc69b320fa8aa532eeed1c654a507a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A girl who's always laughing.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0037",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 37,
+      "text_offset": 2294,
+      "source_sha256": "84b088439f305810d3cc1d636d64b35c466d676d824255f77e42377ec8d330c0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nHer belly button looks\nexactly like her mother's!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0038",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 38,
+      "text_offset": 2356,
+      "source_sha256": "c42ce655db18bf7291e1d858bffcc989f68ec066f53e1960bf8e9b55a0a81419",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nHer ear canals look\nvery much like her father's.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka introduces children and their habits. Nursing and bed-wetting are nonsexual child-care observations. Source explicitly identifies father/mother in resemblance comments.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0039",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 39,
+      "text_offset": 2418,
+      "source_sha256": "01cc116a2e8e0a0794ef0063d3f3c3ed6062dda0398c1d879104a24740406965",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nShe's made quite an impression,\nand I'm glad to welcome her here.",
+      "status": "draft",
+      "kind": "approved_neutral_adaptation",
+      "context": "Neutral nonsexual replacement approved by the user on 2026-10-17; deliberately adapted rather than a faithful translation.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "adapted_with_user_approval",
+      "review_notes": [
+        "Replace sexualized body appraisal with a neutral introduction.",
+        "User explicitly selected: Use neutral alternatives."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0040",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 40,
+      "text_offset": 2484,
+      "source_sha256": "3f6483a73c2eaf0b0e9d16ea8d2d0fa957fe203ce3d3ff634cf3307c2ed0283e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A kind-looking girl.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0041",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 41,
+      "text_offset": 2512,
+      "source_sha256": "a375ed61b591c21565ef01ee6806752833a665b279ee284184f67f8cdb403824",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nHer legs are about twice as long as mine.\nI'm a little jealous...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0042",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 42,
+      "text_offset": 2586,
+      "source_sha256": "7bcd536ba71543f07b7369856a20d25ee46cd490dff08f16f6ddcd51e8aacf58",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A clever-looking girl.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0043",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 43,
+      "text_offset": 2612,
+      "source_sha256": "d586f69de1c7f2f6c98e9165ee3995701d861f27630963134b10a121aa93f3e0",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nHer fingers are very pretty.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0044",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 44,
+      "text_offset": 2660,
+      "source_sha256": "0f175208aab534376a7281493252c264a587c21fd445fb5666fe73d73f85c785",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nHer shoulder blades and collarbones\nhave such graceful lines.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0045",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 45,
+      "text_offset": 2732,
+      "source_sha256": "09837db02159f8a6b4d7b4b56b913c7bc1866f13843e7e41e16633f614460b48",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Such cute, round\nkneecaps and ankles.\nA girl, of course.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0046",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 46,
+      "text_offset": 2808,
+      "source_sha256": "1a716fcc56e07122954da3a4a728b60f6d166e02986ad3b0245e248a9bd0bc4f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "It's a girl.\nA beauty, just like her mother.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0047",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 47,
+      "text_offset": 2850,
+      "source_sha256": "c9054b55f8c73c42c8eaf7993354f07e41086991c83db2f967c534aa0ad9b682",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A girl far sturdier\nthan most men around here.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0048",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 48,
+      "text_offset": 2902,
+      "source_sha256": "46235f69a37ecc880f937be955468ca89580ee52258e75569382c2d0dd5a75ea",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You've been blessed with two\nfine children at once!!\nThey're both boys.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0049",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 49,
+      "text_offset": 2984,
+      "source_sha256": "13634b3fc63ffd870f589a67d9e4ae234f70fc919dd6c19923f8ebddb0b777af",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You've been blessed with two\nadorable children at once!!\nThey're both girls.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0050",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 50,
+      "text_offset": 3068,
+      "source_sha256": "35ee4cb89bb03a5c932cbda52aef7de3696126fc250fcf401d9a552098b0f3bd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You've been blessed with two\nlively children at once!!\nOne boy and one girl.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0051",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 51,
+      "text_offset": 3154,
+      "source_sha256": "021ca28f93286b0eaa372d8f9552e85fb1dcb5dbf53cba63bacef956fb669f2d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Give this child a good name,\nand choose a class\nwith the future in mind.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0052",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 52,
+      "text_offset": 3218,
+      "source_sha256": "f078e6f4c52e35584ddc115fdad79bf8fd9ebbdf846d01972489a2dca899a974",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Think up a cool, distinctive name\nand a suitable class.\nGo all out!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0053",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 53,
+      "text_offset": 3308,
+      "source_sha256": "8b6c4c6c9b765fdb48d94333d4a5220d6666ce21d77999c238a89aebed3bb505",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Choose a lovely name and a class\nthat brings out this child's potential.\nIt's for life, so choose carefully!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0054",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 54,
+      "text_offset": 3406,
+      "source_sha256": "27c28598320fba008f7dd0f4b0e4dba107813aa26e12ebd0470157a280b24521",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Next, a name and a class.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0055",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 55,
+      "text_offset": 3432,
+      "source_sha256": "02ba6a3e2b35c6aaef4f2be4b2e8f1aeac8f813a553f883b1886a80be2cc18b2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Don't worry about stroke counts;\nchoose the characters you like. If unsure of a class,\nthe same as the parent's is a safe choice.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Source naming advice refers to character stroke counts; retained without assuming an English-only name-entry screen."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0056",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 56,
+      "text_offset": 3532,
+      "source_sha256": "8b7c0e68f0679779b62b439ad6ab86fc1427fc0b5dbc974e14391bceb8ad74f8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "For %s,\nis the class '%s' all right?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0057",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 57,
+      "text_offset": 3580,
+      "source_sha256": "397e1f58db80af07552c0d0d06fcaf07d274ccebd50b5bf75f119eb118582453",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s isn't available yet.\nLet's go all out and get\nthat Class Manual as soon as we can!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0058",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 58,
+      "text_offset": 3670,
+      "source_sha256": "c0ec320cb0784c104032f738b82e54756796a8086a8e5132546d1c2cae57794d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, %1:s's %4:s,\n%3:s,\nhas been promoted in heaven!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Promotion is to the divine parent's heavenly rank, not a class change for the child."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0059",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 59,
+      "text_offset": 3748,
+      "source_sha256": "64f11c832ccf517ba5723de3a07343886aeff3af523c8bafc32f78189a1c454e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "As a result of the recent Divine Union,\n%3:s\nhas risen in the heavenly ranks!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0060",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 60,
+      "text_offset": 3824,
+      "source_sha256": "e86d471cfe3de7787fbab8d28f339f9baa5be26292a820deda1e9ac7defde473",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "And I hear that %3:s\nhas risen in rank in heaven!!\nIsn't that amazing?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0061",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 61,
+      "text_offset": 3912,
+      "source_sha256": "3ceff6d990dcbac6d2facf4e209e76b373570e340309c7326908dac52c24a15c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan might be the one\nto reshape the balance of power in heaven.\n...Heh heh.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0062",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 62,
+      "text_offset": 3982,
+      "source_sha256": "7b208b3601b448c390ef7acf2e399929d33ce21bad46b114103ea4af1c87e901",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Oh, and one piece of good news!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0063",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 63,
+      "text_offset": 4008,
+      "source_sha256": "ba8fb5b9a360a7bbcf448cf293b807a979f607fcbe0b523d2d63cd87c761cbd1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "After the recent Divine Union, %1:s's %4:s,\n%3:s,\nhas risen in rank in heaven!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0064",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 64,
+      "text_offset": 4096,
+      "source_sha256": "49a7d2f5993dd104cd3f1e6c49c6950f68385ae2eabeaffa08e2dcd15de0bc0c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, %1:s's %4:s,\n%3:s,\nhas risen in the heavenly ranks!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0065",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 65,
+      "text_offset": 4174,
+      "source_sha256": "b007c5173345df9ea6fcd4491ef67846a572de38bf5bac40f0745a1a10495526",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%3:s\nseemed absolutely delighted.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0066",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 66,
+      "text_offset": 542,
+      "source_sha256": "e41a3f416e4cddee4935d7cc8a4eb12977f15457b91625c407fbb75a3f83578e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0067",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 67,
+      "text_offset": 4216,
+      "source_sha256": "b4324f8ec4d4fa4ce5b689a7abf7ea659fe13e08f03dcdd85084fdacdca1aa37",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%1:s's %4:s, %3:s,\nis shooting up the heavenly ranks!!\nDo check later.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0068",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 68,
+      "text_offset": 4312,
+      "source_sha256": "714580d057f0b19004a0221fc07d17e97422a82119b31342fe7d7aab32353fc9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, %1:s's %4:s,\n%3:s,\nhas risen in rank in heaven!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0069",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 69,
+      "text_offset": 4390,
+      "source_sha256": "29b1d16fe9b8b217d8b79b08b6df7383c39d778135ea2537838dd65f528b8abc",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%3:s\nlooked a little bashful.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0070",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 70,
+      "text_offset": 4434,
+      "source_sha256": "d8607cd6b370856d92b39635896783fa837c2b3a5d2a72c1f288ad766e48b400",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Oh, and %3:s\nhas risen in the heavenly ranks!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0071",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 71,
+      "text_offset": 4494,
+      "source_sha256": "3aa9e53157d3bb2d6f0905c731a9ab8bb290b9faacec113da3abe83726ea0458",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "If a mysterious year-end gift arrives,\n%3:s might be the sender.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0072",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 72,
+      "text_offset": 4544,
+      "source_sha256": "e8fffca7a8ecededd4c18bcac91a178389698a25c5052218a821fca2e0fa8133",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, %1:s and %2:s's %4:s,\n%3:s,\nhas been promoted in heaven!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Twin kinship variant preserves both children's name placeholders before their shared parent."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0073",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 73,
+      "text_offset": 3748,
+      "source_sha256": "64f11c832ccf517ba5723de3a07343886aeff3af523c8bafc32f78189a1c454e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "As a result of the recent Divine Union,\n%3:s\nhas risen in the heavenly ranks!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0074",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 74,
+      "text_offset": 4634,
+      "source_sha256": "35bb90dd322a2888c930b416089c1a0de45e6ed91789bdd249d90712cd964fd5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "And I hear that %3:s\nhas risen in rank in heaven!!\nIsn't that amazing?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0075",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 75,
+      "text_offset": 3912,
+      "source_sha256": "3ceff6d990dcbac6d2facf4e209e76b373570e340309c7326908dac52c24a15c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan might be the one\nto reshape the balance of power in heaven.\n...Heh heh.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0076",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 76,
+      "text_offset": 3982,
+      "source_sha256": "7b208b3601b448c390ef7acf2e399929d33ce21bad46b114103ea4af1c87e901",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Oh, and one piece of good news!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0077",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 77,
+      "text_offset": 4720,
+      "source_sha256": "4a01201f789391033749e85177fe481c25c21d1280563cf641bd95db41359789",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%1:s and %2:s's %4:s,\n%3:s,\nhas risen in rank in heaven!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0078",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 78,
+      "text_offset": 4802,
+      "source_sha256": "6035549e79008495e0676b21084c003b0b3f08368a9bbf40bc1ec2481ad9d768",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, %1:s and %2:s's %4:s,\n%3:s,\nhas risen in the heavenly ranks!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0079",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 79,
+      "text_offset": 4174,
+      "source_sha256": "b007c5173345df9ea6fcd4491ef67846a572de38bf5bac40f0745a1a10495526",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%3:s\nseemed absolutely delighted.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0080",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 80,
+      "text_offset": 542,
+      "source_sha256": "e41a3f416e4cddee4935d7cc8a4eb12977f15457b91625c407fbb75a3f83578e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0081",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 81,
+      "text_offset": 4890,
+      "source_sha256": "22b6df03cae4d8046aef8431bdf80a010c65bb9b19f52a352de93fb5d18cbdcf",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%1:s and %2:s's %4:s,\n%3:s,\nis shooting up the heavenly ranks!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0082",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 82,
+      "text_offset": 4970,
+      "source_sha256": "80c4ec1239113e2fb6f55df3dcb74e60c045b190c06000a89439f3bd8a29e7a1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Also, %1:s and %2:s's %4:s,\n%3:s,\nhas risen in rank in heaven!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0083",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 83,
+      "text_offset": 5060,
+      "source_sha256": "9e97fd049b9ae31ef4012353b8d231d7e4876388d072d6fc1db0bbfb9a144ecd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%3:s\nlooked a little bashful.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0084",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 84,
+      "text_offset": 4434,
+      "source_sha256": "d8607cd6b370856d92b39635896783fa837c2b3a5d2a72c1f288ad766e48b400",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Oh, and %3:s\nhas risen in the heavenly ranks!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:00:0085",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 0,
+      "index": 85,
+      "text_offset": 4494,
+      "source_sha256": "3aa9e53157d3bb2d6f0905c731a9ab8bb290b9faacec113da3abe83726ea0458",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "If a mysterious year-end gift arrives,\n%3:s might be the sender.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Remaining child-arrival variants, naming/class advice, and divine-parent rank promotions. %4:s is the runtime kinship term and %3:s the promoted deity; placeholder order is retained.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0000",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 0,
+      "text_offset": 5476,
+      "source_sha256": "157b3f66a346506a5f6bdf3fd4739e784d5aad3bced6b25c1b54c3d833031e13",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Now then, what would you like\nto start with this month?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0001",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 1,
+      "text_offset": 5520,
+      "source_sha256": "db2c8cb726ccc2123ae3bce724ff808ca4ec5b3a013d6bfe9d38b0902a95e78b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Now then, which task would you\nlike to begin with this month?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0002",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 2,
+      "text_offset": 5568,
+      "source_sha256": "8b50bacd41c63fa9363219067ecab6d783218df092ddae138cba1ef11b97fe76",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Now then,\nwhat shall we do this month?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0003",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 3,
+      "text_offset": 5606,
+      "source_sha256": "99ebc87b5054ac0847bc07349a42491ecde752618100b6773a931b6689ebe4dd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Now then, where shall we\nstart this month?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0004",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 4,
+      "text_offset": 5652,
+      "source_sha256": "94c0260d241c789d8452d67d4824d633f93a70109deba7bf17136960ba5312c1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, welcome home!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0005",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 5,
+      "text_offset": 5682,
+      "source_sha256": "e01d147a16cf7f2c737859c1f5bebc0899f02a391908394cd11726c566210fed",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Welcome home, %$.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0006",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 6,
+      "text_offset": 5704,
+      "source_sha256": "fdbb7b2c0d0a83c52895315b839e3add09ffdb36f26fe85b96b1775b16459efe",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, well fought!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0007",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 7,
+      "text_offset": 5734,
+      "source_sha256": "de4615d76320e970473bd2739577fba6f34746dd57aafdfcca8668db2e64ce38",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$,\nare you hurt anywhere?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0008",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 8,
+      "text_offset": 5776,
+      "source_sha256": "8a716901e84370c72deb1ded1d3062d53688d89778854e1cffd5bca8099f8119",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Welcome home, %$!!\nHow did the fighting go?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0009",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 9,
+      "text_offset": 5826,
+      "source_sha256": "f6fcbef30ba62b9b0488f1a7ef58489a0e417b8f8b12c3b2b569c43135777a2f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, welcome home.\nYour bath is ready!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0010",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 10,
+      "text_offset": 5880,
+      "source_sha256": "a2e243e536f48c023097cb9ed516d41b149bc0e4cede8e3f9d55bf66317ab868",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Welcome home!!\nI've made plenty of your favorites, %$,\nand we've been waiting for you.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0011",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 11,
+      "text_offset": 5956,
+      "source_sha256": "d621dadcedd604fa8640ea4b6d2385defe22ab765ffdd5d2f38fc9e1969b2173",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, how are you feeling?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0012",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 12,
+      "text_offset": 5988,
+      "source_sha256": "9f6de7e275df6132ee6d55d2d9da59ad7407a0d73a274b676194a1eb013be7a7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, leave things to the family this month\nand take your time recovering.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0013",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 13,
+      "text_offset": 6042,
+      "source_sha256": "07653d57fa268a2fa217802ad18fc6f3649a0c77a387a1e192feae2d9284663f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$...\nPlease don't make me worry.\nIf this happens again...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0014",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 14,
+      "text_offset": 6122,
+      "source_sha256": "4476f176cff5e570ab96b8db207f182b47d4428246fad89457a16e7fa265a087",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You'll get a scolding!!\n...You hear?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0015",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 15,
+      "text_offset": 6146,
+      "source_sha256": "b5204566923b074614c976325afb2823d6ef563f545d8b91dc8ba0bc7528a056",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, how are your injuries?\nPlease don't\npush yourself too hard.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0016",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 16,
+      "text_offset": 6226,
+      "source_sha256": "3b3bbf7daf5129ccc9053ba0b98262382ba485192e6d147417e1cd2d25522996",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Your life, %$,\nisn't yours alone, %$.\nPlease take that to heart.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0017",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 17,
+      "text_offset": 6312,
+      "source_sha256": "7efb97369c7393067cde3a7cc5fe2d457a43ed3520ff9e7f644af77b4e7cd3bb",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, please don't\nlet it weigh on you too much.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0018",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 18,
+      "text_offset": 6362,
+      "source_sha256": "fac3d9585cad8df252e3d244e7e89d4b3b70b075e30df3971f27c875d744f8be",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Someday we'll pay them back with interest.\nA million times over, with a bang!!\nLet's give it all back to them.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0019",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 19,
+      "text_offset": 6450,
+      "source_sha256": "511c901b6476a79a8c22c66ee7dd04c9dd055c6bc74da83e5f01f82ceeee22af",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$!! From now on,\nplease be a little more careful.\nThat's my personal request.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0020",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 20,
+      "text_offset": 6538,
+      "source_sha256": "fa0d0a68c4614d5aafb11f4298bee7f35f63cf64d807ac4e83f082650cd370a8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, instead of trying to do everything\nyourself, why not trust your family\nand leave some things to them?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0021",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 21,
+      "text_offset": 6634,
+      "source_sha256": "6e50b541770d88898ee2a2a988bd32c2bb54eb32b2b9a27c971229b48f5db0ac",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Um...\nThat was presumptuous of me...\nI'm sorry.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0022",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 22,
+      "text_offset": 6694,
+      "source_sha256": "353dc39df523be8714466e8d78d0df747dc9396bf10aab7f490175edeb01d7d2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%& has returned!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0023",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 23,
+      "text_offset": 6730,
+      "source_sha256": "af306386d7f9d03abfd0773341d82d4de3badb2b537475acef09655029250add",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%& is home!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0024",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 24,
+      "text_offset": 6756,
+      "source_sha256": "1074534fb823755b7e7079fc31b32df9937c32a44ad40abc9076d37bcd49e039",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%& has returned!!\nI look forward to hearing the stories.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0025",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 25,
+      "text_offset": 6816,
+      "source_sha256": "f2eb8b336208b9e397718cb04ceb404ad50ac10b716885196b43ec44b1567174",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%& has returned.\nEveryone is safe!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0026",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 26,
+      "text_offset": 6858,
+      "source_sha256": "e35c4e7a5263807f1beca564dd66cc7c544d00b186acc3289d8b024646ca4732",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%& returns triumphant!!\nIt sounds like the fighting went very well.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0027",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 27,
+      "text_offset": 6910,
+      "source_sha256": "14fef8b498775a0f5563eab80766e11196d42d2d6035609d563dc07f6e3230cd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%&\nhas returned!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0028",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 28,
+      "text_offset": 6946,
+      "source_sha256": "eefd72091790a1bb5566560c9022258141684671967f463f3320fadda9b75c2b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Tonight, I'll pull out all the stops\nand cook a huge spread\nof delicious food!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0029",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 29,
+      "text_offset": 7022,
+      "source_sha256": "db4c38abfc28669ad80d4362bfa71a382902fdc0e4502595545e4aeded850053",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The sortie party has returned...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0030",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 30,
+      "text_offset": 7050,
+      "source_sha256": "fffcf9fa3c36ddb1e99e548b14beff03d673f29d088fc0527a60430157a97bab",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%& has returned...\nI'm truly sorry.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0031",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 31,
+      "text_offset": 7100,
+      "source_sha256": "ca8340c2f874bc1f91de530ef13080d17741116701b3849ef784425cb0e392d1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%& has returned...\nPlease offer\nsome kind words.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0032",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 32,
+      "text_offset": 7168,
+      "source_sha256": "0833ee4f5308b61056b74eb7665f94314975f558c34568b43b5ceb89481d1f92",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The sortie party has returned...\nPlease, I beg you,\ndon't scold %&.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0033",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 33,
+      "text_offset": 7256,
+      "source_sha256": "56c1386b6ac4e3fb965c3099d35845a4c848c6d268c34c0427617eb696cdbb0f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The sortie party has returned...\n%$, please don't blame yourself\nfor not going with them.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0034",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 34,
+      "text_offset": 7354,
+      "source_sha256": "8e4d7df6f57221123534d7ea886081788af01f30ee44cdafbebfa37ec60d16df",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%& has returned...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0035",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 35,
+      "text_offset": 7382,
+      "source_sha256": "7b000f436ff0d17449f9ec04fbd7be70b3c1897d01529f81ec3572e8f3b4d85c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "First, think about why this defeat happened.\nIt will be painful,\nbut that's your duty, %$.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0036",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 36,
+      "text_offset": 7466,
+      "source_sha256": "81fdbb13b18337c6c9508a54feccc9ff1de626885b9919bc944f69e90e47796a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations on winning\nthe Selection Tournament!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0037",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 37,
+      "text_offset": 7514,
+      "source_sha256": "6bb101da3335c26757512f0bd1c106d7721aa12da0a8f196bef0737fd0d198e5",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The Emperor's confidence in you keeps growing.\nThe %@ clan is flourishing,\nand nothing seems able to stop it.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0038",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 38,
+      "text_offset": 7466,
+      "source_sha256": "81fdbb13b18337c6c9508a54feccc9ff1de626885b9919bc944f69e90e47796a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations on winning\nthe Selection Tournament!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0039",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 39,
+      "text_offset": 7604,
+      "source_sha256": "d8e1d230c4813ed7ecba4788fa7d0c67dd2f9736a2750df0f48dd1e0796cceae",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan's reputation in Kyoto\nis rising like the sun!!\nI'm so proud.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0040",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 40,
+      "text_offset": 7688,
+      "source_sha256": "4806120306fb9a89e1480a7e95c19255f68102115bce8c8414950ef39b7055ef",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations on your performance\nin the Selection Tournament!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0041",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 41,
+      "text_offset": 7744,
+      "source_sha256": "5514c3a391a8329cbd69352a18db5011aa116d069fd32f15087254b01793ad05",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The %@ clan's standing in the capital\nis soaring like an eel...\nor a flying carp streamer!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0042",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 42,
+      "text_offset": 7688,
+      "source_sha256": "4806120306fb9a89e1480a7e95c19255f68102115bce8c8414950ef39b7055ef",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations on your performance\nin the Selection Tournament!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0043",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 43,
+      "text_offset": 7834,
+      "source_sha256": "48bff06cb278659531bdef2659ede046eeda5f2ba23939d6ea114dad15838eb3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "This should send the %@ clan's fame\nsoaring with a bang!!\nKeep striving for even greater things.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0044",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 44,
+      "text_offset": 7922,
+      "source_sha256": "e7f5512e57428d2fe2eb0e7b7410caf0e271758ececb35d94c3ae7be3f88e338",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Happy New Year!!\nI look forward to another year together.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0045",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 45,
+      "text_offset": 7996,
+      "source_sha256": "47650fbb5144e3874e586497987510df4928bb007c7734f82aac36190b001e32",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Happy New Year.\nLet's go all out and fulfill\nour dearest wish this year!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0046",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 46,
+      "text_offset": 8088,
+      "source_sha256": "0b7f106658959cccdbdb0fbe06d07a720671b9fb08af9558f56c9ebd69587d7b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "My best wishes for the New Year.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0047",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 47,
+      "text_offset": 8118,
+      "source_sha256": "154aa9abb0b999b0247ea9b362ed2fe34c0f9fb006b3fcf001e044b65b81fed7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I went to the shrine first thing\nand prayed for everyone's good health!!\nIt's New Year, so it should help a little.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0048",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 48,
+      "text_offset": 8214,
+      "source_sha256": "b64644afc318466f9b3544d0460d1ee9c2ce771adf2c4dff932671e00f5435fd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$!! What shall we do!?\nA cat's had a whole litter of kittens\nunder our floor...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0049",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 49,
+      "text_offset": 8296,
+      "source_sha256": "04e2e43e42e8cf8ccbe1b26f66a756b11e14b51c0e6bf85efd65ec12c255ea8f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Um... may we keep them?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0050",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 50,
+      "text_offset": 8328,
+      "source_sha256": "7c804149b95a13241b96d238a5eddf9d40b093dcdd7e730cafda86b3b7be7ec8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Hooray!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0051",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 51,
+      "text_offset": 8340,
+      "source_sha256": "0e720234e7389dd382baac7e0b8db8e76e1031be003e02a1b59dd5c93dec8a4f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Thank you!!\nWhat should I name them?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0052",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 52,
+      "text_offset": 8392,
+      "source_sha256": "6e833613ec9e7849baf7ce2078a6b5c500026f543053d03e6f4f22cf16b49050",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, the plum blossoms\nin our garden are beautiful.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0053",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 53,
+      "text_offset": 8434,
+      "source_sha256": "1afe95cebb1172ed9bde78185903620995d76b9dc46f5cffe5cfae039314cf2b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, I picked lots of horsetail shoots\ndown by the river!!\nThey're delicious blanched and dressed.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0054",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 54,
+      "text_offset": 8526,
+      "source_sha256": "ca5ec3d4b20b94298d36268b21cd9c6293d2772056fcb8bec4a36cdc213c60a6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, this year's cherry blossoms\nare even lovelier than usual.\nIt must be a good omen!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0055",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 55,
+      "text_offset": 8600,
+      "source_sha256": "91f62e908f7476914ceecee909cb1cd30ec69fda5099a128b6d8721c39fbb70b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$,\nour neighbors gave us some new tea.\nI'll brew some for you later.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0056",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 56,
+      "text_offset": 8666,
+      "source_sha256": "53469c37f5fe9cde5aa4e0e65772e34e6d263d6d67e9bbb4426cb0c07960b1e1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, don't you think\nthis rainy season's gone on far too long?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0057",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 57,
+      "text_offset": 8716,
+      "source_sha256": "bda4c0abbf85e03e7f763c75385d15d8d7f28052aeedd3ad6876e31097f55785",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Perhaps it really does have to be\nGoro and the others...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Goro and the others are left as the source's elliptical reference; no weather cause or specific deity role asserted."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0058",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 58,
+      "text_offset": 8766,
+      "source_sha256": "746b45535cc757b532ba13caabc6004c01ff8bf51b979dd6e140ada714178066",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Oh, just talking to myself...\nI hope summer comes soon!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0059",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 59,
+      "text_offset": 8820,
+      "source_sha256": "50e4ae63f57ff1bee2af2063dbce72325e1b37968b247618677ce184b8799cd4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, our hydrangeas were light blue last year,\nbut this year they're deep blue.\n...Strange, isn't it?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0060",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 60,
+      "text_offset": 8904,
+      "source_sha256": "a7a3cd2b080c6641d5bac4cd1c5af58fe6739a3d1474df82e422a9a5dcbc15aa",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$!! Piisuke has come back\nto nest under our eaves again!!\nQuite a loyal fellow for a swallow.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Piisuke is the named swallow, not an unnamed human."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0061",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 61,
+      "text_offset": 8998,
+      "source_sha256": "06384df3e8a74ee923ae3c7ec5c75175cb831895b594ecb0141c035c8d8493b8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$!! May I give the seeds\nfrom our sunflowers to the shrine's squirrel?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0062",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 62,
+      "text_offset": 9066,
+      "source_sha256": "7419fae3e68b52146caad1e65c70525d38e99aba2fb2a6bf54931e157345128c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I'm sure Ponta will be delighted!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Ponta is the squirrel from the immediately preceding request."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0063",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 63,
+      "text_offset": 9096,
+      "source_sha256": "01554394196105866d0ce69dc9fc09f3931189ee3cbfea2ce86d054fd8382254",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Thank you very much!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0064",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 64,
+      "text_offset": 9124,
+      "source_sha256": "02d4191f6da300492fcf3d1560bbf2822de6f1ba367d9cf21648576bf6340ac9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$,\nour neighbor's persimmon tree is so splendid,\nits branches reach right into our garden!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0065",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 65,
+      "text_offset": 9196,
+      "source_sha256": "ef5bacc4db689439ef6b50a7c1e20a33ccc56a400dd70cc2b0b7849e1bf39b31",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Heh heh... I'll peel two or three\nfor you later too, %$.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0066",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 66,
+      "text_offset": 9256,
+      "source_sha256": "39cd227d27a23394644177bc67462dc130fb644335632e572d4b0f9773c2ae65",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, the maple leaves\nin our garden are starting to turn.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0067",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 67,
+      "text_offset": 9302,
+      "source_sha256": "de68088a07069f6fa4a36b6cac43dd28fcba72594b6364cb197a7d4bb2ae4c63",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Let's make our hearts burn bright\nenough to rival those red maple leaves!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0068",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 68,
+      "text_offset": 9366,
+      "source_sha256": "d58ebc74c7b699538999accb08e41e04077bf5ea36b6023d28e6aa138f399453",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$,\nMount Oe must be snowy already...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0069",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 69,
+      "text_offset": 9408,
+      "source_sha256": "2742fdc4c5f5ae6328c3fb7d0cdebad4244121cca50226b426df3e2a540ca7ee",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, it's become quite chilly\nin the mornings and evenings.\nPlease take good care of yourself.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0070",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 70,
+      "text_offset": 9480,
+      "source_sha256": "440a605ddef5c32ba6d95cb2640a04f8ebcc3e3c11b6c436c8b7a01f86b9338d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$,\nthe first snow fell last night!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0071",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 71,
+      "text_offset": 9522,
+      "source_sha256": "b60913dac50473035fd8511892a11f536c516e6f996607534d3f49e680151528",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Everything's completely white,\nas if it were all\nbeginning today!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0072",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 72,
+      "text_offset": 9598,
+      "source_sha256": "0e301507a9db4b433cb3f022108032acf9e16b6cb96e7db9fe851be2cb46626a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, good morning!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:01:0073",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 1,
+      "index": 73,
+      "text_offset": 9630,
+      "source_sha256": "3fc951feb0576dc58a720819ad9593df43acc4bf2b6c1b3976c8d776ac34538a",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, let's go all out\nwith a bang this month too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka's home greetings, care after defeat or injury, tournament congratulations and seasonal small talk. Respectful, lively household voice; addresses the player-selected clan head without a gendered title.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    }
+  ]
+}

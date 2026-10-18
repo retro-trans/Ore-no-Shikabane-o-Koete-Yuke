@@ -1,0 +1,76 @@
+{
+  "version": "0.2.33",
+  "context": "chronicle",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Year Start",
+    "Prev",
+    "Next",
+    "Next Year",
+    "Events: 1018 / ?"
+  ],
+  "objects": [
+    {
+      "text": "Events: 1018 / ?",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Child of Hayate and Hiten no Maiko.",
+      "atlas": "0x9b5c010",
+      "glyphs": 35,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Kirara was born.",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Class: Naginata.",
+      "atlas": "0x9b5c010",
+      "glyphs": 16,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Next Year",
+      "atlas": "0x9b5c010",
+      "glyphs": 9,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Year Start",
+      "atlas": "0x9b5c010",
+      "glyphs": 10,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Next",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Prev",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Change Page",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Back",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

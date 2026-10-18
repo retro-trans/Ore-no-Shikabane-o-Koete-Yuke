@@ -1,0 +1,152 @@
+{
+  "version": "0.2.35",
+  "result": "PASS: traits enclosed by full-height Status/Abilities frame; Potential group names clear of gold axis and elements",
+  "iso": {
+    "version": "0.2.35",
+    "file": "work/output/english-native-0.2.35.iso",
+    "bytes": 1081077760,
+    "sha256": "d34dab2643612671ce0a4a799e43667145ab1095aab78ee7fcabb14993cfd9af"
+  },
+  "screens": [
+    {
+      "file": "work/ui/status-layout-0.2.35/title.png",
+      "sha256": "bec3ba4702933eab28caaafd52e59aed6f81ce6689ed83fe7b77083a123e5997"
+    },
+    {
+      "file": "work/ui/status-layout-0.2.35/hayate.png",
+      "sha256": "03f8e18619a901e256c86542554dc33fdca288abf759fbf775d3377ffb959ce9"
+    },
+    {
+      "file": "work/ui/status-layout-0.2.35/kirara.png",
+      "sha256": "10512ae9676f9c167f9a7a77a065968b9bdd0b21dfbac4b5b37e29b57246f2ca"
+    },
+    {
+      "file": "work/ui/status-layout-0.2.35/abilities.png",
+      "sha256": "b9fe57f098b238b68d525db0d3673a28854e7fee0db36dae462064895719b8ef"
+    },
+    {
+      "file": "work/ui/status-layout-0.2.35/equipment.png",
+      "sha256": "3a7a3309722f399c4a1f1e2e1cdb62090694f63f7f41a76e3cb65c39949cdcd3"
+    },
+    {
+      "file": "work/ui/status-layout-0.2.35/returned-abilities.png",
+      "sha256": "3bb527a34c1b7271c9c65b50a7643e43decf46f89bc738fd7f2443894ca5661b"
+    },
+    {
+      "file": "work/ui/status-layout-0.2.35/reentered.png",
+      "sha256": "2b6f8d17a68f82e0c8b35848227f4d83e4c380d3b461ecda0e4eedd2eccaa27a"
+    }
+  ],
+  "runtime_patch_proof": {
+    "version": "0.2.35",
+    "result": "PASS",
+    "elf_sha256": "487695396e0bb232ff0c37b76fab91513ef3ee40bace6b027fb530afd3f775a9",
+    "archive_sha256": "f18bce8636930f9edc31332f9a743e19a93860e3060492d35953e43711a4057a",
+    "patches": [
+      {
+        "address": "0x89476ac",
+        "bytes": 4,
+        "sha256": "d5392611fd159566bf7a408a3e593fda1efa5ac752440f481c3a028a79fffa3f"
+      },
+      {
+        "address": "0x8947fd0",
+        "bytes": 4,
+        "sha256": "d5392611fd159566bf7a408a3e593fda1efa5ac752440f481c3a028a79fffa3f"
+      },
+      {
+        "address": "0x8946044",
+        "bytes": 4,
+        "sha256": "02c836acf813c27b8df16455ad4e8157160003c03d9aeb0d9525f716dd849267"
+      },
+      {
+        "address": "0x894649c",
+        "bytes": 4,
+        "sha256": "02c836acf813c27b8df16455ad4e8157160003c03d9aeb0d9525f716dd849267"
+      },
+      {
+        "address": "0x88f1d8c",
+        "bytes": 4,
+        "sha256": "51bd78d4a9c8bd24953cd3a621cfbff520a631f118da2cf6aa5719693321e14d"
+      },
+      {
+        "address": "0x88f1f5c",
+        "bytes": 4,
+        "sha256": "8d2e70f745d549afd422c8b316c9112dc375439b70a5d5c34048f11ff019cb71"
+      },
+      {
+        "address": "0x88f1ed0",
+        "bytes": 4,
+        "sha256": "1f4f51d6ababbf927aebb6cd5c0044839953e7add0c4c71cb7b0f4f46186f675"
+      },
+      {
+        "address": "0x88f1e90",
+        "bytes": 4,
+        "sha256": "bbec38467d6f51fdb4ddeabc9e5bf2b55d849c5e6d9ed7faf19b4f3d070d385c"
+      },
+      {
+        "address": "0x8a39b30",
+        "bytes": 4,
+        "sha256": "ddef1bb81ef7db6569cde90a575c5d0bd614113c6d6c88e65c23579a216d4c29"
+      },
+      {
+        "address": "0x9c09e50",
+        "bytes": 262144,
+        "sha256": "7b077febd860c93ac10be4543c4deb6b9e3db37577d6d0282bb182c202ccd15d"
+      },
+      {
+        "address": "0x9c09a50",
+        "bytes": 1024,
+        "sha256": "c81e5b6755cac4b727da41082e4769603f186461bd8724f019dbdd6076e9788d"
+      }
+    ],
+    "texture_replacement": false,
+    "game_memory_writes": false,
+    "save_record_writes": false
+  },
+  "layout": {
+    "stats_frame": [
+      60,
+      142,
+      260,
+      108
+    ],
+    "trait": [
+      70,
+      229
+    ],
+    "trait_second_line_y": 243,
+    "equipment_frame_height": 108,
+    "potential": {
+      "frame_width": 142,
+      "caption_x": 4,
+      "axis_x": 40,
+      "element_x": 44,
+      "bar_x": 62,
+      "bar_max_width": 76,
+      "right_edge": 138,
+      "grid_x": [
+        61,
+        80,
+        99,
+        118,
+        138
+      ]
+    }
+  },
+  "checks": {
+    "other_executable_bytes": "Only guarded frame/layout coordinates, display scale and existing grid pixels/palette",
+    "archive_members": "Byte-identical except version footer",
+    "traits_and_stat_values": "Byte-identical; formatting, wrapping, getters and save data unchanged",
+    "previous_icons_and_catalog_fixes": "Byte-identical",
+    "elf_memory_footprint": "Unchanged"
+  },
+  "oreshika_symbols": "No dedicated Spirit/Skill/Body pictograms identified in inspected Oreshika US common/status/icon sheets; readable full category captions retained",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false,
+  "github_release": false,
+  "limits": [
+    "Icon search covers the inspected common/status/icon sheets; no claim of an exhaustive search of every game resource.",
+    "Full playthrough and physical PSP testing remain pending."
+  ]
+}

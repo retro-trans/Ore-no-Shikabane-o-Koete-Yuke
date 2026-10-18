@@ -1,0 +1,752 @@
+[
+  {
+    "text": "Rest for one month to restore everyone's Health.",
+    "ancestors": [
+      {
+        "object": "0x9de0d40",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9de0c00",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          6,
+          426,
+          18
+        ]
+      },
+      {
+        "object": "0x9de01c0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          24,
+          214,
+          432,
+          50
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "You cannot go on a sortie or perform Divine Union.",
+    "ancestors": [
+      {
+        "object": "0x9de0fa0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9de0e60",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          24,
+          426,
+          18
+        ]
+      },
+      {
+        "object": "0x9de01c0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          24,
+          214,
+          432,
+          50
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Clan",
+    "ancestors": [
+      {
+        "object": "0x9de57a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1108082688,
+          0
+        ]
+      },
+      {
+        "object": "0x9de5660",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de5550",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          10,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Sortie",
+    "ancestors": [
+      {
+        "object": "0x9de5b10",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1106247680,
+          0
+        ]
+      },
+      {
+        "object": "0x9de59d0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de58c0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          108,
+          10,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Divine Union",
+    "ancestors": [
+      {
+        "object": "0x9de5e80",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1091567616,
+          0
+        ]
+      },
+      {
+        "object": "0x9de5d40",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de5c30",
+        "vtable": "0x8a20170",
+        "geometry": [
+          206,
+          10,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Items",
+    "ancestors": [
+      {
+        "object": "0x9de61f0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1106771968,
+          0
+        ]
+      },
+      {
+        "object": "0x9de60b0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de5fa0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          28,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Rebuild",
+    "ancestors": [
+      {
+        "object": "0x9de6560",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1103626240,
+          0
+        ]
+      },
+      {
+        "object": "0x9de6420",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de6310",
+        "vtable": "0x8a20170",
+        "geometry": [
+          108,
+          28,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Facilities",
+    "ancestors": [
+      {
+        "object": "0x9de68d0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1102053376,
+          0
+        ]
+      },
+      {
+        "object": "0x9de6790",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de6680",
+        "vtable": "0x8a20170",
+        "geometry": [
+          206,
+          28,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Buy / Sell",
+    "ancestors": [
+      {
+        "object": "0x9de6c40",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1101004800,
+          0
+        ]
+      },
+      {
+        "object": "0x9de6b00",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de69f0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          46,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Chronicle",
+    "ancestors": [
+      {
+        "object": "0x9de6fb0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1100480512,
+          0
+        ]
+      },
+      {
+        "object": "0x9de6e70",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de6d60",
+        "vtable": "0x8a20170",
+        "geometry": [
+          108,
+          46,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Help",
+    "ancestors": [
+      {
+        "object": "0x9de7320",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1107820544,
+          0
+        ]
+      },
+      {
+        "object": "0x9de71e0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de70d0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          206,
+          46,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "SAVE",
+    "ancestors": [
+      {
+        "object": "0x9de7690",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1107558400,
+          0
+        ]
+      },
+      {
+        "object": "0x9de7550",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de7440",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          64,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Settings",
+    "ancestors": [
+      {
+        "object": "0x9de7a00",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1103101952,
+          0
+        ]
+      },
+      {
+        "object": "0x9de78c0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de77b0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          108,
+          64,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Rest",
+    "ancestors": [
+      {
+        "object": "0x9de7d70",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1108082688,
+          0
+        ]
+      },
+      {
+        "object": "0x9de7c30",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de7b20",
+        "vtable": "0x8a20170",
+        "geometry": [
+          206,
+          64,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9de2f80",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

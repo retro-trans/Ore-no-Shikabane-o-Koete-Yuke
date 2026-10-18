@@ -1,0 +1,20 @@
+Status layout — local build 0.2.35
+
+Status and Abilities share Equipment's 108-pixel frame height. The trait
+remains at (70,229), with an optional second line at y243. Both character
+constructors register the header at native draw key 0x8001, above the
+stats background. Native removal uses the existing object registration;
+trait ownership, tab visibility and text wrapping are unchanged.
+
+Within the 142-pixel Potential panel: labels x4; gold axis x40; elements
+x44; bars x62 with a display maximum of 76 pixels, ending at x138.
+The existing grid image is updated in place. Stat values and save records
+are unchanged. No new resident texture memory is allocated.
+
+Original Oreshika HP/MP/Health and element sprites remain. No dedicated
+Spirit/Skill/Body pictograms were identified in the inspected US status,
+common and icon sheets. The additional sheet audit lists undecoded layouts
+explicitly; this is not an exhaustive absence claim for the entire game.
+
+Screenshots, native font checks, runtime patch readback and save preservation:
+work/ui/status-layout-0.2.35/verification.json

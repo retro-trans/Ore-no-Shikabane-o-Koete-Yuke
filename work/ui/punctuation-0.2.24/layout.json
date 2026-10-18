@@ -1,0 +1,96 @@
+{
+  "version": "0.2.24",
+  "scope": "ASCII exclamation glyph positioning",
+  "helper": "0x089BB234",
+  "patch": {
+    "address": "0x89bb24c",
+    "before": "0x24020021",
+    "after": "0x2402ffff"
+  },
+  "original_offset": 14,
+  "new_offset": 0,
+  "offset_units": "quarter units before native text scaling",
+  "native_resolution": [
+    480,
+    272
+  ],
+  "comparisons": [
+    {
+      "text": "Tch!!",
+      "exclamation_positions": [
+        {
+          "before": [
+            93,
+            0,
+            106,
+            64
+          ],
+          "after": [
+            82,
+            0,
+            94,
+            64
+          ],
+          "left_shift_native_pixels": 2.75
+        },
+        {
+          "before": [
+            107,
+            0,
+            120,
+            64
+          ],
+          "after": [
+            96,
+            0,
+            109,
+            64
+          ],
+          "left_shift_native_pixels": 2.75
+        }
+      ],
+      "other_glyphs": "identical",
+      "atlas": "native 4x"
+    },
+    {
+      "text": "Not even time to catch our breath!!",
+      "exclamation_positions": [
+        {
+          "before": [
+            803,
+            0,
+            816,
+            64
+          ],
+          "after": [
+            792,
+            0,
+            805,
+            64
+          ],
+          "left_shift_native_pixels": 2.75
+        },
+        {
+          "before": [
+            818,
+            0,
+            830,
+            64
+          ],
+          "after": [
+            806,
+            0,
+            819,
+            64
+          ],
+          "left_shift_native_pixels": 3.0
+        }
+      ],
+      "other_glyphs": "identical",
+      "atlas": "native 4x"
+    }
+  ],
+  "script_row": "ore:06f76800:0000:00:0003",
+  "text_and_line_breaks": "unchanged",
+  "question_marks_and_fullwidth_punctuation": "unchanged"
+}

@@ -1,0 +1,79 @@
+{
+  "version": "0.2.29",
+  "result": "PASS",
+  "context": "roster",
+  "elf_sha256": "6ce2eaf6da4bb998ebb7e2756d50dbe5d4c6d3268b83aee0e5e156b5e278de95",
+  "archive_sha256": "bd1de4e47235a348f62354639f9221bd977cddd0c8e67ebb3ddf829ee6453045",
+  "required": [
+    "HP",
+    "MP",
+    "HLTH"
+  ],
+  "palettes_and_pixels": "All six match the built executable",
+  "inherited_hooks": "Original native instructions verified through JIT-aware disassembly",
+  "draws": [
+    {
+      "stat": "HP",
+      "file": "107.ppt",
+      "widget": "0x9defdd0",
+      "descriptor": "0x9b8c7d0",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ]
+    },
+    {
+      "stat": "MP",
+      "file": "108.ppt",
+      "widget": "0x9defeb0",
+      "descriptor": "0x9b8ec10",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ]
+    },
+    {
+      "stat": "HLTH",
+      "file": "113.ppt",
+      "widget": "0x9df0070",
+      "descriptor": "0x9b9a150",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ]
+    }
+  ],
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

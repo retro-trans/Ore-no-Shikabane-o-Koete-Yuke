@@ -1,0 +1,23 @@
+English exclamation spacing — local build 0.2.24
+
+The reported translation already contains no space before the exclamation.
+The native helper at 0x089BB234 adds 14 quarter units to the glyph origin
+for !, ?, and their fullwidth equivalents. One guarded instruction at
+0x089BB24C disables only the ASCII ! comparison using an impossible -1
+sentinel. The existing zero-extended UTF-16 comparison and all other cases
+retain their original behavior. Both marks in !! move left together;
+character advances, atlas and measured line widths are unchanged. Native
+coordinate rounding yields a 2.75 to 3 pixel shift at the reported text size.
+
+Before/after captures and native draw descriptors of the exact reported
+Orin passage are in work/ui/punctuation-0.2.24/. The final build uses its
+embedded native 4x font. Each ! moves about 2.75 native pixels left here.
+All other glyph positions and all UVs match. The renderer helper passes
+65,536 actual MIPS original/patched comparisons, including caller state.
+Scripts and unrelated archive payloads match 0.2.23; only the title footer
+version changes in data.ore. Original saves are hash-identical.
+
+Tools: build_exclamation_spacing.py, test_exclamation_spacing.py,
+check_exclamation_runtime.py, record_exclamation_qa.py. Dry run before writes.
+The delivered ISO is identical to the tested candidate. No GitHub release.
+Full-playthrough and physical PSP testing remain pending.

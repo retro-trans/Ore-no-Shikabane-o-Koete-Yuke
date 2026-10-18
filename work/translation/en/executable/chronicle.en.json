@@ -1,0 +1,70 @@
+{
+  "version": "0.2.33",
+  "rows": [
+    {
+      "context": "Chronicle unknown month",
+      "original_address": "0x8a3ef80",
+      "address": "0x9cbba20",
+      "translation_en": "Events: %4d / %s",
+      "placeholders": [
+        "%4d",
+        "%s"
+      ]
+    },
+    {
+      "context": "Chronicle numbered month",
+      "original_address": "0x8a3ef98",
+      "address": "0x9cbba40",
+      "translation_en": "Events: %4d / %2d",
+      "placeholders": [
+        "%4d",
+        "%2d"
+      ]
+    }
+  ],
+  "layout": {
+    "heading": [
+      96,
+      8,
+      288,
+      32
+    ],
+    "year_start": [
+      8,
+      8
+    ],
+    "next_year": [
+      400,
+      8
+    ],
+    "prev_month": [
+      8,
+      128
+    ],
+    "next_month": [
+      424,
+      128
+    ],
+    "year_icons": [
+      [
+        88,
+        24
+      ],
+      [
+        392,
+        24
+      ]
+    ],
+    "month_icons": [
+      [
+        56,
+        144
+      ],
+      [
+        424,
+        144
+      ]
+    ]
+  },
+  "source": "Native Chronicle heading formatter; both parameter sequences retained"
+}

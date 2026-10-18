@@ -1,0 +1,157 @@
+{
+  "version": "0.2.17",
+  "result": "PASS: all three complete messages fit their actual windows and clear the advance icons",
+  "scope": "The three reported passages",
+  "texture_replacement": false,
+  "font_raster_scale": 4,
+  "records": [
+    {
+      "id": "ore:001e8000:0000:03:0002",
+      "screenshot": "work/ui/dialogue-reflow-0.2.17/curse.png",
+      "sha256": "771c120f335594a528a978c0ac873a23aee7b6f7cc845ee34ed9002f4f50df6a",
+      "frame": [
+        90,
+        6,
+        390,
+        76
+      ],
+      "white_glyph_ink": [
+        [
+          103,
+          17,
+          301,
+          26
+        ],
+        [
+          100,
+          35,
+          316,
+          47
+        ],
+        [
+          101,
+          53,
+          353,
+          65
+        ]
+      ],
+      "icon": [
+        370,
+        56,
+        387,
+        73
+      ],
+      "native_text": {
+        "version": "0.2.17",
+        "id": "ore:001e8000:0000:03:0002",
+        "section": 3,
+        "index": 2,
+        "natural_message_selection": true,
+        "register_or_memory_writes": false,
+        "resource": "0x9c99330",
+        "original_caller_return": "0x897a3b8",
+        "text_address": "0x8bd1b8a",
+        "translation_sha256": "94e1d48743523d8927625b2e606d6d397ddafa58816f56960cada2149c5b5ef5",
+        "exact_final_build_text": true
+      }
+    },
+    {
+      "id": "ore:0000c000:0015:04:0006",
+      "screenshot": "work/ui/dialogue-reflow-0.2.17/equipment.png",
+      "sha256": "1c2caa19082df0ac5f816dff9f127fa6b822bb56571b6c0f1f2613a33d577b65",
+      "frame": [
+        24,
+        198,
+        312,
+        264
+      ],
+      "white_glyph_ink": [
+        [
+          35,
+          209,
+          276,
+          221
+        ],
+        [
+          35,
+          227,
+          265,
+          239
+        ],
+        [
+          34,
+          245,
+          224,
+          257
+        ]
+      ],
+      "icon": [
+        288,
+        236,
+        309,
+        263
+      ],
+      "native_text": {
+        "version": "0.2.17",
+        "id": "ore:0000c000:0015:04:0006",
+        "section": 4,
+        "index": 6,
+        "natural_message_selection": true,
+        "register_or_memory_writes": false,
+        "resource": "0x9ae75a4",
+        "original_caller_return": "0x896f60c",
+        "text_address": "0x9c3955c",
+        "translation_sha256": "e55651904b52f1c44f005c3453f3348fbc21b13fdf3dbe06f180d84880e53b3a",
+        "exact_final_build_text": true
+      }
+    },
+    {
+      "id": "ore:0000c000:0015:04:0007",
+      "screenshot": "work/ui/dialogue-reflow-0.2.17/information.png",
+      "sha256": "ad4061444f944cfcceb39bb9ead0290ac92bd524fa64b3698e5dd563a637c77e",
+      "frame": [
+        24,
+        198,
+        312,
+        264
+      ],
+      "white_glyph_ink": [
+        [
+          34,
+          209,
+          300,
+          218
+        ],
+        [
+          34,
+          227,
+          155,
+          236
+        ]
+      ],
+      "icon": [
+        288,
+        236,
+        309,
+        263
+      ],
+      "native_text": {
+        "version": "0.2.17",
+        "id": "ore:0000c000:0015:04:0007",
+        "section": 4,
+        "index": 7,
+        "natural_message_selection": true,
+        "register_or_memory_writes": false,
+        "resource": "0x9ae75a4",
+        "original_caller_return": "0x896f60c",
+        "text_address": "0x9c39642",
+        "translation_sha256": "17e8b940e844d91d35b0bbd6bbe239ecb728263af3856a6c1653399e4631258a",
+        "exact_final_build_text": true
+      }
+    }
+  ],
+  "all_words_preserved": true,
+  "all_49_translation_batches": "pass",
+  "elf_unchanged_from": "0.2.16",
+  "qa_input_profile": "work/source/emulator/input-isolated.ini"
+}

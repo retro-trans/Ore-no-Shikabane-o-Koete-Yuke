@@ -1,0 +1,11 @@
+{
+  "native_class": "0x08a22ba8",
+  "selection": "x=24, y>=180, width=288 or already extended 432",
+  "before_width": 288,
+  "after_width": 432,
+  "frame_right": 456,
+  "text_width": 412,
+  "background_alpha": 200,
+  "background_opacity": 0.784,
+  "border_and_text_alpha": "Unchanged"
+}

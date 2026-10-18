@@ -1,0 +1,51 @@
+{
+  "version": "0.2.23",
+  "result": "PASS: English opening disclaimer and subsequent title screen",
+  "screens": [
+    {
+      "file": "work/ui/startup-disclaimer-0.2.23/disclaimer-after.png",
+      "sha256": "9910251b681d0c818daee5618bcc03ba3f204455d4ad0026c2ec1d729c2011b9",
+      "observed": "Complete English disclaimer in the original startup sequence; exact native bitmap mask match",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/startup-disclaimer-0.2.23/title-after.png",
+      "sha256": "9e906bb59320ca31df807bbc2ecd8d193a0ab2d671237e6b4f107bca4985a715",
+      "observed": "Startup proceeds to the title screen with v0.2.23 and full project URL",
+      "fit": "pass"
+    }
+  ],
+  "checks": {
+    "unrelated_executable_bytes": "byte-identical; original embedded archive retained",
+    "all_script_payloads": "byte-identical",
+    "other_archive_members": "byte-identical",
+    "original_warning_palette": "unchanged",
+    "compression_round_trip": "pass"
+  },
+  "native_mips": "PASS: both actual MIPS archive accessors return the relocated asset, preserve caller state, and retain the original 0x88000 resource allocation.",
+  "runtime": {
+    "version": "0.2.23",
+    "tested_iso": "work/source/qa-disclaimer-0.2.23.iso",
+    "result": "PASS",
+    "mask_intersection_over_union": 1.0,
+    "frames_examined": 107,
+    "actual_display": "Native PSP framebuffer",
+    "native_pointer_instructions": [
+      "0x881ad40",
+      "0x881ad48",
+      "0x881ad4c",
+      "0x881ad54"
+    ],
+    "embedded_archive_sha256": "bb6f2d3f062211fd8a1f5a31622f81388c071ed616cb99b2bf927f4f47d0213a",
+    "elf_sha256": "6bb601ecd0cecc789f980a20e03c4f5a9e7f5b3ad176427681c67088f87b09c9",
+    "archive_sha256": "0f8a389746717c8d817a0a344490f476ebd30e815bc92832e901439f2434957e",
+    "game_memory_writes": false,
+    "button_input": false,
+    "texture_replacement": false
+  },
+  "texture_replacement": false,
+  "github_release": false,
+  "limits": [
+    "Real PSP boot/performance and full-playthrough testing remain pending"
+  ]
+}

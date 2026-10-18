@@ -1,0 +1,182 @@
+{
+  "version": "0.2.16",
+  "scope": "Selected actual title, Auto-name, keyboard and existing-save contexts",
+  "texture_replacement": false,
+  "font_raster_scale": 4,
+  "screenshots": [
+    {
+      "file": "work/ui/latin-auto-0.2.16/title-opening.png",
+      "sha256": "460866bcd826a77abc420048a10556e7cac9886e29a5607574eb072b4ddeb078",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/title-menu.png",
+      "sha256": "3cb7c4a78ce57a446ba30c3774e153c18223bba708c7349a850166ca54f87a3a",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/family-auto-final.png",
+      "sha256": "f86bc6eb5214504c8ec6ce880fd2278b021d66b3e9c51ca3d5786b868bd88740",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/family-eight-confirm.png",
+      "sha256": "96e3f0fdb71e174a10a1d799151a93cd3c5d264ac95ba9a98ed03c444838de8b",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/family-auto-cycled.png",
+      "sha256": "cf96ca955f8bb7b1cfd9eda6b70e79fb3906402707d93c0287127cfb3e09175e",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/family-auto-confirm.png",
+      "sha256": "33897f577c5862ab913088fff5ea948d272b28451121f0c6900df5fcb0f6b05e",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/given-auto.png",
+      "sha256": "e92fea3cac331f6067f889bba906bad172911e628f26583237e3105f1b50830b",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/keyboard-auto-name.png",
+      "sha256": "997ec5d2d4e151667e3e2832699441833cbba8799b354685443e25fb81e0aac0",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/keyboard-start-finished.png",
+      "sha256": "bc154d87620b0024264f74fe43be58919db5658b42ff4e6957a1d41ab975cd68",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/reloaded-save.png",
+      "sha256": "d6894d83afbcf55902c20d0a5c2f71474200bb9ee1d38d4073cb2015b730ece8",
+      "dimensions": [
+        480,
+        272
+      ]
+    },
+    {
+      "file": "work/ui/latin-auto-0.2.16/reloaded-roster.png",
+      "sha256": "8e92c23d96b6a597944830402297b914fabffb14cef7ddaa8bd36c3cd4508f95",
+      "dimensions": [
+        480,
+        272
+      ]
+    }
+  ],
+  "footer": {
+    "rows": [
+      {
+        "text": "v0.2.16",
+        "right": 474,
+        "top": 223,
+        "font_size": 14,
+        "bounds": [
+          426.5,
+          222.0,
+          475.0,
+          234.75
+        ]
+      },
+      {
+        "text": "github.com/retro-trans",
+        "right": 474,
+        "top": 241,
+        "font_size": 12,
+        "bounds": [
+          342.5,
+          240.0,
+          475.0,
+          253.75
+        ]
+      }
+    ],
+    "atlas_screen_origin": [
+      0,
+      201
+    ],
+    "copyright_exact": true
+  },
+  "title_help_box": {
+    "x": 12,
+    "width": 300
+  },
+  "footer_global_draw_key": "0x8003",
+  "latin_auto": {
+    "surnames": 22,
+    "female": 85,
+    "male": 73,
+    "provisional_kanji_readings": 62,
+    "maximum_letters": 8,
+    "original_source_candidates": 1735,
+    "curated_subset": true
+  },
+  "runtime_names": [
+    "Keage",
+    "Kitasaga",
+    "Oharano",
+    "Hachijo",
+    "Aran"
+  ],
+  "native_mips": "PASS: all 180 Auto names encode/decode/compare against native fullwidth candidates, eight-byte-record canaries, stack and saved registers; footer registration and matching teardown",
+  "controller": {
+    "observed_xinput_start": "0x10",
+    "observed_legacy_joystick": "0x80 (button 8)",
+    "default_conflict": "DirectInput button 8 maps to R; OSK handles R before Start",
+    "input_backends": {
+      "XInput": true,
+      "DirectInput": false,
+      "HID": false
+    },
+    "backup": "work/source/controller-backup-0.2.16",
+    "physical_after_fix_verified": false,
+    "native_start_finishes_keyboard": true,
+    "hardware_log_sha256": "bc9330fda8f78104f2f1c88c759954e073ab15cd1cb68db0cb8af9db451e4aa3"
+  },
+  "existing_save": {
+    "loaded": true,
+    "eight_character_names": [
+      "WWWWWWWW",
+      "aaaaAAAA",
+      "bbbbBBBB"
+    ],
+    "sha256": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+    "overwritten": false
+  },
+  "capture_note": "Title, save and earlier selected captures use the identical executable, native title asset and visible labels. The final Auto table retains internal fullwidth Latin for duplicate comparisons; the final Auto capture and all 180 codec/comparison cases are checked separately.",
+  "limitations": [
+    "Physical controller confirmation after configuration change",
+    "Real PSP boot/performance",
+    "Full playthrough and broad UI QA",
+    "Independent review of provisional readings"
+  ]
+}

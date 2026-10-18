@@ -1,0 +1,14 @@
+HP / MP / HLTH reference symbols — local build0.2.29
+
+The red arm, blue open hand and green pulse-heart reuse the supplied screenshot
+pixels. Source coordinates, masks and SHA256 are documented in the build tool
+and work/ui/vital-icons-0.2.29/layout.json. Only existing native image palettes
+and pixels are replaced. Both24x16 and32x16 slots keep their original bounds.
+All six assets retain their original descriptors, source crops and rendering
+code. Numbers, bars, previous element icons, scripts and text tables are unchanged.
+
+Actual status/roster/battle captures and native image payload/UV readbacks:
+work/ui/vital-icons-0.2.29/. Compact HLTH13.ppt was verified as data/geometry;
+its live context was not encountered. Original isolated-profile saves restored.
+Texture replacement disabled. No GitHub release. Full-playthrough and physical
+PSP testing remain pending; source detail is limited by the screenshot.

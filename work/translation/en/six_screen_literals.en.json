@@ -1,0 +1,21 @@
+{
+  "version": "0.2.27",
+  "encoding": "Original EUC-JP literals replaced with ASCII English",
+  "rows": [
+    {
+      "address": "0x8a3b198",
+      "translation_en": "Next Growth",
+      "context": "Native battle growth caption"
+    },
+    {
+      "address": "0x8a443dc",
+      "translation_en": "Money",
+      "context": "Shared pause-menu money caption"
+    },
+    {
+      "address": "0x8a443e4",
+      "translation_en": "ryo",
+      "context": "Shared pause-menu currency"
+    }
+  ]
+}

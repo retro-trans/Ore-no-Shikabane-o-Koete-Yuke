@@ -1,0 +1,3564 @@
+{
+  "schema_version": 1,
+  "version": "0.2.5",
+  "sources": [
+    "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true",
+    "https://w.atwiki.jp/oreshikar/pages/48.html",
+    "https://www.mobygames.com/game/63167/tales-of-the-heroes-twin-brave/credits/psp/"
+  ],
+  "policy": "Staff and artist names only. Gender and personality unknown; no inferred biography. Reading discrepancies are documented. User-authorized conventional readings are explicitly provisional, not presented as verified.",
+  "entries": [
+    {
+      "source_id": "ore:032bb800:0000:01:0141",
+      "jp": "吉田 古南美",
+      "en": "Konami Yoshida",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Disc kanji differ from the published voice actor credit; Konami Yoshida follows documented identity.",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0142",
+      "jp": "高山 みなみ",
+      "en": "Minami Takayama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0143",
+      "jp": "屋良 有作",
+      "en": "Yusaku Yara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0144",
+      "jp": "小山 茉美",
+      "en": "Mami Koyama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0145",
+      "jp": "堀内 賢雄",
+      "en": "Kenyu Horiuchi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0146",
+      "jp": "東條 加那子",
+      "en": "Kanako Tojo",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0147",
+      "jp": "上田 茜",
+      "en": "Akane Ueda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Historical Akane Ueda credit retained; later Akane Ouchi name not substituted.",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0148",
+      "jp": "小池 亜希子",
+      "en": "Akiko Koike",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0149",
+      "jp": "松田 健一郎",
+      "en": "Kenichiro Matsuda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0150",
+      "jp": "佐藤 晴男",
+      "en": "Haruo Sato",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0151",
+      "jp": "竹内 栄治",
+      "en": "Eiji Takeuchi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0152",
+      "jp": "高梨 謙吾",
+      "en": "Kengo Takanashi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0153",
+      "jp": "前野 智明",
+      "en": "Tomoaki Maeno",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Disc given-name kanji differ from the published actor credit; Tomoaki Maeno follows documented identity.",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0154",
+      "jp": "浅井 晴美",
+      "en": "Harumi Asai",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0155",
+      "jp": "桝田 省治",
+      "en": "Shoji Masuda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0156",
+      "jp": "佐々木 哲哉",
+      "en": "Tetsuya Sasaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0157",
+      "jp": "佐嶋 真実",
+      "en": "Makoto Sajima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0158",
+      "jp": "樹原 涼子",
+      "en": "Lioko Kihara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0159",
+      "jp": "吉良 勝弥",
+      "en": "Katsuya Kira",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0160",
+      "jp": "須田 直樹",
+      "en": "Naoki Suda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0161",
+      "jp": "前田 武士",
+      "en": "Takeshi Maeda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0162",
+      "jp": "長 亨",
+      "en": "Susumu Cho",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Published Susumu Chou romanization normalized to project ASCII Hepburn without macrons.",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0163",
+      "jp": "綱田 健太郎",
+      "en": "Kentaro Tsunada",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Scenario-support name in the English sequel credits; kana corroborated by https://www.daiwair.co.jp/td_download.cgi?c=3632&i=2110045 . Identity matched by series and scenario role, not the contract name alone. Source: https://gamefaqs.gamespot.com/vita/685564-oreshika-tainted-bloodlines/credit",
+      "reading_status": "researched",
+      "sources": [
+        "https://gamefaqs.gamespot.com/vita/685564-oreshika-tainted-bloodlines/credit"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0164",
+      "jp": "須頭 隆一",
+      "en": "Ryuichi Sugashira",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0165",
+      "jp": "長谷川 浩",
+      "en": "Hiroshi Hasegawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0166",
+      "jp": "山本 耕司",
+      "en": "Koji Yamamoto",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0167",
+      "jp": "岡田 一宏",
+      "en": "Kazuhiro Okada",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0168",
+      "jp": "西原 啓祐",
+      "en": "Keisuke Nishihara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0169",
+      "jp": "深澤 正俊",
+      "en": "Masatoshi Fukazawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0170",
+      "jp": "小林 昌英",
+      "en": "Masahide Kobayashi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0171",
+      "jp": "永田 真之",
+      "en": "Masayuki Nagata",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0172",
+      "jp": "佐々木 二",
+      "en": "Sasaki 2nd.",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0173",
+      "jp": "堀田 純",
+      "en": "Jun Hotta",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Effect-programming credit in the English sequel matches the Japanese PSP effect-programming name. Identity inferred from the same series, employer and role; unrelated people with similar names were excluded. Source: https://gamefaqs.gamespot.com/vita/685564-oreshika-tainted-bloodlines/credit",
+      "reading_status": "researched",
+      "sources": [
+        "https://gamefaqs.gamespot.com/vita/685564-oreshika-tainted-bloodlines/credit"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0174",
+      "jp": "津坂 太地",
+      "en": "Taichi Tsusaka",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Tsuzaka is another possible surname reading.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0175",
+      "jp": "森田 真基",
+      "en": "Masaki Morita",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0176",
+      "jp": "坂上 久尚",
+      "en": "Hisashi Sakaue",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0177",
+      "jp": "永田 堅治",
+      "en": "Kenji Nagata",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0178",
+      "jp": "岡田 和明",
+      "en": "Kazuaki Okada",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0179",
+      "jp": "大塚 亮二",
+      "en": "Ryoji Otsuka",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0180",
+      "jp": "渡辺 英樹",
+      "en": "Hideki Watanabe",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0181",
+      "jp": "永田 竜也",
+      "en": "Tatsuya Nagata",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0182",
+      "jp": "東 有紀",
+      "en": "Yuki Azuma",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0183",
+      "jp": "植村 祐介",
+      "en": "Yusuke Uemura",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0184",
+      "jp": "坂本 淳",
+      "en": "Jun Sakamoto",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "English sequel character-modeling credit matched to the developer and CEDEC Japanese biography: https://www.alfasystem.net/a_m/diary.cgi?page=5 . Identity inferred from the same series, employer and modeling role. Source: https://gamefaqs.gamespot.com/vita/685564-oreshika-tainted-bloodlines/credit",
+      "reading_status": "researched",
+      "sources": [
+        "https://gamefaqs.gamespot.com/vita/685564-oreshika-tainted-bloodlines/credit"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0185",
+      "jp": "高木 麗",
+      "en": "Urara Takagi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0186",
+      "jp": "嶋 丈晴",
+      "en": "Takeharu Shima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0187",
+      "jp": "田平 豊治",
+      "en": "Toyoji Tahira",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0188",
+      "jp": "大原 知也",
+      "en": "Tomoya Ohhara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0189",
+      "jp": "鈴木 慎平",
+      "en": "Shinpei Suzuki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0190",
+      "jp": "前原 しおり",
+      "en": "Shiori Maehara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0191",
+      "jp": "松崎 弘志",
+      "en": "Hiroshi Matsuzaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional given-name reading; personal reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0192",
+      "jp": "可徳 和隆",
+      "en": "Kazutaka Katoku",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0193",
+      "jp": "久米 徹",
+      "en": "Toru Kume",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0194",
+      "jp": "上田 純一",
+      "en": "Junichi Ueda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0195",
+      "jp": "園田　未来",
+      "en": "Miku Sonoda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Miku Sonoda is the documented reading/pen name, not Mirai inferred from kanji.",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0196",
+      "jp": "原野 ケイ",
+      "en": "Kei Harano",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0197",
+      "jp": "岩花　梓",
+      "en": "Azusa Iwahana",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0198",
+      "jp": "上野 恵",
+      "en": "Megumi Ueno",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0199",
+      "jp": "小山 亜希子",
+      "en": "Akiko Koyama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0200",
+      "jp": "誉",
+      "en": "Homare",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0201",
+      "jp": "安田 拓也",
+      "en": "Takuya Yasuda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0202",
+      "jp": "中島 広太",
+      "en": "Kota Nakashima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0203",
+      "jp": "國分 政昭",
+      "en": "Masaaki Kokubu",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0204",
+      "jp": "池田 健人",
+      "en": "Kento Ikeda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Taketo is another possible given-name reading.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0205",
+      "jp": "平田 彰吾",
+      "en": "Shogo Hirata",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional given-name reading; personal reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0206",
+      "jp": "岩川 洋輔",
+      "en": "Yosuke Iwakawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional reading; personal reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0207",
+      "jp": "田中 修司",
+      "en": "Shuji Tanaka",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional reading; personal reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0208",
+      "jp": "長岡 翔",
+      "en": "Sho Nagaoka",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Kakeru is another possible given-name reading.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0209",
+      "jp": "尾上 恭輔",
+      "en": "Kyosuke Onoue",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0210",
+      "jp": "古賀 健一",
+      "en": "Kenichi Koga",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0211",
+      "jp": "久富 公志",
+      "en": "Koji Hisatomi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0212",
+      "jp": "江崎 由美子",
+      "en": "Yumiko Ezaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0213",
+      "jp": "桑 良人",
+      "en": "Yoshito Kuwa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0214",
+      "jp": "安部 貴俊",
+      "en": "Takatoshi Anbe",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0215",
+      "jp": "西川 智宏",
+      "en": "Tomohiro Nishikawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0216",
+      "jp": "斎藤 裕之",
+      "en": "Hiroyuki Saito",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0217",
+      "jp": "新井 達郎",
+      "en": "Tatsuro Arai",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0218",
+      "jp": "川田 勇誠",
+      "en": "Yusei Kawada",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0219",
+      "jp": "玉 郁夫",
+      "en": "Ikuo Tama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Rare surname; Tama chosen provisionally, not established from the unrelated people found in searches.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0220",
+      "jp": "田中 誠輝",
+      "en": "Seiki Tanaka",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0221",
+      "jp": "熊野 竜二",
+      "en": "Ryuji Kumano",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0222",
+      "jp": "石田 あきら",
+      "en": "Akira Ishida",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0223",
+      "jp": "黒咲 練導",
+      "en": "Rendo Kurosaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0224",
+      "jp": "高河 ゆん",
+      "en": "Yun Kouga",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0225",
+      "jp": "小島 アジコ",
+      "en": "Ajiko Kojima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0226",
+      "jp": "小林 智美",
+      "en": "Tomomi Kobayashi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0227",
+      "jp": "斉藤 岬",
+      "en": "Misaki Saito",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0228",
+      "jp": "そのだ みく",
+      "en": "Miku Sonoda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0229",
+      "jp": "toi8",
+      "en": "toi8",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0230",
+      "jp": "峠 比呂",
+      "en": "Hiro Touge",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0231",
+      "jp": "遠田 志帆",
+      "en": "Shiho Enta",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0232",
+      "jp": "中村 珍",
+      "en": "Ching Nakamura",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Ching Nakamura is the established artist pen-name reading; not the dictionary reading of the given-name kanji.",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0233",
+      "jp": "深谷 かほる",
+      "en": "Kaoru Fukaya",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Kaoru Fukaya follows the modern pronunciation of historical kana kahoru.",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0234",
+      "jp": "huke",
+      "en": "huke",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0235",
+      "jp": "文倉 十",
+      "en": "Ju Ayakura",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0236",
+      "jp": "前田 ヒロユキ",
+      "en": "Hiroyuki Maeda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0237",
+      "jp": "森沢 晴行",
+      "en": "Haruyuki Morisawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0238",
+      "jp": "日下部 光雄",
+      "en": "Mitsuo Kusakabe",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0239",
+      "jp": "山崎 茂",
+      "en": "Shigeru Yamazaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0240",
+      "jp": "島袋 美由紀",
+      "en": "Miyuki Shimabukuro",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0241",
+      "jp": "金山 明博",
+      "en": "Akihiro Kanayama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0242",
+      "jp": "川筋 豊",
+      "en": "Yutaka Kawasuji",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0243",
+      "jp": "小泉 謙三",
+      "en": "Kenzo Koizumi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0244",
+      "jp": "朝倉 隆",
+      "en": "Takashi Asakura",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0245",
+      "jp": "市川 慶一",
+      "en": "Keiichi Ichikawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0246",
+      "jp": "高木 雅之",
+      "en": "Masayuki Takagi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0247",
+      "jp": "谷口 嘉浩",
+      "en": "Yoshihiro Taniguchi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0248",
+      "jp": "清島 裕子",
+      "en": "Yuko Kiyoshima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0249",
+      "jp": "冨田 さおり",
+      "en": "Saori Tomita",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0250",
+      "jp": "仲田 淳子",
+      "en": "Junko Nakata",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Nakada is another possible surname reading. The unrelated voice actor was excluded.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0251",
+      "jp": "若山 加代子",
+      "en": "Kayoko Wakayama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional reading; the same-name politician does not establish the animator identity.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0252",
+      "jp": "川筋 俊江",
+      "en": "Toshie Kawasuji",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional reading; personal reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0253",
+      "jp": "進藤プロダクション",
+      "en": "Shindo Production",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0254",
+      "jp": "イージーフイルム",
+      "en": "E&G Films",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0255",
+      "jp": "エムアイ",
+      "en": "M.I",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0256",
+      "jp": "サンシャインコーポレーション",
+      "en": "Sunshine Corporation",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0257",
+      "jp": "マーサ",
+      "en": "Maasa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0258",
+      "jp": "ＨＥＥ ＷＯＮ ＣＯＲＰＯＲＡＴＩＯＮ",
+      "en": "HEE WON CORPORATION",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0259",
+      "jp": "荻森 啓子",
+      "en": "Keiko Ogimori",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0260",
+      "jp": "佐藤 和子",
+      "en": "Kazuko Sato",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0261",
+      "jp": "瀧尾 奈都子",
+      "en": "Natsuko Takio",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0262",
+      "jp": "長谷川 一美",
+      "en": "Kazumi Hasegawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0263",
+      "jp": "渡辺 亜紀",
+      "en": "Aki Watanabe",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0264",
+      "jp": "山崎 一美",
+      "en": "Kazumi Yamazaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0265",
+      "jp": "樋田 由紀子",
+      "en": "Yukiko Hida",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0266",
+      "jp": "阿部 幸次",
+      "en": "Koji Abe",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0267",
+      "jp": "トランス・アーツ",
+      "en": "Trans Arts",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0268",
+      "jp": "鳥越 一志",
+      "en": "Kazushi Torigoe",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0269",
+      "jp": "黒木 康之",
+      "en": "Yasuyuki Kuroki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0270",
+      "jp": "ファルコン",
+      "en": "Falcon",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0271",
+      "jp": "トービック",
+      "en": "Tovic",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0272",
+      "jp": "東映化工",
+      "en": "Toei Kakou",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0273",
+      "jp": "松浦 典良",
+      "en": "Noriyoshi Matsuura",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0274",
+      "jp": "丸山 光義",
+      "en": "Mitsuyoshi Maruyama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0275",
+      "jp": "伊藤 克己",
+      "en": "Katsumi Ito",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0276",
+      "jp": "GEN",
+      "en": "GEN",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0277",
+      "jp": "現",
+      "en": "GEN",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0278",
+      "jp": "西宮 規子",
+      "en": "Noriko Nishimiya",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0279",
+      "jp": "大谷 隆幸",
+      "en": "Takayuki Otani",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional reading; personal reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0280",
+      "jp": "尾崎 正喜",
+      "en": "Masayoshi Ozaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0281",
+      "jp": "スタジオ・ザイン",
+      "en": "Studio SIGN",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0282",
+      "jp": "外山 和彦",
+      "en": "Kazuhiko Toyama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0283",
+      "jp": "木原 孝之介",
+      "en": "Konosuke Kihara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Official biography supplies kana and the 2011 PSP arrangement credit; disc uses a different surname kanji. Source: https://pianoland.co.jp/schedule/schedule-23543",
+      "reading_status": "researched",
+      "sources": [
+        "https://pianoland.co.jp/schedule/schedule-23543"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0284",
+      "jp": "岡部 潔",
+      "en": "Kiyoshi Okabe",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0285",
+      "jp": "木原 遼元",
+      "en": "Ryogen Kihara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0286",
+      "jp": "ごきげんバンド",
+      "en": "Gokigen Band",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0287",
+      "jp": "宮野 弘紀",
+      "en": "Hiroki Miyano",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0288",
+      "jp": "高尾 幸宏",
+      "en": "Yukihiro Takao",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0289",
+      "jp": "海沼 正利",
+      "en": "Masatoshi Kainuma",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0290",
+      "jp": "矢尾 一樹（特別出演）",
+      "en": "Kazuki Yao (Special Appearance)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0291",
+      "jp": "石井 真",
+      "en": "Makoto Ishii",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0292",
+      "jp": "セレブレーテッド・パーティー・オーケストラのみなさん",
+      "en": "Everyone in the Celebrated Party Orchestra",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0293",
+      "jp": "清水 彰彦",
+      "en": "Akihiko Shimizu",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Paired reading and kanji in the same Soytzer Music production role; also matched against the original soundtrack credits. Source: https://www.mobygames.com/game/29202/rurouni-kenshin-ishin-gekitohen/credits/playstation/",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/29202/rurouni-kenshin-ishin-gekitohen/credits/playstation/"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0294",
+      "jp": "河辺 健宏",
+      "en": "Takehiro Kawabe",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Publisher press release pairs the Japanese and English composer name; soundtrack role corroborates identity. Source: https://digitalpr.jp/pdf.php?r=11502",
+      "reading_status": "researched",
+      "sources": [
+        "https://digitalpr.jp/pdf.php?r=11502"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0295",
+      "jp": "星 智之",
+      "en": "Tomoyuki Hoshi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Bilingual original game credits match the sound-system programmer name and role. Source: https://raido.moe/staff/ps2/ps2_sky_odyssey.html",
+      "reading_status": "researched",
+      "sources": [
+        "https://raido.moe/staff/ps2/ps2_sky_odyssey.html"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0296",
+      "jp": "植田 洋一",
+      "en": "Youichi Ueda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Original soundtrack credit transcription explicitly pairs the sound-tool programmer kanji and romanization. Source: https://downloads.khinsider.com/game-soundtracks/album/ore-no-shikabane-wo-koete-yuke-original-soundtrack-1999",
+      "reading_status": "researched",
+      "sources": [
+        "https://downloads.khinsider.com/game-soundtracks/album/ore-no-shikabane-wo-koete-yuke-original-soundtrack-1999"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0297",
+      "jp": "関 正道",
+      "en": "Masamichi Seki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Own company biography pairs kanji and romanization and establishes SCE sound-design employment. Source: https://dsdinc.jp/about",
+      "reading_status": "researched",
+      "sources": [
+        "https://dsdinc.jp/about"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0298",
+      "jp": "藤澤 孝史",
+      "en": "Takafumi Fujisawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Published kanji/romanization pairing matched against original soundtrack sound-producer credit. Source: https://www.mobygames.com/person/57287/takafumi-fujisawa/",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/person/57287/takafumi-fujisawa/"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0299",
+      "jp": "嶋澤 みどり",
+      "en": "Midori Shimazawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0300",
+      "jp": "山田 明寛",
+      "en": "Akihiro Yamada",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0301",
+      "jp": "スワラプロ",
+      "en": "Swara Pro",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0302",
+      "jp": "サンセットスタジオ",
+      "en": "Sunset Studio",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0303",
+      "jp": "スリーエススタジオ",
+      "en": "Three S Studio",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0304",
+      "jp": "嶋澤 みどり",
+      "en": "Midori Shimazawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0305",
+      "jp": "射場 小夜香",
+      "en": "Sayaka Iba",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0306",
+      "jp": "久保 雄一郎",
+      "en": "Yuichiro Kubo",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0307",
+      "jp": "宮崎 龍之介",
+      "en": "Ryunosuke Miyazaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0308",
+      "jp": "前川 晋",
+      "en": "Shin Maekawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0309",
+      "jp": "交神の儀・遺言の案を頂いた皆様",
+      "en": "Everyone who contributed ideas for Divine Union and Last Words",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0310",
+      "jp": "「ハルカ　天空の邪馬台国」「ハルカ　炎天の邪馬台国」",
+      "en": "'Haruka: Tenku no Yamataikoku' / 'Haruka: Enten no Yamataikoku'",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0311",
+      "jp": "著者：桝田省治",
+      "en": "Author: Shoji Masuda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0312",
+      "jp": "イラストレーター：佐嶋真実",
+      "en": "Illustrator: Makoto Sajima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0313",
+      "jp": "発行：株式会社エンターブレイン",
+      "en": "Publisher: Enterbrain, Inc.",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0314",
+      "jp": "© Shoji Masuda Printed in Japan 2007, 2008",
+      "en": "© Shoji Masuda Printed in Japan 2007, 2008",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0315",
+      "jp": "大沼 得生",
+      "en": "Tokuo Onuma",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0316",
+      "jp": "北澤 國将",
+      "en": "Kunimasa Kitazawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0317",
+      "jp": "武藤 学",
+      "en": "Manabu Muto",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0318",
+      "jp": "末吉 俊光",
+      "en": "Toshimitsu Sueyoshi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0319",
+      "jp": "辻 和之",
+      "en": "Kazuyuki Tsuji",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0320",
+      "jp": "小藤 祐揮",
+      "en": "Yuki Kofuji",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0321",
+      "jp": "生嶋 陽平",
+      "en": "Yohei Ikushima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional surname and given-name readings; personal readings unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0322",
+      "jp": "和田　隼一",
+      "en": "Shunichi Wada",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Disc given name uses hayabusa kanji; Shunichi chosen. Junichi and the secondary listing kanji discrepancy remain unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0323",
+      "jp": "小野塚 めぐみ",
+      "en": "Megumi Onozuka",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0324",
+      "jp": "小玉 裕昭",
+      "en": "Hiroaki Kodama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional reading; personal reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0325",
+      "jp": "仲島 道史",
+      "en": "Michifumi Nakajima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional reading; personal given-name reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0326",
+      "jp": "元木 亮太",
+      "en": "Ryota Motoki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0327",
+      "jp": "上野 修明",
+      "en": "Nobuaki Ueno",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0328",
+      "jp": "休場 弘",
+      "en": "Hiroshi Yasumiba",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Surname dictionaries list Yasumiba, Kyuba, Yasuba, Ikoiba and Yasumba; Yasumiba chosen provisionally.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://name-power.net/fn/%E4%BC%91%E5%A0%B4.html",
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0329",
+      "jp": "金丸 泰",
+      "en": "Yasushi Kanamaru",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional given-name reading; Yutaka and Tai are also possible.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0330",
+      "jp": "小西 彩加",
+      "en": "Ayaka Konishi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0331",
+      "jp": "中村 信也",
+      "en": "Shinya Nakamura",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0332",
+      "jp": "磯野 奈緒子",
+      "en": "Naoko Isono",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0333",
+      "jp": "下野 鉄平",
+      "en": "Teppei Shimono",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Uses the disc surname. The secondary listing identifying Teppei Kabata was rejected as a different surname.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0334",
+      "jp": "松田 幸恵",
+      "en": "Sachie Matsuda",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0335",
+      "jp": "竹前 怜志",
+      "en": "Satoshi Takemae",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0336",
+      "jp": "戸張 翔太",
+      "en": "Shota Tobari",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0337",
+      "jp": "川合 滋",
+      "en": "Shigeru Kawai",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0338",
+      "jp": "片山 由紀恵",
+      "en": "Yukie Katayama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0339",
+      "jp": "山口 晋平",
+      "en": "Shinpei Yamaguchi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0340",
+      "jp": "曽我部 亮",
+      "en": "Ryo Sogabe",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0341",
+      "jp": "藤崎 典子",
+      "en": "Noriko Fujisaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0342",
+      "jp": "中村 雅史",
+      "en": "Masashi Nakamura",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0343",
+      "jp": "小宮 浩典",
+      "en": "Hironori Komiya",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0344",
+      "jp": "崎前 敦之",
+      "en": "Atsuyuki Sakimae",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0345",
+      "jp": "新居 康子",
+      "en": "Yasuko Nii",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0346",
+      "jp": "西元 哲太郎",
+      "en": "Tetsutaro Nishimoto",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0347",
+      "jp": "菅沼 謙二(SMC)",
+      "en": "Kenji Suganuma (SMC)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0348",
+      "jp": "楠 可奈子(SMC)",
+      "en": "Kanako Kusunoki (SMC)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0349",
+      "jp": "安原 健一郎(豊玉屋)",
+      "en": "Kenichiro Yasuhara (Toyotamaya)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Toyotamaya company name is distinct from Toyoyamaya in a secondary listing; local kanji preserved in the glossary.",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0350",
+      "jp": "鈴木 茂雄(ROUND DESIGN)",
+      "en": "Shigeo Suzuki (ROUND DESIGN)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0351",
+      "jp": "中川 貴郎(ROUND DESIGN)",
+      "en": "Takao Nakagawa (ROUND DESIGN)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional given-name reading; unrelated company executive was excluded.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0352",
+      "jp": "佐竹 聡",
+      "en": "Satoshi Satake",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0353",
+      "jp": "安藤 豪",
+      "en": "Go Ando",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0354",
+      "jp": "早坂 恵",
+      "en": "Megumi Hayasaka",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0355",
+      "jp": "松原 亜希子",
+      "en": "Akiko Matsubara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0356",
+      "jp": "北川 広治",
+      "en": "Koji Kitakawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0357",
+      "jp": "野谷 和弘",
+      "en": "Kazuhiro Noya",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0358",
+      "jp": "西島 卓",
+      "en": "Taku Nishijima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0359",
+      "jp": "寺本 亜紀子",
+      "en": "Akiko Teramoto",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0360",
+      "jp": "石川 香代",
+      "en": "Kayo Ishikawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0361",
+      "jp": "松本 義紀",
+      "en": "Yoshinori Matsumoto",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0362",
+      "jp": "根本 一郎",
+      "en": "Ichiro Nemoto",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0363",
+      "jp": "青木 真由子",
+      "en": "Mayuko Aoki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0364",
+      "jp": "玉置 聡",
+      "en": "Satoshi Tamaki",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0365",
+      "jp": "片寄 泰蔵",
+      "en": "Yasuzo Katayose",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0366",
+      "jp": "白川 聡",
+      "en": "Satoshi Shirakawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0367",
+      "jp": "児玉 浩一",
+      "en": "Koichi Kodama",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0368",
+      "jp": "庄司 ルミ子",
+      "en": "Rumiko Shoji",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0369",
+      "jp": "和田 久生",
+      "en": "Hisao Wada",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0370",
+      "jp": "多田 浩二",
+      "en": "Koji Tada",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0371",
+      "jp": "千原 有未",
+      "en": "Yumi Chihara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0372",
+      "jp": "石田 玲子",
+      "en": "Reiko Ishida",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0373",
+      "jp": "朽方 章人",
+      "en": "Akihito Kuchikata",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Surname dictionaries list Kuchikata and Kutsukata; personal surname and given-name readings remain provisional.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://myoji.namedic.jp/sei/detail/%E6%9C%BD%E6%96%B9",
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0374",
+      "jp": "工藤 賢一",
+      "en": "Kenichi Kudo",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional reading; personal reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0375",
+      "jp": "小谷 浩之",
+      "en": "Hiroyuki Kotani",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0376",
+      "jp": "天野 光雄",
+      "en": "Mitsuo Amano",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Provisional project romanization, explicitly authorized by the user after research on 2026-10-17. Conventional reading; personal reading unverified.",
+      "reading_status": "provisional_user_authorized",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0377",
+      "jp": "小島 由香",
+      "en": "Yuka Kojima",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0378",
+      "jp": "金子 愛",
+      "en": "Ai Kaneko",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0379",
+      "jp": "折原 由佳",
+      "en": "Yuka Orihara",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0380",
+      "jp": "梶井 健",
+      "en": "Takeshi Kajii",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0381",
+      "jp": "安達 公平",
+      "en": "Kohei Adachi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0382",
+      "jp": "仲村 達郎",
+      "en": "Tatsuro Nakamura",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0383",
+      "jp": "小林 康秀",
+      "en": "Yasuhide Kobayashi",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0384",
+      "jp": "加藤 渉",
+      "en": "Wataru Kato",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0385",
+      "jp": "吉澤 純一",
+      "en": "Junichi Yoshizawa",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0386",
+      "jp": "池尻 大作",
+      "en": "Daisaku Ikejiri",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0387",
+      "jp": "金子 孝弘",
+      "en": "Takahiro Kaneko",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0388",
+      "jp": "山本 正美",
+      "en": "Masami Yamamoto",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0389",
+      "jp": "アラン・ベッカー",
+      "en": "Allan Becker",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0390",
+      "jp": "吉田 修平",
+      "en": "Shuhei Yoshida",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0391",
+      "jp": "河野 弘",
+      "en": "Hiroshi Kawano",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0392",
+      "jp": "ダイナコムウェア株式会社",
+      "en": "DynaComware Corp.",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0393",
+      "jp": "株式会社アスキー・メディアワークス",
+      "en": "ASCII Media Works, Inc.",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0394",
+      "jp": "株式会社エンターブレイン",
+      "en": "Enterbrain, Inc.",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0395",
+      "jp": "株式会社マーズ",
+      "en": "MARS Corporation",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0396",
+      "jp": "株式会社アルファ・システム",
+      "en": "Alfa System Co., Ltd.",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0397",
+      "jp": "株式会社ソニー・コンピュータエンタテインメント",
+      "en": "Sony Computer Entertainment Inc.",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0398",
+      "jp": "???",
+      "en": "???",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0399",
+      "jp": "（有限会社マーズ）",
+      "en": "(MARS Corporation)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0400",
+      "jp": "（株式会社アルファ・システム）",
+      "en": "(Alfa System Co., Ltd.)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0401",
+      "jp": "（ビジュアルワークショップ）",
+      "en": "(Visual Workshop)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0402",
+      "jp": "（すたじおガッシュ）",
+      "en": "(Studio Gouache)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0403",
+      "jp": "（スタジオ影道）",
+      "en": "(Studio Shadow)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0404",
+      "jp": "（Ｐ・Ｐ・Ｍ）",
+      "en": "(P.P.M)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0405",
+      "jp": "（株式会社ソニー・コンピュータエンタテインメント）",
+      "en": "(Sony Computer Entertainment Inc.)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0406",
+      "jp": "（リバーサイド・ミュージック）",
+      "en": "(Riverside Music)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0407",
+      "jp": "（Ｓｏｙｔｚｅｒ　Ｍｕｓｉc）",
+      "en": "(Soytzer Music)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0408",
+      "jp": "（エスプリズム）",
+      "en": "(S-Prism)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0409",
+      "jp": "（ＳＭＣ）",
+      "en": "(SMC)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0410",
+      "jp": "DynaFontは、DynaComware Taiwan inc.の",
+      "en": "DynaFont is DynaComware Taiwan Inc.'s",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": "Trademark notice continues in 411; both original records retained.",
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0411",
+      "jp": "登録商標です。",
+      "en": "registered trademark.",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0412",
+      "jp": "(株式会社エンターブレイン)",
+      "en": "(Enterbrain, Inc.)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    },
+    {
+      "source_id": "ore:032bb800:0000:01:0413",
+      "jp": "(株式会社アスキー・メディアワークス)",
+      "en": "(ASCII Media Works, Inc.)",
+      "gender": null,
+      "personality": null,
+      "role": null,
+      "notes": null,
+      "reading_status": "researched",
+      "sources": [
+        "https://www.mobygames.com/game/163091/over-my-remain/credits/psp/?autoplatform=true"
+      ]
+    }
+  ],
+  "unresolved": []
+}

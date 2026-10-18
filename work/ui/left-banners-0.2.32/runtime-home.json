@@ -1,0 +1,36 @@
+{
+  "version": "0.2.32",
+  "result": "PASS",
+  "context": "home",
+  "elf_sha256": "e06a8d06a9c49684ba7755b5f3d44d5b34b5d6c6cc1edddbcf5144337132f44b",
+  "archive_sha256": "57c75624a2a125ff69a2a4ad2179279821236d09f63edc6ee4724aed2c559845",
+  "required": "APRIL",
+  "rendering_hooks": "Verified through JIT-aware disassembly",
+  "draws": [
+    {
+      "text": "APRIL",
+      "file": "245.ppt",
+      "widget": "0x9dda0d0",
+      "descriptor": "0x8dc81f0",
+      "pixel_format": 4,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_uv": [
+        0,
+        0,
+        88,
+        260
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "pixels_and_palette": "Exact match with final data archive"
+    }
+  ],
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

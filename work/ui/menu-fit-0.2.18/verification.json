@@ -1,0 +1,161 @@
+{
+  "version": "0.2.18",
+  "result": "PASS: selected shared inventory and shop layouts",
+  "component_sha256": {
+    "elf": "4d6c14133931715cab38dd088aa7eb58415be89b87abaaf0876b0a12a702f6fb",
+    "archive": "ccfc45b592f5150d7f6ca4d1934ba3d61a0b9d06600f178b4c9673c01fc74ff7"
+  },
+  "screens": [
+    {
+      "file": "work/ui/menu-fit-0.2.18/title.png",
+      "sha256": "96c54ae1386dfe401f3b96f8ec5e6b84dcfba7ef11586b1435532ac3d3b42886",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Native v0.2.18 footer; unchanged title/font behavior",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/menu-fit-0.2.18/pack-actions.png",
+      "sha256": "f0a0a1d004d4f8f65b89995a941ec134c375a39de36047e1247e0801052b9c22",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Full action labels; capacity frame and digits clear of actions",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/menu-fit-0.2.18/pack-firestorm.png",
+      "sha256": "f291f36f91c84a651760f11836c268b7178a8f9e25ba57757b39c5179b27fe8a",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Two columns; full Firestorm Talisman description inside widened frame",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/menu-fit-0.2.18/pack-last-page.png",
+      "sha256": "6c13cc009ad05be39906c284cbecad476e374dd1f77e772946adf5171a797e7d",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Native scrolling reaches final inventory entries with no column collisions",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/menu-fit-0.2.18/storehouse-categories.png",
+      "sha256": "9ee84ad07b7b863f033f8c0debc36c07c5839336f19da6b0ee8f87a9b2c02f14",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "First four categories in wider cells",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/menu-fit-0.2.18/storehouse-curios.png",
+      "sha256": "0dbbed24b3d6589fc7f2c7c84a2bde659228d4427b2c2e522b232025812462e5",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Scrolled categories include complete Curios and Collectibles; heading stays on screen",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/menu-fit-0.2.18/storehouse-prints.png",
+      "sha256": "580cd091cfea787adcac0a58e74b7d633f8a4bb9f86bac0b882287930dc6eeb2",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Final Beauty Prints choice remains reachable",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/menu-fit-0.2.18/shop-selector.png",
+      "sha256": "6112c34d170f096b879aee7fdd2a350a4107687d80f9c8b98f4d31e4455b207e",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Three complete shop names with room inside the frame",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/menu-fit-0.2.18/armor-submenu.png",
+      "sha256": "4377df23f91cac7e492e3323f8c18b59769121fa7d9a99d3d1a0af89db2c0495",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Armor submenu follows enlarged selector and clears its neighbor",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/menu-fit-0.2.18/weapon-submenu.png",
+      "sha256": "12f0dc986efced55a502b6d71bd5270b9d501358820249726226a422f4f59824",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Both weapon columns and right frame edge remain on screen",
+      "fit": "pass"
+    }
+  ],
+  "selected_record_ids": [
+    "ore:0000c000:0001:00:0001",
+    "ore:0000c000:0001:00:0012",
+    "ore:0000c000:0001:00:0013",
+    "ore:0000c000:0001:00:0014",
+    "ore:00027000:0001:00:0016",
+    "ore:00027000:0001:00:0017",
+    "ore:00028000:0000:00:0000",
+    "ore:00028000:0000:00:0002",
+    "ore:00028000:0000:00:0004",
+    "ore:00028000:0000:00:0011",
+    "ore:00028000:0000:00:0014",
+    "ore:00028000:0000:00:0053",
+    "ore:00028000:0000:04:0003",
+    "ore:00028000:0000:10:0006",
+    "ore:00028000:0000:11:0005",
+    "ore:00028000:0000:12:0003",
+    "ore:00028000:0002:00:0002",
+    "ore:00028000:0003:01:0008",
+    "ore:00028000:0003:01:0009",
+    "ore:00028000:0003:01:0010",
+    "ore:00028000:0003:01:0011",
+    "ore:00028000:0003:01:0019",
+    "ore:00028000:0003:01:0020",
+    "ore:00028000:0003:01:0021",
+    "ore:00028000:0003:03:0000",
+    "ore:00028000:0003:03:0003",
+    "ore:00028000:0003:03:0004",
+    "ore:00028000:0003:03:0006"
+  ],
+  "accumulated_selected_record_count": 64,
+  "static_audit": {
+    "fixed_names": 631,
+    "name_advance_budget": 220,
+    "longest_advance": 218.571,
+    "descriptions": 232,
+    "description_budget": 456,
+    "longest_description_advance": 450.857,
+    "numeric_expansion": "Conservative signed 32-bit values for all 41 numeric descriptions"
+  },
+  "native_mips": "PASS: both margin hooks preserve caller/stack/saved registers; original geometry returns 472x90; unhooked legacy geometry retained",
+  "navigation": "PASS: last inventory page, all eight categories, armor and weapon submenus",
+  "limits": [
+    "Selected contexts; fixed-name measurements are not 631 actual-screen checks",
+    "Dynamic heirloom names and other menu families need separate review",
+    "Physical PSP and full-playthrough testing pending"
+  ],
+  "texture_replacement": false,
+  "font_changes": false,
+  "script_text_changes": 0,
+  "github_release": false
+}

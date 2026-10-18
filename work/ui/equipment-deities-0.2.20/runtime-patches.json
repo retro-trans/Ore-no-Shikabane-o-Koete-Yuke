@@ -1,0 +1,152 @@
+{
+  "version": "0.2.20",
+  "iso": "work/source/qa-equipment-0.2.20d.iso",
+  "elf_sha256": "b8e6fbe75efa36ed2112b581075740d5ef920ccffff3c821a7e18434aae0394a",
+  "archive_sha256": "affbd83b412074d458164002b13a36879fe252ed090a95f09a9e8f33b92a499b",
+  "native_patches_verified": [
+    {
+      "address": "0x893a8a8",
+      "bytes": "80000524"
+    },
+    {
+      "address": "0x88f72d0",
+      "bytes": "f8000524"
+    },
+    {
+      "address": "0x88f6fb0",
+      "bytes": "24000524"
+    },
+    {
+      "address": "0x88f72e8",
+      "bytes": "04000524"
+    },
+    {
+      "address": "0x88f72f0",
+      "bytes": "01000624"
+    },
+    {
+      "address": "0x88f638c",
+      "bytes": "f0000524"
+    },
+    {
+      "address": "0x88f63b0",
+      "bytes": "04000524"
+    },
+    {
+      "address": "0x88f63b8",
+      "bytes": "01000624"
+    },
+    {
+      "address": "0x895c2f4",
+      "bytes": "7e000624"
+    },
+    {
+      "address": "0x895c2c4",
+      "bytes": "64000624"
+    },
+    {
+      "address": "0x895c33c",
+      "bytes": "da000624"
+    },
+    {
+      "address": "0x895b40c",
+      "bytes": "04000524"
+    },
+    {
+      "address": "0x895bb08",
+      "bytes": "10000624"
+    },
+    {
+      "address": "0x895bb14",
+      "bytes": "5a000524"
+    },
+    {
+      "address": "0x895bb3c",
+      "bytes": "12000624"
+    },
+    {
+      "address": "0x895bb48",
+      "bytes": "6a000524"
+    },
+    {
+      "address": "0x895bb7c",
+      "bytes": "10000624"
+    },
+    {
+      "address": "0x895bb88",
+      "bytes": "a2000524"
+    },
+    {
+      "address": "0x8959324",
+      "bytes": "b0000524"
+    },
+    {
+      "address": "0x8959354",
+      "bytes": "2c010524"
+    },
+    {
+      "address": "0x8959388",
+      "bytes": "44010524"
+    },
+    {
+      "address": "0x895946c",
+      "bytes": "32010524"
+    },
+    {
+      "address": "0x89594ac",
+      "bytes": "c8010524"
+    },
+    {
+      "address": "0x89594a0",
+      "bytes": "94000624"
+    },
+    {
+      "address": "0x89594dc",
+      "bytes": "10000524"
+    },
+    {
+      "address": "0x89594ec",
+      "bytes": "32010524"
+    },
+    {
+      "address": "0x895952c",
+      "bytes": "32010524"
+    },
+    {
+      "address": "0x8959594",
+      "bytes": "d4010524"
+    },
+    {
+      "address": "0x89595e0",
+      "bytes": "32010524"
+    },
+    {
+      "address": "0x8959648",
+      "bytes": "d4010524"
+    },
+    {
+      "address": "0x88f68e8",
+      "bytes": "b809033c"
+    },
+    {
+      "address": "0x88f68f4",
+      "bytes": "98e06524"
+    },
+    {
+      "address": "0x88f68f8",
+      "bytes": "b809023c"
+    },
+    {
+      "address": "0x88f68fc",
+      "bytes": "a0e04524"
+    },
+    {
+      "address": "0x895b418",
+      "bytes": "2cf86d0e"
+    }
+  ],
+  "appended_strings": "pass",
+  "wrapper_original_opcodes": "pass",
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

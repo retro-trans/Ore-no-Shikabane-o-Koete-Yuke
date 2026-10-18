@@ -1,0 +1,38 @@
+{
+  "version": "0.2.23",
+  "status": "Draft; native startup display verified",
+  "rows": [
+    {
+      "file": "EBOOT:warning.ppt",
+      "member_entry": 4,
+      "translation_en": "This story is entirely fictional.\nIt has no connection to real people, places,\norganizations, product names, or the like.",
+      "native_size": [
+        480,
+        272
+      ],
+      "font": "Noto Sans",
+      "font_size": 14,
+      "line_bounds": [
+        [
+          144.5,
+          110.5,
+          335.25,
+          125.0
+        ],
+        [
+          99.0,
+          130.75,
+          381.0,
+          145.0
+        ],
+        [
+          103.0,
+          150.75,
+          377.0,
+          165.0
+        ]
+      ],
+      "fit_evidence": "work/ui/startup-disclaimer-0.2.23/disclaimer-after.png"
+    }
+  ]
+}

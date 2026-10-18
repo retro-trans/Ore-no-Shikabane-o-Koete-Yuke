@@ -1,0 +1,22 @@
+Character and spell UI — local build 0.2.21
+
+Input: delivered 0.2.20 components, pinned hashes in build_character_spells.py.
+Native 480x272 coordinates are recorded in work/ui/character-spells-0.2.21/layout.json.
+Popup text cells: two rows/columns, width84. Red roster selector: original
+110-pixel image height plus12, matching the extended cards and age row.
+Spells: two columns, seven visible rows, width108; all three paths assigning
+the native cell background apply the same width. Native ordering, filtering,
+scrolling and controls remain. All96 fixed spell names measure at most94.286
+pixels inside a107-pixel budget. Character name/age/MP rows are separated.
+The colored legend uses complete ASCII labels and the embedded4x VWF.
+Spirit/Skill captions replace the obsolete Japanese pictogram plus text;
+Req. identifies learning requirements and Now identifies current stats.
+The MP graphic uses the existing native palette. Role flags retain0.2.20.
+
+Build: build_character_spells.py (dry run, then --write); build_iso.py.
+Checks: test_character_spells.py, verify_character_runtime.py,
+check_shop_font.py, all49 translation batches and actual framebuffer captures.
+Final ISO matches the tested qa-character-0.2.21d.iso byte-for-byte.
+Script payloads, original save record structures and unrelated archive members
+remain unchanged. Temporary project QA saves are restored after testing.
+Selected contexts are verified; full-playthrough and real PSP QA remain pending.

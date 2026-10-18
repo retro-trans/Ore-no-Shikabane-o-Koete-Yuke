@@ -1,0 +1,28 @@
+Character profile traits — local build 0.2.30
+
+The intro.mlb translations were complete. Status formatting at 0x08948e0c
+used a 20-byte UCS2 output buffer, leaving nine visible characters and a null.
+Only this display path now formats into a dedicated 1,024-byte buffer.
+The archive trait table, character trait IDs and saved records are unchanged.
+
+Trait position is (70,229), with a second line at local offset (0,14).
+English font metrics determine word breaks, with a 280-unit line budget.
+The 80-pixel Status/Abilities frame leaves room for both trait lines and the
+Back prompt. The taller 108-pixel equipment tab retains its four item rows;
+traits hide on that tab and reappear on returning to Status or Abilities.
+The native cLabel renderer ignores plain newlines. The trait setter therefore
+sets the first line, appends an engine-allocated cText child for the second,
+and restores the full formatted buffer. Native parent ownership handles
+teardown and switching. Font size remains 16 (existing label setting).
+
+All 731 translated traits pass actual MIPS formatting/wrapping tests; maximum
+two lines with the tested eight-letter name and city substitutions. Five
+stress cases check bounded termination and buffer guards. Additional tests
+check caller registers, the untouched old stack slot, child ownership and
+14-pixel placement. Selected final-ISO captures cover both reported characters,
+repeated switching and re-entry. The longest-text image uses a separate QA
+executable that redirects only the display formatter; save records are untouched.
+
+Evidence: work/ui/profile-traits-0.2.30/. Original isolated-profile saves
+restored; user profile unchanged. Texture replacement disabled. Local build
+only, no GitHub release. Full-game and physical PSP checks remain pending.

@@ -1,0 +1,19 @@
+{
+  "version": "0.2.30",
+  "elf_sha256": "9f303fd005662bd157a9c88e9c28da642646bca66b3adfe5feb6e82b9f79f04b",
+  "result": "PASS",
+  "actual_native_formatter": true,
+  "translated_rows": 731,
+  "stress_cases": 5,
+  "maximum_lines": 2,
+  "buffer_guard": "unchanged",
+  "old_stack_buffer": "untouched",
+  "caller_state": "SP, RA, S0-S7 preserved",
+  "raw_setter": "Three MIPS cases: first line, owned second text child, local position [0,14], full buffer restored",
+  "tabs": "Three MIPS visibility cases and original frame resize branches: 260x80 for Status/Abilities, 260x108 for Equipment",
+  "dynamic_substitutions": "Eight-letter name and city forwarded through original formatter",
+  "worst": {
+    "text": "Creed: Where there's a will, there's a way",
+    "maximum_metric_width": 280
+  }
+}

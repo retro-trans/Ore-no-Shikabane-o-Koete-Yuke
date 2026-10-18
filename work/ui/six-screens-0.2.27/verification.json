@@ -1,0 +1,71 @@
+{
+  "version": "0.2.27",
+  "result": "PASS: six reported screens checked in the final ISO",
+  "iso": {
+    "version": "0.2.27",
+    "file": "work/output/english-native-0.2.27.iso",
+    "bytes": 1081126912,
+    "sha256": "b503c6b12a87a80b190bd8e2299c873ae861d52538e056b577eb5b17c1e4a849"
+  },
+  "screens": [
+    {
+      "file": "work/ui/six-screens-0.2.27/final-status-female.png",
+      "sha256": "7fd31feac6451e715766d1294ad0a5f8510506c2e4bec9bd8d830ba402d915cf"
+    },
+    {
+      "file": "work/ui/six-screens-0.2.27/final-equipment-female.png",
+      "sha256": "7542aba2d0546d208c92ca77b7e85c16e070ac07fbc588c4f554d0790e4fa8be"
+    },
+    {
+      "file": "work/ui/six-screens-0.2.27/final-pause.png",
+      "sha256": "aefdee82abae027d1c41fc42a3e0ffdde17a60da0f47615cdd3ec534b8a65788"
+    },
+    {
+      "file": "work/ui/six-screens-0.2.27/final-formation.png",
+      "sha256": "2e1c012d6624fbf84d95e26dccab59d25fc03758714f33e8f7b4188a62744627"
+    },
+    {
+      "file": "work/ui/six-screens-0.2.27/final-schedule.png",
+      "sha256": "bd6f973c086134679c21fd9ef82ab3acd8caa9b0e00eaf5a58076cbb40311831"
+    },
+    {
+      "file": "work/ui/six-screens-0.2.27/final-results.png",
+      "sha256": "eb86e4dbec48d0132c2faec4ee4cd4307ab18a69e05d2424e299e80ae9f71216"
+    }
+  ],
+  "native_patch_count": 14,
+  "actual_mips": "PASS: 6 actual MIPS equipment-row cases, 24 native chart-coordinate cases, stack/saved registers, full-size chart label lane, growth/results/class widths, two complete formation-help lines and shared count-unit spacing.",
+  "translation_batches": 5,
+  "text_rows_changed": 10,
+  "native_literals": [
+    {
+      "address": "0x8a3b198",
+      "translation_en": "Next Growth",
+      "context": "Native battle growth caption"
+    },
+    {
+      "address": "0x8a443dc",
+      "translation_en": "Money",
+      "context": "Shared pause-menu money caption"
+    },
+    {
+      "address": "0x8a443e4",
+      "translation_en": "ryo",
+      "context": "Shared pause-menu currency"
+    }
+  ],
+  "checks": {
+    "other_text_rows": "byte-identical",
+    "other_archive_members": "byte-identical",
+    "other_executable_bytes": "byte-identical",
+    "tokens_and_row_ids": "preserved",
+    "mlt_roundtrips": "pass"
+  },
+  "texture_replacement": false,
+  "github_release": false,
+  "save_record_writes": false,
+  "limits": [
+    "Full-playthrough and physical PSP testing remain pending.",
+    "This pass covers the six reported screens; unrelated remaining text is not declared complete."
+  ]
+}

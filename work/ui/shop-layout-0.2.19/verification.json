@@ -1,0 +1,102 @@
+{
+  "version": "0.2.19",
+  "result": "PASS: selected native shop contexts",
+  "component_sha256": {
+    "elf": "bb5c934d084824041df0a74a939156ece421fb38678a40ff4134e45250320bac",
+    "archive": "952c2ccce5f496f36aa8c84abc1fad80924923449ffeec314ab9c828414944bf"
+  },
+  "screens": [
+    {
+      "file": "work/ui/shop-layout-0.2.19/body-after.png",
+      "sha256": "60a7fe73ff771ae037b4df44060cb4cc90efdfdb296a8daf7d7cc99ffd568ebf",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Body armor: separated ownership/funds, stock/prices, names, equipped marker, DEF and signed change; two background kanji retained",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/shop-layout-0.2.19/body-restricted.png",
+      "sha256": "2ecff4038055b8d6e4cb8f3f977cabfd0ac0193edd6b30edbc7acd82b547953a",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Complete Female Exclusive restriction and Cannot Equip status; negative comparison",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/shop-layout-0.2.19/body-detailed.png",
+      "sha256": "b1c7018482e3771a26d78e2ca06b0cc98cce260c0149dd02b21c8c96cf81bf35",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "English Gear Stats heading and ATK/DEF/AGI native sprite labels",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/shop-layout-0.2.19/head-armor.png",
+      "sha256": "d8d5c9d885a9b9a140a18c6c317c5e8e2601f06c86b6bb2c9df771efbb29022a",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Head armor list and two positive DEF comparisons",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/shop-layout-0.2.19/sword-negative.png",
+      "sha256": "d024dbc949f474506c632be1399647dc48504a0030dca71af1e1b0626f7656a3",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Weapons list, negative ATK comparison and Swordsman Exclusive restriction",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/shop-layout-0.2.19/general-store.png",
+      "sha256": "9d04a1151a50f6f7ddc5f4769f5860cc41dd6eff63f83baeffe86c7687e4f4f7",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "General Store shares stock, prices, ownership and funds without comparison clutter",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/shop-layout-0.2.19/inventory-detail.png",
+      "sha256": "f41b14eec362ec57fb73c666cf633cedda4fbd31058cbf7109c351cfd37f5627",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Shared equipment description remains correctly separated in the wider inventory frame",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/shop-layout-0.2.19/title.png",
+      "sha256": "19dfbff4965a8387da983f4d2c50e7e8a3c1c5570d62fd930af075023dc819f8",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Native v0.2.19 footer and complete github.com/retro-trans URL",
+      "fit": "pass"
+    }
+  ],
+  "native_mips": "PASS: actual MIPS coordinate assignments, restriction joins, expanded 128-byte buffers/canaries, signed deltas, funds spacing, saved caller state, and 49 comparison-page cases with all members reachable.",
+  "runtime_patches": 71,
+  "font_draws": "Native atlas and UVs verified for funds, currency, ownership, DEF, ATK, signed change, popup heading and other English objects",
+  "script_text_changes": 0,
+  "indexed_fit_count": 64,
+  "background_helmet_and_armor_art": "byte-identical",
+  "texture_replacement": false,
+  "limits": [
+    "Actual runtime party has two members with eight-letter names; 0..12 member paging covered by MIPS tests",
+    "Selected initial stocks; full-game/shop dynamic names and real PSP testing remain pending"
+  ],
+  "github_release": false
+}

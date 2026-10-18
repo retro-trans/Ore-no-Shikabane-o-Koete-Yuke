@@ -1,0 +1,168 @@
+{
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "images": [
+    {
+      "widget": "0x9dc3df0",
+      "descriptor": "0x9c45210",
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_visible": [
+        176,
+        504
+      ],
+      "source_uv": [
+        0,
+        0,
+        176,
+        504
+      ],
+      "native_texture": [
+        256,
+        512
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dc4560",
+      "descriptor": "0x9b8c7d0",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dc4640",
+      "descriptor": "0x9b8ec10",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dc4720",
+      "descriptor": "0x9c75a90",
+      "logical_size": [
+        46,
+        16
+      ],
+      "physical_visible": [
+        184,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        184,
+        64
+      ],
+      "native_texture": [
+        256,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dc4800",
+      "descriptor": "0x9b91050",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dc48e0",
+      "descriptor": "0x9b93490",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dc49c0",
+      "descriptor": "0x9c78ed0",
+      "logical_size": [
+        46,
+        16
+      ],
+      "physical_visible": [
+        184,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        184,
+        64
+      ],
+      "native_texture": [
+        256,
+        64
+      ],
+      "tag": "0x444834"
+    }
+  ]
+}

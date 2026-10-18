@@ -1,0 +1,30 @@
+{
+  "stats_frame": [
+    60,
+    142,
+    260,
+    108
+  ],
+  "trait": [
+    70,
+    229
+  ],
+  "trait_second_line_y": 243,
+  "equipment_frame_height": 108,
+  "potential": {
+    "frame_width": 142,
+    "caption_x": 4,
+    "axis_x": 40,
+    "element_x": 44,
+    "bar_x": 62,
+    "bar_max_width": 76,
+    "right_edge": 138,
+    "grid_x": [
+      61,
+      80,
+      99,
+      118,
+      138
+    ]
+  }
+}

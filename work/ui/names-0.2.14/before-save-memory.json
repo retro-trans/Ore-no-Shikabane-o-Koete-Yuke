@@ -1,0 +1,25 @@
+{
+  "WWWWWWWW": {
+    "packed_hex": "d7dfebf57abd5eaf",
+    "guest_addresses": [
+      "0x9ae808c",
+      "0x9bcd988"
+    ]
+  },
+  "aaaaAAAA": {
+    "packed_hex": "e1df70381c0c0683",
+    "guest_addresses": [
+      "0x9ae8094",
+      "0x9bcd990",
+      "0x9bcda16",
+      "0x9bd00fc"
+    ]
+  },
+  "bbbbBBBB": {
+    "packed_hex": "62dfb1582c140a85",
+    "guest_addresses": [
+      "0x9bcdc76",
+      "0x9bd011c"
+    ]
+  }
+}

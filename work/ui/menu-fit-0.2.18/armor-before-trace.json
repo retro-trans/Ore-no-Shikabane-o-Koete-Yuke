@@ -1,0 +1,27 @@
+[
+  {
+    "kind": "descriptor",
+    "object": "0x9cb7b00",
+    "argument": "0x8a45f44",
+    "caller": "0x8950ff8",
+    "descriptor": [
+      2,
+      1,
+      4,
+      2,
+      48,
+      16,
+      10,
+      10,
+      10,
+      10,
+      2
+    ]
+  },
+  {
+    "kind": "cell_width",
+    "object": "0x9cb7b00",
+    "argument": "0x30",
+    "caller": "0x8822244"
+  }
+]

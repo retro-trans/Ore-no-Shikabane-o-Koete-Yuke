@@ -1,0 +1,21 @@
+{
+  "version": "0.2.8",
+  "root_payloads_checked": 3868,
+  "standalone_mlt": [
+    {
+      "root_index": 27,
+      "original_offset": "0x3b9800",
+      "bytes": 17856,
+      "compression": "raw",
+      "records": 1749,
+      "records_by_section": {
+        "0": 14,
+        "1": 64,
+        "2": 712,
+        "3": 959
+      }
+    }
+  ],
+  "scope_correction": "The earlier 100% draft figure covered catalogued EZBIND text. Standalone root 27 adds 14 UI prompts, translated in 0.2.8, and 1735 original Japanese player-name choices retained as name-generation data.",
+  "other_payloads": "This signature audit does not establish that every non-MLT binary or image is text-free."
+}

@@ -1,0 +1,12 @@
+{
+  "version": "0.2.31",
+  "result": "PASS",
+  "source": "Two original native Vita BC3 texture sheets",
+  "independent_pixel_checks": 5824,
+  "maximum_channel_difference": 1,
+  "rounding_tolerance": 3,
+  "crops": "All seven incoming PNGs equal the native decoded crop exactly",
+  "source_resampling": false,
+  "original_alpha": "Retained",
+  "decoder_reference": "https://github.com/Vita3K/Vita3K/blob/master/vita3k/renderer/src/texture/format.cpp"
+}

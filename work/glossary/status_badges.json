@@ -1,0 +1,21 @@
+{
+  "version": "0.2.22",
+  "scope": "Compact native status badges; full names retain core glossary spelling",
+  "terms": [
+    {
+      "jp": "\u4f53\u529b",
+      "en": "HP",
+      "full": "Hit points"
+    },
+    {
+      "jp": "\u5065\u5eb7",
+      "en": "HLTH",
+      "full": "Health"
+    },
+    {
+      "jp": "\u5fe0\u5fc3",
+      "en": "LOY",
+      "full": "Loyalty"
+    }
+  ]
+}

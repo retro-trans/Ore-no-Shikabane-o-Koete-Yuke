@@ -1,0 +1,124 @@
+{
+  "version": "0.2.21",
+  "iso": "work/source/qa-character-0.2.21d.iso",
+  "elf_sha256": "136e36198be6364d30c7f4553ffe20e492919ef1e8b4096c9059000bbe8a2ed8",
+  "archive_sha256": "ff32d7a24f18693ae82749ad7d2de096ca8e5c673922fd002b805837867da615",
+  "native_patches_verified": [
+    {
+      "address": "0x88ff920",
+      "bytes": "54000524"
+    },
+    {
+      "address": "0x89547a4",
+      "bytes": "02000624"
+    },
+    {
+      "address": "0x89547d8",
+      "bytes": "6c000524"
+    },
+    {
+      "address": "0x8958d60",
+      "bytes": "e400428c"
+    },
+    {
+      "address": "0x8958da8",
+      "bytes": "00000524"
+    },
+    {
+      "address": "0x8955d48",
+      "bytes": "46004224"
+    },
+    {
+      "address": "0x8955f60",
+      "bytes": "78000524"
+    },
+    {
+      "address": "0x8955120",
+      "bytes": "52000624"
+    },
+    {
+      "address": "0x8955138",
+      "bytes": "38000624"
+    },
+    {
+      "address": "0x895518c",
+      "bytes": "52000624"
+    },
+    {
+      "address": "0x895519c",
+      "bytes": "62000624"
+    },
+    {
+      "address": "0x89551d0",
+      "bytes": "72000624"
+    },
+    {
+      "address": "0x89551ec",
+      "bytes": "72000624"
+    },
+    {
+      "address": "0x89551fc",
+      "bytes": "72000624"
+    },
+    {
+      "address": "0x8955280",
+      "bytes": "74000624"
+    },
+    {
+      "address": "0x89552dc",
+      "bytes": "84000624"
+    },
+    {
+      "address": "0x895532c",
+      "bytes": "84000624"
+    },
+    {
+      "address": "0x8958eb4",
+      "bytes": "33f86d0e"
+    },
+    {
+      "address": "0x8958ec0",
+      "bytes": "44f86d0e"
+    },
+    {
+      "address": "0x8958ecc",
+      "bytes": "55f86d0e"
+    },
+    {
+      "address": "0x8958ed8",
+      "bytes": "66f86d0e"
+    },
+    {
+      "address": "0x8955d68",
+      "bytes": "76f86d0e"
+    },
+    {
+      "address": "0x8955d80",
+      "bytes": "87f86d0e"
+    },
+    {
+      "address": "0x8955d9c",
+      "bytes": "98f86d0e"
+    },
+    {
+      "address": "0x892c154",
+      "bytes": "a6f86d0e"
+    },
+    {
+      "address": "0x8954cb8",
+      "bytes": "b6f86d0e"
+    },
+    {
+      "address": "0x8954f2c",
+      "bytes": "b6f86d0e"
+    },
+    {
+      "address": "0x8954f74",
+      "bytes": "b6f86d0e"
+    }
+  ],
+  "appended_caption_and_selector_wrappers": "pass",
+  "appended_literals": "pass",
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

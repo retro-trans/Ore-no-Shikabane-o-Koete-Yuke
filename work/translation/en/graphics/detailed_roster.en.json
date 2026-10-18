@@ -1,0 +1,44 @@
+{
+  "version": "0.2.22",
+  "rows": [
+    {
+      "archive_offset": 221184,
+      "member_entry": 10,
+      "file": "107.ppt",
+      "translation_en": "HP",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_evidence": "work/ui/detailed-roster-0.2.22/stats-after.png"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 17,
+      "file": "113.ppt",
+      "translation_en": "HLTH",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_evidence": "work/ui/detailed-roster-0.2.22/stats-after.png"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 18,
+      "file": "114.ppt",
+      "translation_en": "LOY",
+      "label_rectangle": [
+        0,
+        0,
+        32,
+        16
+      ],
+      "fit_evidence": "work/ui/detailed-roster-0.2.22/stats-after.png"
+    }
+  ]
+}

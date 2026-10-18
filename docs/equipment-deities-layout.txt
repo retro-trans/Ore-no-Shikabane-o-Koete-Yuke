@@ -1,0 +1,36 @@
+Equipment and deity menus — local build 0.2.20
+
+Source: delivered 0.2.19, pinned hashes in tools/build_equipment_deities.py.
+Native 4x VWF and all script payloads are retained. The executable changes 35
+guarded instructions and appends 40 bytes for two Latin labels/padding and a
+16-byte native geometry wrapper. Eleven native graphics are translated, with
+original palettes retained; the footer version changes. Other members match.
+
+480x272 layout:
+Equipment slots: four rows, one column, 248-pixel cells, name starts at x36.
+The 212-pixel name budget exceeds the 202.286-pixel maximum among 463 fixed
+equipment names. Available equipment has one 240-pixel column, four visible
+rows and native scrolling. Source caption y100, candidates y126, description y218.
+Slot frame is 268x90 at [208,8]; candidates are 260x90 at [216,126].
+Divine Union submenu: 128-pixel text width, original centering/controls.
+Deity list: four visible 32-pixel cells, width216. Name stays at [20,0];
+cost is right-aligned at [90,16], element [106,18], gender centered [162,16].
+The wrapper sets only row height before the original menu geometry routine.
+Deity detail frame: [300,16,476,228]. Portrait [324,18,452,146].
+Name [306,158], element [456,148], unions [306,179], required points [306,195],
+required value right-aligned at [468,211]. Fixed deity names peak at 149.143
+pixels, within a 160-pixel budget. The full requirement label is 147.429 pixels.
+
+Build and checks:
+tools/build_equipment_deities.py (dry run, then --write); tools/build_iso.py.
+tools/test_equipment_deities.py; tools/verify_equipment_runtime.py;
+tools/check_shop_font.py supports a version and output-directory override.
+Runtime screenshots and identity proofs: work/ui/equipment-deities-0.2.20/.
+The delivered image matches the tested candidate byte-for-byte. Original
+project-profile saves are restored after QA; the tutorial-completed test save
+is retained separately under ignored work/source/qa-save-equipment-0.2.20/.
+
+Limits: selected initial party/stocks and fixed names; dynamic heirloom and
+generated deity names need review. A pre-existing low-offering confirmation
+warning can truncate its English message and is still pending. Full-playthrough
+and real PSP boot/performance remain unverified. No GitHub release created.

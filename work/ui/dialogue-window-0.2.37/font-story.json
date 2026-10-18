@@ -1,0 +1,38 @@
+{
+  "version": "0.2.37",
+  "context": "story",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Until you're used to the tactics of battle,",
+    "don't skimp on medicine. Heal your HP early,",
+    "while you still have plenty to spare."
+  ],
+  "objects": [
+    {
+      "text": "Until you're used to the tactics of battle,",
+      "atlas": "0x9b5c010",
+      "glyphs": 43,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "don't skimp on medicine. Heal your HP early,",
+      "atlas": "0x9b5c010",
+      "glyphs": 44,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "while you still have plenty to spare.",
+      "atlas": "0x9b5c010",
+      "glyphs": 37,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Itsuka",
+      "atlas": "0x9b5c010",
+      "glyphs": 6,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

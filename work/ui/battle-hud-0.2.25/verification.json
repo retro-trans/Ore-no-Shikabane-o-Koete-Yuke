@@ -1,0 +1,30 @@
+{
+  "version": "0.2.25",
+  "result": "PARTIAL: title/prologue boot and native MIPS name conversion pass; combat transition halts at PC 0 in isolated testing, also observed on base 0.2.24; battle visual check pending",
+  "screens": [
+    {
+      "file": "work/ui/battle-hud-0.2.25/title-menu-c.png",
+      "sha256": "fe36278499fb408ee48cb22379dafcd7a5b642e9811ff508de73cf2af945746b"
+    },
+    {
+      "file": "work/ui/battle-hud-0.2.25/current-c.png",
+      "sha256": "2b825cd8296b2c0a031f975f061c891015fec9a4b17e8cf6e19a107abc46eb52"
+    }
+  ],
+  "mips": "PASS: 13 actual MIPS trampoline cases and 13 full native text-setter cases; exact aliases only, source records untouched, child line text/counts correct, original stack/store instructions replayed, arguments and saved registers preserved.",
+  "native_font_evidence": null,
+  "checks": {
+    "unrelated_executable_bytes": "byte-identical",
+    "all_scripts": "byte-identical",
+    "unrelated_archive_members": "byte-identical",
+    "save_records": "unchanged",
+    "compression_roundtrips": "pass"
+  },
+  "texture_replacement": false,
+  "save_files": "unchanged",
+  "github_release": false,
+  "limits": [
+    "Battle panel has not yet been visually verified in this isolated test run",
+    "Full-playthrough and physical PSP tests remain pending"
+  ]
+}

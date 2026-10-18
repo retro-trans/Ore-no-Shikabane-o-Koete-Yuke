@@ -1,0 +1,237 @@
+{
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "images": [
+    {
+      "widget": "0x9dd7380",
+      "descriptor": "0x9b9e9d0",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dd7460",
+      "descriptor": "0x9ba0e10",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dd9120",
+      "descriptor": "0x9b8c7d0",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dd9200",
+      "descriptor": "0x9b8ec10",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9dd92e0",
+      "descriptor": "0x9b9a150",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9ddef90",
+      "descriptor": "0x9b91050",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9ddf070",
+      "descriptor": "0x9b93490",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9ddf150",
+      "descriptor": "0x9b958d0",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9ddf230",
+      "descriptor": "0x9b9c590",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9ddf310",
+      "descriptor": "0x9b97d10",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    }
+  ]
+}

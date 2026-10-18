@@ -1,0 +1,214 @@
+{
+  "version": "0.2.22",
+  "result": "PASS: selected detailed roster status/equipment screens",
+  "screens": [
+    {
+      "file": "work/ui/detailed-roster-0.2.22/stats-after.png",
+      "sha256": "1972dca213353fa593f92794b235fe7df120e60f0b69417d2f47123225a0a82b",
+      "observed": "English HP, MP, LOY, HLTH, ATK, DEF and AGI; separate name and stat columns",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/detailed-roster-0.2.22/equipment-after.png",
+      "sha256": "9ef06e011558b4fb63a2967fc0c124047aeffddb272828611314d9381afc8606",
+      "observed": "Four full equipment names with separate English slot labels",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/detailed-roster-0.2.22/equipment-second.png",
+      "sha256": "c061c21fe51bbaa957f672aee99bc9fc0daccdccb5f9c5c8b7f5ed015f61cf2e",
+      "observed": "Second character selection and four equipment rows",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/detailed-roster-0.2.22/simple-after.png",
+      "sha256": "42e88df6310e33233955b739f5560f239b5132188c77eea2a3edeac09ebac297",
+      "observed": "Shared badge translation and existing portrait selector retained",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/detailed-roster-0.2.22/title.png",
+      "sha256": "c88161c677c9096381ba19a6f105d333198019a60fa91d2c7acae586d2ed4041",
+      "observed": "Version 0.2.22 and full project URL",
+      "fit": "pass"
+    }
+  ],
+  "layout": {
+    "version": "0.2.22",
+    "native_resolution": [
+      480,
+      272
+    ],
+    "card": {
+      "width": 400,
+      "height": 61,
+      "left": 40,
+      "name_left": 70,
+      "name_font_size": 14
+    },
+    "equipment": {
+      "text_positions": [
+        [
+          192,
+          1
+        ],
+        [
+          192,
+          16
+        ],
+        [
+          192,
+          31
+        ],
+        [
+          192,
+          46
+        ]
+      ],
+      "slot_positions": [
+        [
+          128,
+          160,
+          0
+        ],
+        [
+          129,
+          160,
+          15
+        ],
+        [
+          130,
+          160,
+          30
+        ],
+        [
+          131,
+          160,
+          45
+        ]
+      ],
+      "name_budget": 208,
+      "fixed_names": 463,
+      "max_fixed_name_width": 202.28571428571428,
+      "row_pitch": 15,
+      "paging": "native; unchanged"
+    },
+    "status": {
+      "text_positions": [
+        [
+          225,
+          5
+        ],
+        [
+          260,
+          5
+        ],
+        [
+          225,
+          23
+        ],
+        [
+          260,
+          23
+        ],
+        [
+          325,
+          5
+        ],
+        [
+          325,
+          23
+        ],
+        [
+          392,
+          5
+        ],
+        [
+          392,
+          23
+        ],
+        [
+          392,
+          41
+        ],
+        [
+          248,
+          41
+        ],
+        [
+          325,
+          41
+        ]
+      ],
+      "slot_positions": [
+        [
+          107,
+          154,
+          5
+        ],
+        [
+          108,
+          154,
+          23
+        ],
+        [
+          114,
+          267,
+          5
+        ],
+        [
+          113,
+          267,
+          23
+        ],
+        [
+          109,
+          332,
+          5
+        ],
+        [
+          110,
+          332,
+          23
+        ],
+        [
+          111,
+          332,
+          41
+        ]
+      ]
+    },
+    "badges": {
+      "HP": "Hit points",
+      "HLTH": "Health",
+      "LOY": "Loyalty"
+    },
+    "retained_labels": [
+      "MP",
+      "ATK",
+      "DEF",
+      "AGI",
+      "Head",
+      "Leader",
+      "Party",
+      "WPN",
+      "HEAD",
+      "ARM",
+      "ACC"
+    ]
+  },
+  "checks": {
+    "native_instructions": "unchanged",
+    "unrelated_executable_bytes": "byte-identical",
+    "all_script_payloads": "byte-identical",
+    "other_archive_members": "byte-identical",
+    "compression_round_trips": "pass"
+  },
+  "native_font": "Actual equipment name draws use the embedded 4x atlas and expected UVs",
+  "runtime_layout_tables_verified": 4,
+  "texture_replacement": false,
+  "github_release": false,
+  "limits": [
+    "Selected initial two-character party; full-playthrough and real PSP testing remain pending"
+  ]
+}

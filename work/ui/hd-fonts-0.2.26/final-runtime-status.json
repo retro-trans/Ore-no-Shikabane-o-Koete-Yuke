@@ -1,0 +1,283 @@
+{
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "images": [
+    {
+      "widget": "0x9e11690",
+      "descriptor": "0x9b9e9d0",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e11770",
+      "descriptor": "0x9ba0e10",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e13430",
+      "descriptor": "0x9b8c7d0",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e13510",
+      "descriptor": "0x9b8ec10",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e135f0",
+      "descriptor": "0x9b9a150",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e192a0",
+      "descriptor": "0x9b91050",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e19380",
+      "descriptor": "0x9b93490",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e19460",
+      "descriptor": "0x9b958d0",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e19540",
+      "descriptor": "0x9b9c590",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e19620",
+      "descriptor": "0x9b97d10",
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_visible": [
+        128,
+        64
+      ],
+      "source_uv": [
+        0,
+        0,
+        128,
+        64
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e1aa70",
+      "descriptor": "0x9bc0d50",
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_visible": [
+        176,
+        504
+      ],
+      "source_uv": [
+        0,
+        0,
+        176,
+        504
+      ],
+      "native_texture": [
+        256,
+        512
+      ],
+      "tag": "0x444834"
+    },
+    {
+      "widget": "0x9e1ad40",
+      "descriptor": "0x9c09a10",
+      "logical_size": [
+        142,
+        252
+      ],
+      "physical_visible": [
+        505,
+        504
+      ],
+      "source_uv": [
+        0,
+        0,
+        505,
+        504
+      ],
+      "native_texture": [
+        512,
+        512
+      ],
+      "tag": "0x444834"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "version": "0.2.32",
+  "terms": [
+    {
+      "source_jp": "\u6f22\u65b9\u85ac\u5c4b",
+      "translation_en": "HERBAL MEDICINE",
+      "context": "Left medicine-shop banner",
+      "note": "Traditional herbal medicine shop; shop function is clear from the menu context."
+    },
+    {
+      "source_jp": "\u4e00\u6708",
+      "translation_en": "JANUARY",
+      "month": 1,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u4e8c\u6708",
+      "translation_en": "FEBRUARY",
+      "month": 2,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u4e09\u6708",
+      "translation_en": "MARCH",
+      "month": 3,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u56db\u6708",
+      "translation_en": "APRIL",
+      "month": 4,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u4e94\u6708",
+      "translation_en": "MAY",
+      "month": 5,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u516d\u6708",
+      "translation_en": "JUNE",
+      "month": 6,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u4e03\u6708",
+      "translation_en": "JULY",
+      "month": 7,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u516b\u6708",
+      "translation_en": "AUGUST",
+      "month": 8,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u4e5d\u6708",
+      "translation_en": "SEPTEMBER",
+      "month": 9,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u5341\u6708",
+      "translation_en": "OCTOBER",
+      "month": 10,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u5341\u4e00\u6708",
+      "translation_en": "NOVEMBER",
+      "month": 11,
+      "context": "Left home calendar banner"
+    },
+    {
+      "source_jp": "\u5341\u4e8c\u6708",
+      "translation_en": "DECEMBER",
+      "month": 12,
+      "context": "Left home calendar banner"
+    }
+  ]
+}

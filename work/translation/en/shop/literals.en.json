@@ -1,0 +1,37 @@
+{
+  "version": "0.2.19",
+  "rows": [
+    {
+      "address": "0x8a437f0",
+      "translation": "Funds:",
+      "context": "Funds caption"
+    },
+    {
+      "address": "0x8a459b4",
+      "translation": "ATK",
+      "context": "Attack comparison"
+    },
+    {
+      "address": "0x8a459d4",
+      "translation": "DEF",
+      "context": "Defense comparison"
+    },
+    {
+      "address": "0x8a459f4",
+      "translation": "AGI",
+      "context": "Agility comparison"
+    },
+    {
+      "address": "0x8a3ad8c",
+      "translation": "Gear Stats",
+      "context": "Equipment statistics popup heading"
+    },
+    {
+      "address": "0x9b7e034",
+      "translation": " ryo",
+      "context": "Funds currency unit"
+    }
+  ],
+  "status": "Draft; selected native runtime font and layout checks pass",
+  "evidence": "work/ui/shop-layout-0.2.19/verification.json"
+}

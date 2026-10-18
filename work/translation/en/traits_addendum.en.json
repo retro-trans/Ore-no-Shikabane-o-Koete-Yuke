@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "version": "0.2.0",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "rows": [
+    {
+      "id": "ore:00034000:0000:00:0291",
+      "file": "intro.mlb",
+      "archive_offset": 212992,
+      "member_entry": 0,
+      "section": 0,
+      "index": 291,
+      "text_offset": 7208,
+      "source_sha256": "5abb855a17094131db1bdbb53f6a60a43aebbf10fb8414f5690c0c9876cbd92c",
+      "category": "character_profile_traits",
+      "translation_en": "Favorite food: Japanese sea bass",
+      "status": "draft",
+      "kind": "profile_trait",
+      "context": "Random profile food preference. The dictionary also gives water bloom and lotus flower senses; the edible fish sense is selected from this food-list context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Food identification inferred from the Japanese sea bass sense at https://www.jpdb.io/vocabulary/2674490/. Needs editorial confirmation before approval; no guessed tofu meaning was used."
+      ]
+    }
+  ]
+}

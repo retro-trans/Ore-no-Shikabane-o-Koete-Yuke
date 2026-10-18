@@ -1,0 +1,125 @@
+{
+  "version": "0.2.15",
+  "result": "PASS in selected name-entry, confirmation, roster and save/reload contexts",
+  "texture_replacement": false,
+  "font_raster_scale": 4,
+  "screenshots": [
+    {
+      "file": "work/ui/names-0.2.15/title.png",
+      "sha256": "e8b9fc4025ec10f0d090ea3375e37201fb744f1834de5d1fbd888eb493e16a1e"
+    },
+    {
+      "file": "work/ui/names-0.2.15/reloaded-roster.png",
+      "sha256": "8e92c23d96b6a597944830402297b914fabffb14cef7ddaa8bd36c3cd4508f95"
+    },
+    {
+      "file": "work/ui/names-0.2.15/save-complete.png",
+      "sha256": "e7a581232ce8782add5a031b895ead8dd0545e0a4c5dd451c5257652a77065bd"
+    },
+    {
+      "file": "work/ui/names-0.2.15/keyboard-eight.png",
+      "sha256": "ccd9583b3f8ff2bfe2011fe8b62a657a506dddecce8ba49d483e6670c9f90832"
+    },
+    {
+      "file": "work/ui/names-0.2.15/short-name-hd.png",
+      "sha256": "d9aedcb9e6826ad4f499d63f3cd261abef64ab788a628c396684ba7592547dc7"
+    },
+    {
+      "file": "work/ui/names-0.2.15/family-confirm.png",
+      "sha256": "cf531a04b04f60f3f5c19f9411cbef886f4afdadb30000102bd477763664c208"
+    },
+    {
+      "file": "work/ui/names-0.2.15/reopened-eight.png",
+      "sha256": "e495f52c128413e227ff993d0b8b105f59315cebf0d70f0562f8cff74122dfd4"
+    }
+  ],
+  "reloaded_names": {
+    "version": "0.2.15",
+    "source": "Actual game.reset, utility load and loaded roster; no name/save memory injected",
+    "names": {
+      "WWWWWWWW": {
+        "packed_hex": "d7dfebf57abd5eaf",
+        "guest_addresses": [
+          "0x9ba30e8",
+          "0x9bcd988"
+        ],
+        "decoded": "WWWWWWWW"
+      },
+      "aaaaAAAA": {
+        "packed_hex": "e1df70381c0c0683",
+        "guest_addresses": [
+          "0x9ba30f0",
+          "0x9ba3176",
+          "0x9ba585c",
+          "0x9bcd990",
+          "0x9bcda16",
+          "0x9bd00fc"
+        ],
+        "decoded": "aaaaAAAA"
+      },
+      "bbbbBBBB": {
+        "packed_hex": "62dfb1582c140a85",
+        "guest_addresses": [
+          "0x9ba33d6",
+          "0x9ba587c",
+          "0x9bcdc76",
+          "0x9bd011c"
+        ],
+        "decoded": "bbbbBBBB"
+      }
+    },
+    "save_bytes": 103596,
+    "save_sha256": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+    "family_given_adjacent_8_byte_fields": true
+  },
+  "native_request": {
+    "version": "0.2.15",
+    "params": "0x9ca6d1c",
+    "field": "0x9ca6d5c",
+    "language": 2,
+    "inputtype": "0xd00f",
+    "outtext": "0x9ca6f90",
+    "limit": 8,
+    "capacity": 128,
+    "initial_length": 0,
+    "source": "Actual request at sceUtilityOskInitStart; final ISO"
+  },
+  "actual_osk_output": {
+    "version": "0.2.15",
+    "length": 8,
+    "normalized": "poppPPPP",
+    "codepoints": [
+      "0xff50",
+      "0xff4f",
+      "0x70",
+      "0x70",
+      "0x50",
+      "0x50",
+      "0x50",
+      "0x50"
+    ],
+    "ninth_character_attempted": true,
+    "source": "Actual OSK output after Start; two legacy fullwidth letters followed by six typed Latin letters; no memory injection"
+  },
+  "maximum_english_characters": 8,
+  "maximum_japanese_characters": 3,
+  "storage": "Original eight-byte records; compact printable Latin for 4..8 letters, legacy UCS-2 for shorter/Japanese names",
+  "display": "Packed names decode to original fullwidth game text; glyph creation normalizes Latin to the native 4x atlas",
+  "card_layout": {
+    "original_height": 104,
+    "height": 116,
+    "name_y": 87,
+    "original_age_y": 87,
+    "age_y": 99
+  },
+  "prior_setup_evidence": "work/ui/names-0.2.14/summary.png and child-eight-confirm.png; same storage encoding",
+  "save_compatibility": "Existing legacy names retain their original bytes. Long-name saves require 0.2.15 or newer; earlier test candidates are unsupported.",
+  "checks": {
+    "unrelated_archive_payloads": "byte-identical",
+    "unrelated_title_members": "byte-identical",
+    "other_name_text_and_original_pools": "unchanged",
+    "compression_round_trip": "pass"
+  },
+  "mips": "127 codec cases, adjacent-record canaries, complete comparisons, bounded/counted copies, both literal and substitution formatters, original byte conversion, invalid-input recovery, stack and callee-save registers",
+  "limitations": "Physical PSP and full-playthrough name contexts remain unverified. The PSP system keyboard retains its system font."
+}

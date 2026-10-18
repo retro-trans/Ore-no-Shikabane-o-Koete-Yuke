@@ -1,0 +1,55 @@
+Native inventory and shop windows — local build 0.2.18
+
+The English font and text are retained. Inventory lists now have two 232-pixel
+cells, a two-pixel column gap and three-pixel outer margins. The native frame
+is 472 pixels wide at x=4, y=84. Four visible rows show eight entries per page;
+the original item counts, selection values and cursor paging are retained.
+Inherited-weapon lists use the same dimensions. The inventory heading and
+capacity frame/digits have separate positions above the menu.
+
+Item details occupy [4,178,476,242], leaving a 456-pixel text region. All 631
+fixed item/equipment/collectible names were measured against a 220-pixel name
+budget after reserving 12 pixels for an icon. The longest advance is 218.571
+pixels. All 232 item descriptions fit within 456 pixels, including conservative
+signed 32-bit expansion of the 41 descriptions with numeric placeholders. The
+longest advance is 450.857 pixels. Existing line breaks and every script payload
+are byte-identical to 0.2.17. No abbreviations or smaller fonts were introduced.
+
+The eight inventory categories use two wider columns and two visible rows,
+with native scrolling to the remaining choices. Cell width is 200 pixels and
+the menu begins at y=28. This keeps Curios and Collectibles and the other labels
+within their cells. The breadcrumb also stays on screen.
+
+Shop selector and sell-source cells are 100 pixels wide; armor cells are 92.
+Weapon category cells are 84 pixels wide because EACH column reserves another
+24 pixels for its icon. The original positioning code automatically places the
+submenus beside the widened parent. The weapon submenu's right edge stays on
+screen. Existing shop prompts already fit their own frames.
+
+Implementation: tools/build_inventory_windows.py defaults to a dry run and
+uses pinned 0.2.17 inputs. Forty guarded instructions/data fields include two
+inventory-only geometry hooks. Their 20-byte wrapper sets only the left/right
+margins before tail-calling the original geometry code; eight alignment bytes
+make the executable 28 bytes larger. tools/test_inventory_geometry.py executes
+both hooks and the actual original MIPS geometry, checks saved registers/stack,
+and confirms unchanged legacy geometry for unhooked menus. The archive changes
+only the native version footer; other members and root payloads are identical.
+
+Actual runtime evidence and coordinates: work/ui/menu-fit-0.2.18/. Captures use
+the isolated test emulator, controller input disabled, software guest framebuffer
+at 480x272, and texture replacement disabled. Runtime-patches.json identifies the
+tested components and checks every final patch through debugger disassembly or
+raw descriptor data. Debugger disassembly removes PPSSPP's JIT cache markers.
+The delivered ISO and tested candidate have identical complete-file SHA-256
+digests, recorded in image-identity.json. All 49 translation checks pass. The
+project test save was backed up, a test-session save retained for future QA,
+and the original four save files restored byte-for-byte after the emulator
+closed; save-preservation.json records those checksums.
+
+Scope: these shared inventory windows and the related shop menus. Fixed-name
+width measurements are broader than the selected actual-screen checks. Dynamic
+heirloom names, other menu families, a full playthrough and physical PSP testing
+are not covered by this selected runtime pass. The existing Japanese Buy/Sell
+graphic and money caption are separate artwork/font localization work.
+
+Local test build only. No GitHub release was created or published.

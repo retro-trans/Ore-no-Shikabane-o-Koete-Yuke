@@ -1,0 +1,43 @@
+{
+  "version": "0.2.33",
+  "context": "chronicle-next",
+  "result": "PASS",
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "required": [
+    "Year Start",
+    "Prev"
+  ],
+  "objects": [
+    {
+      "text": "Events: 1018 /  4",
+      "atlas": "0x9b5c010",
+      "glyphs": 17,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Year Start",
+      "atlas": "0x9b5c010",
+      "glyphs": 10,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Prev",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Change Page",
+      "atlas": "0x9b5c010",
+      "glyphs": 11,
+      "uvs": "native 4x atlas verified"
+    },
+    {
+      "text": "Back",
+      "atlas": "0x9b5c010",
+      "glyphs": 4,
+      "uvs": "native 4x atlas verified"
+    }
+  ]
+}

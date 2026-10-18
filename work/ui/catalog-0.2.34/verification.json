@@ -1,0 +1,164 @@
+{
+  "version": "0.2.34",
+  "result": "PASS: clear catalog tabs and escape statistics; Acquired caption; Scrolls 0/73 without items",
+  "iso": {
+    "version": "0.2.34",
+    "file": "work/output/english-native-0.2.34.iso",
+    "bytes": 1081077760,
+    "sha256": "5f29ad4b538d784b345fcaff6507f64ecf3217139676e7da29b71abc77f0a25d"
+  },
+  "screens": [
+    {
+      "file": "work/ui/catalog-0.2.34/weapons.png",
+      "sha256": "f6d20b4725af8c086adff41e3725cb2b649a01e76cec96dc5102289bb39da92b"
+    },
+    {
+      "file": "work/ui/catalog-0.2.34/other.png",
+      "sha256": "b7b62d2712cbb5b206d2af31e9738a186732081a20a96f2e0bfab1196b50bf11"
+    },
+    {
+      "file": "work/ui/catalog-0.2.34/curios.png",
+      "sha256": "a586eaac2a46e3447c31aba36ab7c79e2d627f04217d89f9204a72f53a4652ec"
+    },
+    {
+      "file": "work/ui/catalog-0.2.34/scrolls.png",
+      "sha256": "a09d330049bffb3fedeb1a90be22b10ec519bf09adf8a0d0e2a26fb982b1a2fc"
+    }
+  ],
+  "runtime_patch_proof": {
+    "version": "0.2.34",
+    "result": "PASS",
+    "elf_sha256": "81ecabe4a711085e0aa9ab23e87afa1153fda66c226b836380f4686c846ce737",
+    "archive_sha256": "34ce60c416a63d8a3240189eaf63ab786d132fd89e3d7f979e30b107998ef443",
+    "instruction_patches_verified": 27,
+    "adapters_verified": 2,
+    "tab_width_verified": 60,
+    "texture_replacement": false,
+    "game_memory_writes": false,
+    "save_record_writes": false
+  },
+  "mips": {
+    "version": "0.2.34",
+    "result": "PASS",
+    "elf_sha256": "81ecabe4a711085e0aa9ab23e87afa1153fda66c226b836380f4686c846ce737",
+    "cases": 12,
+    "checks": [
+      "Actual MIPS adapter execution at original native setter/formatter targets",
+      "Zero, single and double digit counts through complete collection",
+      "Original cText receiver, stack, return address and callee-save registers retained"
+    ],
+    "examples": [
+      {
+        "adapter": "empty_scrolls_unit",
+        "acquired": 0,
+        "text": ""
+      },
+      {
+        "adapter": "empty_scrolls_unit",
+        "acquired": 1,
+        "text": ""
+      },
+      {
+        "adapter": "empty_scrolls_unit",
+        "acquired": 9,
+        "text": ""
+      },
+      {
+        "adapter": "empty_scrolls_unit",
+        "acquired": 10,
+        "text": ""
+      },
+      {
+        "adapter": "empty_scrolls_unit",
+        "acquired": 72,
+        "text": ""
+      },
+      {
+        "adapter": "empty_scrolls_unit",
+        "acquired": 73,
+        "text": ""
+      },
+      {
+        "adapter": "scrolls_fraction",
+        "acquired": 0,
+        "text": "0/73"
+      },
+      {
+        "adapter": "scrolls_fraction",
+        "acquired": 1,
+        "text": "1/73"
+      },
+      {
+        "adapter": "scrolls_fraction",
+        "acquired": 9,
+        "text": "9/73"
+      },
+      {
+        "adapter": "scrolls_fraction",
+        "acquired": 10,
+        "text": "10/73"
+      },
+      {
+        "adapter": "scrolls_fraction",
+        "acquired": 72,
+        "text": "72/73"
+      },
+      {
+        "adapter": "scrolls_fraction",
+        "acquired": 73,
+        "text": "73/73"
+      }
+    ]
+  },
+  "native_font": "Changed captions and fraction verified against native 4x glyph UVs",
+  "layout": {
+    "curios": {
+      "heading": [
+        120,
+        78,
+        16
+      ],
+      "caption": [
+        304,
+        80
+      ],
+      "count_right": 432,
+      "unit_x": 442
+    },
+    "other": {
+      "main_y": [
+        80,
+        105,
+        130,
+        155,
+        187
+      ],
+      "escape_value_y": [
+        174,
+        206
+      ],
+      "collection_y": 224,
+      "bar_y": 248,
+      "bar_bottom": 264
+    },
+    "scrolls": {
+      "format": "%d/%d",
+      "right": 400,
+      "unit": ""
+    }
+  },
+  "checks": {
+    "unrelated_archive_members": "Byte-identical except title footer",
+    "other_executable_bytes": "Only guarded layout/call patches, one menu width and segment size",
+    "counter_getters_totals_and_scroll_paging": "Byte-identical",
+    "prior_translations_icons_and_profile_fix": "Preserved",
+    "shared_items_unit": "Preserved"
+  },
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false,
+  "github_release": false,
+  "limits": [
+    "Full playthrough and physical PSP testing remain pending."
+  ]
+}

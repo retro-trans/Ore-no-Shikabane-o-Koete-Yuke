@@ -1,0 +1,34 @@
+{
+  "version": "0.2.19",
+  "scope": "Native shop UI terms; UI source names only",
+  "terms": [
+    {
+      "source_jp": "\u6240\u6301\u91d1",
+      "translation_en": "Funds"
+    },
+    {
+      "source_jp": "\u4e21",
+      "translation_en": "ryo"
+    },
+    {
+      "source_jp": "\u653b",
+      "translation_en": "ATK"
+    },
+    {
+      "source_jp": "\u9632",
+      "translation_en": "DEF"
+    },
+    {
+      "source_jp": "\u654f",
+      "translation_en": "AGI"
+    },
+    {
+      "source_jp": "\u88c5\u5099\u6027\u80fd",
+      "translation_en": "Gear Stats"
+    },
+    {
+      "source_jp": "\u58f2\u8cb7",
+      "translation_en": "BUY / SELL"
+    }
+  ]
+}

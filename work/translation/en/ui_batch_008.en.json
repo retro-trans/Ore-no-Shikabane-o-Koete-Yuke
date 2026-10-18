@@ -1,0 +1,1624 @@
+{
+  "schema_version": 1,
+  "version": "0.2.36",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "rows": [
+    {
+      "id": "ore:0000c000:0019:01:0160",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 160,
+      "text_offset": 25328,
+      "source_sha256": "ed8ff0a0d302fd3cf9243c521ba46b5ea88c9769c60d318480b2a8e4f472eefe",
+      "category": "ui_system_help",
+      "translation_en": "Youth lasts roughly six months after\njoining the fighting force. This is when Body grows\nfastest and Health recovers most impressively!!\nThey grow so much it's almost funny,\nand seem to know nothing of fatigue,\nso it's tempting to push them too hard.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0161",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 161,
+      "text_offset": 25534,
+      "source_sha256": "31c5e88031288bd4054220ea7846d245103d8e6d5d63733012ef8b4674da7efa",
+      "category": "ui_system_help",
+      "translation_en": "But their HP is still only half-grown,\nwhile their confidence is full-sized. Accidents\ncan happen before you can even gasp...\nIt's an important time!!\nPlease keep that firmly in mind.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0162",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 162,
+      "text_offset": 25694,
+      "source_sha256": "161656d0f379049d527fca25556077695706a23580663a48cf6565c0b6dd95cd",
+      "category": "ui_system_help",
+      "translation_en": "From about eight months to a year and two months,\ngrowth in Spirit, Skill, and Body, Health recovery,\nand everything else are at their most balanced.\nThose with potential in Skill will learn\nall sorts of spells at once\nand let their talents blossom with a bang!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0163",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 163,
+      "text_offset": 25896,
+      "source_sha256": "6b555c2eb3285de77053ce43f0f73fc7c5257330f7f993bde25f9ae169e5e945",
+      "category": "ui_system_help",
+      "translation_en": "Health lost during a sortie\nrecovers to some extent naturally\nwhen the month changes.\nWhen you're young,\neven if you're tired enough to drop,\na night's sleep leaves you fresh tomorrow!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0164",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 164,
+      "text_offset": 26044,
+      "source_sha256": "e80e47e5749e653b44c921b266feddbf2e707300236e95b6f17fa57bb5671f8d",
+      "category": "ui_system_help",
+      "translation_en": "But as you get older,\nfatigue becomes harder to shake off...\nThe old man across the street said,\n\"I really tried racing my grandchild,\nand I was laid up for a week.\"",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "Male pronoun is warranted by the explicit old man across the street."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0165",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 165,
+      "text_offset": 26192,
+      "source_sha256": "7a293ae5ceeac7ea6a836e71201c9f4362aec754e590c229929ef196ac427db5",
+      "category": "ui_system_help",
+      "translation_en": "If someone returns wounded from battle\nwith only a little Health\nremaining...\nIn the worst case,\nthey may simply run out of strength\nand die before their natural time.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0166",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 166,
+      "text_offset": 26336,
+      "source_sha256": "90f3026e1facab04e940eaba3452a8726725f799e83e39e88bb4ed5ca1899718",
+      "category": "ui_system_help",
+      "translation_en": "To keep that from happening,\nalways fight to survive\nand see another tomorrow.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0167",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 167,
+      "text_offset": 26426,
+      "source_sha256": "557a8ea0566c969f7099ef018e4fd24b27f3dae71326ce03f8b932a4a83d83d6",
+      "category": "ui_system_help",
+      "translation_en": "If someone's Loyalty to the %@ clan\nfalls far enough, they may be driven\nto run away from home.\nAnyone who runs away will never return.\nApparently, they may also take\nmoney or items without permission.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0168",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 168,
+      "text_offset": 26610,
+      "source_sha256": "0a67366132433a84b4be142c4bf6cb4a91202b7b2cfefab2a6c58b48b60fc7f5",
+      "category": "ui_system_help",
+      "translation_en": "People with strong Earth or Water Spirit\nare fairly patient and won't usually run away\nunless something very serious happens.\nBut people with high Fire Spirit\nare quick to lose their temper...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0169",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 169,
+      "text_offset": 26768,
+      "source_sha256": "00c4ee0c1c97027dc7d2590861b5b8aa1b70921eedb983dad1ca118d9507c219",
+      "category": "ui_system_help",
+      "translation_en": "As for people with high Wind Spirit,\nit can be hard to tell\nwhat they're thinking in the first place...\nIn any case, please always\nwatch your family's Loyalty.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0170",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 170,
+      "text_offset": 26924,
+      "source_sha256": "f530d139c7a88f1654ac7fc3dfacf23e022e1ead83f7142583368f476f14901a",
+      "category": "ui_system_help",
+      "translation_en": "\"I'm in perfect health, but they never\nlet me join the party...\"\n\"I put all that thought into my proposals,\nbut not one gets accepted...\"",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0171",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 171,
+      "text_offset": 27048,
+      "source_sha256": "fdbb2eece0175570b31180c04f9048659e90138668d065a075abd1aae1ac5e3a",
+      "category": "ui_system_help",
+      "translation_en": "When grievances like those pile up,\npeople tend to lose their motivation.\nTheir Loyalty to the %@ clan\nwill gradually fade too...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0172",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 172,
+      "text_offset": 27168,
+      "source_sha256": "b457536fc17b2bbe256801592b20cc70413a695a3755b99d97a31b8785e2a456",
+      "category": "ui_system_help",
+      "translation_en": "To keep that from happening,\nrespect their initiative whenever you can.\nAnd now and then, give them a great big compliment!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0173",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 173,
+      "text_offset": 27268,
+      "source_sha256": "4270bbe219737bdaaa1bfff99fc3d8f3c5efe8f5507cef3dca5f1c3b2af2c10a",
+      "category": "ui_system_help",
+      "translation_en": "If HP stays low during battle or travel,\nHealth keeps dropping\nwithout you even noticing.\nWhen the month changes, that fatigue hits all at once,\nweakening HP, Attack, Defense, Agility,\nand every other physical ability.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0174",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 174,
+      "text_offset": 27468,
+      "source_sha256": "f254aee60c2cd0139d9f5a6db57c18cc746de9136dc4008c15f891da2341f3ec",
+      "category": "ui_system_help",
+      "translation_en": "On long expeditions that cross into another month,\nyou must take special care.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0175",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 175,
+      "text_offset": 27520,
+      "source_sha256": "0595b3365f59ac93225697d5a71e4d37b744b66b66e2d377258969cf2c1e5a8c",
+      "category": "ui_system_help",
+      "translation_en": "Pushing deep into an oni nest\nbefore you're strong enough\nis like going there to be killed.\nPlease, absolutely do not do it!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0176",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 176,
+      "text_offset": 27640,
+      "source_sha256": "3a55914e42e9c303c960d47ef6d6a76a9dd506f773d3085fbd0ad80a21c1141e",
+      "category": "ui_system_help",
+      "translation_en": "When you can knock over the local oni commander\nwith a flick of your little finger,\nthat's about the right time to press on.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0177",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 177,
+      "text_offset": 27732,
+      "source_sha256": "fd9fd3ddfb8cf26d9db83853bd6953841718800684359347e451a7e90b4d42ec",
+      "category": "ui_system_help",
+      "translation_en": "Whatever happens during battle,\nwhile traveling, keep everyone's HP\nas close to maximum as possible.\nIf you save your healing items and spells,\nforce a march, and end up losing a life,\nyou've defeated the whole purpose.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0178",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 178,
+      "text_offset": 27908,
+      "source_sha256": "73fb96c97448e28a67f1ba1bb34351908bb0d5cbcf3ce7028f79cb7c3e194017",
+      "category": "ui_system_help",
+      "translation_en": "Forty percent of defeats come from being too weak.\nThe other sixty percent come from the baseless belief,\n\"We'll still be all right.\"",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "The 40/60 split is Itsuka's assertion, retained without presenting it as a verified game statistic."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0179",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 179,
+      "text_offset": 27998,
+      "source_sha256": "3c3d9755cd56fd1d82d70ba638227cc77362810c788eb33270d5e53c001f0285",
+      "category": "ui_system_help",
+      "translation_en": "If you seize an opening while moving\nand charge an enemy from behind,\nyou can strike first in battle.\nBut running round and round\ntrying to get behind them is, frankly,\nundignified and a waste of time!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0180",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 180,
+      "text_offset": 28180,
+      "source_sha256": "38ec33ebb060ceb7f555545db3edd5d08191075eeb58b7efde28c75cedc3f61d",
+      "category": "ui_system_help",
+      "translation_en": "Professor Itsuka will give you\na special lesson in how it's done!!\nAhem...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0181",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 181,
+      "text_offset": 28248,
+      "source_sha256": "e215ebba33a2fda626387bd4d5c44d0b7a218e7e6a66971348ec3793784393a0",
+      "category": "ui_system_help",
+      "translation_en": "Face the enemy and feint one step to the right.\nThe instant they turn right, hold X\nand slip to their left!!\nOf course, you can reverse left and right.\nTry it on your next hunt.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0182",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 182,
+      "text_offset": 28408,
+      "source_sha256": "c3f8c06a18b6bc5616904f9da5bf20651540647144bb3f286c20bc9b95ee55d6",
+      "category": "ui_system_help",
+      "translation_en": "No matter how deep you are\nin a cave or dungeon, choosing Return\nwill bring you back to Kyoto at any time.\nSo there's absolutely no need\nto worry about the journey home!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0183",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 183,
+      "text_offset": 28562,
+      "source_sha256": "4e44e198478de8755032fc66032fc9d68b3a55f134fa5ab66bf26a858bb96613",
+      "category": "ui_system_help",
+      "translation_en": "Go as far as you can\nand fight with all your strength!! Then, if things\nlook even slightly bad, choose Return at once.\nPushing your luck pays off\nat most one time in ten.\nAnd even that one time is just a fluke.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0184",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 184,
+      "text_offset": 28754,
+      "source_sha256": "fc48331b966b85d8b6e34650f189150f921d76c6ca91ae0c00f1e292284d369c",
+      "category": "ui_system_help",
+      "translation_en": "Hold X while moving\nto run at twice\nyour normal speed.\nBut be careful!!\nRunning also makes you tire\nat twice the usual rate.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0185",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 185,
+      "text_offset": 28914,
+      "source_sha256": "57a558ff9e623a079e5758d6577f8afebf94ff0cb307b8314c9ecc8e57074b67",
+      "category": "ui_system_help",
+      "translation_en": "If the Health warning appears,\ndrop everything and restore HP immediately.\nIf everyone looks all right, hold X again!!\nThat's the secret to long expeditions.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0186",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 186,
+      "text_offset": 29028,
+      "source_sha256": "881bd74bbe51ae0c1e406557be2b43eb7ae82d0cd1c67ab3db9821fbc9718798",
+      "category": "ui_system_help",
+      "translation_en": "The pack is the bag of items\nyour party takes on a hunt.\nIt holds only thirty items.\nUnnecessary things just get in the way.\nAnd if an enemy steals them, it's a total loss...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0187",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 187,
+      "text_offset": 29184,
+      "source_sha256": "31423718b530b53ad5c13be5f1d7d6ca3e172ee748bff3c9cb664177140c3fe0",
+      "category": "ui_system_help",
+      "translation_en": "Take only the bare minimum of consumables.\nLeave with space to spare and return full of treasure!!\nThat's the ideal way to use your pack.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0188",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 188,
+      "text_offset": 29288,
+      "source_sha256": "4cd1d9a2a79c81c82e73ada1c9c2628581c20402f4be6794592b89e5efe3355d",
+      "category": "ui_system_help",
+      "translation_en": "The storehouse is where you keep items\nyou don't plan to use right away.\nEither when you return from a hunt\nor before setting out, always make sure\nto sort your spoils.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0189",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 189,
+      "text_offset": 29440,
+      "source_sha256": "775adb1b0a2730d8a226f3f5cf9869d777b1b3c9d60bf8ec0af601bab427edc1",
+      "category": "ui_system_help",
+      "translation_en": "You can decide what to sell or keep later.\nFor now, anything you don't need next time\ngoes straight from the pack into the storehouse!!\nI'll carry it all over,\nso please don't put it off, %$.\nLet's get it tidied away.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Itsuka refers to herself by name; English uses I in this row.",
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0190",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 190,
+      "text_offset": 29646,
+      "source_sha256": "8d2a5ccb40cf426e7f75d04828dad5cb1ec194e226764396e1e5a049d5570e19",
+      "category": "ui_system_help",
+      "translation_en": "If two or more party members\ncan use the same attack spell,\nplease try combining it.\nThe spell takes a little longer to go off,\nbut the effect more than makes up for that delay\nwith a tremendous bang!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0191",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 191,
+      "text_offset": 29846,
+      "source_sha256": "ad308906c41245df75562e171db8099d89383a5d518fa924e541dbe184dfb3a1",
+      "category": "ui_system_help",
+      "translation_en": "The more people join in,\nthe bigger and bigger the effect!!\n...It's truly amazing!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0192",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 192,
+      "text_offset": 29944,
+      "source_sha256": "eae5251532e5b85198ee747f592c1792b078146675441a90cc1e7b2715220664",
+      "category": "ui_system_help",
+      "translation_en": "Most spells are named\nafter the deity\nwho created them.\nSo when you obtain\na new scroll, open Divine Union,\nthen Deities, and take a look.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0193",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 193,
+      "text_offset": 30116,
+      "source_sha256": "03428e4e615986244119565a3dd1be23dd60c012762df16fc38a3989c10aa310",
+      "category": "ui_system_help",
+      "translation_en": "You might enjoy imagining things like,\n\"Oh my! Such a gentle face,\nand such a vicious spell...\"\nSome weapons and armor are named\nafter deities too, but those names\nwere simply chosen by humans.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "The hypothetical remark about a deity uses no inferred gender."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0194",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 194,
+      "text_offset": 30328,
+      "source_sha256": "a98338d80cee2af05e9122f9c4a237f486259ec2c924a05299060a612e9fdd9c",
+      "category": "ui_system_help",
+      "translation_en": "There are two conditions\nfor learning to use a spell.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0195",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 195,
+      "text_offset": 30382,
+      "source_sha256": "c22a8449c89cd09b3c21c21fac8cad1ba1c5464444d6e9d9092d4b054412338e",
+      "category": "ui_system_help",
+      "translation_en": "First, the %@ clan\nmust own that spell's scroll.\nIf you find an oni with a scroll,\nchase it down and take it!!\nYou need only one scroll of each kind.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0196",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 196,
+      "text_offset": 30536,
+      "source_sha256": "7aa8e6a64d849ece41e9de3bb5033a315730f5127c482cc7da3010dff424116f",
+      "category": "ui_system_help",
+      "translation_en": "The other condition\nis that your Spirit and Skill\nhave grown enough to meet its requirements.\nOpen Clan, then Details, then Spells:\nthe learning requirements appear at the lower left.\nCheck them now and then!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0197",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 197,
+      "text_offset": 30710,
+      "source_sha256": "deb1311b2d5eb681210929f8bada4665d5279e33c897fb42accba9718d8fcab2",
+      "category": "ui_system_help",
+      "translation_en": "This important ceremony unites you\nwith a deity to receive a child.\nYou can perform it only once a month,\nbut you can choose whatever month\nsuits you throughout the year.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0198",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 198,
+      "text_offset": 30848,
+      "source_sha256": "cddbe1ec8b6c5993d720579abb54eac37c5b410e7b3bb705022c4206cde483c3",
+      "category": "ui_system_help",
+      "translation_en": "For Divine Union, men choose a goddess,\nand women choose a god.\nThe child will inherit\nboth parents' good points and bad points\nwithout the slightest mercy.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0199",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 199,
+      "text_offset": 31000,
+      "source_sha256": "a51ffb74ec96813fd5cd831012fb4c2f385cb8606a860691c426b0c381f7bb7b",
+      "category": "ui_system_help",
+      "translation_en": "They're gods, so naturally\nthey're terribly important,\nbut they're far from all-powerful and all-knowing.\nSome have amazing HP but are hopeless with spells.\nSome act quickly but have no strength at all.\nEveryone has strengths and weaknesses.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0200",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 200,
+      "text_offset": 31202,
+      "source_sha256": "d41f786e0ed26869e1c49e01e85a1013dc55018ac85b1a840b7f75d4547c2717",
+      "category": "ui_system_help",
+      "translation_en": "It's especially tricky when the maternal genes\nare perfect but the paternal genes aren't so good...\nWhich way will the child turn out?\nSo think about what sort of successor you want,\nstudy the deity's genetic information carefully,\nand take your time choosing.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "Odd/even gambling metaphor adapted as which way the child will turn out."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0201",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 201,
+      "text_offset": 31410,
+      "source_sha256": "b0d31baccb6c14546a0190f426a61137736f53d156872537750d19d55f760e23",
+      "category": "ui_system_help",
+      "translation_en": "Though you probably won't suffer divine punishment\nfor choosing by looks alone!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0202",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 202,
+      "text_offset": 31470,
+      "source_sha256": "607a16ea685b089208f5dae8b12dd85c51520f404524d9e8e72fcf7c1298698e",
+      "category": "ui_system_help",
+      "translation_en": "These are the clan's merit points, offered\nto the deity you choose for Divine Union.\nDefeating oni and monsters earns Offering Points\nin the same amount as Victory Points.\nTo the gods, no gift could be finer!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0203",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 203,
+      "text_offset": 31630,
+      "source_sha256": "b62d7786409133b1edde35550d6cef7b917a3131e9cf127cba656f27fd8f526e",
+      "category": "ui_system_help",
+      "translation_en": "There are a few exceptions,\nbut generally, the more points a deity requires,\nthe more powerful they are.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0204",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 204,
+      "text_offset": 31722,
+      "source_sha256": "5de24ff5ee7f74542c661c306f6d36a208aeba5678aa4f5d4acee88b368efd01",
+      "category": "ui_system_help",
+      "translation_en": "Divine Union doesn't just\nmake your clan stronger.\nThe deities grow too.\nEach union improves the chosen deity's\ngenetic information, sometimes a lot,\nbut usually just a little.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0205",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 205,
+      "text_offset": 31898,
+      "source_sha256": "8f2a184e16717d1cb22c8964b1cbd8733c39b66166994923d9854dbe13c518d1",
+      "category": "ui_system_help",
+      "translation_en": "So if you keep choosing\nyour favorite deity for Divine Union,\ntheir ranking in heaven might eventually change???",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0206",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 206,
+      "text_offset": 31986,
+      "source_sha256": "c3ce9e585f2cd27a06242f3fb7670fe6cd1d66beb65f73fb6db5cc259b58428e",
+      "category": "ui_system_help",
+      "translation_en": "The symbol of the %@ clan head.\nThis important accessory passes\nto each new clan head.\nI've heard it houses the soul\nof your father, %$, who was famed\nas the greatest swordsman of his age.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "The clan head's father is explicit in source; no gender is inferred for the player."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0207",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 207,
+      "text_offset": 32152,
+      "source_sha256": "5b6f8f273e273aea582d6cb5acf841ea2da58b8152014948613560fdb72d5fc3",
+      "category": "ui_system_help",
+      "translation_en": "In battle, choose Skills, then Clan Head's Ring.\nYou can use it only once\nper hunt.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "pending_selected_context_0.2.36",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "Compact battle UI alias; retains item identity. Previous English: In battle, choose Skills / Other, then Clan Head's Ring.\nYou can use it only once\nper hunt."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0208",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 208,
+      "text_offset": 32234,
+      "source_sha256": "b3b828d383cf74d72d4a36ce5d189840905d6db38c954c1ccb1b6dbc0773f161",
+      "category": "ui_system_help",
+      "translation_en": "When a child leaves their divine parent's side\nand comes to the %@ house, they receive\nan Div. Favor Orb.\nHold it up to the heavens in battle, and once only,\nthe user's divine parent\nwill display their power.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "pending_selected_context_0.2.36",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "Compact battle UI alias; retains item identity. Previous English: When a child leaves their divine parent's side\nand comes to the %@ house, they receive\nan Orb of Divine Favor.\nHold it up to the heavens in battle, and once only,\nthe user's divine parent\nwill display their power."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0209",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 209,
+      "text_offset": 32424,
+      "source_sha256": "aa54bcbec35027646a84a51ae5f2022d09462b4f4ad63105de385f65b850583b",
+      "category": "ui_system_help",
+      "translation_en": "Even a deity who became a parent\nhalf by chance can't help\nbutting in when their child is involved...\nWell, think of it as being a good child.\nCall them with an Div. Favor Orb now and then\nand let them see you're doing well.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "pending_selected_context_0.2.36",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "The deity's gender remains unspecified.",
+        "Compact battle UI alias; retains item identity. Previous English: Even a deity who became a parent\nhalf by chance can't help\nbutting in when their child is involved...\nWell, think of it as being a good child.\nCall them with an Orb of Divine Favor now and then\nand let them see you're doing well."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0210",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 210,
+      "text_offset": 32616,
+      "source_sha256": "0ee0df8daf26901d588a93b6044eac23c2dbaad9bafaaac61b758b2b278ab39f",
+      "category": "ui_system_help",
+      "translation_en": "Incidentally, for certain reasons,\nadoptees and children of clan deities\ncannot use these. Please understand.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0211",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 211,
+      "text_offset": 32706,
+      "source_sha256": "58fe42e8531da6881251ad98b4e23aca63a2ddeac9d3c2de2496a6e076ee05b3",
+      "category": "ui_system_help",
+      "translation_en": "If hitting them doesn't work, try fire magic!!\nIf fire magic doesn't work, try wind magic!!\nHowever strong an enemy is,\nthere must be a weakness somewhere.\nFind it and overwhelm them\nwith everything you've got!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0212",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 212,
+      "text_offset": 32880,
+      "source_sha256": "ab1e50c82a27429111e1d40557756eea487827cc8f85cd6553c1203f552a73f6",
+      "category": "ui_system_help",
+      "translation_en": "Oh... But what if the enemy\nuses that strategy on us?\n...Please think about that too!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0213",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 213,
+      "text_offset": 32972,
+      "source_sha256": "12ed391622afb80743a775e58133037617fa0cc7b2757c6d67ee3ecd882c2960",
+      "category": "ui_system_help",
+      "translation_en": "When a deity sends word\nthat the clan head's time is near,\nI'll quietly let you know.\nI don't really like\nhaving this job,\nbut someone has to tell you...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Itsuka refers to herself by name; English uses I in this row.",
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0214",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 214,
+      "text_offset": 33158,
+      "source_sha256": "fbba04e58a97c5fdc0b72f7401e25ce32a435f9e06745a02f185785693712ed5",
+      "category": "ui_system_help",
+      "translation_en": "Um... Well... What I mean is...\nIf you could prepare yourself and think,\n\"Perhaps it's almost time. I'll make ○○ the next head,\"\nit would make things\na little easier for me too...\nI'm sorry for being so selfish.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Itsuka refers to herself by name; English uses I in this row.",
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "Hypothetical successor remains the original ○○; self-conscious apologies are spoken character text."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0215",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 215,
+      "text_offset": 33346,
+      "source_sha256": "5ec99b13a54e9bf64139b3fe8622a1baa786fd4d2e29a7b135723741aa10b93a",
+      "category": "ui_system_help",
+      "translation_en": "I hardly need to say it now,\nbut anyone born to the %@ clan\nhas a life too short even to grieve over.\nIt varies from person to person,\nbut a year and a half on average,\ntwo years at most. That's the reality.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0216",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 216,
+      "text_offset": 33538,
+      "source_sha256": "63a05662eb3c4272cb42b324947d05cb24de443712ee5af727b285fc6d5414c5",
+      "category": "ui_system_help",
+      "translation_en": "Please give every single day meaning,\nand always take care\nnever to waste one.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0217",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 217,
+      "text_offset": 33620,
+      "source_sha256": "39123a555d03cdcf37418d41fcb828286564fd1ab9988ad399618fd365f4b9b4",
+      "category": "ui_system_help",
+      "translation_en": "After about a year and two months,\nfatigue starts lingering a little...\nBody growth slows to a trickle...\nBut the strength you've already gained\nis worlds apart from that of the young,\nand Spirit and Skill can still grow!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0218",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 218,
+      "text_offset": 33812,
+      "source_sha256": "50af8adaef1a67be1e374846b744d08c8cc4da22597a774bab823e2b6647622e",
+      "category": "ui_system_help",
+      "translation_en": "It's too soon to act old!!\nStand firm on the front line\nand show everyone how it's done.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0219",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 219,
+      "text_offset": 33896,
+      "source_sha256": "2671d6abe8cd411c58e4face8b6e5e03dbce47b8e3cac80d9bd0a02ee91a0801",
+      "category": "ui_system_help",
+      "translation_en": "You suddenly notice your Health slipping...\nYou're only half as spry as you once were...\nThat's aging.\nBut nothing can replace your experience!!\nTrain the younger generation\nand put that experience to work.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0220",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 220,
+      "text_offset": 34076,
+      "source_sha256": "726a2593a7c068d43b6cdffe0e3b1fcb3de4578e97b68271ff033be953525c7e",
+      "category": "ui_system_help",
+      "translation_en": "And your spells are still as powerful as ever!!\nWhen it counts, bring out your best move\nand show the enemy what you're made of.\nChildren grow by watching their parents.\nLeave no regrets behind. Let yourself blossom\none last time with a bang!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0221",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 221,
+      "text_offset": 34286,
+      "source_sha256": "92d40885b31191a3f9bdc65e64ce240aeca6226a93918cfae486aab2917d9dba",
+      "category": "ui_system_help",
+      "translation_en": "These are your four physical abilities:\nHP, Attack, Defense, and Agility.\nTheir growth differs slightly\nbetween men and women.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0222",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 222,
+      "text_offset": 34388,
+      "source_sha256": "82bdbbb77464ba47063b30a0c5545d68ecefc2c499eee0f4177027f15107c13b",
+      "category": "ui_system_help",
+      "translation_en": "Physical abilities also become\ngradually harder to maintain as you age.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0223",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 223,
+      "text_offset": 34456,
+      "source_sha256": "4a16718a4deb598b7c519d2e298ee0e5b3aed088200a21b26d853f731b8d394d",
+      "category": "ui_system_help",
+      "translation_en": "How quickly and how often you act in battle,\nand how well you avoid\nenemy attacks,\nare determined by Agility.\nWind Body governs that Agility.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0224",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 224,
+      "text_offset": 34584,
+      "source_sha256": "31e08c783eb401f842bd3ce64535ff169b7139115ee0c88b14eb9dd5f9c093e9",
+      "category": "ui_system_help",
+      "translation_en": "When an enemy hits you with a nonmagical attack,\nthe higher your Defense,\nthe less damage you take.\nEarth Body is the foundation of that Defense.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0225",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 225,
+      "text_offset": 34704,
+      "source_sha256": "aedc85655feb63d38771bfc817b4784baca42cb729327741dd5b6d2e99697c1f",
+      "category": "ui_system_help",
+      "translation_en": "When you attack with a weapon,\nhigher Attack means more damage\nto the enemy.\nFire Body is the source of that Attack.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0226",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 226,
+      "text_offset": 34824,
+      "source_sha256": "e6f276c3c86b0b5e18400b87c2f9b16bc93225391b21706f6ec4dec0984dc0a1",
+      "category": "ui_system_help",
+      "translation_en": "In the end, how much damage\nyou can withstand from enemy attacks\ncomes down to HP.\nWater Body is the source of that HP.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0227",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 227,
+      "text_offset": 34948,
+      "source_sha256": "99a82b914a4e79980a797251f58a867bb3a8a03999f07460a9f7e49785869cd3",
+      "category": "ui_system_help",
+      "translation_en": "People with high Wind Spirit\nthink freely and fearlessly!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "The short positive claim continues into the examples in 1:228."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0228",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 228,
+      "text_offset": 35000,
+      "source_sha256": "6d725e9925dd446e215ffdc27a2d6248a1187a730eda1b70558c5d8ef0f2b3bb",
+      "category": "ui_system_help",
+      "translation_en": "Many are natural geniuses who propose\nbattle-turning tactics that brilliantly\nexploit an enemy's weakness.\nI'm sure those who devise new secret arts\nmust have high Wind Spirit too.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0229",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 229,
+      "text_offset": 35144,
+      "source_sha256": "8fe643217e772716e88195744461b65891a7f4db69c05e40bd6f123320fc138a",
+      "category": "ui_system_help",
+      "translation_en": "But they can get too clever for their own good,\nand they're a little... quite a bit... perhaps?\nSelfish and fickle, you might say.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0230",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 230,
+      "text_offset": 35238,
+      "source_sha256": "1692f48855b47a0af8a1532ccbdb7657f32186e73b12d86d237811be753b4de2",
+      "category": "ui_system_help",
+      "translation_en": "If I had to sum up someone with high Earth Spirit,\nI'd say they're the unsung backbone of the group!!\nThey look before they leap.\nTheir preferred tactics are cautious and unshowy,\nand can seem a little roundabout\nor indecisive.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0231",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 231,
+      "text_offset": 35410,
+      "source_sha256": "5ea7b489032594cd4b1b62185b35aafb5f1295b2b5dc4acb27b123e07438c37b",
+      "category": "ui_system_help",
+      "translation_en": "But when it comes down to the very end,\nthese are the people you can rely on!!\nThat's what I think.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Itsuka refers to herself by name; English uses I in this row.",
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0232",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 232,
+      "text_offset": 35496,
+      "source_sha256": "dd3140026be545a37bb94de2a71dd6aef91055c9b4c38a90b5200d79efe43528",
+      "category": "ui_system_help",
+      "translation_en": "People with strong Fire Spirit\nare proactive, aggressive, and a bit short-tempered!!\nThey tend to act before thinking.\nBrave and bold, or reckless, depending on your view.\nQuick to flare up and cool down,\ntheir emotions can be quite uneven.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0233",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 233,
+      "text_offset": 35684,
+      "source_sha256": "a367a295a620f40b682e91a330f4a4fb1161a0737694f99976c8ebf74842bb2f",
+      "category": "ui_system_help",
+      "translation_en": "But they're simple at heart... or rather, straightforward.\nIf you manage their moods well,\nI'm sure they'll do great things.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0234",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 234,
+      "text_offset": 35784,
+      "source_sha256": "bb544826e8a453739ea010fde46c8ac65713051476640a33b315d52c7c7ee772",
+      "category": "ui_system_help",
+      "translation_en": "In short, this is a person's personality.\nIt greatly affects their proposed tactics\nand how sharply their Loyalty rises and falls.\nOne other important thing:\nSpirit growth is essential for learning spells and secret arts!!\n...Please don't forget that.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
+        "Spirit affects suggested tactics and Loyalty changes; it is not MP."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0235",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 235,
+      "text_offset": 35978,
+      "source_sha256": "696785d493e5791179a9cad7357aca74a95cc5c01d4351d705fc325913ced4c8",
+      "category": "ui_system_help",
+      "translation_en": "People with high Water Spirit\nare very kind, always putting\ntheir allies' lives first.\nBut that kindness can work against them,\nleaving them without the forcefulness a crucial moment needs...\nThey're not entirely free of that weakness.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0236",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 236,
+      "text_offset": 36146,
+      "source_sha256": "88e7aa3f00762b801bd952454ab10f49b45fd52914093e3ab3156bb82ed2297e",
+      "category": "ui_system_help",
+      "translation_en": "Someone without flaws would be boring.\nMaking up for each other's faults and forgiving them...\nThat's what being a family means.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0237",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 237,
+      "text_offset": 36242,
+      "source_sha256": "81555bcc757da348905781a96a28667bde9330fe7262c8c33ac79cd8f7166207",
+      "category": "ui_system_help",
+      "translation_en": "Wind Skill is involved in many spells.\nOne of its most important roles\nis maximizing the effect of an attack.\nWhen an ally's attack and the power of Wind Skill\nwork together perfectly, there will scarcely\nbe anyone left standing in the enemy ranks!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0238",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 238,
+      "text_offset": 36430,
+      "source_sha256": "e4afb53742833bb816afcb6e20962af87cda7d2953fe85a3544c77d4a9648ab0",
+      "category": "ui_system_help",
+      "translation_en": "Spells cast by those with excellent Wind Skill\nare also more likely to affect enemies.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0239",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 239,
+      "text_offset": 36494,
+      "source_sha256": "1d5bf189d674a59e84b329af2e5705a97bad986caa90f0efdb8c54a96224b1a7",
+      "category": "ui_system_help",
+      "translation_en": "Earth Skill's main role is to reduce\nthe damage allies take from spells.\nIn other words, it's defense against magic.\nPeople with high Earth Skill\nare also harder for enemy spells to affect.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "version": "0.2.24",
+  "result": "PASS",
+  "scope": "Reported Orin dialogue in the prologue, original and final builds",
+  "screenshots": [
+    {
+      "file": "work/ui/punctuation-0.2.24/dialogue-before.png",
+      "sha256": "86c752aecfb4033fed376de461a2410ae1f93ec467846f7f01e74c087799b158"
+    },
+    {
+      "file": "work/ui/punctuation-0.2.24/dialogue-after.png",
+      "sha256": "d1c1c754bd05ae14d15173c485792ea94c346317ec7960f4c23a299f366b9d94"
+    },
+    {
+      "file": "work/ui/punctuation-0.2.24/title-after.png",
+      "sha256": "f5d909085e433cf06f1230eaf185546914e8dd7a5bb29b822666065bd607a1f5"
+    }
+  ],
+  "comparisons": [
+    {
+      "text": "Tch!!",
+      "exclamation_positions": [
+        {
+          "before": [
+            93,
+            0,
+            106,
+            64
+          ],
+          "after": [
+            82,
+            0,
+            94,
+            64
+          ],
+          "left_shift_native_pixels": 2.75
+        },
+        {
+          "before": [
+            107,
+            0,
+            120,
+            64
+          ],
+          "after": [
+            96,
+            0,
+            109,
+            64
+          ],
+          "left_shift_native_pixels": 2.75
+        }
+      ],
+      "other_glyphs": "identical",
+      "atlas": "native 4x"
+    },
+    {
+      "text": "Not even time to catch our breath!!",
+      "exclamation_positions": [
+        {
+          "before": [
+            803,
+            0,
+            816,
+            64
+          ],
+          "after": [
+            792,
+            0,
+            805,
+            64
+          ],
+          "left_shift_native_pixels": 2.75
+        },
+        {
+          "before": [
+            818,
+            0,
+            830,
+            64
+          ],
+          "after": [
+            806,
+            0,
+            819,
+            64
+          ],
+          "left_shift_native_pixels": 3.0
+        }
+      ],
+      "other_glyphs": "identical",
+      "atlas": "native 4x"
+    }
+  ],
+  "mips_cases": 65536,
+  "checks": {
+    "other_executable_bytes": "byte-identical",
+    "all_script_payloads": "byte-identical",
+    "unrelated_archive_members": "byte-identical",
+    "font_atlas_and_advances": "unchanged",
+    "question_marks_and_fullwidth_punctuation": "unchanged"
+  },
+  "save_files": "unchanged",
+  "texture_replacement": false,
+  "memory_writes": false,
+  "github_release": false,
+  "limits": [
+    "Full playthrough and physical PSP testing remain pending"
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "version": "0.2.19",
+  "iso": "work/source/qa-shop-0.2.19c.iso",
+  "elf_sha256": "bb5c934d084824041df0a74a939156ece421fb38678a40ff4134e45250320bac",
+  "archive_sha256": "952c2ccce5f496f36aa8c84abc1fad80924923449ffeec314ab9c828414944bf",
+  "native_patches_verified": [
+    {
+      "address": "0x8951830",
+      "bytes": "38000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8950014",
+      "bytes": "98000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8950034",
+      "bytes": "08000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8950038",
+      "bytes": "38000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8950074",
+      "bytes": "32000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8950078",
+      "bytes": "ae000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8950094",
+      "bytes": "44000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8950098",
+      "bytes": "a8010524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f3e8",
+      "bytes": "06001424",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f3f0",
+      "bytes": "03001224",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f428",
+      "bytes": "04000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f430",
+      "bytes": "68009426",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f43c",
+      "bytes": "64000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f444",
+      "bytes": "28000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f45c",
+      "bytes": "05004228",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894fb18",
+      "bytes": "05004228",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894fb64",
+      "bytes": "0500a228",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894fb78",
+      "bytes": "fcffa724",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894fb80",
+      "bytes": "05004324",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894fbb4",
+      "bytes": "04000224",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894fc90",
+      "bytes": "04004224",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894ea4c",
+      "bytes": "14000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894ea84",
+      "bytes": "00000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894eaa4",
+      "bytes": "14000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894eab0",
+      "bytes": "14000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894ead0",
+      "bytes": "14000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f948",
+      "bytes": "06000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f94c",
+      "bytes": "2c000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x894f354",
+      "bytes": "9c010524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892f85c",
+      "bytes": "60000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892f87c",
+      "bytes": "70000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8a45f64",
+      "bytes": "8e01",
+      "method": "raw data"
+    },
+    {
+      "address": "0x8a437f0",
+      "bytes": "46756e64733a0000",
+      "method": "raw data"
+    },
+    {
+      "address": "0x8a459b4",
+      "bytes": "41544b0000000000000000000000000000000000000000000000000000000000",
+      "method": "raw data"
+    },
+    {
+      "address": "0x8a459d4",
+      "bytes": "4445460000000000000000000000000000000000000000000000000000000000",
+      "method": "raw data"
+    },
+    {
+      "address": "0x8a459f4",
+      "bytes": "4147490000000000000000000000000000000000000000000000000000000000",
+      "method": "raw data"
+    },
+    {
+      "address": "0x8a3ad8c",
+      "bytes": "476561722053746174730000",
+      "method": "raw data"
+    },
+    {
+      "address": "0x8a45a18",
+      "bytes": "252b640000000000",
+      "method": "raw data"
+    },
+    {
+      "address": "0x8a443a8",
+      "bytes": "250073002000250073000000",
+      "method": "raw data"
+    },
+    {
+      "address": "0x8a411f4",
+      "bytes": "2500730025007300250073002000250073000000",
+      "method": "raw data"
+    },
+    {
+      "address": "0x892f998",
+      "bytes": "20fdbd27",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892f9dc",
+      "bytes": "e000b627",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fa00",
+      "bytes": "e001b727",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fa04",
+      "bytes": "6001a427",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fa24",
+      "bytes": "6002a427",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fc94",
+      "bytes": "6001a427",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fd20",
+      "bytes": "6002a427",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fec0",
+      "bytes": "6002a427",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fecc",
+      "bytes": "6001a827",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fed0",
+      "bytes": "e001a927",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fee8",
+      "bytes": "e000a627",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892feec",
+      "bytes": "6002a727",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x89300bc",
+      "bytes": "e002bd27",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892f9fc",
+      "bytes": "80000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fa10",
+      "bytes": "80000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fa20",
+      "bytes": "80000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fa30",
+      "bytes": "80000624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fb78",
+      "bytes": "80000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fc54",
+      "bytes": "80000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fc9c",
+      "bytes": "80000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fd28",
+      "bytes": "80000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fe68",
+      "bytes": "80000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fe9c",
+      "bytes": "80000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fedc",
+      "bytes": "80000524",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x89401dc",
+      "bytes": "b809083c",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x89401f4",
+      "bytes": "34e00825",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fc44",
+      "bytes": "b809063c",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fc4c",
+      "bytes": "3ce0c624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8944718",
+      "bytes": "b809063c",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x8944728",
+      "bytes": "48e0c624",
+      "method": "original instruction beneath JIT markers"
+    },
+    {
+      "address": "0x892fed8",
+      "bytes": "1cf86d0e",
+      "method": "original instruction beneath JIT markers"
+    }
+  ],
+  "appended_strings": "pass",
+  "wrapper_original_opcodes": "pass",
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

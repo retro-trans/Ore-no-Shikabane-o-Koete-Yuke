@@ -1,0 +1,58 @@
+{
+  "version": "0.2.31",
+  "source": "Original native PCSA00155 textures from the user-supplied Oreshika folder",
+  "terms": [
+    {
+      "symbol": "Fire",
+      "source_sheet": "uitx_icon_us.ppt",
+      "source_crop": [
+        444,
+        0,
+        476,
+        32
+      ],
+      "native_files": [
+        "17.ppt"
+      ]
+    },
+    {
+      "symbol": "Water",
+      "source_sheet": "uitx_icon_us.ppt",
+      "source_crop": [
+        444,
+        32,
+        476,
+        64
+      ],
+      "native_files": [
+        "18.ppt"
+      ]
+    },
+    {
+      "symbol": "Wind",
+      "source_sheet": "uitx_icon_us.ppt",
+      "source_crop": [
+        444,
+        64,
+        476,
+        96
+      ],
+      "native_files": [
+        "19.ppt"
+      ]
+    },
+    {
+      "symbol": "Earth",
+      "source_sheet": "uitx_icon_us.ppt",
+      "source_crop": [
+        444,
+        96,
+        476,
+        128
+      ],
+      "native_files": [
+        "20.ppt"
+      ]
+    }
+  ]
+}

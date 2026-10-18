@@ -1,0 +1,13 @@
+{
+  "version": "0.2.17",
+  "id": "ore:0000c000:0015:04:0006",
+  "section": 4,
+  "index": 6,
+  "natural_message_selection": true,
+  "register_or_memory_writes": false,
+  "resource": "0x9ae75a4",
+  "original_caller_return": "0x896f60c",
+  "text_address": "0x9c3955c",
+  "translation_sha256": "e55651904b52f1c44f005c3453f3348fbc21b13fdf3dbe06f180d84880e53b3a",
+  "exact_final_build_text": true
+}

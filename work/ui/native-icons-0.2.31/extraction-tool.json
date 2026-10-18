@@ -1,0 +1,7 @@
+{
+  "binary_sha256": "a576ac696b2fde9287b743a2aef0c4a2bb04053cd57a41216fdadda2ee599a56",
+  "download": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip",
+  "version": "Vita3K v0.2.1 4190-fab6bfc7",
+  "method": "Offline local-license extraction into an isolated project profile; input untouched",
+  "secrets_logged_publicly": false
+}

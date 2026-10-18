@@ -1,0 +1,140 @@
+{
+  "version": "0.2.33",
+  "result": "PASS",
+  "elf_sha256": "83677056891403cf743bfef2133b6b1ef3cb9805a9c5f0720ade20b15a40dabb",
+  "cases": 18,
+  "checks": [
+    "Both relocated ASCII format pointers reached through actual MIPS",
+    "Year/month arithmetic and all four special historical indices",
+    "16-bit upper boundary and year transitions",
+    "Stored record index, adjacent guards, stack and callee-save registers"
+  ],
+  "examples": [
+    {
+      "month_index": 0,
+      "format": "Events: %4d / %2d",
+      "year": 1015,
+      "month": 1,
+      "text": "Events: 1015 /  1"
+    },
+    {
+      "month_index": 1,
+      "format": "Events: %4d / %2d",
+      "year": 1015,
+      "month": 2,
+      "text": "Events: 1015 /  2"
+    },
+    {
+      "month_index": 10,
+      "format": "Events: %4d / %2d",
+      "year": 1015,
+      "month": 11,
+      "text": "Events: 1015 / 11"
+    },
+    {
+      "month_index": 11,
+      "format": "Events: %4d / %2d",
+      "year": 1015,
+      "month": 12,
+      "text": "Events: 1015 / 12"
+    },
+    {
+      "month_index": 12,
+      "format": "Events: %4d / %2d",
+      "year": 1016,
+      "month": 1,
+      "text": "Events: 1016 /  1"
+    },
+    {
+      "month_index": 24,
+      "format": "Events: %4d / %2d",
+      "year": 1017,
+      "month": 1,
+      "text": "Events: 1017 /  1"
+    },
+    {
+      "month_index": 25,
+      "format": "Events: %4d / %2d",
+      "year": 1017,
+      "month": 2,
+      "text": "Events: 1017 /  2"
+    },
+    {
+      "month_index": 26,
+      "format": "Events: %4d / %2d",
+      "year": 1017,
+      "month": 3,
+      "text": "Events: 1017 /  3"
+    },
+    {
+      "month_index": 34,
+      "format": "Events: %4d / %2d",
+      "year": 1017,
+      "month": 11,
+      "text": "Events: 1017 / 11"
+    },
+    {
+      "month_index": 35,
+      "format": "Events: %4d / %s",
+      "year": 1017,
+      "month": "?",
+      "text": "Events: 1017 / ?"
+    },
+    {
+      "month_index": 36,
+      "format": "Events: %4d / %2d",
+      "year": 1017,
+      "month": 12,
+      "text": "Events: 1017 / 12"
+    },
+    {
+      "month_index": 37,
+      "format": "Events: %4d / %s",
+      "year": 1018,
+      "month": "?",
+      "text": "Events: 1018 / ?"
+    },
+    {
+      "month_index": 38,
+      "format": "Events: %4d / %s",
+      "year": 1018,
+      "month": "?",
+      "text": "Events: 1018 / ?"
+    },
+    {
+      "month_index": 39,
+      "format": "Events: %4d / %2d",
+      "year": 1018,
+      "month": 4,
+      "text": "Events: 1018 /  4"
+    },
+    {
+      "month_index": 47,
+      "format": "Events: %4d / %2d",
+      "year": 1018,
+      "month": 12,
+      "text": "Events: 1018 / 12"
+    },
+    {
+      "month_index": 48,
+      "format": "Events: %4d / %2d",
+      "year": 1019,
+      "month": 1,
+      "text": "Events: 1019 /  1"
+    },
+    {
+      "month_index": 1199,
+      "format": "Events: %4d / %2d",
+      "year": 1114,
+      "month": 12,
+      "text": "Events: 1114 / 12"
+    },
+    {
+      "month_index": 65535,
+      "format": "Events: %4d / %2d",
+      "year": 6476,
+      "month": 4,
+      "text": "Events: 6476 /  4"
+    }
+  ]
+}

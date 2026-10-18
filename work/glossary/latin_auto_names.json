@@ -1,0 +1,1271 @@
+{
+  "version": "0.2.16",
+  "policy": "Curated source names with explicit kana, Kyoto place readings, or marked project-selected conventional kanji readings; ASCII Hepburn, maximum eight letters, no truncation. Original excluded names remain in the source archive.",
+  "sources": [
+    "https://www.ezairyu.mofa.go.jp/passport/hebon.html",
+    "https://www.city.kyoto.lg.jp/bunshi/cmsfiles/contents/0000206/206129/english-ura.pdf",
+    "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/tika/pop_station_map.html"
+  ],
+  "rows": [
+    {
+      "section": 1,
+      "source_index": 1,
+      "source_name": "三条",
+      "latin": "Sanjo",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 2,
+      "source_name": "六角",
+      "latin": "Rokkaku",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 5,
+      "source_name": "四条",
+      "latin": "Shijo",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 7,
+      "source_name": "仏光寺",
+      "latin": "Bukkoji",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 10,
+      "source_name": "二条",
+      "latin": "Nijo",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 11,
+      "source_name": "御池",
+      "latin": "Oike",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 12,
+      "source_name": "縄手",
+      "latin": "Nawate",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 13,
+      "source_name": "壬生川",
+      "latin": "Mibugawa",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 15,
+      "source_name": "西大路",
+      "latin": "Nishioji",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 17,
+      "source_name": "六条",
+      "latin": "Rokujo",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 24,
+      "source_name": "烏丸",
+      "latin": "Karasuma",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 28,
+      "source_name": "八条",
+      "latin": "Hachijo",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 31,
+      "source_name": "五条",
+      "latin": "Gojo",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 38,
+      "source_name": "七条",
+      "latin": "Shichijo",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 40,
+      "source_name": "塩小路",
+      "latin": "Shiokoji",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 45,
+      "source_name": "梅小路",
+      "latin": "Umekoji",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 48,
+      "source_name": "九条",
+      "latin": "Kujo",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 57,
+      "source_name": "六地蔵",
+      "latin": "Rokujizo",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 58,
+      "source_name": "蹴上",
+      "latin": "Keage",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 59,
+      "source_name": "六波羅",
+      "latin": "Rokuhara",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 61,
+      "source_name": "大原野",
+      "latin": "Oharano",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 1,
+      "source_index": 62,
+      "source_name": "北嵯峨",
+      "latin": "Kitasaga",
+      "reading_basis": "Kyoto place name"
+    },
+    {
+      "section": 2,
+      "source_index": 0,
+      "source_name": "あおば",
+      "latin": "Aoba",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 1,
+      "source_name": "あかり",
+      "latin": "Akari",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 2,
+      "source_name": "あずみ",
+      "latin": "Azumi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 3,
+      "source_name": "あやめ",
+      "latin": "Ayame",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 4,
+      "source_name": "あゆみ",
+      "latin": "Ayumi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 5,
+      "source_name": "あんず",
+      "latin": "Anzu",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 6,
+      "source_name": "いずる",
+      "latin": "Izuru",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 7,
+      "source_name": "いろは",
+      "latin": "Iroha",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 8,
+      "source_name": "うさぎ",
+      "latin": "Usagi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 9,
+      "source_name": "うね",
+      "latin": "Une",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 10,
+      "source_name": "うらら",
+      "latin": "Urara",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 11,
+      "source_name": "おぼろ",
+      "latin": "Oboro",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 12,
+      "source_name": "かえで",
+      "latin": "Kaede",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 13,
+      "source_name": "かぐら",
+      "latin": "Kagura",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 14,
+      "source_name": "かづみ",
+      "latin": "Kazumi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 15,
+      "source_name": "かれん",
+      "latin": "Karen",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 16,
+      "source_name": "きせ",
+      "latin": "Kise",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 17,
+      "source_name": "きらら",
+      "latin": "Kirara",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 18,
+      "source_name": "くるみ",
+      "latin": "Kurumi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 19,
+      "source_name": "こずえ",
+      "latin": "Kozue",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 20,
+      "source_name": "さぎり",
+      "latin": "Sagiri",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 21,
+      "source_name": "さくら",
+      "latin": "Sakura",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 22,
+      "source_name": "さやか",
+      "latin": "Sayaka",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 23,
+      "source_name": "しとね",
+      "latin": "Shitone",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 24,
+      "source_name": "しらべ",
+      "latin": "Shirabe",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 26,
+      "source_name": "すず",
+      "latin": "Suzu",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 27,
+      "source_name": "すみれ",
+      "latin": "Sumire",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 29,
+      "source_name": "ちはる",
+      "latin": "Chiharu",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 30,
+      "source_name": "ちひろ",
+      "latin": "Chihiro",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 31,
+      "source_name": "つくし",
+      "latin": "Tsukushi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 32,
+      "source_name": "つばき",
+      "latin": "Tsubaki",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 33,
+      "source_name": "つばさ",
+      "latin": "Tsubasa",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 34,
+      "source_name": "てふ",
+      "latin": "Tefu",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 35,
+      "source_name": "とわ",
+      "latin": "Towa",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 37,
+      "source_name": "なつめ",
+      "latin": "Natsume",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 38,
+      "source_name": "のどか",
+      "latin": "Nodoka",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 39,
+      "source_name": "はなこ",
+      "latin": "Hanako",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 40,
+      "source_name": "はるか",
+      "latin": "Haruka",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 41,
+      "source_name": "はるみ",
+      "latin": "Harumi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 42,
+      "source_name": "はるら",
+      "latin": "Harura",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 43,
+      "source_name": "ひかる",
+      "latin": "Hikaru",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 45,
+      "source_name": "ひばり",
+      "latin": "Hibari",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 46,
+      "source_name": "ひより",
+      "latin": "Hiyori",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 47,
+      "source_name": "ひらら",
+      "latin": "Hirara",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 48,
+      "source_name": "ふじの",
+      "latin": "Fujino",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 49,
+      "source_name": "ほたる",
+      "latin": "Hotaru",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 50,
+      "source_name": "ほとり",
+      "latin": "Hotori",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 52,
+      "source_name": "ぼたん",
+      "latin": "Botan",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 53,
+      "source_name": "まつり",
+      "latin": "Matsuri",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 54,
+      "source_name": "まどか",
+      "latin": "Madoka",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 55,
+      "source_name": "まゆみ",
+      "latin": "Mayumi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 56,
+      "source_name": "みこし",
+      "latin": "Mikoshi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 57,
+      "source_name": "みさお",
+      "latin": "Misao",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 58,
+      "source_name": "みちる",
+      "latin": "Michiru",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 59,
+      "source_name": "みづき",
+      "latin": "Mizuki",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 60,
+      "source_name": "みなみ",
+      "latin": "Minami",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 61,
+      "source_name": "みゆき",
+      "latin": "Miyuki",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 62,
+      "source_name": "ゆい",
+      "latin": "Yui",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 63,
+      "source_name": "ゆかり",
+      "latin": "Yukari",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 64,
+      "source_name": "ゆき",
+      "latin": "Yuki",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 65,
+      "source_name": "ゆきな",
+      "latin": "Yukina",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 66,
+      "source_name": "りょう",
+      "latin": "Ryo",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 67,
+      "source_name": "るる",
+      "latin": "Ruru",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 68,
+      "source_name": "るろち",
+      "latin": "Rurochi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 69,
+      "source_name": "るん",
+      "latin": "Run",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 70,
+      "source_name": "わらび",
+      "latin": "Warabi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 71,
+      "source_name": "アギラ",
+      "latin": "Agira",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 72,
+      "source_name": "アゲハ",
+      "latin": "Ageha",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 73,
+      "source_name": "アザミ",
+      "latin": "Azami",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 74,
+      "source_name": "ウテナ",
+      "latin": "Utena",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 75,
+      "source_name": "カヅノ",
+      "latin": "Kazuno",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 76,
+      "source_name": "カテナ",
+      "latin": "Katena",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 77,
+      "source_name": "カルナ",
+      "latin": "Karuna",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 78,
+      "source_name": "キラ",
+      "latin": "Kira",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 79,
+      "source_name": "キリエ",
+      "latin": "Kirie",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 81,
+      "source_name": "サヨリ",
+      "latin": "Sayori",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 82,
+      "source_name": "ツグミ",
+      "latin": "Tsugumi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 83,
+      "source_name": "ツボミ",
+      "latin": "Tsubomi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 84,
+      "source_name": "トキ",
+      "latin": "Toki",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 85,
+      "source_name": "ナギリ",
+      "latin": "Nagiri",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 86,
+      "source_name": "ヒナセ",
+      "latin": "Hinase",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 87,
+      "source_name": "ヒナタ",
+      "latin": "Hinata",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 88,
+      "source_name": "マヤ",
+      "latin": "Maya",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 89,
+      "source_name": "ミウネ",
+      "latin": "Miune",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 2,
+      "source_index": 90,
+      "source_name": "ヤスミ",
+      "latin": "Yasumi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 0,
+      "source_name": "あきら",
+      "latin": "Akira",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 1,
+      "source_name": "いずる",
+      "latin": "Izuru",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 2,
+      "source_name": "そよぎ",
+      "latin": "Soyogi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 3,
+      "source_name": "ひかる",
+      "latin": "Hikaru",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 4,
+      "source_name": "ひふみ",
+      "latin": "Hifumi",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 5,
+      "source_name": "イブキ",
+      "latin": "Ibuki",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 6,
+      "source_name": "タオヤ",
+      "latin": "Taoya",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 7,
+      "source_name": "トガリ",
+      "latin": "Togari",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 8,
+      "source_name": "トキ",
+      "latin": "Toki",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 9,
+      "source_name": "ハヤテ",
+      "latin": "Hayate",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 10,
+      "source_name": "ワタル",
+      "latin": "Wataru",
+      "reading_basis": "Explicit source kana"
+    },
+    {
+      "section": 3,
+      "source_index": 11,
+      "source_name": "亜門",
+      "latin": "Amon",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 12,
+      "source_name": "亜乱",
+      "latin": "Aran",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 13,
+      "source_name": "亜連",
+      "latin": "Aren",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 14,
+      "source_name": "愛宕",
+      "latin": "Atago",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 15,
+      "source_name": "悪太郎",
+      "latin": "Akutaro",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 16,
+      "source_name": "旭",
+      "latin": "Asahi",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 17,
+      "source_name": "綾人",
+      "latin": "Ayato",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 19,
+      "source_name": "安清",
+      "latin": "Yasukiyo",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 20,
+      "source_name": "安武",
+      "latin": "Yasutake",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 21,
+      "source_name": "以蔵",
+      "latin": "Izo",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 22,
+      "source_name": "伊衛門",
+      "latin": "Iemon",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 25,
+      "source_name": "為五郎",
+      "latin": "Tamegoro",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 26,
+      "source_name": "為信",
+      "latin": "Tamenobu",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 27,
+      "source_name": "郁",
+      "latin": "Kaoru",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 28,
+      "source_name": "一期",
+      "latin": "Ichigo",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 29,
+      "source_name": "一季",
+      "latin": "Kazuki",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 30,
+      "source_name": "一起",
+      "latin": "Ikki",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 32,
+      "source_name": "一真",
+      "latin": "Kazuma",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 33,
+      "source_name": "一人",
+      "latin": "Kazuto",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 34,
+      "source_name": "一途",
+      "latin": "Ichizu",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 37,
+      "source_name": "一平",
+      "latin": "Ippei",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 38,
+      "source_name": "一歩",
+      "latin": "Ippo",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 39,
+      "source_name": "一弥",
+      "latin": "Kazuya",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 41,
+      "source_name": "一洋",
+      "latin": "Kazuhiro",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 42,
+      "source_name": "一陽",
+      "latin": "Kazuharu",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 43,
+      "source_name": "一狼",
+      "latin": "Ichiro",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 44,
+      "source_name": "一郎太",
+      "latin": "Ichirota",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 45,
+      "source_name": "壱丸",
+      "latin": "Ichimaru",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 46,
+      "source_name": "右衛門",
+      "latin": "Uemon",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 47,
+      "source_name": "右京",
+      "latin": "Ukyo",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 48,
+      "source_name": "右近",
+      "latin": "Ukon",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 50,
+      "source_name": "影丸",
+      "latin": "Kagemaru",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 51,
+      "source_name": "影虎",
+      "latin": "Kagetora",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 54,
+      "source_name": "栄",
+      "latin": "Sakae",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 55,
+      "source_name": "永吉",
+      "latin": "Eikichi",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 56,
+      "source_name": "永隆",
+      "latin": "Nagataka",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 57,
+      "source_name": "英貴",
+      "latin": "Hidetaka",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 58,
+      "source_name": "英彦",
+      "latin": "Hidehiko",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 59,
+      "source_name": "英雄",
+      "latin": "Hideo",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 60,
+      "source_name": "衛",
+      "latin": "Mamoru",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 61,
+      "source_name": "炎",
+      "latin": "Homura",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 67,
+      "source_name": "乙丸",
+      "latin": "Otomaru",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 68,
+      "source_name": "音次郎",
+      "latin": "Otojiro",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 69,
+      "source_name": "音也",
+      "latin": "Otoya",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 71,
+      "source_name": "嘉人",
+      "latin": "Yoshito",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 73,
+      "source_name": "夏来",
+      "latin": "Natsuki",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 74,
+      "source_name": "家永",
+      "latin": "Ienaga",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 75,
+      "source_name": "家継",
+      "latin": "Ietsugu",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 77,
+      "source_name": "花丸",
+      "latin": "Hanamaru",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 80,
+      "source_name": "華山",
+      "latin": "Kazan",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 81,
+      "source_name": "華南",
+      "latin": "Kanan",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 83,
+      "source_name": "牙男",
+      "latin": "Kibao",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 85,
+      "source_name": "雅臣",
+      "latin": "Masaomi",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 86,
+      "source_name": "雅彦",
+      "latin": "Masahiko",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 87,
+      "source_name": "魁",
+      "latin": "Kai",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 89,
+      "source_name": "海王",
+      "latin": "Kaio",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 90,
+      "source_name": "海斗",
+      "latin": "Kaito",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 92,
+      "source_name": "海老蔵",
+      "latin": "Ebizo",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 93,
+      "source_name": "絵馬",
+      "latin": "Ema",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 96,
+      "source_name": "凱",
+      "latin": "Gai",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 97,
+      "source_name": "柿彦",
+      "latin": "Kakihiko",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    },
+    {
+      "section": 3,
+      "source_index": 99,
+      "source_name": "角丸",
+      "latin": "Kadomaru",
+      "reading_basis": "Project-selected conventional kanji reading; provisional"
+    }
+  ]
+}

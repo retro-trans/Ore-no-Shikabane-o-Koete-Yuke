@@ -1,0 +1,33 @@
+Native overworld labels: local build 0.2.10
+Date: 2026-10-17
+
+Request: translate the Japanese destination names in the reported April map.
+The glossary supplies all ten destination spellings; no core dialogue was changed.
+
+Assets
+- Fifty native T8 swizzled map-sign copies: eight location names, both map sets,
+  and all seasonal variants. The sign rectangles are repainted with fitted Noto
+  Sans English lettering and gold-to-purple panels. Scenery is unchanged.
+- Ten selected-destination banners in the original 0x04EAF000 archive,
+  entries 0 through 9 (276.ppt through 285.ppt). Fitted English plaques replace
+  the calligraphy and reading. Kyoto retains Itsuka's native portrait.
+- Eight compass copies use KYO and N/E/S/W.
+- Native copyright_sce.ppt footer updated to v0.2.10.
+
+Source-free translations: work/translation/en/graphics/map_labels.en.json
+Coordinates, fonts, archive identities and checksums:
+  work/output/english-native-0.2.10/map.report.json
+Actual game evidence: work/ui/map-fixes-0.2.10/verification.json
+Builder: tools/build_map_labels.py (dry run unless --write)
+QA recorder: tools/record_map_qa.py (dry run unless --write)
+
+Safety and scope
+The 0.2.9 executable is reused byte for byte. Native 4x VWF, existing translated
+text, menu geometry and date fixes are retained. Texture replacement is disabled.
+All image dimensions, original palettes, unrelated pixels, archive members and
+root payloads are checked. New packed members round trip through the decoder.
+The ISO builder verifies all replacement files and directory sizes.
+The final April captures cover Kyoto, Soyokuin, the three nearby small signs
+and the compass. Other seasons and late-game banners have native-asset preview
+checks only. Full playthrough and real PSP testing remain pending.
+This is a local test build; no GitHub release was created.

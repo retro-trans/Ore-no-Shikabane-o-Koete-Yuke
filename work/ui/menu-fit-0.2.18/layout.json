@@ -1,0 +1,100 @@
+{
+  "version": "0.2.18",
+  "font_logical_size": 12,
+  "texture_replacement": false,
+  "inventory": {
+    "frame": [
+      4,
+      84,
+      476,
+      174
+    ],
+    "columns": 2,
+    "visible_rows": 4,
+    "cell_width": 232,
+    "column_gap": 2,
+    "edge_margins": 3,
+    "item_icon_reserve": 12,
+    "name_advance_budget": 220
+  },
+  "descriptions": {
+    "frame": [
+      4,
+      178,
+      476,
+      242
+    ],
+    "advance_budget": 456,
+    "records_audited": 232,
+    "longest_advance": 450.857,
+    "signed_32bit_substitution_max_advance": 450.857,
+    "text_changes": 0
+  },
+  "categories": {
+    "columns": 2,
+    "visible_rows": 2,
+    "cell_width": 200,
+    "top": 28,
+    "source_choices": 8,
+    "paging": "Native menu cursor paging"
+  },
+  "names": {
+    "records_audited": 631,
+    "longest_advance": 218.571,
+    "longest_examples": [
+      {
+        "advance": 218.571,
+        "id": "ore:00028000:0000:01:0099",
+        "text": "Medium Wakizashi Waste-Water Bowl"
+      },
+      {
+        "advance": 204.0,
+        "id": "ore:00028000:0000:01:0033",
+        "text": "Large Wakizashi Waste-Water Bowl"
+      },
+      {
+        "advance": 202.286,
+        "id": "ore:00028000:0000:02:0026",
+        "text": "Flesh-Cutting Bone-Cleaving Blade"
+      },
+      {
+        "advance": 202.286,
+        "id": "ore:00028000:0000:01:0072",
+        "text": "Small Wakizashi Waste-Water Bowl"
+      },
+      {
+        "advance": 198.0,
+        "id": "ore:00028000:0000:01:0035",
+        "text": "Ten Thousand Voices Flower Vase"
+      }
+    ],
+    "dynamic_names": "Not included in fixed-name audit"
+  },
+  "capacity": {
+    "frame_origin": [
+      400,
+      0
+    ],
+    "digits_anchor": [
+      452,
+      4
+    ]
+  },
+  "shops": {
+    "selector_text_width": 100,
+    "armor_text_width": 92,
+    "weapon_category_text_width": 84,
+    "weapon_icon_reserve_per_column": 24,
+    "submenu_position": "Original code derives x from the enlarged parent width"
+  },
+  "wrapper": {
+    "address": "0x9b7e020",
+    "bytes": 20,
+    "tail_target": "0x08821f50",
+    "fields": [
+      "0x2578",
+      "0x257c"
+    ]
+  },
+  "runtime_verification": "PASS: selected contexts; see verification.json"
+}

@@ -1,0 +1,110 @@
+{
+  "version": "0.2.20",
+  "result": "PASS: selected requested equipment/union/deity screens",
+  "component_sha256": {
+    "elf": "b8e6fbe75efa36ed2112b581075740d5ef920ccffff3c821a7e18434aae0394a",
+    "archive": "affbd83b412074d458164002b13a36879fe252ed090a95f09a9e8f33b92a499b"
+  },
+  "screens": [
+    {
+      "file": "work/ui/equipment-deities-0.2.20/equipment-after.png",
+      "sha256": "89c1864379d9677a7d7a03d88fb3af2821b883d51d51930a9d742f647e5742a3",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "English equipment ribbon, role/slot labels, Male and four separate equipped rows",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/equipment-deities-0.2.20/equipment-head-after.png",
+      "sha256": "1eb3d44f838a788cd878e81f4c9d3712f6ea06c2fc89f1146ebb3f7d17f0eea5",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Full equipment candidate, separated slot label/name, description and signed comparison controls retained",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/equipment-deities-0.2.20/equipment-female.png",
+      "sha256": "70a54822b363123b5381b9174e3ff565d2eb55897f95d0ea59e8b38f03c38221",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Female and second eight-letter character name use native font",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/equipment-deities-0.2.20/union-available.png",
+      "sha256": "2aa5c23dba62fb7083f7fa124545493c025aee2d55e60bbda09f57dd760f939c",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Complete Available Classes text and highlight fit the enlarged Divine Union submenu",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/equipment-deities-0.2.20/deities-first.png",
+      "sha256": "5e2cca3c290674e06640fb3802978e8cfa2982b86532c699b23d5820f1d23671",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Four two-line deity rows separate names, offering cost, element and gender; full right caption fits",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/equipment-deities-0.2.20/deities-missing.png",
+      "sha256": "b87b5dc5f5d2d0517c8a87052e401890a56b30ddc37dbe34323342b124b93260",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "English Missing banner in the original native portrait asset",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/equipment-deities-0.2.20/deities-last.png",
+      "sha256": "96ba6aa2fa6f8a79d5e00da1213e143dca4d8704cebc5c5f9a89a664e028925a",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Native scrolling reaches later deity entries without layout collisions",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/equipment-deities-0.2.20/title.png",
+      "sha256": "95e9d3cc9742084007e164705296012947686999b6b77f1e31c649bc1969247b",
+      "dimensions": [
+        480,
+        272
+      ],
+      "observed": "Native v0.2.20 footer and full github.com/retro-trans URL",
+      "fit": "pass"
+    }
+  ],
+  "native_mips": "PASS: actual native equipment/deity geometry, two-line row wrapper, saved caller state, and dirty-register coordinate setup.",
+  "runtime_patches": 35,
+  "static_name_measurements": {
+    "equipment": 463,
+    "equipped_name_budget": 212,
+    "max_equipment_width": 202.28571428571428,
+    "deities": 127,
+    "deity_detail_name_budget": 160,
+    "max_deity_width": 149.14285714285714,
+    "generated_deity_names": "Require separate dynamic-name review"
+  },
+  "native_font": "Required dynamic English labels verified against embedded atlas and UVs",
+  "texture_replacement": false,
+  "script_text_changes": 0,
+  "github_release": false,
+  "limits": [
+    "Selected initial inventory/party contexts; dynamic heirloom/generated deity names and full-playthrough QA remain pending",
+    "The pre-existing low-offering confirmation warning may truncate its English text; it is outside the requested browsing/detail screens",
+    "Real PSP boot and performance remain untested"
+  ]
+}

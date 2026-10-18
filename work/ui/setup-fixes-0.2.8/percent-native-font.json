@@ -1,0 +1,46 @@
+{
+  "version": "0.2.8",
+  "status": "PASS",
+  "percentage_objects": 3,
+  "source_sampling_scale": 4,
+  "texture_replacement": false,
+  "padded_value_verified": true,
+  "captures": [
+    {
+      "text": "125%",
+      "codepoints": [
+        49,
+        50,
+        53,
+        37
+      ],
+      "native_image": "0x9b5c010",
+      "glyphs_verified": 4,
+      "observed_padding_advance": null
+    },
+    {
+      "text": "\u00a094%",
+      "codepoints": [
+        160,
+        57,
+        52,
+        37
+      ],
+      "native_image": "0x9b5c010",
+      "glyphs_verified": 4,
+      "observed_padding_advance": 11
+    },
+    {
+      "text": "125%",
+      "codepoints": [
+        49,
+        50,
+        53,
+        37
+      ],
+      "native_image": "0x9b5c010",
+      "glyphs_verified": 4,
+      "observed_padding_advance": null
+    }
+  ]
+}

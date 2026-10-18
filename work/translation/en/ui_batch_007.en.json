@@ -1,0 +1,1620 @@
+{
+  "schema_version": 1,
+  "version": "0.2.2",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "rows": [
+    {
+      "id": "ore:0000c000:0019:01:0080",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 80,
+      "text_offset": 15434,
+      "source_sha256": "c53b8937f3a6db95519b39a5216301935d1afa04cc8e817deb044afee4319bfd",
+      "category": "ui_system_help",
+      "translation_en": "Of all places, she set fire to Hiruko's home...\nEven normally gentle Hiruko\nwas absolutely furious at that...\nShe turned her into a cat on the spot and tossed her down!!\nBut lately, Hiruko seems to regret\nhaving gone a little too far...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game.",
+        "Hiruko and the cat woman are explicitly female in the source and glossary."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0081",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 81,
+      "text_offset": 15658,
+      "source_sha256": "3b6c67bde17c3a80f3c0223e1b02bd8542406f76f40ff80efb60cea498e8731e",
+      "category": "ui_system_help",
+      "translation_en": "As the name Crimson Flame Shrine suggests,\nmany of its oni and monsters wield fire.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0082",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 82,
+      "text_offset": 15728,
+      "source_sha256": "1da24f6267466daa2631ca853ed4018b649646468cf4a2f62fbdd57678cc595d",
+      "category": "ui_system_help",
+      "translation_en": "They say a heavenly maiden's child was stolen\nby heartless humans. Her grief and hatred became\noni that haunt the buildings.\nSoyokuin means the Temple of Twin Wings:\ntwo passages run left and right from the main\nsanctuary to the inner temple, like spreading wings.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0083",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 83,
+      "text_offset": 15930,
+      "source_sha256": "55b598bc2f481463afdfe54f3cafd14ce6c3c13882909fc11657d2254fce4fb4",
+      "category": "ui_system_help",
+      "translation_en": "Oni and monsters with high Water and Wind\nattributes seem somewhat more common here.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0084",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 84,
+      "text_offset": 15980,
+      "source_sha256": "b0f5da595a7f380f46bb6ca61f5d51c0f87fcbfe431b752939bf94ac15dde70e",
+      "category": "ui_system_help",
+      "translation_en": "Pass through the woods and climb three flights\nof stone steps, and you'll see\na nine-story tower soaring into the sky.\nI've heard that two deities\nbanished from heaven for some crime\nare imprisoned on its top floor.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0085",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 85,
+      "text_offset": 16138,
+      "source_sha256": "1a86c62946ac5a3b0f4b905e3c78b6115cc500bc509121950fdc78c399e5a5b9",
+      "category": "ui_system_help",
+      "translation_en": "Apparently, each floor has different oni and monsters,\nso I imagine you'll need\na well-rounded party.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0086",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 86,
+      "text_offset": 16224,
+      "source_sha256": "982f984e567cc4f70d2b75a647a1090805f54017647fc139878a201c370cb5e4",
+      "category": "ui_system_help",
+      "translation_en": "This aqueduct was built for humanity by\none of heaven's mightiest gods,\nwho was also incredibly handsome!!\n...But, well, I don't know\nexactly what happened,\nbut it seems to be an oni nest now.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0087",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 87,
+      "text_offset": 16424,
+      "source_sha256": "da309149e335179ef0809f12003403efb272851b91f290e8ec144e86ffefac12",
+      "category": "ui_system_help",
+      "translation_en": "The dungeon is full of water and ice.\nJust getting around is a struggle.\nIts oni and monsters seem strong in Water.\nAnd the mermaid Manahime is immensely popular\nwith the male gods, so please do whatever it takes\nto return her to heaven.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0088",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 88,
+      "text_offset": 16632,
+      "source_sha256": "83bb2d2144115c5633081e805c1fc2ef0e2fce877656886aaf65066509bb4363",
+      "category": "ui_system_help",
+      "translation_en": "If you help a woman with such deep feelings,\nI'm sure karma will bring you a surprising reward\nsomewhere down the line... Or so I think!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game.",
+        "The source's deliberately suggestive karmic-reward claim is kept as Itsuka's speculation."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0089",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 89,
+      "text_offset": 16734,
+      "source_sha256": "a9c2dabaac70146e4f7aee03567cabccf99f03a4e64149b7390046bcb71621b5",
+      "category": "ui_system_help",
+      "translation_en": "I'll choose high-performance equipment\nthat each party member can use\nand equip it more or less sensibly.\nIf several people can use the same piece,\nI'll give priority to whoever was selected\nfor the party first.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Itsuka refers to herself by name; English uses I in this row.",
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0090",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 90,
+      "text_offset": 16930,
+      "source_sha256": "f7c5207c13e06e3dee96f4f1e5e9a25c2b0e44241f57cc460d6a52c026294324",
+      "category": "ui_system_help",
+      "translation_en": "So select your party members in the order\nyou want them to receive the best equipment.\nIt's convenient and avoids waste.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0091",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 91,
+      "text_offset": 17016,
+      "source_sha256": "34ddb9d200860d798ba47b28d3b691967613c2c8802dbaced968955906159db3",
+      "category": "ui_system_help",
+      "translation_en": "Incidentally, some weapons and armor\nseem to have various effects besides\nAttack and Defense...\nBut I don't worry about those little details\none bit, so please be generous\nand let me get on with it!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Itsuka refers to herself by name; English uses I in this row.",
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0092",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 92,
+      "text_offset": 17216,
+      "source_sha256": "6298abf7b8cc8dd070e1f891604b57ef699cd906f54e2d1a244f51c6e69d8966",
+      "category": "ui_system_help",
+      "translation_en": "Accessories can increase Spirit, Skill, Agility,\nand other abilities that weapons and armor\ncannot make up for.\nMost accessories raise\nonly one kind of ability.\nAnd you can equip just one...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0093",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 93,
+      "text_offset": 17404,
+      "source_sha256": "19a75f0db97094f34ed6b56aa0451420c7156d02523484b843b396ec1f6ae13b",
+      "category": "ui_system_help",
+      "translation_en": "But when you want to learn a particular spell sooner!!\nWhen you know in advance which Skill attribute\nthe enemy's spells use!!\nWhen you want to give a slowpoke more Agility!!\nWhen someone's best moves don't match their Spirit\nand aren't being used to full advantage!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game.",
+        "Four conditional examples deliberately continue into 1:94."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0094",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 94,
+      "text_offset": 17618,
+      "source_sha256": "cf96b101b4067600ddc7a2d139d81a1d7f9c0b5f5546ae48fceca3ecb65da0b7",
+      "category": "ui_system_help",
+      "translation_en": "At times like those, check whether\nthe right accessory is lying asleep,\nsnoring away in your storehouse.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0095",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 95,
+      "text_offset": 17710,
+      "source_sha256": "20f0fbf626b4f136d4b594bb5191264d6c8f747b483c36b21ea30c7aa276e1bd",
+      "category": "ui_system_help",
+      "translation_en": "At home, open Clan, then Details,\nand choose Equipment for each person.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game.",
+        "Instruction fragment supplies its verb in English; the next row gives an alternative path."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0096",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 96,
+      "text_offset": 17768,
+      "source_sha256": "827267806a7358a929f48e5a4dacaddae42f66c2d69760503a9d2dde5a28a237",
+      "category": "ui_system_help",
+      "translation_en": "Or when choosing your party,\nleave it to me with Best Equipment.\nIt's a little rough, but quite convenient.\nAnd when you obtain new weapons or armor\nin a cave or dungeon,\ntry Equipment right away.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Itsuka refers to herself by name; English uses I in this row.",
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0097",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 97,
+      "text_offset": 17948,
+      "source_sha256": "bfefa83baca354465271abdf0fe5134f50c180b9b0e39c866c19903c6c0c1d1d",
+      "category": "ui_system_help",
+      "translation_en": "To change weapons or accessories\nduring battle, open Items\nand choose Equipment from the pack.\nIt seems complicated at first,\nbut once you learn it, it's easy and handy!!\nGetting used to it is half the battle.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0098",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 98,
+      "text_offset": 18120,
+      "source_sha256": "45005af33ee96f013293b43fbbb76435e940b6c1f28fa8359809e7f07fe72662",
+      "category": "ui_system_help",
+      "translation_en": "With large armor equipped,\nyou'll be fine even in the front row\nunless you're terribly careless!!\nMake full use of the front row's\noffensive advantages and finish the fight\nwith a bang!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0099",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 99,
+      "text_offset": 18288,
+      "source_sha256": "a68e40a770ccdda4276187b63d1a2ae73ec2e3a6b7b37398a7b2b725d12abb92",
+      "category": "ui_system_help",
+      "translation_en": "Naginata Wielders and Spearmen\ncan wear large armor.\nShow us your grit on the front line!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0100",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 100,
+      "text_offset": 18378,
+      "source_sha256": "8a364d4c3674d45b2c0f16fcfba0c6f90bec5537115e1e1acff6fef61286108d",
+      "category": "ui_system_help",
+      "translation_en": "This armor has the lowest Defense.\nIt's safest to think of light armor\nas little more than peace of mind.\nGunners and Dancers\ncan wear only this light equipment.\nPlease be very careful.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0101",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 101,
+      "text_offset": 18568,
+      "source_sha256": "860fec55269e6d2a6ab1fee678d41369f7be1a3d4aee9ca2e645bc9bcd6b9344",
+      "category": "ui_system_help",
+      "translation_en": "If you intend to stay in the front row\nwearing medium armor against powerful enemies,\nyou'll need a plan or you'll be in danger.\nHave a sturdy ally protect you,\nor use spells to raise your Defense...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0102",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 102,
+      "text_offset": 18738,
+      "source_sha256": "979c35addfa3da79a7c49612202c155849577d4cdd00064206b5b10eb623b260",
+      "category": "ui_system_help",
+      "translation_en": "Or perhaps keep telling yourself,\nwithout a shred of evidence, that attacks\nwill absolutely never hit you...?\nArchers and Martial Artists generally\nfight in medium armor.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0103",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 103,
+      "text_offset": 18890,
+      "source_sha256": "ffcd9e6c963ff36aa958ecf9c5d7ae208b2eb4a58bba0647d4c7cc46541462df",
+      "category": "ui_system_help",
+      "translation_en": "Equipping armor\nraises Defense and reduces\ndamage from enemy attacks.\nThere are two types, depending on where it's worn:\nhead armor, such as helmets and hats,\nand body armor, such as cuirasses and kimonos.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0104",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 104,
+      "text_offset": 19066,
+      "source_sha256": "da30bd3a93cc2e87949dbe3343f642f7da44d529e70013c9ac4b54ee45a264df",
+      "category": "ui_system_help",
+      "translation_en": "Each type has four levels of Defense:\nlight, medium, large, and heavy, in that order.\nYour class limits which you can wear.\nMany pieces are also restricted\nto a particular gender or class.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0105",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 105,
+      "text_offset": 19218,
+      "source_sha256": "32ff3c32eb8149d5ee298c665b38c0535165472476809e4bba55fcf76e32d942",
+      "category": "ui_system_help",
+      "translation_en": "Stand firm on the very front line\nand shield your own life and your allies'.\nThat's what heavy armor is for.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0106",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 106,
+      "text_offset": 19302,
+      "source_sha256": "4797dd0ec755542f4faf27a1c25b906c5a041587350578a78774b4002c1da7b2",
+      "category": "ui_system_help",
+      "translation_en": "Only Swordsmen and Crushers\ncan wear heavy armor!!\nGet yourselves fired up\nand give it everything you've got!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0107",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 107,
+      "text_offset": 19402,
+      "source_sha256": "02d7fe4c527bd7d006ae5a1b24174f1afffa413ae0f9fa822ed1e153a76c1db1",
+      "category": "ui_system_help",
+      "translation_en": "A weapon exclusive to Archers.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0108",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 108,
+      "text_offset": 19426,
+      "source_sha256": "70f45a7280f84a31e27d88f359b2267a7dc8595c1aad4e5fe787d69d1277f694",
+      "category": "ui_system_help",
+      "translation_en": "It has quite high Attack,\nand can fire arrows at enemies anywhere,\neven from the back row.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0109",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 109,
+      "text_offset": 19506,
+      "source_sha256": "8506526194fd6f1a7337ccba0ae1bf28d85e2a283e8acb36a4f22150246dbcf7",
+      "category": "ui_system_help",
+      "translation_en": "A weapon exclusive to Dancers.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0110",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 110,
+      "text_offset": 19530,
+      "source_sha256": "b18933be07780a9e06fc3050f2cce8e39cf10127d4cd19f9ad87e5d9ad60233b",
+      "category": "ui_system_help",
+      "translation_en": "From either your front or back row,\nyou can strike every enemy\nin either enemy row.\nBut whatever you do, don't expect\noverwhelming destructive power.\nIt's a fan, after all.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0111",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 111,
+      "text_offset": 19690,
+      "source_sha256": "1189d84a58a275b901e52160e345fd08b18194e28dc8eedf68d2a26667d10800",
+      "category": "ui_system_help",
+      "translation_en": "A weapon exclusive to Crushers.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0112",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 112,
+      "text_offset": 19714,
+      "source_sha256": "4544ddd4c503ed7c134aba4b7e5c754b4640e552194531575ebce0d4fbea361b",
+      "category": "ui_system_help",
+      "translation_en": "From the front row, its tremendous power\nsmashes one enemy in the enemy front row.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0113",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 113,
+      "text_offset": 19768,
+      "source_sha256": "b30548b515c144c7d81e84bb384dbcff0d4c50f506e040e50798f705ee9e8be3",
+      "category": "ui_system_help",
+      "translation_en": "A weapon exclusive to Gunners.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0114",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 114,
+      "text_offset": 19792,
+      "source_sha256": "f99001ec8c81525be987d5e3eb317b3e39013dcd8bc3b2c3a691f724817e7750",
+      "category": "ui_system_help",
+      "translation_en": "It can fire from either row,\nand comes in spread-shot and single-shot types.\nSpread-shot guns hit all enemies\nwhen fired from the front row,\nor the entire enemy front row from the back.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0115",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 115,
+      "text_offset": 19956,
+      "source_sha256": "252bb0142b71d36982aa2656850adf22beb89fce1232ec8d3c3eb4b70b3f2d41",
+      "category": "ui_system_help",
+      "translation_en": "Single-shot guns can pick off\nan enemy anywhere in the opposing ranks,\nwhether fired from the front or back row.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0116",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 116,
+      "text_offset": 20042,
+      "source_sha256": "b29574f902995b9735f8c9ace1432b1c76b5fa0478b6dac03b268cc0fb908feb",
+      "category": "ui_system_help",
+      "translation_en": "Weapons exclusive to Martial Artists.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0117",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 117,
+      "text_offset": 20066,
+      "source_sha256": "7609d03ac641d101c3e861430510fdb459e7ce303d0423a2438617d7726aee69",
+      "category": "ui_system_help",
+      "translation_en": "From the front row, they attack one front-row enemy\nwith critical blows and lightning-fast triple strikes,\nputting their speed to good use.\nTheir flying kicks across a row are powerful too,\nbut since claws and gloves go on your hands,\nthey may not have much to do with kicking power.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0118",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 118,
+      "text_offset": 20276,
+      "source_sha256": "ce528767be532087c92fd41bd89aabefd8c52deeb3309a91e14f8ef3394600ee",
+      "category": "ui_system_help",
+      "translation_en": "A weapon exclusive to Naginata Wielders.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0119",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 119,
+      "text_offset": 20300,
+      "source_sha256": "92d023d38af7a32eb9f32d6da9552a11152d8c568cfb497ee97563abb1f5e496",
+      "category": "ui_system_help",
+      "translation_en": "From the front row, it attacks the entire enemy front row.\nFrom the back row, it can still attack\none enemy in the enemy front row.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0120",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 120,
+      "text_offset": 20378,
+      "source_sha256": "8832fbcffde92059c58f3b8d700a8f2eb53aed9e720031d9a369c69b4564af1e",
+      "category": "ui_system_help",
+      "translation_en": "A weapon exclusive to Spearmen.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0121",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 121,
+      "text_offset": 20402,
+      "source_sha256": "34fd6bc58853ee1fb354a2ad82fab3c968e3804bd182f16cbefea4c6e7809aaa",
+      "category": "ui_system_help",
+      "translation_en": "From the front row, it stabs one front-row enemy and one behind.\nFrom the back row, it can still stab\none enemy in the enemy front row.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0122",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 122,
+      "text_offset": 20486,
+      "source_sha256": "eeb1aecc555c7610ce42f769abb93f519182e1e1dacd0f632ebd05b5e0e18acf",
+      "category": "ui_system_help",
+      "translation_en": "A weapon exclusive to Swordsmen.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0123",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 123,
+      "text_offset": 20508,
+      "source_sha256": "11acdcb6c18137e865f3652c59eab0faaa1b3df404555fd7e30a0d285103f6d4",
+      "category": "ui_system_help",
+      "translation_en": "It has high Attack and lets you slash\none front-row enemy from your own front row.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0124",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 124,
+      "text_offset": 20570,
+      "source_sha256": "599f260c186132b5233a0c47d0eb9ab2ef6b79418c76d30aef10ec7b26673bf8",
+      "category": "ui_system_help",
+      "translation_en": "The Attack command in battle\nattacks with your equipped weapon.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0125",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 125,
+      "text_offset": 20624,
+      "source_sha256": "330b94500f8ab7a41987cd87908ca2b4e4e5d48ae04398aaa9116dcd62a49029",
+      "category": "ui_system_help",
+      "translation_en": "Each class has\nits own special weapons.\nYou cannot equip another class's weapons.\nThere are also a few weapons\nrestricted to men or women.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0126",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 126,
+      "text_offset": 20756,
+      "source_sha256": "930a3047a6d6b2c817c096c8b2b7b5b1321f6f94c4368493033f4039470cf2e4",
+      "category": "ui_system_help",
+      "translation_en": "The name is a pun on \"records\" and \"oni.\"\nIt records the numbers and abilities\nof oni and monsters you've defeated.\nYou can consult it before\ncharging into a dungeon or cave.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0127",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 127,
+      "text_offset": 20886,
+      "source_sha256": "da8c7e2090615b3f54616f7959fb53c5eaee7e195990bb476b020fb81615373c",
+      "category": "ui_system_help",
+      "translation_en": "If you keep investing in Religion,\nthe capital's residents may take it upon themselves\nto build a monument to the %@ clan.\nOr they may not build anything at all.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0128",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 128,
+      "text_offset": 21018,
+      "source_sha256": "2f68e4c1a93598ed9683186a284629a1ea386ff4a7819081297065cc2b63a227",
+      "category": "ui_system_help",
+      "translation_en": "People in Kyoto really go all out when they feel like it,\nbut when they don't, they do absolutely nothing...\nDon't you think there are a lot of people like that?\nWell, finding out what they build is part of the fun!!\nLet's wait without getting our hopes too high.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0129",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 129,
+      "text_offset": 21182,
+      "source_sha256": "a4d7db0f296b824381efa65e282d4e11e28514a4a04340003a324a0c5e32fc76",
+      "category": "ui_system_help",
+      "translation_en": "If the family grows and the house feels cramped,\nbut you have a little money to spare,\nI'll be the one to suggest\nan expansion to the house\nto you, clan head.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Itsuka refers to herself by name; English uses I in this row.",
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0130",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 130,
+      "text_offset": 21344,
+      "source_sha256": "6f50de4eab6a2d7d8d2c27f1294f3a105e8e047c58bcb923fa64c4136cecfa3b",
+      "category": "ui_system_help",
+      "translation_en": "Let's add more rooms\nso we can give new family members and adoptees\na great big welcome!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0131",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 131,
+      "text_offset": 21438,
+      "source_sha256": "b123d183898957ac1a803a79fd20999eafd89b7fc1c997495cd922488bc7f5d9",
+      "category": "ui_system_help",
+      "translation_en": "You've reclaimed vases and tea utensils from oni,\nbut they're no use at all\nin battle or while traveling...\nYet as human society grows more complicated,\nthings valued for nothing but their prestige\nsomehow really do become valuable.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game.",
+        "Valuables' social prestige is the joke; they do not gain combat effects."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0132",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 132,
+      "text_offset": 21636,
+      "source_sha256": "7b3f075ca5e8196e471359ed086770f579944c8267e41d51e6f7b5c890face35",
+      "category": "ui_system_help",
+      "translation_en": "...How strange.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0133",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 133,
+      "text_offset": 21654,
+      "source_sha256": "c8505e05620527e31c6c42828c15b5d7e7d790c8eaadf61397e5a3c4d03c2fd3",
+      "category": "ui_system_help",
+      "translation_en": "At any rate, they sell for a high price,\nand giving them to family members\nraises Loyalty a little.\nJust owning them can make you feel\nrather important...\nOr perhaps not.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0134",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 134,
+      "text_offset": 21802,
+      "source_sha256": "56a97e2c288b8aa86bdb93902857b13cb84e15f71588f30df24ebbf9364f63e3",
+      "category": "ui_system_help",
+      "translation_en": "...Very strange indeed.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0135",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 135,
+      "text_offset": 21826,
+      "source_sha256": "77b73f36960c1d7ebe72d6b839f232d773805e5b563cc9e3657020bff95caabe",
+      "category": "ui_system_help",
+      "translation_en": "Shops in the Commerce sector\nmay hold big sales in February, May,\nAugust, and November.\nThe details vary,\nbut thirty or forty percent off is nothing unusual!?",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0136",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 136,
+      "text_offset": 21982,
+      "source_sha256": "2f91454347e745b4c81ac02e5fb44b0c30d40c357449db8557d8b897f2a45b8a",
+      "category": "ui_system_help",
+      "translation_en": "Unless you need something urgently,\nwait for a big sale and buy in bulk!\nThat's sensible housekeeping.\nBut however cheap things are,\nbe careful not to buy things you don't need\nand regret it afterward.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0137",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 137,
+      "text_offset": 22164,
+      "source_sha256": "a0918ea7fd526ce4220f247c936352b18d7d865134c40955935873e52a535995",
+      "category": "ui_system_help",
+      "translation_en": "This lists the main treasures\nyou've obtained on hunts.\nIt also gives you a rough idea\nof how much you haven't found yet.\nCollectors should find it useful.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0138",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 138,
+      "text_offset": 22310,
+      "source_sha256": "10bbda4d4d0a709c86c5d406f3b1143ea81d895dceefee5e5674b68fa596008a",
+      "category": "ui_system_help",
+      "translation_en": "You can check it before\ncharging into a dungeon or cave.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0139",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 139,
+      "text_offset": 22364,
+      "source_sha256": "1bcab154a86e0f23d20d2d077eab84833fcc6a25a188271397a0795b61e22b1b",
+      "category": "ui_system_help",
+      "translation_en": "Giving another clan a copy of a %@ clan deity,\nor receiving a copy of another clan's deity,\nis called Share Deity.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0140",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 140,
+      "text_offset": 22460,
+      "source_sha256": "a7cc4272e18d4e1aabdf03e78b38df00254484555ffe11244066d018b3fa68e9",
+      "category": "ui_system_help",
+      "translation_en": "Clan deities keep the family's surname.\nNow, just imagine this:\nyour friends kneeling and praying\nto a deity named %@!!\nIt gives you a little feeling of superiority. Ha ha!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0141",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 141,
+      "text_offset": 22624,
+      "source_sha256": "3fd715038527d4591bffc5cdcb76dbb88313d07961ef20323fa9ff0afb0644a8",
+      "category": "ui_system_help",
+      "translation_en": "You cannot use Share Deity during play.\nSave and quit, then\nselect it from the title screen.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0142",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 142,
+      "text_offset": 22720,
+      "source_sha256": "33b15a1ff4fa3db6a0af8450931b5a685a69a70fdebada960f2a1cab1db6506b",
+      "category": "ui_system_help",
+      "translation_en": "You can send a copy of one family member\nto another clan as an adoptee,\nor welcome an adoptee into your own family.\nBringing in another clan's blood\nis an efficient way to make up for\ntraits the %@ clan lacks.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0143",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 143,
+      "text_offset": 22890,
+      "source_sha256": "974e30e16f2052b1a1dc7413e7a25d23602a23174dee07cdb15c8ebc39ed1a0f",
+      "category": "ui_system_help",
+      "translation_en": "Incidentally, you cannot return an adoptee\nto their original clan\nto make more copies of the same character.\nEquipment and secret arts do not transfer either.\nTrying to find an exploit and cheat\nis a waste of time. Ha ha!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0144",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 144,
+      "text_offset": 23072,
+      "source_sha256": "dcbddf3baef1a599205b9d110be2ea8777aa32df7cf6f4af71104c7e70122f85",
+      "category": "ui_system_help",
+      "translation_en": "You cannot use Adoption during play.\nSave and quit, then\nselect it from the title screen.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0145",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 145,
+      "text_offset": 23168,
+      "source_sha256": "1c00aa69d2555bacb623c8b68a2eddd77479e8af8d6aa809cd78a749f71f0d45",
+      "category": "ui_system_help",
+      "translation_en": "When a man and woman from the %@ clan\nand another clan join together and have a child,\nit is called Soul Union.\nAs the name suggests, this sacred ceremony\nbinds soul to soul.\nEach person can propose it only once in a lifetime.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game.",
+        "Soul Union is the mortal-clan ceremony, distinct from Divine Union."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0146",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 146,
+      "text_offset": 23342,
+      "source_sha256": "8842d083f851c45f74feea856ecbea8e9eccbc99ec21ad5d85bfd83fd747f53f",
+      "category": "ui_system_help",
+      "translation_en": "Both clans bear the curse,\nso let's join hands and combine our strength\nto fulfill our shared vow.\nYou cannot use Soul Union during play.\nSave and quit, then\nselect it from the title screen.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0147",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 147,
+      "text_offset": 23516,
+      "source_sha256": "8a072903a7ed869684756c42cea1a1c9229f617f555fe23bb46139605645b3fd",
+      "category": "ui_system_help",
+      "translation_en": "Sometimes genetic information\nthat did not appear as potential in a parent\nblossoms in a child or grandchild.\nWe call this skipping a generation.\nAs you know, it's nothing\nparticularly unusual in the wider world.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0148",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 148,
+      "text_offset": 23700,
+      "source_sha256": "fd5b6d2c0133805c19839478399847fabfd04dfb50511a35e75f31b1bfdb0da1",
+      "category": "ui_system_help",
+      "translation_en": "So even if the ability you hoped for\ndoesn't appear in one generation,\nthere's absolutely no need to worry!!\nLet's believe in tomorrow\nwith all our hearts!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0149",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 149,
+      "text_offset": 23824,
+      "source_sha256": "f0b2df4bd386ce4c01f9b14b60036e11881ade095b5b228b34facf73e3042174",
+      "category": "ui_system_help",
+      "translation_en": "Humans and deities alike carry\ntwo sets of genetic information,\none inherited from each parent.\nFor deities, choose Divine Union\nto inspect both sets\nwhenever you like.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0150",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 150,
+      "text_offset": 24000,
+      "source_sha256": "c0663d2435f3b38553411177214903ca4835e284afed2b6ea9548fadf63a19bd",
+      "category": "ui_system_help",
+      "translation_en": "Unfortunately, with humans,\nthere's no way to know\nboth sets completely.\nBut actually, during Divine Union,\nif you're not too busy admiring my dancing,\nyou can catch a fleeting glimpse.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0151",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 151,
+      "text_offset": 24178,
+      "source_sha256": "6232d588d9222445d2d1b9c85279edc2f14fb64b9f25a87208682e9241e4351c",
+      "category": "ui_system_help",
+      "translation_en": "Genetic information is divided\ninto three broad groups:\nSpirit, Skill, and Body...\nAnd each of those\nhas four attributes:\nFire, Water, Wind, and Earth...",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0152",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 152,
+      "text_offset": 24314,
+      "source_sha256": "e41c04c00bc1fb659ae4840379637691f24da5fd6f5e02064379a00b23c0effb",
+      "category": "ui_system_help",
+      "translation_en": "Then there are two sets, paternal and maternal...\nSo that's three times four times two,\nwhich makes...!?",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0153",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 153,
+      "text_offset": 24410,
+      "source_sha256": "8bbbeb08ae43fb7a1fd6bd88a7c9054cf6024832146d52700b2cacf20e6e3811",
+      "category": "ui_system_help",
+      "translation_en": "A whole enormous lot!!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game.",
+        "Preserves the deliberately innumerate answer to 3 x 4 x 2."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0154",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 154,
+      "text_offset": 24436,
+      "source_sha256": "cdc347c12494267db314294e2800820e816368c182aa3cde03dc607abd35d068",
+      "category": "ui_system_help",
+      "translation_en": "Phew... Well, for today,\nlet's just remember that genetics\nis terribly complicated.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0155",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 155,
+      "text_offset": 24532,
+      "source_sha256": "e2ed4a16efa0028d3f722840322c1d27d5b55e5c2b33682071abba486a77047a",
+      "category": "ui_system_help",
+      "translation_en": "The two sets of genetic information\ninherited from the parents are mixed,\nand half is expressed in that generation.\nThat expressed half is called potential.\nIt greatly influences growth, strengths,\nweaknesses, personality, and much more.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0156",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 156,
+      "text_offset": 24728,
+      "source_sha256": "326738b7ed3339e361e1ba9c28c503e4bb231701b9c74346fa06d5b5570b7812",
+      "category": "ui_system_help",
+      "translation_en": "Open Clan, then Details, then Status.\nThe bar graph on the right side of the screen\nshows that person's potential.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0157",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 157,
+      "text_offset": 24818,
+      "source_sha256": "dc6e1368f46501e9032b0cf79c72d0c8dd66a5fc974525185593692dcab7d30f",
+      "category": "ui_system_help",
+      "translation_en": "Body abilities grow vigorously when you're young,\nbut suddenly stop growing much as you age.\nSpirit and Skill, on the other hand,\ncan keep growing by leaps and bounds\neven when you're older.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0158",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 158,
+      "text_offset": 24970,
+      "source_sha256": "4eda06a43897547f24af15ccdd2c8ad9309cb2ea1cca8d68e2e01dd6782b2c98",
+      "category": "ui_system_help",
+      "translation_en": "So if someone's potential lies in Body,\nthe rule is to train them hard while young,\neven if they cry!!\nFor those with potential in Spirit or Skill,\nI think it's better to encourage growth\nwith a longer view. Probably.",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0019:01:0159",
+      "file": "explane.mlb",
+      "archive_offset": 49152,
+      "member_entry": 19,
+      "section": 1,
+      "index": 159,
+      "text_offset": 25140,
+      "source_sha256": "c05f86857b5838c887db89084f548ce3477aeebaff78e4e97be678d243f5d315",
+      "category": "ui_system_help",
+      "translation_en": "In their ninth month, members of the %@ clan\nbecome full adults in both body and mind!!\nThis is coming of age.\nThey're now quite ready to become parents!!\nChoose a deity for Divine Union\nand go all out!",
+      "status": "draft",
+      "kind": "help_text",
+      "context": "Itsuka's encyclopedia, body entries 80-159. Previous entries 78-79 and following entries 160-163 examined. Dungeon lore, equipment, shops, clan relations, and inheritance. Runtime family members remain ungendered.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Intentional source continuation fragments remain in their own rows. This help material has not been checked in-game.",
+        "Coming of age is explicitly adulthood in this fictional accelerated life cycle; the translation retains that explanation."
+      ]
+    }
+  ]
+}

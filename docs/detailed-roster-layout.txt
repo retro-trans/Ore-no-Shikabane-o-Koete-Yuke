@@ -1,0 +1,18 @@
+Detailed roster UI — local build 0.2.22
+
+Source: delivered 0.2.21. Three common native status images now read HP,
+LOY (Loyalty), and HLTH (Health). Native palettes and 4x font remain.
+Equipment: four rows, 15-pixel pitch, labels at x160 and names at x192
+relative to the 400x61 card. Text budget208; maximum202.286 among463 fixed
+equipment names. Names, item IDs and controls remain unchanged.
+Status columns move right to leave space for longer character names.
+Four coordinate tables change; no native instructions or script payloads change.
+Native ordering, filtering and roster paging remain. Exact coordinates and
+actual framebuffers are under work/ui/detailed-roster-0.2.22/.
+
+Build: build_detailed_roster.py and build_iso.py (dry run before --write).
+Checks: record_detailed_roster_qa.py --runtime; check_shop_font.py;
+all49 translation batches; original asset palettes and unrelated members;
+actual status/equipment/selection/simple-view captures in PPSSPP.
+Final ISO is byte-identical to the tested qa-roster-0.2.22b.iso.
+Full-playthrough and real PSP checks remain pending. No GitHub release.

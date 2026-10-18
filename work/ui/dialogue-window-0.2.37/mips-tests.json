@@ -1,0 +1,211 @@
+{
+  "version": "0.2.37",
+  "result": "PASS",
+  "elf_sha256": "815308f8d8ef3691bfa70c44cd5645f12f1051ee7a4ee09e6cd9f977dd8d7582",
+  "cases": [
+    {
+      "geometry": [
+        24,
+        198,
+        288,
+        66
+      ],
+      "extended": true,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        196,
+        288,
+        66
+      ],
+      "extended": true,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        198,
+        432,
+        66
+      ],
+      "extended": true,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        180,
+        288,
+        66
+      ],
+      "extended": true,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        179,
+        288,
+        66
+      ],
+      "extended": false,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        90,
+        6,
+        300,
+        70
+      ],
+      "extended": false,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        10,
+        200,
+        300,
+        60
+      ],
+      "extended": false,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        198,
+        220,
+        48
+      ],
+      "extended": false,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        0,
+        0,
+        288,
+        66
+      ],
+      "extended": false,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        206,
+        134,
+        264,
+        64
+      ],
+      "extended": false,
+      "result": "PASS"
+    }
+  ],
+  "update_cases": [
+    {
+      "geometry": [
+        24,
+        198,
+        288,
+        66
+      ],
+      "native_resize_calls": 1,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        196,
+        288,
+        66
+      ],
+      "native_resize_calls": 1,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        198,
+        432,
+        66
+      ],
+      "native_resize_calls": 0,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        180,
+        288,
+        66
+      ],
+      "native_resize_calls": 1,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        179,
+        288,
+        66
+      ],
+      "native_resize_calls": 0,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        90,
+        6,
+        300,
+        70
+      ],
+      "native_resize_calls": 0,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        10,
+        200,
+        300,
+        60
+      ],
+      "native_resize_calls": 0,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        24,
+        198,
+        220,
+        48
+      ],
+      "native_resize_calls": 0,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        0,
+        0,
+        288,
+        66
+      ],
+      "native_resize_calls": 0,
+      "result": "PASS"
+    },
+    {
+      "geometry": [
+        206,
+        134,
+        264,
+        64
+      ],
+      "native_resize_calls": 0,
+      "result": "PASS"
+    }
+  ],
+  "caller_state": "Stack, return address, saved registers preserved; update retains original return values",
+  "scope": "Only width, three line widths and background corner alpha/dirty flag changed in selected bottom panels; late placement invokes real resize once"
+}

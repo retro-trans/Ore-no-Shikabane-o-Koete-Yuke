@@ -1,0 +1,28 @@
+{
+  "version": "0.2.18",
+  "result": "PASS: original project QA save restored byte-for-byte",
+  "session_save_preserved": "work/source/qa-save-layout-0.2.18",
+  "scope": "Project test profile only; no user emulator save was accessed",
+  "files": [
+    {
+      "file": "SAVEDATA.BIN",
+      "before_test_sha256": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "after_session_sha256": "b51248d3e10bbd542e2bb6f3908f7078ccb0aa55434966b19057d31449ad386d"
+    },
+    {
+      "file": "PARAM.SFO",
+      "before_test_sha256": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "after_session_sha256": "a6727a9eaac0129e2db8f1a31b88012bc26844ea8d0d65c5a01271389dc8bd73"
+    },
+    {
+      "file": "ICON0.PNG",
+      "before_test_sha256": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "after_session_sha256": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97"
+    },
+    {
+      "file": "PIC1.PNG",
+      "before_test_sha256": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1",
+      "after_session_sha256": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": "0.2.25",
+  "status": "Draft; MIPS text-setter behavior verified",
+  "rows": [
+    {
+      "translation_en": "Genta",
+      "file": "EBOOT:parent_display_alias",
+      "context": "Exact canonical parent display name; underlying character/save record retained",
+      "fit_status": "pending_battle_visual_check"
+    },
+    {
+      "translation_en": "Orin",
+      "file": "EBOOT:parent_display_alias",
+      "context": "Exact canonical parent display name; underlying character/save record retained",
+      "fit_status": "pending_battle_visual_check"
+    }
+  ]
+}

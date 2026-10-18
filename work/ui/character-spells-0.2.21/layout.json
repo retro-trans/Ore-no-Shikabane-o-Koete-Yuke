@@ -1,0 +1,38 @@
+{
+  "version": "0.2.21",
+  "native_resolution": [
+    480,
+    272
+  ],
+  "character_submenu": {
+    "rows": 2,
+    "columns": 2,
+    "text_cell_width": 84
+  },
+  "portrait_card_height": 116,
+  "portrait_selector": {
+    "additional_height": 12,
+    "old_image_height": 110,
+    "new_image_height": 122
+  },
+  "spells": {
+    "rows": 7,
+    "columns": 2,
+    "cell_width": 108,
+    "background_width": 108,
+    "text_budget": 107,
+    "fixed_names": 96,
+    "max_fixed_name_width": 94.28571428571429,
+    "paging": "native",
+    "name_y": 82,
+    "age_y": 98,
+    "mp_y": 114,
+    "mp_bar_y": 132,
+    "legend_font_size": 16,
+    "legend_pitch": 70,
+    "stat_caption_font_size": 16,
+    "mp_required_caption_x": 120
+  },
+  "role_badges": "Head / Leader / Party retained from 0.2.20",
+  "texture_replacement": false
+}

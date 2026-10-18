@@ -1,0 +1,9 @@
+{
+  "version": "0.2.22",
+  "iso": "work/source/qa-roster-0.2.22b.iso",
+  "elf_sha256": "3155612fb59643b4cc751cff838ce910ab30590fd222bae03c9c94f7d1d87ad3",
+  "archive_sha256": "7063d39e56a5c4861ed645811f8e889fec25c8ab44680cb0a2fee7cf70bdb474",
+  "native_layout_tables_verified": 4,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

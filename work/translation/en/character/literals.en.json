@@ -1,0 +1,35 @@
+{
+  "version": "0.2.21",
+  "rows": [
+    {
+      "address": "0x9b7e0c0",
+      "translation_en": "Spirit Req."
+    },
+    {
+      "address": "0x9b7e104",
+      "translation_en": "Spirit Now"
+    },
+    {
+      "address": "0x9b7e148",
+      "translation_en": "Skill Req."
+    },
+    {
+      "address": "0x9b7e18c",
+      "translation_en": "Skill Now"
+    },
+    {
+      "address": "0x9b7e1d0",
+      "translation_en": "Usable"
+    },
+    {
+      "address": "0x9b7e210",
+      "translation_en": "Unusable"
+    },
+    {
+      "address": "0x9b7e254",
+      "translation_en": "Not Learned"
+    }
+  ],
+  "status": "Draft; selected native font and fit verified",
+  "evidence": "work/ui/character-spells-0.2.21/verification.json"
+}

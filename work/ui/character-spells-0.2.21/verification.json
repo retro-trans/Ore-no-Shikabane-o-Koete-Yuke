@@ -1,0 +1,115 @@
+{
+  "version": "0.2.21",
+  "result": "PASS: selected requested character and spell screens",
+  "component_sha256": {
+    "elf": "136e36198be6364d30c7f4553ffe20e492919ef1e8b4096c9059000bbe8a2ed8",
+    "archive": "ff32d7a24f18693ae82749ad7d2de096ca8e5c673922fd002b805837867da615"
+  },
+  "screens": [
+    {
+      "file": "work/ui/character-spells-0.2.21/title.png",
+      "sha256": "4c2672e2113d5b743cdb11ebf8f862b5bf15ab643e03de410d2e06bb8e6173d6",
+      "observed": "Version 0.2.21 and full project URL",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/character-spells-0.2.21/clan-actions.png",
+      "sha256": "f6265b261e48a07da0629615b788b86f95548f5978386c86adcf1dba82699f79",
+      "observed": "English Head, Leader and Party role flags retained",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/character-spells-0.2.21/selector-first.png",
+      "sha256": "42e88df6310e33233955b739f5560f239b5132188c77eea2a3edeac09ebac297",
+      "observed": "Red portrait selector covers the name and age rows",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/character-spells-0.2.21/selector-second.png",
+      "sha256": "a9d354bad86a9c95621cbda8022f3e2ec0b89b381364fc3c57d66702d0b9799f",
+      "observed": "Selector follows the second portrait and its full height",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/character-spells-0.2.21/mini-equipment.png",
+      "sha256": "19d722f0a21c49c1a679e5cb0633e06bd32863eab6fa88b7051ea46cf7f3c557",
+      "observed": "Equipment and its selection outline fit inside the wider submenu",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/character-spells-0.2.21/mini-training.png",
+      "sha256": "6dd69771bc3034f5cc8735899d41635c24f6b42b3b1aede6236210f4bcb3eb64",
+      "observed": "Both rows and columns of the wider submenu fit",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/character-spells-0.2.21/spells-after.png",
+      "sha256": "2e1cdbc0c636f4d6654179d33a94aab4982a5211d841cbe96360dad6effa789b",
+      "observed": "English Spirit/Skill requirements, MP and complete colored legend; two wide spell columns",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/character-spells-0.2.21/spells-scrolled.png",
+      "sha256": "480bfda6ed4b01ca66dcc2890c72b6dae0292159acfb1c26ac179c39451b8238",
+      "observed": "Native paging reaches later spells; full selection and cell backgrounds stay aligned",
+      "fit": "pass"
+    },
+    {
+      "file": "work/ui/character-spells-0.2.21/spells-second.png",
+      "sha256": "25c9b581a296875a10974e383d8fd4d1c96d9cd5dc9c70b3f9a73efc2c1b46f1",
+      "observed": "Second character, eight-letter name and separate age/MP rows",
+      "fit": "pass"
+    }
+  ],
+  "native_mips": "PASS: seven actual MIPS caption wrappers, selector height +12, widened cell background, preserved caller state, two-column menu geometry and native spell paging geometry.",
+  "runtime_patches": 28,
+  "appended_wrappers": 9,
+  "native_font": "Actual dynamic caption glyphs checked against embedded 4x atlas and UVs",
+  "layout": {
+    "version": "0.2.21",
+    "native_resolution": [
+      480,
+      272
+    ],
+    "character_submenu": {
+      "rows": 2,
+      "columns": 2,
+      "text_cell_width": 84
+    },
+    "portrait_card_height": 116,
+    "portrait_selector": {
+      "additional_height": 12,
+      "old_image_height": 110,
+      "new_image_height": 122
+    },
+    "spells": {
+      "rows": 7,
+      "columns": 2,
+      "cell_width": 108,
+      "background_width": 108,
+      "text_budget": 107,
+      "fixed_names": 96,
+      "max_fixed_name_width": 94.28571428571429,
+      "paging": "native",
+      "name_y": 82,
+      "age_y": 98,
+      "mp_y": 114,
+      "mp_bar_y": 132,
+      "legend_font_size": 16,
+      "legend_pitch": 70,
+      "stat_caption_font_size": 16,
+      "mp_required_caption_x": 120
+    },
+    "role_badges": "Head / Leader / Party retained from 0.2.20",
+    "texture_replacement": false
+  },
+  "checks": {
+    "unrelated_executable_bytes": "byte-identical",
+    "all_script_payloads": "byte-identical",
+    "other_archive_members": "byte-identical"
+  },
+  "github_release": false,
+  "limits": [
+    "Selected two-character test save and native spell scrolling; full-playthrough and real PSP testing remain pending"
+  ]
+}

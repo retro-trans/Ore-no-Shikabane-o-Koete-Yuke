@@ -1,0 +1,1627 @@
+{
+  "schema_version": 1,
+  "version": "0.2.0",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "dialogue_slices": [
+    {
+      "file": "itsuka.mlb",
+      "start": 440,
+      "rows_in_slice": 80,
+      "rows_examined": 86,
+      "adjacent_context": "Rows 438-439 before and 520-523 after; end of tournament congratulations, then tutorials and sword reports."
+    }
+  ],
+  "rows": [
+    {
+      "id": "ore:0000c000:0015:05:0040",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 40,
+      "text_offset": 29952,
+      "source_sha256": "a16b5b6ebd029124aba8fbf1512541615190b8ea40e0fcaa7b9fd5f0fd8bdb41",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "As a servant of the %@ clan,\nI'm walking tall around the neighborhood too!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0041",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 41,
+      "text_offset": 30020,
+      "source_sha256": "d120c54f76bdeaba224104d46bc0c5ab9eceeec3fb385876ad47d993f661e9a7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Come to think of it, I hear there's also\na Selection Tournament in spring, just for\nelite clans who catch the emperor's eye.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0042",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 42,
+      "text_offset": 30124,
+      "source_sha256": "ac564191b9416f618c719d77744fafc865af6220bd2a43c659dca1ceec709452",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "If an imperial messenger ever brings\nan order to the %@ clan,\nI'll cook red rice to celebrate! Bam!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0043",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 43,
+      "text_offset": 30224,
+      "source_sha256": "1ab60d2921b1fb86debd6708a5b7a1b1017e7e74e98ead9e4680c6fc90fcee92",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Once you enter a cave or building\nwhere oni live, time flies by.\nA whole month will be gone before you know it!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0044",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 44,
+      "text_offset": 30316,
+      "source_sha256": "cea954d9929fdae92e88b893dacbb111fa2c6233ce885fe553e355e66ff38e90",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "So when you want to defeat\nthe strong oni deep inside, ignore the small fry\nand push straight ahead!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0045",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 45,
+      "text_offset": 30408,
+      "source_sha256": "410f9c7d4fc746fbe131d251fe7f56291057e42e128ddb1c0473bf166d7e3608",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "That will also conserve your HP and MP,\nso even if the adventure runs\ninto the next month, you'll be fine!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0046",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 46,
+      "text_offset": 30506,
+      "source_sha256": "886507b3b47281cdf83cad43cafd56e49a16889081c812a6ddc5433c74ae7839",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "You may have noticed during Divine Union,\nbut there are surprisingly few deities\nin heaven right now.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0047",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 47,
+      "text_offset": 30604,
+      "source_sha256": "4559acbe24f61addd1609b02c69265d4ae5d0113bdc114ec8d4793d9720d1e67",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Most of the missing gods\nhad their souls stolen by Shuten,\nand were probably turned into oni...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing fragment retained; explanation continues in 5:48."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0048",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 48,
+      "text_offset": 30686,
+      "source_sha256": "2ea0bc247f6cd6e869f4e5b6487c4063c0b9266db7d707c1d297ec8e2c602b9c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "To send them back to heaven,\nall you need to do is defeat them\nand take away their Crimson Collars.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0049",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 49,
+      "text_offset": 30772,
+      "source_sha256": "f4a3ec2528fbb1b90c88c768f712bf34be546ce8f62472ef5130cf507b1a69d4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "But you can fight as hard as you like\nand still almost never\nget a Crimson Collar...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0050",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 50,
+      "text_offset": 30856,
+      "source_sha256": "ebf5d8591f11a02e6c3e2c895dcd66f3ecd7446fcf28e2eac14fda50a440bfb3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Shuten must have cursed them\nso the collars only appear\nwhen certain special conditions are met.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0051",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 51,
+      "text_offset": 30944,
+      "source_sha256": "2e6de4af41e747e1672da0d7a0517e4014b8cba5a2224803f1338e513f6b0eae",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "If you find an oni with a Crimson Collar,\nplease do everything you can\nto discover how to break that curse.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0052",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 52,
+      "text_offset": 31036,
+      "source_sha256": "cb1f296573e6e50c22a7df2ffc36ca8789092150e6ab65ead596dc870ac29187",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "A secret art passes to just one child.\nOnly one biological child\nof the same class can inherit it.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0053",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 53,
+      "text_offset": 31112,
+      "source_sha256": "526517a026b083f463a37a6092c626f451cf485345e5a66a6824b2af6c9af2ce",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Anyone who has mastered a secret art must have a child,\nthen pass it on through [<c黄]Training[>]\nbefore that child joins the field party.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Inheritance requires the same-class biological child to be trained before joining the field party; not ordinary battle experience."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0054",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 54,
+      "text_offset": 31224,
+      "source_sha256": "e703a942ef6679c476f3696b9fa80a1d1c0068aa3abeb9f6b191b20ba8f49ec9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "If that cannot be done, the secret art\nwill be lost until someone\nlearns it independently again.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0055",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 55,
+      "text_offset": 31314,
+      "source_sha256": "b0b6bcebb7236d154cc49e412207afcef7402ff6caeb8f1f3276898004056c87",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please hurry,\nso your hard-earned \"%s\"\ndoesn't disappear!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0056",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 56,
+      "text_offset": 31380,
+      "source_sha256": "680995710fe7893bb6f497449449e2558d2f4a3282fca701a88148342ed7891d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "The strength of spells and how often\nyou can use them depend on Skill.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0057",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 57,
+      "text_offset": 31428,
+      "source_sha256": "f9c80429100a1e24c2530f8d86520eebb21a4ab8a09c4d31e15da0a41210c097",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "But without the Spirit to match,\nyou can't learn a spell,\nno matter how much Skill you have.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Spirit and Skill are stat groups, not Health and MP."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0058",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 58,
+      "text_offset": 31524,
+      "source_sha256": "0dc8ead58de33d992015548bf6746b62e3f98150d790d52f116191d54d0bb668",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "So don't get carried away with strength and Skill.\nRaise children with great big hearts\nand plenty of Spirit! Bam!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Kept the generous-heart metaphor alongside capitalized Spirit so the stat connection survives."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0059",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 59,
+      "text_offset": 31624,
+      "source_sha256": "d837172af2b7310ff4ff2186fa9fef25ed6068887301d3fbe5d5f4a10dc11fa1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "If you can't decide which deity to unite with,\nwhy waste precious time?\nJust pick one for their looks!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0060",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 60,
+      "text_offset": 31708,
+      "source_sha256": "ee006d03db6aca48c4fbac0761deef4b2a16283818c827855437f77772f68538",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Gods or humans, they're still men and women.\nThat sort of thing usually works out.\nYes, it'll be fine!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0061",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 61,
+      "text_offset": 31810,
+      "source_sha256": "8cf6a67ad6c1d03052e86243077b72979fdc41193d751a49f40e0a8bae204543",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Even the gods can't just say, \"Here you go!\"\nYou'll have to wait a few months\nbefore you can meet your child.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:05:0062",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 5,
+      "index": 62,
+      "text_offset": 31908,
+      "source_sha256": "cad8cdc5eea681e8819eadb27ef26c556c0371602a4bc6c3a55635e8531223aa",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "When the time comes, I'll pop back\nto the deity's home and bring the child here.\nPlease think of a name before then!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka addresses the clan head. This slice continues tournament congratulations from 5:39, then explains time limits, captive deities, secret-art inheritance, stats and Divine Union. Respectful, lively speech; runtime members' genders are not inferred.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0000",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 0,
+      "text_offset": 32172,
+      "source_sha256": "0c492345dd60e3b5f87d4eba5f288cc9cfb057b969221fa31e4c2fad25af10b6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s's \"%s\"\nhas arrived from Kenpuku!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0001",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 1,
+      "text_offset": 32222,
+      "source_sha256": "d6b396565b1159021c0e952983248ded1bdc007a5fba84b5adc54bbe5a211e40",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is absolutely delighted!!\nApparently, \"%s\"\nwill be sharing a bed from tonight!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0002",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 2,
+      "text_offset": 32308,
+      "source_sha256": "345720def80da919b3a80f2d309b61f68112a8507de6b9a42f41d1e7a697c5e7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is bursting with enthusiasm!!\nPlease be sure to select this swordsman\nfor the next sortie.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0003",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 3,
+      "text_offset": 32400,
+      "source_sha256": "4fabfd01cd30999e7f6dfceb6502a3ecab289559f663047053964fa2b3d96688",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s is overjoyed!!\nJudging by that reaction, you'll get\nmore than your money's worth!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0004",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 4,
+      "text_offset": 32486,
+      "source_sha256": "f5444b11292843035ad4c29e583cab33a93465ed5b72c90413903a15a7ae737d",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "\"I want to test its edge right now,\"\nsaid %s, so I suggested\ntrying to peel a daikon in one long strip.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0005",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 5,
+      "text_offset": 32584,
+      "source_sha256": "e684cb87d53e37fdcd170d59e6249b15f2c87ae3cb9cf5d70c1e00c740ede314",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I can already picture\n%s's future exploits!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0006",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 6,
+      "text_offset": 32646,
+      "source_sha256": "2ff1a07161f347ea4135be98db352f7084adc4d219723041ce83af90839d4066",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please keep working hard\nto live up to the name \"%s\"!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0007",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 7,
+      "text_offset": 32706,
+      "source_sha256": "3087280f4ae5918fec787cb1d11ffd9152210a548f4f0ef0724a2c233c369ad7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...What a terrible loss.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Short condolence; no identity or cause of death is invented."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0008",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 8,
+      "text_offset": 32734,
+      "source_sha256": "69587ccab6adde3ea130a94114cc228840735a2af53d3abdfc2b678447e9dc07",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Until someone worthy can be found\nto carry on %s's wishes,\nplease keep it safe, %$.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0009",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 9,
+      "text_offset": 32706,
+      "source_sha256": "3087280f4ae5918fec787cb1d11ffd9152210a548f4f0ef0724a2c233c369ad7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...What a terrible loss.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Short condolence; no identity or cause of death is invented."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0010",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 10,
+      "text_offset": 32826,
+      "source_sha256": "f3cbdbfaf16241046d618bf6332e6df75670b03eed4638381e961c5d44653788",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Now, %$, I believe the best tribute\nwould be for you yourself\nto wield \"%s.\"",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0011",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 11,
+      "text_offset": 32914,
+      "source_sha256": "f0a332f79d2c2143384cdd044e9cd3af5d8a4f6da26cf8ae1ac0f2ac7e499a78",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Next, in accordance\nwith the wishes of the deceased,\nwe will distribute the keepsakes.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0012",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 12,
+      "text_offset": 32982,
+      "source_sha256": "205973c5f0a4f92478660b5c5474ad1652a05c83424a8165dbc5c30f68cb2ede",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%s's sword,\n\"%s,\" will from this moment\nonward...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Intentional source trailing fragment; the recipient is supplied by the following variant."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0013",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 13,
+      "text_offset": 33040,
+      "source_sha256": "958668b42bca97196238b40d89eae5d78c704e160a7274500b2cebc64246f715",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...belong to %s.\nPlease accept it, along with\nthe purpose its former owner cherished.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0014",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 14,
+      "text_offset": 33118,
+      "source_sha256": "8fc55f2d36452650e2022f59aac18767aaa07bbf198923556efff27550e3f470",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...belong to %s.\nPlease accept it, along with\nthe memories of its former owner.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0015",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 15,
+      "text_offset": 33188,
+      "source_sha256": "6136e720ab1122b53d9bed382c2aecabe0744187544fd66e447fa35349f2a80b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, please keep it in your care.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0016",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 16,
+      "text_offset": 33220,
+      "source_sha256": "22318844cfa02841566be7a679483f7fe5bd6b73595d8b165df3db8d5ef6406e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "When a new swordsman joins the %@ clan,\nplease use Grant to pass it on,\ntogether with its former owner's spirit.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0017",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 17,
+      "text_offset": 33310,
+      "source_sha256": "ef183d6fa141bd5c991d537d23e7166ae68c63d864df4f53330b43fc89ff3a79",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "That concludes\nthe distribution of keepsakes.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0018",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 18,
+      "text_offset": 33358,
+      "source_sha256": "1dea7e2d4ec301036f3db9394b3632b54fec03aa1e12554f4e07b642cb4a6b6c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "I pray that the departed soul\nwill watch over\nevery one of you.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0019",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 19,
+      "text_offset": 33422,
+      "source_sha256": "620ae146e85bedb6b056d42e53066e177ea464a7389c49011dcb80dfeb3e078e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please, all of you, live strong, full lives\nfor the one we've lost as well.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0020",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 20,
+      "text_offset": 33474,
+      "source_sha256": "a9ea6d65f9b227d375c83a316c5a99a88ad1c0ed98faa40773dd7a8270d5afe2",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, good news!!\nThe master swordsmith known as Kenpuku\nhas returned to the capital after a long absence.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0021",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 21,
+      "text_offset": 33562,
+      "source_sha256": "1566dcf5426079030a57a12e23e1f0666a54b590aae830b9a458eb692c6656ff",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Every sword Kenpuku forges\nis a custom-made piece, the only one of its kind.\nNaturally, you can give it a name too.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0022",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 22,
+      "text_offset": 33648,
+      "source_sha256": "9a28614304039f48c3c6d75a50d171e753d7aac654466d504f7b98d06243a5c1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "And the more you use one,\nthe sharper its blade becomes!!\n...Or so a certain rumor may or may not say.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0023",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 23,
+      "text_offset": 33738,
+      "source_sha256": "4e014144fae5520d4e0620cebddbe808b25fc9a08beb391600dfc232cd4d19ad",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "They're rather expensive, but why not try one?\nIf you have some money to spare,\nperhaps you could place an order.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0024",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 24,
+      "text_offset": 33828,
+      "source_sha256": "9e6d55cf60dad0e6f6b4677ec6f7ac4f3afad72357badb9144b672ffecda4155",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "After all, a one-of-a-kind sword\nwith your own name on it\nwould be pretty amazing, wouldn't it!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0025",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 25,
+      "text_offset": 33912,
+      "source_sha256": "2844ed89b5ce2c95fefbf1e3c1f5894d283524b278e411e9b03f71b11cff3b7f",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Aaaaaah!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0026",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 26,
+      "text_offset": 33928,
+      "source_sha256": "f9a54c5dc74d3f825f66cf57bfd8f0fafe12f8de2b142386834c36f31bf72890",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "W-wait a moment.\nThere's some extraordinary light\ncoming from \"%s\"...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0027",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 27,
+      "text_offset": 34002,
+      "source_sha256": "45901b2d34aa58294335793847ea6fc8566d5f82162ba8bff56b0ceb0a663b90",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Huh!? No way!? It can't be...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0028",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 28,
+      "text_offset": 34032,
+      "source_sha256": "d3e6700a63419b53251076cb06cb1e3a6773ca3ce75d6c3da6a4e0ea13dcb9f1",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "P-please wait a moment.\nThere's some extraordinary light\ncoming from \"%s\"...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0029",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 29,
+      "text_offset": 34096,
+      "source_sha256": "92493283cf5336b3c7873c3d9fa9b8074eb086f8709b5368d58bd3ef2d50219b",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Could this be...!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0030",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 30,
+      "text_offset": 542,
+      "source_sha256": "e41a3f416e4cddee4935d7cc8a4eb12977f15457b91625c407fbb75a3f83578e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Congratulations!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0031",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 31,
+      "text_offset": 34116,
+      "source_sha256": "06227b6ecf6e65cb6972085312ba98286d45e5f494208c0c63a59cdd62f2f37e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%2:s's many feats of valor\nhave awakened a new power\nin \"%1:s\"!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0032",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 32,
+      "text_offset": 34194,
+      "source_sha256": "4e8918ab0e10e5b3c1d594deac4c61532dc630b65f8c37ecea4c1afe541280af",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%2:s's intense feelings dwell\nwithin \"%1:s,\"\nand a new power has begun to grow!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0033",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 33,
+      "text_offset": 34268,
+      "source_sha256": "5bbaaee6d86af0344782eca64e62a7667dbe910d3b0fb6984efb2be8819f1aa9",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%2:s's glorious achievements\nseem to have given \"%1:s\"\na new power!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0034",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 34,
+      "text_offset": 34346,
+      "source_sha256": "3a7f472b841af8edacde3bf866ac21aaf2490e10b51e6873df03121378590061",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Unfortunately... \"%1:s\"\nappears to have been cursed\nby \"%2:s.\"",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0035",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 35,
+      "text_offset": 34426,
+      "source_sha256": "58dc737bc7e80f082bd9d1c211f45cda6a051a769877bc6e1cac99b1d41d5706",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Please defeat that hated foe and break the curse,\nso %s's lingering regrets\ncan finally be laid to rest!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0036",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 36,
+      "text_offset": 34516,
+      "source_sha256": "edbc0f4c645ccc2eff695487954c386265bfa5d89ba1309745b07861c57b7ae7",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "...Or so I thought for a moment,\nbut it seems I was mistaken.\nSorry for all the fuss!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Corrects the apparent glow in the preceding conditional event, not a denial of all sword powers."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0037",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 37,
+      "text_offset": 34606,
+      "source_sha256": "fc557938ca4ebb0579fae777ba92e369512d780a1f33774f9fe049a9f4dfa543",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, I have a request.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0038",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 38,
+      "text_offset": 34636,
+      "source_sha256": "46282c7d9f2dcc79e15e805ada8c6d916e0365c8fec104e4c3c611f5cd3ee339",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Don't leave \"%s\" gathering dust in the storehouse.\nPlease equip it yourself, and show us\nwhat you can do on the battlefield! Bam!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0039",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 39,
+      "text_offset": 34736,
+      "source_sha256": "c184393e3e89856d1d9222c6e76e45135bca270b1d92d675fba4b032ed9c0c2e",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "%$, may I offer some advice?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:06:0040",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 6,
+      "index": 40,
+      "text_offset": 34766,
+      "source_sha256": "b770e09e3bfda81b1ae536979e52a2e3799ab04952fe9060ba0c8a90dbed9846",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "Why not take \"%s\" out of the storehouse\nand grant it to one of the clan's swordsmen?\nBam!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka reports custom sword delivery, inheritance after an owner's death, the swordsmith's return, and sword powers or curses. Conditional event variants share this table; adjacent rows do not all form one continuous scene. Runtime owners remain gender neutral.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0000",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 0,
+      "text_offset": 35140,
+      "source_sha256": "459228849b56d739b4ca693151c62c2769f1fdc13125068c5fb55078c1799649",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Clan lets you inspect\nthe details of your current family.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0001",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 1,
+      "text_offset": 35204,
+      "source_sha256": "9ef5c1df9262656bdcc8ecf2878af4f9f14a1f5d3ce1741a7bc8b10b1dc87b43",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Who should go on the next sortie?\nWhich weapons would be best?\nWhat spells has everyone learned?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0002",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 2,
+      "text_offset": 35288,
+      "source_sha256": "9a84eca8a620bfa51fbb78ae3a671ff2f3785fd3a70295457a3600669e928fea",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Is anyone tired?\nHow is everyone's Loyalty to the %@ clan?\nWho should have a child next?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0003",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 3,
+      "text_offset": 35382,
+      "source_sha256": "f9f1f64978f6e11ce456e6f3e301a6f80d6ec2f6587f0a21bdceeb71ec6afed8",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Hmm... Hmmmmm...",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0004",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 4,
+      "text_offset": 35402,
+      "source_sha256": "eb8d53cb7e52eb1bd441528cd2787a38be98aaee3c92bf83f66f2c9413533a7c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Puzzling over those difficult questions\nis your job, %$!! All I do\nis gather the information!! Understood!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0005",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 5,
+      "text_offset": 35510,
+      "source_sha256": "3b374266b4390eb8efeef401ea296ec17e5918abc51332325824c6aa306db6fc",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Sortie is the order to set out.\nFirst, give your party one last check!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0006",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 6,
+      "text_offset": 35568,
+      "source_sha256": "c29aaa2b976d4f02ac93733036c8f5a59abff8c6bd33bb67efb0e052f37f6338",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Then, if there's a Selection Tournament\nfor the Shutendoji-hunting force that month,\nchoose whether to go hunting or compete!!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0007",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 7,
+      "text_offset": 35656,
+      "source_sha256": "fba490c0883209091d6c24e7fe1b946e637e08fe119e35509a0f1559c25cfdb4",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Once you leave Kyoto,\nyou should see several oni lairs ahead.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0008",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 8,
+      "text_offset": 35716,
+      "source_sha256": "d62a96f11f64c9e586e5e6cfa84e76c5cfb81248d7629bb08a9c80568d03bf51",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@You'll visit all of them sooner or later,\nso it doesn't matter where you start.\nTrust your instincts and go for it!",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0009",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 9,
+      "text_offset": 35828,
+      "source_sha256": "8cd1e587ed86786b406faccfbc8bfee880c78eff20fcd3563244940031d94ec6",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@But don't overdo it while you're learning.\nDon't go too deep, and try to finish up\nand return within one month.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0010",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 10,
+      "text_offset": 35926,
+      "source_sha256": "9b55eb56fc1f5ccf21a04c3ab63e2fcdaba5aa7db992b200d0ffb9722454eedd",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@For now, just bring the whole party\nhome safely!! That's enough!!\nThat's all I'm praying for.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members.",
+        "Itsuka refers to herself by name; English uses I in this row."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0011",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 11,
+      "text_offset": 36032,
+      "source_sha256": "887a93e695560a0d3b126efd8db9d2470a55bd60c787a8fe7aea9822a97b6670",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Well, shall we send you off\non your very first sortie with a bang!?",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0012",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 12,
+      "text_offset": 36100,
+      "source_sha256": "b0683bf28391d5d1d7dcedc91c0bd129b84c71c31c2e03a084be4e89be1c4c22",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Once you're ready,\nplease come and speak to me again.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0013",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 13,
+      "text_offset": 36148,
+      "source_sha256": "1bbc8afbb50e70983be0cf927d84769c721b01859d089e4dafb73ea328cb13d3",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Divine Union lets you unite with a deity\nand be blessed with a child.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0014",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 14,
+      "text_offset": 36202,
+      "source_sha256": "ef3db1953a778d39d2c7e42aad87625274a6a22bf426efb2c349eaeed5660a8c",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@Compare your Offering Points, Family Tree\nand the deities' abilities. When someone\nfeels right, select Confirm.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    },
+    {
+      "id": "ore:0000c000:0015:07:0015",
+      "file": "itsuka.mlb",
+      "archive_offset": 49152,
+      "member_entry": 15,
+      "section": 7,
+      "index": 15,
+      "text_offset": 36304,
+      "source_sha256": "1297e974f0b268c1a391a6c8abd45b28b99d9bf4fbf64a430e5b7f6b09358941",
+      "category": "dialogue_narration_subtitles",
+      "translation_en": "@During the Rite of Divine Union,\nyour entire family must unite their hearts\nfor a whole month.",
+      "status": "draft",
+      "kind": "dialogue",
+      "context": "Itsuka explains Clan, Sortie and Divine Union menu actions to the clan head. Questions in 7:1-2 illustrate the head's planning duties. The last sentence continues after the slice; 7:16-19 were read as context.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "No gender inferred for the clan head or runtime family members."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "uitx_common0_us.ppt",
+    "packed_sha256": "62eacefacb3829f5f297f249b4b61a5f4ce6670ef3bfb67f163bc23ea0142a12",
+    "width": 1024,
+    "height": 512,
+    "kind": "0x0",
+    "format": "0x87000000",
+    "compression": "DXT5",
+    "mipmaps": 1,
+    "source_pixel_bytes": 524288,
+    "resampled": false
+  },
+  {
+    "name": "uitx_show_us.ppt",
+    "packed_sha256": "83f50795ba3429f0b518a6624a16a708f5edff8dcf9892b769331b94a52dd167",
+    "width": 512,
+    "height": 512,
+    "kind": "0x0",
+    "format": "0x87000000",
+    "compression": "DXT5",
+    "mipmaps": 1,
+    "source_pixel_bytes": 262144,
+    "resampled": false
+  },
+  {
+    "name": "uitx_show2_us.ppt",
+    "not_decoded": "0xa0000000"
+  },
+  {
+    "name": "uitx_kochin_us.ppt",
+    "packed_sha256": "62aaa9690e52f1b72b9191073ff42382f64d8d1a43a7db91a73edfc512fdee58",
+    "width": 1024,
+    "height": 512,
+    "kind": "0x0",
+    "format": "0x87000000",
+    "compression": "DXT5",
+    "mipmaps": 1,
+    "source_pixel_bytes": 524288,
+    "resampled": false
+  },
+  {
+    "name": "uitx_kochin2_us.ppt",
+    "packed_sha256": "824f95ef8511b649c83937daa789ea64e7fe946ed80888af9772d89d98a249ba",
+    "width": 1024,
+    "height": 512,
+    "kind": "0x0",
+    "format": "0x87000000",
+    "compression": "DXT5",
+    "mipmaps": 1,
+    "source_pixel_bytes": 524288,
+    "resampled": false
+  },
+  {
+    "name": "uitx_window_spirit.ppt",
+    "not_decoded": "0xa0000000"
+  }
+]

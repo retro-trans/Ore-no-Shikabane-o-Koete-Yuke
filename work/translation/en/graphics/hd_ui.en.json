@@ -1,0 +1,2962 @@
+{
+  "version": "0.2.26",
+  "status": "Draft; shared selected screens verified; combat visual check pending",
+  "rows": [
+    {
+      "archive_offset": 221184,
+      "member_entry": 13,
+      "file": "11.ppt",
+      "translation_en": "HP",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "HP",
+      "ink_budget": 20,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "d84fc0d23162d83d499eab9b5c1debbcd899f1050d35a3016ba87507d48f3965"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 24,
+      "file": "12.ppt",
+      "translation_en": "MP",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "MP",
+      "ink_budget": 20,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "d577880296a062cb1178dbb116445fa913e8c292aba0b5747fd0d241291832d4"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 35,
+      "file": "13.ppt",
+      "translation_en": "Body",
+      "font": "Noto Sans",
+      "font_size": 8.25,
+      "text": "Body",
+      "ink_budget": 20,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "ffd8618d987160234251086c14922b588546d8ca29ab44171f0951261e893823"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 10,
+      "file": "107.ppt",
+      "translation_en": "HP",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "HP",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "9a8ba5b6e7d7786929c2f3ebf2f21f7999ae5e499dd3fa6d6a200ac556579cd4"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 11,
+      "file": "108.ppt",
+      "translation_en": "MP",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "MP",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "fa8d7bd434a7178e8f0f17119a062f48825f509a5fef1389c18fcd232df17f9a"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 12,
+      "file": "109.ppt",
+      "translation_en": "ATK",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "ATK",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "ff73daf9d378c56d803e35c563333688f878d7264611f87ee09772dded0f0cb5"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 14,
+      "file": "110.ppt",
+      "translation_en": "DEF",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "DEF",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "5f8235dc68854e7c737bcb89847cf25b0a2525fc300a75bfd393eb2b3b36dd9b"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 15,
+      "file": "111.ppt",
+      "translation_en": "AGI",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "AGI",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "769b6b3e6b249c1c9cb4cf5e04ebbdbcce4a406c62a4e9a4f65ba4fdf1ce468b"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 16,
+      "file": "112.ppt",
+      "translation_en": "WINS",
+      "font": "Noto Sans",
+      "font_size": 10.75,
+      "text": "WINS",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "2349fff280e6964653fd429f711efc9f2f977c67c06035ec7f3b13d1a7bb6661"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 17,
+      "file": "113.ppt",
+      "translation_en": "HLTH",
+      "font": "Noto Sans",
+      "font_size": 10.75,
+      "text": "HLTH",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "32b3cc9e5759f4a666af005cc9c5f2c06beabc1daad3a61f1ea5ac95f46845bf"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 18,
+      "file": "114.ppt",
+      "translation_en": "LOY",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "LOY",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "74f861ed1b4262097b69fb5c7210e2f8424d60f959357dea73967e9379afbc86"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 25,
+      "file": "120.ppt",
+      "translation_en": "Head",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "Head",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "23ac79e687df6441b832cf78495ba7b80987e2fcb65d41542f2faa1e95e92e9b"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 26,
+      "file": "121.ppt",
+      "translation_en": "Leader",
+      "font": "Noto Sans",
+      "font_size": 8.5,
+      "text": "Leader",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "afe64b380d83f869111f5debd44d3404a8dad38ac75282ddb0066a8de4b9d87c"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 27,
+      "file": "122.ppt",
+      "translation_en": "Party",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "Party",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "4c9ec22116b8990c415a244857d26c208c5e37f9757f2740b34eb2874d62c406"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 28,
+      "file": "123.ppt",
+      "translation_en": "Study",
+      "font": "Noto Sans",
+      "font_size": 10.5,
+      "text": "Study",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "2e44deb8f4d258bd09626ad7ade4b832e5b83f0c05d322477b471030c97e89ab"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 29,
+      "file": "124.ppt",
+      "translation_en": "Train",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "Train",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "401d78b4e777b874d87354d9150d2ed35ef6ce7d855c3e7f6b69b24a958f3989"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 30,
+      "file": "125.ppt",
+      "translation_en": "Cmd",
+      "font": "Noto Sans",
+      "font_size": 11,
+      "text": "Cmd",
+      "ink_budget": 28,
+      "logical_size": [
+        32,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        128,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "c3d6f10f93c538af0cd5d2285b4ac6e79f7c7b52a2ac8ee04e96082a40958ff4"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 33,
+      "file": "128.ppt",
+      "translation_en": "WPN",
+      "font": "Noto Sans",
+      "font_size": 8.5,
+      "text": "WPN",
+      "ink_budget": 20,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "4a147120b41a1d422d82780b95fa129480a896019bbf8f6e36ca72fbd75f2cbe"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 34,
+      "file": "129.ppt",
+      "translation_en": "HEAD",
+      "font": "Noto Sans",
+      "font_size": 7.5,
+      "text": "HEAD",
+      "ink_budget": 20,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "8d5a8470199811c754c7211f4277344efe4aab2cc51b8cca7186ad81c0ccb7ab"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 36,
+      "file": "130.ppt",
+      "translation_en": "ARM",
+      "font": "Noto Sans",
+      "font_size": 9.0,
+      "text": "ARM",
+      "ink_budget": 20,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "a02fc60eb6a9dd11394d9ddebe5c86635b0a4192453f9a0da602572413a2e830"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 37,
+      "file": "131.ppt",
+      "translation_en": "ACC",
+      "font": "Noto Sans",
+      "font_size": 10.25,
+      "text": "ACC",
+      "ink_budget": 20,
+      "logical_size": [
+        24,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        96,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "29fffa12bbcae7861ba635a7b89bd5d10739d499e9b715d404b64f524e61cbb7"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 65,
+      "file": "21.ppt",
+      "translation_en": "SPR",
+      "font": "Noto Sans",
+      "font_size": 9.0,
+      "text": "SPR",
+      "ink_budget": 16,
+      "logical_size": [
+        20,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        80,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "5f41b87e0917348c29b226ab1ec7ddd51489a52a961710fe54befe49aea8ed5c"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 66,
+      "file": "22.ppt",
+      "translation_en": "SKL",
+      "font": "Noto Sans",
+      "font_size": 9.25,
+      "text": "SKL",
+      "ink_budget": 16,
+      "logical_size": [
+        20,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        80,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "02a8791fb3cdf44463790724cafb07332bc41c3225882a3b5b0fda5aa6055057"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 67,
+      "file": "23.ppt",
+      "translation_en": "BOD",
+      "font": "Noto Sans",
+      "font_size": 7.25,
+      "text": "BOD",
+      "ink_budget": 16,
+      "logical_size": [
+        20,
+        16
+      ],
+      "physical_storage_size": [
+        128,
+        64
+      ],
+      "physical_visible_size": [
+        80,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        128,
+        64
+      ],
+      "bytes": 9264,
+      "sha256": "6ad5d47cb652cbc2182ca2d075fe5b40c8a4e17f89fb1ed07446f908e595db70"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 136,
+      "file": "86.ppt",
+      "translation_en": "Growth",
+      "font": "Noto Sans",
+      "font_size": 9.0,
+      "text": "Growth",
+      "ink_budget": 32,
+      "logical_size": [
+        36,
+        24
+      ],
+      "physical_storage_size": [
+        192,
+        96
+      ],
+      "physical_visible_size": [
+        144,
+        96
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        256,
+        128
+      ],
+      "bytes": 19504,
+      "sha256": "d532c027f6c2e516949332702e8e7555e60e143f769217d3ede5b732a8ef2cc8"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 38,
+      "file": "132.ppt",
+      "translation_en": "STATUS",
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "STATUS",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        192,
+        512
+      ],
+      "physical_visible_size": [
+        176,
+        504
+      ],
+      "scale": [
+        4.0,
+        1.9384615384615385
+      ],
+      "native_texture": [
+        256,
+        512
+      ],
+      "bytes": 99376,
+      "sha256": "a3372e617558b7a430673398ff602323fe5199415f6054eac2b5f9e9438a33b8"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 40,
+      "file": "134.ppt",
+      "translation_en": "EQUIPMENT",
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "EQUIPMENT",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        192,
+        512
+      ],
+      "physical_visible_size": [
+        176,
+        504
+      ],
+      "scale": [
+        4.0,
+        1.9384615384615385
+      ],
+      "native_texture": [
+        256,
+        512
+      ],
+      "bytes": 99376,
+      "sha256": "84561265d3ff809ee7be00a2d07ff933bca7be33495732ad4d74c2fcc4d487d6"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 134,
+      "file": "84.ppt",
+      "translation_en": "BATTLE RESULTS",
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "BATTLE RESULTS",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        192,
+        512
+      ],
+      "physical_visible_size": [
+        176,
+        504
+      ],
+      "scale": [
+        4.0,
+        1.9384615384615385
+      ],
+      "native_texture": [
+        256,
+        512
+      ],
+      "bytes": 99376,
+      "sha256": "ce82398ee9d143eb3f4a1983472764afbebda9aeeb73a8172a7d630b1f761858"
+    },
+    {
+      "archive_offset": 221184,
+      "member_entry": 19,
+      "file": "115.ppt",
+      "translation_en": "SPIRIT / SKILL / BODY",
+      "font": "Noto Sans",
+      "font_size": 10,
+      "text": "SPIRIT / SKILL / BODY",
+      "hardware_limit": 512,
+      "logical_size": [
+        142,
+        252
+      ],
+      "physical_storage_size": [
+        512,
+        512
+      ],
+      "physical_visible_size": [
+        505,
+        504
+      ],
+      "scale": [
+        3.556338028169014,
+        2.0
+      ],
+      "native_texture": [
+        512,
+        512
+      ],
+      "bytes": 263216,
+      "sha256": "713f4b11e5f69c6df3f40a2ac308ec463b052f6a3345ca8a37a3b26b4e39bbe5"
+    },
+    {
+      "archive_offset": 82505728,
+      "member_entry": 10,
+      "file": "286.ppt",
+      "translation_en": "ONI RECORDS",
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "ONI RECORDS",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        192,
+        512
+      ],
+      "physical_visible_size": [
+        176,
+        504
+      ],
+      "scale": [
+        4.0,
+        1.9384615384615385
+      ],
+      "native_texture": [
+        256,
+        512
+      ],
+      "bytes": 99376,
+      "sha256": "91c8049eab5b9888ab03593084bb4831b2c74792afa54acf2450c5c474bf7d89"
+    },
+    {
+      "archive_offset": 82505728,
+      "member_entry": 11,
+      "file": "287.ppt",
+      "translation_en": "ITEM CATALOG",
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "ITEM CATALOG",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        192,
+        512
+      ],
+      "physical_visible_size": [
+        176,
+        504
+      ],
+      "scale": [
+        4.0,
+        1.9384615384615385
+      ],
+      "native_texture": [
+        256,
+        512
+      ],
+      "bytes": 99376,
+      "sha256": "98778122e93de38c98ccc8310c2cea0f36d030393e6508bd387d3b54c7a5e224"
+    },
+    {
+      "archive_offset": 82505728,
+      "member_entry": 12,
+      "file": "288.ppt",
+      "translation_en": "Defeated",
+      "font": "Noto Sans",
+      "font_size": 9.75,
+      "text": "Defeated",
+      "ink_budget": 42,
+      "logical_size": [
+        46,
+        16
+      ],
+      "physical_storage_size": [
+        192,
+        64
+      ],
+      "physical_visible_size": [
+        184,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        256,
+        64
+      ],
+      "bytes": 13360,
+      "sha256": "385c020eaefc2e53aebd8ade07fdf40847dcb26bd937401423b3d0a35159a1c3"
+    },
+    {
+      "archive_offset": 82505728,
+      "member_entry": 13,
+      "file": "289.ppt",
+      "translation_en": "Specialty",
+      "font": "Noto Sans",
+      "font_size": 10.0,
+      "text": "Specialty",
+      "ink_budget": 42,
+      "logical_size": [
+        46,
+        16
+      ],
+      "physical_storage_size": [
+        192,
+        64
+      ],
+      "physical_visible_size": [
+        184,
+        64
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        256,
+        64
+      ],
+      "bytes": 13360,
+      "sha256": "b81638d5dc3f51cea251f0ed51f65c28d90bf5370127ea4d82c3da4068408cdf"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 1,
+      "file": "num0.ppt",
+      "translation_en": "0",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "0",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "a670e99c28cc6b3a1efcdbe149d9835b74e537f10a6ce293a3e1cba4bf335c89"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 2,
+      "file": "num1.ppt",
+      "translation_en": "1",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "1",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "e72cc7214de1978e2cb02cb77401b95579791bdb2625a2b376ce4649a2e04a08"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 3,
+      "file": "num2.ppt",
+      "translation_en": "2",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "2",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "c10851c7ecb6f2174bb6eb5f3aa839edc7c182dadd55ac210bd2b19ba552a793"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 4,
+      "file": "num3.ppt",
+      "translation_en": "3",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "3",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "db0c32ca595f0e7f524d9760c1e9abe80ca9e5054d3605925d741f4ebf5b3cca"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 5,
+      "file": "num4.ppt",
+      "translation_en": "4",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "4",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "e5641de48368e01889e1801bf2d93410e69aafcc4b8acd58e56e88d7415c1879"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 6,
+      "file": "num5.ppt",
+      "translation_en": "5",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "5",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "4673c1ea070715f2b6a5765ea30c555d66dc6833155b89c71abcc7fce942048e"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 7,
+      "file": "num6.ppt",
+      "translation_en": "6",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "6",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "f2e52c555ec237c757c2d5673e23ea10ccc65c7553dd9f413c5b5ffdbc79c9b7"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 8,
+      "file": "num7.ppt",
+      "translation_en": "7",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "7",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "fc39be5751730b66c54f44e7ed9455d2afb4913585d028659ee2ffce27c78b38"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 9,
+      "file": "num8.ppt",
+      "translation_en": "8",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "8",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "32d6d9bc98992a0ebbdfc1b3838a0e30b8592ab77961ecee775b353bdb29d6be"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 10,
+      "file": "num9.ppt",
+      "translation_en": "9",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "9",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "674f28dd6c8977c9d7939275841acae290833c3300d72291fe84ec31b1ef0360"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 11,
+      "file": "num_green0.ppt",
+      "translation_en": "0",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "0",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "eac64906119d8d5606a7225e2d9b0dd96c69afa1a2286a32481fa21de93ac241"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 12,
+      "file": "num_green1.ppt",
+      "translation_en": "1",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "1",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "3371fd24fdafbcd163aa0b84a9db9e6174e62ae4d49a7a1830d04bb7566417da"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 13,
+      "file": "num_green2.ppt",
+      "translation_en": "2",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "2",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "443fe83833cf4454595cdc6f99865414dab87f3c0f7f2b0c251b6eb6870eff8e"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 14,
+      "file": "num_green3.ppt",
+      "translation_en": "3",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "3",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "a63184168f0388a28e01afafb36f6b9b3edb3f43b7b84f13341d71e1fe941101"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 15,
+      "file": "num_green4.ppt",
+      "translation_en": "4",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "4",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "c2743286b46fc83f06333fa257a228b6063c2fa2fcf257bc45d3fdd7d9f7041f"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 16,
+      "file": "num_green5.ppt",
+      "translation_en": "5",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "5",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "6facdcc262383102bfee71de135a6e8ca9fdfc246c95122d86d50ba2de077739"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 17,
+      "file": "num_green6.ppt",
+      "translation_en": "6",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "6",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "7d432f4e3e77b69d74bc558e14b84dbf83b878f062d56db74802f2ffadb359c2"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 18,
+      "file": "num_green7.ppt",
+      "translation_en": "7",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "7",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "94291b5ac3a79fb8ca8d8f7e4700d68399d84eb94f8b362a03cb815d5244289f"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 19,
+      "file": "num_green8.ppt",
+      "translation_en": "8",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "8",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "737c40c497f9eec5e7fe99afc33035a9d9ed5e356cc9d442d79d6c4cdb4dfaa3"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 20,
+      "file": "num_green9.ppt",
+      "translation_en": "9",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "9",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "e0cd6cd5ec189492335ddc1bb1e62498548af13debc4a6e26c12d0c00a3fd502"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 21,
+      "file": "num_purple0.ppt",
+      "translation_en": "0",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "0",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "39866c34408ea7767132e1c3242cc457742df173dfc6a5e985b5cf3a3bfbe872"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 22,
+      "file": "num_purple1.ppt",
+      "translation_en": "1",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "1",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "d68a8f546a0ab63899b1fa975f13faeb2bf9c36bca88596b79f15f56f0a0cd04"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 23,
+      "file": "num_purple2.ppt",
+      "translation_en": "2",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "2",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "c2b4fd1002067c311c424dcd7896196c2fafc6592ac723d13b8dd8bf0b706e03"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 24,
+      "file": "num_purple3.ppt",
+      "translation_en": "3",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "3",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "76aedd1f8cc992a0739ca5b937a564fa5728612a60a3ed15fcba58327a204b25"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 25,
+      "file": "num_purple4.ppt",
+      "translation_en": "4",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "4",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "10e9abf5c6039a36f43088f2204c215a5e01c46c1d25d72327f2d9c57ffe0419"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 26,
+      "file": "num_purple5.ppt",
+      "translation_en": "5",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "5",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "9ea8bb153f3a839ce9f17796436c62162f20f96f65a3ae0d663bc4939c067758"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 27,
+      "file": "num_purple6.ppt",
+      "translation_en": "6",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "6",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "aaa96db12795d871397104cc8f53717ef28ec27a0e0964601e861b5ada0db649"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 28,
+      "file": "num_purple7.ppt",
+      "translation_en": "7",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "7",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "6fe5f4a1918c641c187eb0ed48e4ef2aec27dc1b8e5af7d0a01662adf3fcf83b"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 29,
+      "file": "num_purple8.ppt",
+      "translation_en": "8",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "8",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "b100472720ed05808e42c8e4dfdddb4fa3107d8ac35c0f18ec9152753948ceb3"
+    },
+    {
+      "archive_offset": 107010048,
+      "member_entry": 30,
+      "file": "num_purple9.ppt",
+      "translation_en": "9",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "9",
+      "color": [
+        190,
+        72,
+        230,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "1a38fc966809fac6d48b8b885f6f83cd8bab0aa96b9c4129d7c3a2e903b02c72"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 0,
+      "file": "num0.ppt",
+      "translation_en": "0",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "0",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "a670e99c28cc6b3a1efcdbe149d9835b74e537f10a6ce293a3e1cba4bf335c89"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 1,
+      "file": "num1.ppt",
+      "translation_en": "1",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "1",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "e72cc7214de1978e2cb02cb77401b95579791bdb2625a2b376ce4649a2e04a08"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 2,
+      "file": "num2.ppt",
+      "translation_en": "2",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "2",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "c10851c7ecb6f2174bb6eb5f3aa839edc7c182dadd55ac210bd2b19ba552a793"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 3,
+      "file": "num3.ppt",
+      "translation_en": "3",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "3",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "db0c32ca595f0e7f524d9760c1e9abe80ca9e5054d3605925d741f4ebf5b3cca"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 4,
+      "file": "num4.ppt",
+      "translation_en": "4",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "4",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "e5641de48368e01889e1801bf2d93410e69aafcc4b8acd58e56e88d7415c1879"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 5,
+      "file": "num5.ppt",
+      "translation_en": "5",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "5",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "4673c1ea070715f2b6a5765ea30c555d66dc6833155b89c71abcc7fce942048e"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 6,
+      "file": "num6.ppt",
+      "translation_en": "6",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "6",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "f2e52c555ec237c757c2d5673e23ea10ccc65c7553dd9f413c5b5ffdbc79c9b7"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 7,
+      "file": "num7.ppt",
+      "translation_en": "7",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "7",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "fc39be5751730b66c54f44e7ed9455d2afb4913585d028659ee2ffce27c78b38"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 8,
+      "file": "num8.ppt",
+      "translation_en": "8",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "8",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "32d6d9bc98992a0ebbdfc1b3838a0e30b8592ab77961ecee775b353bdb29d6be"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 9,
+      "file": "num9.ppt",
+      "translation_en": "9",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "9",
+      "color": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "674f28dd6c8977c9d7939275841acae290833c3300d72291fe84ec31b1ef0360"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 10,
+      "file": "num_green0.ppt",
+      "translation_en": "0",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "0",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "eac64906119d8d5606a7225e2d9b0dd96c69afa1a2286a32481fa21de93ac241"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 11,
+      "file": "num_green1.ppt",
+      "translation_en": "1",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "1",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "3371fd24fdafbcd163aa0b84a9db9e6174e62ae4d49a7a1830d04bb7566417da"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 12,
+      "file": "num_green2.ppt",
+      "translation_en": "2",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "2",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "443fe83833cf4454595cdc6f99865414dab87f3c0f7f2b0c251b6eb6870eff8e"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 13,
+      "file": "num_green3.ppt",
+      "translation_en": "3",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "3",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "a63184168f0388a28e01afafb36f6b9b3edb3f43b7b84f13341d71e1fe941101"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 14,
+      "file": "num_green4.ppt",
+      "translation_en": "4",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "4",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "c2743286b46fc83f06333fa257a228b6063c2fa2fcf257bc45d3fdd7d9f7041f"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 15,
+      "file": "num_green5.ppt",
+      "translation_en": "5",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "5",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "6facdcc262383102bfee71de135a6e8ca9fdfc246c95122d86d50ba2de077739"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 16,
+      "file": "num_green6.ppt",
+      "translation_en": "6",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "6",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "7d432f4e3e77b69d74bc558e14b84dbf83b878f062d56db74802f2ffadb359c2"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 17,
+      "file": "num_green7.ppt",
+      "translation_en": "7",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "7",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "94291b5ac3a79fb8ca8d8f7e4700d68399d84eb94f8b362a03cb815d5244289f"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 18,
+      "file": "num_green8.ppt",
+      "translation_en": "8",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "8",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "737c40c497f9eec5e7fe99afc33035a9d9ed5e356cc9d442d79d6c4cdb4dfaa3"
+    },
+    {
+      "archive_offset": 177403904,
+      "member_entry": 19,
+      "file": "num_green9.ppt",
+      "translation_en": "9",
+      "font": "Noto Sans",
+      "font_size": 22,
+      "text": "9",
+      "color": [
+        72,
+        245,
+        0,
+        255
+      ],
+      "category": "native combat digit",
+      "logical_size": [
+        16,
+        20
+      ],
+      "physical_storage_size": [
+        64,
+        96
+      ],
+      "physical_visible_size": [
+        64,
+        80
+      ],
+      "scale": [
+        4.0,
+        4.0
+      ],
+      "native_texture": [
+        64,
+        128
+      ],
+      "bytes": 7216,
+      "sha256": "e0cd6cd5ec189492335ddc1bb1e62498548af13debc4a6e26c12d0c00a3fd502"
+    }
+  ]
+}

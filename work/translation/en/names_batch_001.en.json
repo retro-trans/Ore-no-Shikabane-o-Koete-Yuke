@@ -1,0 +1,2553 @@
+{
+  "schema_version": 1,
+  "version": "0.2.2",
+  "language": "en",
+  "status": "Draft translation; not an installable patch.",
+  "rows": [
+    {
+      "id": "ore:0002c000:0000:00:0000",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 0,
+      "text_offset": 520,
+      "source_sha256": "868310e193d1af0b9a0a16b18d5826a5490fe3f9410defa30dc115829fc1db4a",
+      "category": "names_and_terms",
+      "translation_en": "None",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0001",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 1,
+      "text_offset": 526,
+      "source_sha256": "4eff31ebf9a2b07831a7dec7dadf82c924081bae54abeba0cbe59f4689ea7c58",
+      "category": "names_and_terms",
+      "translation_en": "Kurogane Ukyo",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0002",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 2,
+      "text_offset": 538,
+      "source_sha256": "b0622f3fa6e97e092b47fef9ca62a89f65ec2e0ead8c34d90859e9de493ddca4",
+      "category": "names_and_terms",
+      "translation_en": "Kokokuten Hoemaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0003",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 3,
+      "text_offset": 552,
+      "source_sha256": "69dc5bde06c1bc2d5807cb9e92ed7b9fd473cf5f8f5bc8fc55a18a56e316e248",
+      "category": "names_and_terms",
+      "translation_en": "Tsukikui Yatosuke",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0004",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 4,
+      "text_offset": 566,
+      "source_sha256": "dc60a98a668b8f72a3b7402af4a8481f27371f99e23bed2aa2715c97ac0e084e",
+      "category": "names_and_terms",
+      "translation_en": "Mochinohana Daikichi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0005",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 5,
+      "text_offset": 580,
+      "source_sha256": "a9fa6da23345355f55a6132f7c4093949f7f555bf543d0dfa3055abbb486ca19",
+      "category": "names_and_terms",
+      "translation_en": "Akoma & Unkoma",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release.",
+        "Paired deity A koma/Unkoma; no gender inferred because the source wiki marks it unknown."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0006",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 6,
+      "text_offset": 592,
+      "source_sha256": "f39e5c3a7193967ca5fd462ebe992572d25bcfd124270582961303ec153a8315",
+      "category": "names_and_terms",
+      "translation_en": "Kodama no Netaro",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0007",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 7,
+      "text_offset": 606,
+      "source_sha256": "4ff2d809942ccd29d05c437bf6e16b5449bce36e2e2ba9679645c3e82f570593",
+      "category": "names_and_terms",
+      "translation_en": "Akabane Tenjin",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0008",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 8,
+      "text_offset": 618,
+      "source_sha256": "5ef152980e4d005d96bf4fca1282458ff6f0b37203b5360562a74374c33d8c9d",
+      "category": "names_and_terms",
+      "translation_en": "Yorozuya Genki",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0009",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 9,
+      "text_offset": 630,
+      "source_sha256": "586623954582a4c567d5d35fcd259b209ebcf7f0258464d0638ea1173c6f4421",
+      "category": "names_and_terms",
+      "translation_en": "Fudo Taizan",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0010",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 10,
+      "text_offset": 642,
+      "source_sha256": "bab6d12a313b7fdff27d9954f6a9d93fbf9a72b3c13446a7e1573da1603e43b9",
+      "category": "names_and_terms",
+      "translation_en": "Ishizaru Denemon",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0011",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 11,
+      "text_offset": 656,
+      "source_sha256": "0df712977f6b165aaed5ff46508b4d8c30ee22fc1e4b126767ca872681777953",
+      "category": "names_and_terms",
+      "translation_en": "Yaizu no Wakamori",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0012",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 12,
+      "text_offset": 668,
+      "source_sha256": "6ac6275ea9791a72bee589be28d9b244a36a1e425e2093513d18f8f10146e78d",
+      "category": "names_and_terms",
+      "translation_en": "Inari no Kojiro",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0013",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 13,
+      "text_offset": 682,
+      "source_sha256": "5044e811e28799b47c373b2c7affc763099bfafcc09794fdcc63742f1dca985f",
+      "category": "names_and_terms",
+      "translation_en": "Yodo no Hebimaro",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0014",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 14,
+      "text_offset": 694,
+      "source_sha256": "91cf1ede8496b20bed5bee1948a6e907eb850b52b40f0f6e8b6fd146689c675c",
+      "category": "names_and_terms",
+      "translation_en": "Shiranami Gataro",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0015",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 15,
+      "text_offset": 708,
+      "source_sha256": "ede2746640b3d676984219af05f8fc10e9a3bf7c18027c301d4e5fd2912c5e97",
+      "category": "names_and_terms",
+      "translation_en": "Ikazuchimaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0016",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 16,
+      "text_offset": 716,
+      "source_sha256": "d9b11b3bf94fcb854106708f3cb98231f1eac10c1c087a9fc74a6ef636f58a05",
+      "category": "names_and_terms",
+      "translation_en": "Izayoi Fusemaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0017",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 17,
+      "text_offset": 730,
+      "source_sha256": "a9dd195784787fa6546df4d35ad9366731c79c6c81bda7386acdae979fe5d2b2",
+      "category": "names_and_terms",
+      "translation_en": "Yata no Kurohae",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0018",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 18,
+      "text_offset": 742,
+      "source_sha256": "632442f93df9be3112ce176b0f127a8cd6182782825d893beb4d142f63f73406",
+      "category": "names_and_terms",
+      "translation_en": "Kinshoten Tatsuma",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0019",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 19,
+      "text_offset": 756,
+      "source_sha256": "6a7cf05e7bdec39c63deef6fa86c5bcee4653d03502be0649900d93f5c260b4e",
+      "category": "names_and_terms",
+      "translation_en": "Fuma Shinpei",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0020",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 20,
+      "text_offset": 768,
+      "source_sha256": "61786d983c0af5006f9887d736f1b81f9bf452985764b4a046e13769ea6bb6c8",
+      "category": "names_and_terms",
+      "translation_en": "Otori Asuka",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0021",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 21,
+      "text_offset": 780,
+      "source_sha256": "f4ff5a007875d367dd022c6259c107e77a79083fa23544b4c8c6b02c90a76cb4",
+      "category": "names_and_terms",
+      "translation_en": "Chinju no Fukurota",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0022",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 22,
+      "text_offset": 794,
+      "source_sha256": "def4060478ec5003e116d2f260871fc0ba1168c44fbc646b32538d3fd6a6c365",
+      "category": "names_and_terms",
+      "translation_en": "Kokubo Iwahana",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0023",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 23,
+      "text_offset": 808,
+      "source_sha256": "1ed54346084852be4226a4572189d388577549dc7e1c8a72c808393535d5f2fd",
+      "category": "names_and_terms",
+      "translation_en": "Gekkoten Yomi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0024",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 24,
+      "text_offset": 822,
+      "source_sha256": "37db98890809ff58152b7b6dd594a8f773e22e7ef09314134bc8f4ddac8fc1d5",
+      "category": "names_and_terms",
+      "translation_en": "Kashima Chutatsu",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0025",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 25,
+      "text_offset": 834,
+      "source_sha256": "155c4c22a19931af96f3cd3032474535b37265541292a420a72a6e7037826c99",
+      "category": "names_and_terms",
+      "translation_en": "Amanome Enji",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0026",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 26,
+      "text_offset": 846,
+      "source_sha256": "5809ca5da877e7d31213cd50cfb7849ec073c55429958c9615221a72e3f7a5a2",
+      "category": "names_and_terms",
+      "translation_en": "Sensui Ebisu",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0027",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 27,
+      "text_offset": 858,
+      "source_sha256": "3e8586ac94e0ca0bdc80c68ac5c69e3686de5e6d0d95f6bee3b3fccdd3819884",
+      "category": "names_and_terms",
+      "translation_en": "Usa no Chachamaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0028",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 28,
+      "text_offset": 872,
+      "source_sha256": "b5dc0548053ccd786ac6dfbcd2ef0b6897b549cc8299348c58ad976af2c20583",
+      "category": "names_and_terms",
+      "translation_en": "Onmyoji Ataru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0029",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 29,
+      "text_offset": 884,
+      "source_sha256": "c127100544a4dfcfc7147b4b702a008f10c007bb1e42e5ca4e1dcbd95afe693e",
+      "category": "names_and_terms",
+      "translation_en": "Kashamaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0030",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 30,
+      "text_offset": 892,
+      "source_sha256": "dd1d1380d4fcd0c32fc725bc0d9adc53a70f362e844894dcef5b97e56e9f7b46",
+      "category": "names_and_terms",
+      "translation_en": "Oboro Genpachi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0031",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 31,
+      "text_offset": 906,
+      "source_sha256": "55802960e89e16d82f9b1d7aae3768f450ccf4b827d56a57a78e39c9cccf4e79",
+      "category": "names_and_terms",
+      "translation_en": "Mitsuboshi Kyota",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0032",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 32,
+      "text_offset": 920,
+      "source_sha256": "c4e16e01465e6540b58f18a0514c6505c44ecf8d1c11e9d3235d6c0c0c69d0c0",
+      "category": "names_and_terms",
+      "translation_en": "Dodoro Shingen",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0033",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 33,
+      "text_offset": 934,
+      "source_sha256": "bddc06aaf27d4040d1a23d1e4ea7dde862ee63a17ec0cf5e6f32d663bdde6225",
+      "category": "names_and_terms",
+      "translation_en": "Nikkoten Toki",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0034",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 34,
+      "text_offset": 948,
+      "source_sha256": "46be274979ac582b3d141185dfecc2d8a47e4ed8c71d3e85d5b64e3e3b3c7ade",
+      "category": "names_and_terms",
+      "translation_en": "Kumaso Gongen",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0035",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 35,
+      "text_offset": 958,
+      "source_sha256": "22d06b5e2d3181c3bcffd1e996b73d0237d2438dbb7adb1eaebc4e9b4a82acaa",
+      "category": "names_and_terms",
+      "translation_en": "Narugami Kotaro",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0036",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 36,
+      "text_offset": 972,
+      "source_sha256": "7d68515e892bbac015b43ea75b9aae8bc97fecb85f871a5801d47f433c623b90",
+      "category": "names_and_terms",
+      "translation_en": "Shichitensai Hakki",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0037",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 37,
+      "text_offset": 986,
+      "source_sha256": "fbc414657c88c5b53426532358163f8e7fc7c8cbf56c8339a9d86e26061f1b4c",
+      "category": "names_and_terms",
+      "translation_en": "Prince of Ice",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release.",
+        "Prince of Ice is the established glossary rendering."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0038",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 38,
+      "text_offset": 996,
+      "source_sha256": "9f92a7ce59c5fe6c1f38cdc2d763852c8f34d793741f7ac4ed70049c764bb087",
+      "category": "names_and_terms",
+      "translation_en": "Raio Shishimaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0039",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 39,
+      "text_offset": 1010,
+      "source_sha256": "f18e977ada32b40f19a206a8ac70ec1a51f44e13a1ca86e0dc399581df490699",
+      "category": "names_and_terms",
+      "translation_en": "Tachikaze Goro",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0040",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 40,
+      "text_offset": 1024,
+      "source_sha256": "08e8778dd74d5342583fd8fcd4f2ded9765724354cc24fc3b020cf97847b5211",
+      "category": "names_and_terms",
+      "translation_en": "Raiden Goro",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0041",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 41,
+      "text_offset": 1036,
+      "source_sha256": "dde70119a9e8ee0a3a719551ce5af1ed67d6282282b75dbbc77376db7eadccc2",
+      "category": "names_and_terms",
+      "translation_en": "Kujakuin Akemi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0042",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 42,
+      "text_offset": 1050,
+      "source_sha256": "9133ca18e844eaf4df469559684a689a01a60f3a21460bcfb569d7b8009e97f9",
+      "category": "names_and_terms",
+      "translation_en": "Namematsuri Tsuyuhiko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0043",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 43,
+      "text_offset": 1064,
+      "source_sha256": "00cf6ab944351fb652d1d3b58f5437caa2e7c262f4d479e10091eebc8a3e76f3",
+      "category": "names_and_terms",
+      "translation_en": "Prince Agara",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0044",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 44,
+      "text_offset": 1074,
+      "source_sha256": "c1e23586ec38e014b83614372abf68d17330310e86c4bdb111c3c90fd0431a96",
+      "category": "names_and_terms",
+      "translation_en": "Osumi Bakuen",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0045",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 45,
+      "text_offset": 1086,
+      "source_sha256": "4a6b357d908b5fc3806eaf60639d10b99ada3acaae949e43b6203104de0725cd",
+      "category": "names_and_terms",
+      "translation_en": "Tatara Jinnai",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0046",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 46,
+      "text_offset": 1100,
+      "source_sha256": "e435c655a604657fbcdd1b3743b4282380884cfd4b271d2608cf3085074def4d",
+      "category": "names_and_terms",
+      "translation_en": "Negoro no Sokaku",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0047",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 47,
+      "text_offset": 1112,
+      "source_sha256": "89324bfc8eb1d65aece51127575944e91b1b71ee7c9a0aa434cfc60cc95d7d9b",
+      "category": "names_and_terms",
+      "translation_en": "Hinashi no Keito",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0048",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 48,
+      "text_offset": 1124,
+      "source_sha256": "628fd2defa961cc4e8d039900207040991eba071ffd6236ec31a620ca2e5ca42",
+      "category": "names_and_terms",
+      "translation_en": "Hofuri Doji",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0049",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 49,
+      "text_offset": 1136,
+      "source_sha256": "72f6a5bf86d32e4e4ddb23b3d8d4820019962b05e4cb8e3c29bb4ea0a2e75737",
+      "category": "names_and_terms",
+      "translation_en": "General Bonpin",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0050",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 50,
+      "text_offset": 1148,
+      "source_sha256": "200a833e8926e28ba5f3417c7b806400a10008c0590d4b7b3cc059521b6fd0d5",
+      "category": "names_and_terms",
+      "translation_en": "Oe no Sutemaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0051",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 51,
+      "text_offset": 1160,
+      "source_sha256": "39c10c96cd70343d10c562b4153582574d0ecab9cd7bf0eca11ffb47300d7825",
+      "category": "names_and_terms",
+      "translation_en": "Nanaeda Takeru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0052",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 52,
+      "text_offset": 1174,
+      "source_sha256": "3b787dc451b4f65240eb1fa623c6d4cd4043bc0bade6740983fba5a93be19a36",
+      "category": "names_and_terms",
+      "translation_en": "Aizenin Akiramaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0053",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 53,
+      "text_offset": 1188,
+      "source_sha256": "7b5997059230deb64b75fcb019e9976fd6ae3b4893e968e2d9e8894c2088f761",
+      "category": "names_and_terms",
+      "translation_en": "Yasaka Gozumaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0054",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 54,
+      "text_offset": 1202,
+      "source_sha256": "1e9f790ed7b3b1c3e0ddc96f7d0261c274723df59a719c5d0fc10b21dbc92eca",
+      "category": "names_and_terms",
+      "translation_en": "Kokuyosai Kagehiko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0055",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 55,
+      "text_offset": 1216,
+      "source_sha256": "6626e65ad46a4cbf204fe5fa57362a18691912f414e707ac15f1732620eb4497",
+      "category": "names_and_terms",
+      "translation_en": "Tsuruga no Manahime",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0056",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 56,
+      "text_offset": 1230,
+      "source_sha256": "1cbcbb94325880083b98a918f85e8134a4fd58291382b4a6cb02c126decfb8a5",
+      "category": "names_and_terms",
+      "translation_en": "Mizuchihime",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0057",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 57,
+      "text_offset": 1240,
+      "source_sha256": "650afb3b054bb13e46a12f69b8aaef25449df06b2b42b3e6b08dcdf75c09549a",
+      "category": "names_and_terms",
+      "translation_en": "Haguro no Osayo",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0058",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 58,
+      "text_offset": 1254,
+      "source_sha256": "53feb657b103fe1f564dfc8e0792fd3360a0c33325ff0d0cede9dbb2e47fa365",
+      "category": "names_and_terms",
+      "translation_en": "Nakazu Benten",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0059",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 59,
+      "text_offset": 1266,
+      "source_sha256": "82058e1bcd55391c6aa0bd1c55de3343404180bcf1beefa30364bb18fd4e889e",
+      "category": "names_and_terms",
+      "translation_en": "Midoro Gozen",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0060",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 60,
+      "text_offset": 1278,
+      "source_sha256": "f34f28f40e0729a5b4963b031d1fea3bc79d9da12c930bbd475a7c27a200b5a5",
+      "category": "names_and_terms",
+      "translation_en": "Hiten no Maiko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0061",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 61,
+      "text_offset": 1290,
+      "source_sha256": "57c69f6ddd2b111350a08ca9ec5d4c36fd64827bf1f127ec2b60023201a03c29",
+      "category": "names_and_terms",
+      "translation_en": "Ochibo no Kimi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0062",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 62,
+      "text_offset": 1304,
+      "source_sha256": "095c32273fc8b13ea46a53c6c839b2ab72ab9b8fc43678c1dc827e8389d571c3",
+      "category": "names_and_terms",
+      "translation_en": "Manjuin Beniko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0063",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 63,
+      "text_offset": 1318,
+      "source_sha256": "646f5f2c81dc3237a99e07de1ec25a2a7242dc4df5cbf30d6601dfb065d85301",
+      "category": "names_and_terms",
+      "translation_en": "Uratama no Iyo",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release.",
+        "The corpus uses the divination character rather than the wiki's visually similar katakana character; identity settled by the identical reading."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0064",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 64,
+      "text_offset": 1330,
+      "source_sha256": "9caf4bce8806513d66a76385aa3a02cd2380d10c5774a921db0b3560ab43f60c",
+      "category": "names_and_terms",
+      "translation_en": "Sasara no Oen",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0065",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 65,
+      "text_offset": 1344,
+      "source_sha256": "4c1e31c334fe749e5779ac4233512078671ad1689c41269234508f1cf21f2948",
+      "category": "names_and_terms",
+      "translation_en": "Haruno Suzume",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0066",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 66,
+      "text_offset": 1356,
+      "source_sha256": "453d21a6d1a05a484b66a8c2d5e2385a04d24cf73b272a29acd45986fe3eaee3",
+      "category": "names_and_terms",
+      "translation_en": "Kiso no Haruna",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0067",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 67,
+      "text_offset": 1368,
+      "source_sha256": "b06e9037709b724ffd300ea3d2f1a8a530c416562ab6ebedb6f8dcbbe809dcdd",
+      "category": "names_and_terms",
+      "translation_en": "Fukumaneki Miya",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0068",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 68,
+      "text_offset": 1382,
+      "source_sha256": "31a6c5e94f21a5a1f92a24361b0715a710084443d306dfd3392c9c84033d6447",
+      "category": "names_and_terms",
+      "translation_en": "Futatsu Ogi no Mae",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0069",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 69,
+      "text_offset": 1394,
+      "source_sha256": "bd1d00fa40d71a8a6856d3fd660ca24d36e7028f1aed329fe41fbe5c8a9185ec",
+      "category": "names_and_terms",
+      "translation_en": "Hayase no Ruru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0070",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 70,
+      "text_offset": 1406,
+      "source_sha256": "8717e562a74257d022550730b318520248fa99fec875389c41c5aea1f2a0cf22",
+      "category": "names_and_terms",
+      "translation_en": "Mutsuhana Gozen",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0071",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 71,
+      "text_offset": 1418,
+      "source_sha256": "bd2c747e649b30fd8860ebdb790a94aface1c2b53e1fb9d7688e6ff12fcd4ecb",
+      "category": "names_and_terms",
+      "translation_en": "Inaba no Mimyu",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0072",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 72,
+      "text_offset": 1432,
+      "source_sha256": "7eea1eb5a82ae06333660d3d688c4b61187499d00e20dd19d10d164002b07a4f",
+      "category": "names_and_terms",
+      "translation_en": "Tamayose Okei",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0073",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 73,
+      "text_offset": 1446,
+      "source_sha256": "a50eec43e46cd46e7c77b945fb636e9811ea7aec672e6f6ec3b2b603f8a11ad2",
+      "category": "names_and_terms",
+      "translation_en": "Kochifukuhime",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0074",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 74,
+      "text_offset": 1456,
+      "source_sha256": "da9880fb54d4ca5c588d4bb65324cd89e215f5bf446df346ffcbdcd7c49e8689",
+      "category": "names_and_terms",
+      "translation_en": "Wakakusayama Moeko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0075",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 75,
+      "text_offset": 1470,
+      "source_sha256": "4632d1bb2299dca42a2d60a037eccb9bbccfe57a905527737a97cd667468f5b6",
+      "category": "names_and_terms",
+      "translation_en": "Kagero no Yura",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0076",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 76,
+      "text_offset": 1482,
+      "source_sha256": "5443608717dee58b9bf1a761b8be093ee0b8197fa9ac68a635f5e1626be96e4f",
+      "category": "names_and_terms",
+      "translation_en": "Satsukigawa Yamame",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0077",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 77,
+      "text_offset": 1496,
+      "source_sha256": "781afd8dc1e48669b20ec8fcf51629d9025ceebad73e1308ad809859cae21dd1",
+      "category": "names_and_terms",
+      "translation_en": "Narutoya Uzume",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0078",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 78,
+      "text_offset": 1510,
+      "source_sha256": "48c2ae8775f7baf18d86360665efff35c7eef07c898eb67944c0d595d2362667",
+      "category": "names_and_terms",
+      "translation_en": "Kyokokuten Arisu",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0079",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 79,
+      "text_offset": 1524,
+      "source_sha256": "101030cd369daa338aa8a8a19fab56fdf86147493d2ebcdeb25cafcc0a6c06b6",
+      "category": "names_and_terms",
+      "translation_en": "Kazaguruma no Oshichi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0080",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 80,
+      "text_offset": 1536,
+      "source_sha256": "63511e5e9912dd15e60a2386287f3d5cbd1aeffa1c6a6031076fbc091bb584a2",
+      "category": "names_and_terms",
+      "translation_en": "Shiramushi Omayu",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0081",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 81,
+      "text_offset": 1550,
+      "source_sha256": "a51a6f86e2a31d8e87d71867c99fea24ac5ccaabf2a121c2fdfd426549b28636",
+      "category": "names_and_terms",
+      "translation_en": "Tsukisamu Oryo",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0082",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 82,
+      "text_offset": 1562,
+      "source_sha256": "866c3268220d4a65fdeaccffa5db2ed44c7ddd5b8463ef3454001e8fca676c60",
+      "category": "names_and_terms",
+      "translation_en": "Nayuta no Oshizu",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0083",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 83,
+      "text_offset": 1576,
+      "source_sha256": "af8dbd908084ebad521f4e2f9ce7d2053b17a1de167929513a66926722c8f7b2",
+      "category": "names_and_terms",
+      "translation_en": "Yuko Taishoten",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0084",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 84,
+      "text_offset": 1590,
+      "source_sha256": "9d4e9f801781f0bad1acdf64b43a072f10f5c97c1d717d57387ad55434365116",
+      "category": "names_and_terms",
+      "translation_en": "Ibuki no Miya Shizuka",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0085",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 85,
+      "text_offset": 1604,
+      "source_sha256": "b3f3591bffee71b27b71d6aa089fbcea142ea021e2188b02edddae61c9518f05",
+      "category": "names_and_terms",
+      "translation_en": "Doku no Yakumo",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0086",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 86,
+      "text_offset": 1616,
+      "source_sha256": "8aecf0c8d76bcb6c8b96c3c1efd8e25bb2c93fe523d1e2f42bc0931897e96c4e",
+      "category": "names_and_terms",
+      "translation_en": "Kubitsuri Okon",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0087",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 87,
+      "text_offset": 1630,
+      "source_sha256": "94aeb2ed1a453ab50b0599ba5a081e07ae9588314017d4155ab3f87d3b775860",
+      "category": "names_and_terms",
+      "translation_en": "Sengenji Omon",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0088",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 88,
+      "text_offset": 1644,
+      "source_sha256": "c05caeba5f7e2a0ca59fcabb2c95e106b142ebec6b8c1f3111d1977cc131d4fe",
+      "category": "names_and_terms",
+      "translation_en": "Kayamiya Himiko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0089",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 89,
+      "text_offset": 1658,
+      "source_sha256": "4c3cbc8e773f677171447f3138c807f1d9fd0f0b61e291f27906a129e68c8c79",
+      "category": "names_and_terms",
+      "translation_en": "Kamisuwa Tatsuho",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0090",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 90,
+      "text_offset": 1672,
+      "source_sha256": "68463fb8baae7fcd45fa0e7eac13408132096eaabb2401ba2947482819661c92",
+      "category": "names_and_terms",
+      "translation_en": "Shimosuwa Tatsumi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0091",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 91,
+      "text_offset": 1686,
+      "source_sha256": "a7f2a83c56fa6900c37a2992fab18e1dc1e33c2c46cbf02b828ee4749644eac8",
+      "category": "names_and_terms",
+      "translation_en": "Nowaki no Mae",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0092",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 92,
+      "text_offset": 1696,
+      "source_sha256": "39c4a1aa5a8aa4681319c91bbd4cef3c9a9c35d64ab83542434a8e548e9a9e84",
+      "category": "names_and_terms",
+      "translation_en": "Yurikara Choko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0093",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 93,
+      "text_offset": 1710,
+      "source_sha256": "46f8bd752821ddbf0cebabde88a2675ef96cc4d258ca0c7337f45824bb431891",
+      "category": "names_and_terms",
+      "translation_en": "Hyakuashi Ogin",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0094",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 94,
+      "text_offset": 1722,
+      "source_sha256": "20ab83c6bda02bb481253a014d61d5649870db3a457065a6f2257ca476972603",
+      "category": "names_and_terms",
+      "translation_en": "Oboro Yumeko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0095",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 95,
+      "text_offset": 1736,
+      "source_sha256": "a3292a830155ea7c692754bc59d55e6132ca4a8b1ede059d36ff716dcc612dbe",
+      "category": "names_and_terms",
+      "translation_en": "Bashoten Ranko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0096",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 96,
+      "text_offset": 1750,
+      "source_sha256": "2b17a705e7f1457f576992c99b489410739222353be2802c59169ead7aa99b92",
+      "category": "names_and_terms",
+      "translation_en": "Jizodo Maruko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0097",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 97,
+      "text_offset": 1764,
+      "source_sha256": "ac82ed3ff3b15a274ea8989a77727fb40c8b2d4b459ace05b8b58fb0c3b89086",
+      "category": "names_and_terms",
+      "translation_en": "Kisshoten Mari",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0098",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 98,
+      "text_offset": 1778,
+      "source_sha256": "ca37a2fa23b92400329aff8b0883fbbf989ec335bc710129eaa220b40892970f",
+      "category": "names_and_terms",
+      "translation_en": "Minamo no Kurara",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0099",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 99,
+      "text_offset": 1792,
+      "source_sha256": "5046a09bb7742a30cde3ea0aede7fd48597d923c805d21c572e8f030a7ae632d",
+      "category": "names_and_terms",
+      "translation_en": "Yatsude no Osumi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0100",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 100,
+      "text_offset": 1804,
+      "source_sha256": "c26945c4f05d5cb51b6546d8cdf8458a64e9ceb15813248c681fe8fd324515a7",
+      "category": "names_and_terms",
+      "translation_en": "Indra no Hikaru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0101",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 101,
+      "text_offset": 1818,
+      "source_sha256": "22d7ffb4c9ae8ddeffc4531cb0cf42b293f182e264820f2434f2e477cbe9ff3f",
+      "category": "names_and_terms",
+      "translation_en": "Hachiyoin Hasumi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0102",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 102,
+      "text_offset": 1832,
+      "source_sha256": "224eee04e4e1e3dbdf55c969f8698e150cc830a45717f79d7ca386102fb278f7",
+      "category": "names_and_terms",
+      "translation_en": "Matsuba no Oko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0103",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 103,
+      "text_offset": 1844,
+      "source_sha256": "310cfa2a0047f30604b6f8270e94939004cfe427062a02c5c7606f882f3c3153",
+      "category": "names_and_terms",
+      "translation_en": "Kataha no Ogo",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0104",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 104,
+      "text_offset": 1856,
+      "source_sha256": "cfdb393f80f018f00397dbbaaf934647c9498cf8a7da6d4c7b8b12196d1a1cf2",
+      "category": "names_and_terms",
+      "translation_en": "Akaneko Onatsu",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0105",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 105,
+      "text_offset": 1866,
+      "source_sha256": "e34fffdc3a1f2fe38b20435e97eb620b9dbe23c1bb265332ca86a5fe4e169f19",
+      "category": "names_and_terms",
+      "translation_en": "Tokoyomi Ofu",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0106",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 106,
+      "text_offset": 1880,
+      "source_sha256": "c60ee66d896ee0d43e23cc3d80466a12a2def1a88758b60d2d7cc272b4d63e94",
+      "category": "names_and_terms",
+      "translation_en": "Naeba no Shirayukihime",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0107",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 107,
+      "text_offset": 1894,
+      "source_sha256": "6815d0f0fa2753f6406e55dfb5336db9b66032462291446a7680b52abb9923f6",
+      "category": "names_and_terms",
+      "translation_en": "Ashikiri Shiyako",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0108",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 108,
+      "text_offset": 1908,
+      "source_sha256": "134c4d833ee91e89c08860c2774803d41d294a8c2b6b27900d2f6aa6be304fd3",
+      "category": "names_and_terms",
+      "translation_en": "Hiruko Taishoten",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0109",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 109,
+      "text_offset": 1922,
+      "source_sha256": "42c9fed9f50097623c54ba651bc834b6a79155a1f378a8f9a2993e3073056e52",
+      "category": "names_and_terms",
+      "translation_en": "Kataha no Orin",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release.",
+        "The full divine title distinguishes this roster entry while retaining Orin's established name."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0110",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 110,
+      "text_offset": 1934,
+      "source_sha256": "4323ab2179c1339df0edb4568121534113d415c2675e85f67b0b780787cb5c00",
+      "category": "names_and_terms",
+      "translation_en": "Tsubaki no Karen",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0111",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 111,
+      "text_offset": 1946,
+      "source_sha256": "97a9963f65212d6bddb57fe6b6e9d66c585db466de6074e294bd57c015e0e73d",
+      "category": "names_and_terms",
+      "translation_en": "Tenku no Haruka",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0112",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 112,
+      "text_offset": 1960,
+      "source_sha256": "60ffe443066525224973ee8033a472e86ad441ca58e91cada75923f8cd62dd91",
+      "category": "names_and_terms",
+      "translation_en": "Mushiyose Karan",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0113",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 113,
+      "text_offset": 1972,
+      "source_sha256": "e31840394e2bcc8bcb26c5e86d99fda70f55a3a2228081913ff92a6116913607",
+      "category": "names_and_terms",
+      "translation_en": "Prince Akeboshi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0114",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 114,
+      "text_offset": 1984,
+      "source_sha256": "731dbbc8d88ce0230aaca289d88fccafd5656e8a441cb3b46b11e0b444ac9692",
+      "category": "names_and_terms",
+      "translation_en": "Saint Cruz",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release.",
+        "The exceptional Saint Cruz reading is explicit in the disc kana and wiki; the kanji are not read literally."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0115",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 115,
+      "text_offset": 1998,
+      "source_sha256": "01be73fdaaf1cd5a24fc72f0ab5409ec0d1ceb409baf73beed201de99e996377",
+      "category": "names_and_terms",
+      "translation_en": "Tendo Aoi",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0116",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 116,
+      "text_offset": 2008,
+      "source_sha256": "c19a6e6acd8609d93f97fdeb533d0191537d35d46a864903ce33907894b1610e",
+      "category": "names_and_terms",
+      "translation_en": "Washi no Miya Hoshihiko",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0117",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 117,
+      "text_offset": 2022,
+      "source_sha256": "0b2a7731d2f3d8fa4f1dad3890d434ed90121fffd27b23904b837616ee907cb2",
+      "category": "names_and_terms",
+      "translation_en": "Takinobori Kinta",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0118",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 118,
+      "text_offset": 2036,
+      "source_sha256": "7cbf8a635fac97309faa1cd1a86d23d07afd184e2740f563c5884477838a1744",
+      "category": "names_and_terms",
+      "translation_en": "Kobai Hakubai Doji",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0119",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 119,
+      "text_offset": 2050,
+      "source_sha256": "1071c717af01abb8140186c3d358a4994da60a7876692f319f9a923663f61995",
+      "category": "names_and_terms",
+      "translation_en": "Nijinojo Shichihenge",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0120",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 120,
+      "text_offset": 2064,
+      "source_sha256": "f67a915db13f66eafa62cfd08d6bd47219b9748d5ee765c9f15024d5a77f41b3",
+      "category": "names_and_terms",
+      "translation_en": "Akiba 48 Bosatsu",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0121",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 121,
+      "text_offset": 2078,
+      "source_sha256": "b24423ac658c89a062db027048530562fee6da7e57ce2b2cd1a40d7bf818291d",
+      "category": "names_and_terms",
+      "translation_en": "Atagoya Momiji",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0122",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 122,
+      "text_offset": 2092,
+      "source_sha256": "f90ceb914d2f9dbef220bc87e5d4566efcbf59e71b45a4357d4035d10bb3a283",
+      "category": "names_and_terms",
+      "translation_en": "Princess Kaeru",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0123",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 123,
+      "text_offset": 2102,
+      "source_sha256": "2339ce5d4dde03dd1a24c0cbce995cf3b962296c04a553ec24ad17b72d93781a",
+      "category": "names_and_terms",
+      "translation_en": "Makirihime",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0124",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 124,
+      "text_offset": 2112,
+      "source_sha256": "862919f105db49a3916177850bc572cd89bfcbd9fa8343611f2a1322b3293248",
+      "category": "names_and_terms",
+      "translation_en": "Koto no Miya Orihime",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0125",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 125,
+      "text_offset": 2126,
+      "source_sha256": "78478b7c1da1900b3ac111951f613aac1d6b931c78aae4b93cd2dd8a64a50f86",
+      "category": "names_and_terms",
+      "translation_en": "Tokasen",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    },
+    {
+      "id": "ore:0002c000:0000:00:0126",
+      "file": "spirit_name.mlb",
+      "archive_offset": 180224,
+      "member_entry": 0,
+      "section": 0,
+      "index": 126,
+      "text_offset": 2134,
+      "source_sha256": "0c44de708f9508a254ce3a38b021ea6dea50e23ef8b756174c9094126bdaa691",
+      "category": "names_and_terms",
+      "translation_en": "Horoyoizakura",
+      "status": "draft",
+      "kind": "deity_name",
+      "context": "Complete deity roster. Project spellings follow the disc pronunciation table and PSP wiki. Existing glossary spellings take precedence. Names are not personality evidence.",
+      "fit_status": "unverified_in_game",
+      "meaning_review": "self_reviewed",
+      "review_notes": [
+        "Proper names romanized from documented readings; project localization, not an official English release."
+      ]
+    }
+  ]
+}

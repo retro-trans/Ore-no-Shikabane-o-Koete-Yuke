@@ -1,0 +1,224 @@
+{
+  "version": "0.2.31",
+  "result": "PASS: original Oreshika HP/MP/HLTH and four element designs replace screenshot copies",
+  "iso": {
+    "version": "0.2.31",
+    "file": "work/output/english-native-0.2.31.iso",
+    "bytes": 1081147392,
+    "sha256": "78496710a76d522c39633d67b65b0be317555ad012d27789f21154ab3e1d86d4"
+  },
+  "screens": [
+    {
+      "file": "work/ui/native-icons-0.2.31/title.png",
+      "sha256": "6aeb5398fc64046c1430ff708760e18ebb0450f3460045971cab89971aa62d63"
+    },
+    {
+      "file": "work/ui/native-icons-0.2.31/status.png",
+      "sha256": "705fc10d03d2ce0733d0101c2a5cbe430e1119c0d6b84220a7929dc66b811f5c"
+    },
+    {
+      "file": "work/ui/native-icons-0.2.31/abilities.png",
+      "sha256": "a47ab08afb50d606dbb0557b3dd950230759be4428cda758b108015c0d94f198"
+    },
+    {
+      "file": "work/ui/native-icons-0.2.31/roster.png",
+      "sha256": "47e0d63822fa057902cd8b7d6fd092adc2f8eb18bdb065587bddcd66ba3f88f7"
+    },
+    {
+      "file": "work/ui/native-icons-0.2.31/sortie-entry.png",
+      "sha256": "e88587ba974c8d690c8e0616f7dca948f509d40143f5a8fde81b3b9df4b3d7ef"
+    }
+  ],
+  "source": {
+    "source": "User-supplied Oreshika Tainted Bloodlines (USA), PCSA00155",
+    "archive_bytes": 2106042368,
+    "source_archive": "work/source/vita3k-icons-profile/ux0/app/PCSA00155/data.img",
+    "native_sheets": {
+      "udtx_status_us.ppt": {
+        "archive_offset": 1638172672,
+        "entry": 0,
+        "name": "udtx_status_us.ppt",
+        "member_offset": 1638173016,
+        "size": 45819,
+        "packed_sha256": "418d8e15271ed9438e143c6d04d3f44c8ec40830fa9a513d0738af101cc9dead",
+        "gxt_sha256": "1b02fe81fb05e2abcd8623fe2ed0e890c322e2a2c79d8440c05946b418523616",
+        "decoded_rgba_sha256": "fbf02e797de5e49f4859d42bd3e0f4e83d4e4d36bf4dd7a8ec7a018cb5314f0b",
+        "archive_compression": "custom_deflate",
+        "width": 512,
+        "height": 512,
+        "kind": "0x0",
+        "format": "0x87000000",
+        "compression": "DXT5",
+        "mipmaps": 1,
+        "source_pixel_bytes": 262144,
+        "resampled": false
+      },
+      "uitx_icon_us.ppt": {
+        "archive_offset": 1635518464,
+        "entry": 2,
+        "name": "uitx_icon_us.ppt",
+        "member_offset": 1635540844,
+        "size": 118704,
+        "packed_sha256": "242dd963655f863f19eb6b4e9f2bdb8c4d9f54e8c5c16faf09be5044e88c963a",
+        "gxt_sha256": "9e58c7ced64322df9a956b31fe6a4da2a63b8f932423ab4ee07bf9892dc2a69b",
+        "decoded_rgba_sha256": "339867a8e8dc89e6e77e1302b3df091c5a5269e2df068d667895796d637aa1ab",
+        "archive_compression": "custom_deflate",
+        "width": 512,
+        "height": 1024,
+        "kind": "0x0",
+        "format": "0x87000000",
+        "compression": "DXT5",
+        "mipmaps": 1,
+        "source_pixel_bytes": 524288,
+        "resampled": false
+      }
+    },
+    "icons": [
+      {
+        "symbol": "HP",
+        "sheet": "udtx_status_us.ppt",
+        "crop": [
+          0,
+          16,
+          24,
+          40
+        ],
+        "width": 24,
+        "height": 24,
+        "rgba_sha256": "0df44ecba9ac800c4839af5c16a9b51f704cf862a4ae4a192975a4794eae6e94",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "MP",
+        "sheet": "udtx_status_us.ppt",
+        "crop": [
+          24,
+          16,
+          48,
+          40
+        ],
+        "width": 24,
+        "height": 24,
+        "rgba_sha256": "60bac3e94d34dc217bc449c54df432f713c494ce13cab674716a762f9531d602",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "HLTH",
+        "sheet": "udtx_status_us.ppt",
+        "crop": [
+          48,
+          16,
+          72,
+          40
+        ],
+        "width": 24,
+        "height": 24,
+        "rgba_sha256": "dd95e55d90303b5a4cc904928dca4953ef884153b966587ce52ec151c331fa8f",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "Fire",
+        "sheet": "uitx_icon_us.ppt",
+        "crop": [
+          444,
+          0,
+          476,
+          32
+        ],
+        "width": 32,
+        "height": 32,
+        "rgba_sha256": "f4f775343ece702292ca9e88595506d3346a66caf5bb1d6694413df5cf65f1b6",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "Water",
+        "sheet": "uitx_icon_us.ppt",
+        "crop": [
+          444,
+          32,
+          476,
+          64
+        ],
+        "width": 32,
+        "height": 32,
+        "rgba_sha256": "0e1eb4cd215f593a5f00d8b5f973889fd29363d9b419858ae67b89e6aa0fb8d1",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "Wind",
+        "sheet": "uitx_icon_us.ppt",
+        "crop": [
+          444,
+          64,
+          476,
+          96
+        ],
+        "width": 32,
+        "height": 32,
+        "rgba_sha256": "eb9578b26e646045f08e08ca85b0b26597156eb56f8ea7b0a49561f91a131243",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      },
+      {
+        "symbol": "Earth",
+        "sheet": "uitx_icon_us.ppt",
+        "crop": [
+          444,
+          96,
+          476,
+          128
+        ],
+        "width": 32,
+        "height": 32,
+        "rgba_sha256": "df723fecadb5b36f46dde01b40a6b789a0d27732ec816bb16cfee703f3245122",
+        "alpha": "Original native BC3 alpha, no screenshot mask or redraw",
+        "resampled": false
+      }
+    ]
+  },
+  "independent_source_tests": {
+    "version": "0.2.31",
+    "result": "PASS",
+    "source": "Two original native Vita BC3 texture sheets",
+    "independent_pixel_checks": 5824,
+    "maximum_channel_difference": 1,
+    "rounding_tolerance": 3,
+    "crops": "All seven incoming PNGs equal the native decoded crop exactly",
+    "source_resampling": false,
+    "original_alpha": "Retained",
+    "decoder_reference": "https://github.com/Vita3K/Vita3K/blob/master/vita3k/renderer/src/texture/format.cpp"
+  },
+  "observed_files": [
+    "107.ppt",
+    "108.ppt",
+    "113.ppt",
+    "17.ppt",
+    "18.ppt",
+    "19.ppt",
+    "20.ppt"
+  ],
+  "all_ten_native_payloads": "Read back from the final ISO test instance",
+  "mips": "PASS: 48 actual MIPS crop cases and 10 embedded descriptor proxies; HD logical sizing, full/cropped/nonzero rectangles, repeated updates, ribbon limits, untagged fallback and saved registers.",
+  "checks": {
+    "native_code_and_descriptors": "Byte-identical",
+    "other_executable_bytes": "Only ten embedded palette/pixel payloads changed",
+    "archive_members": "Byte-identical except version footer",
+    "translations_and_scripts": "Byte-identical to 0.2.30",
+    "profile_trait_fix": "Byte-identical to 0.2.30",
+    "logical_geometry": "Original compact, standard and element bounds retained"
+  },
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false,
+  "github_release": false,
+  "limits": [
+    "Source pixels retain the Vita game's original BC3 compression. PSP assets are resized and palette-converted within their existing bounds.",
+    "Full playthrough and physical PSP testing remain pending.",
+    "Compact HP, MP, HLTH have native payload/geometry checks; their draw descriptors were not captured in the selected live contexts."
+  ]
+}

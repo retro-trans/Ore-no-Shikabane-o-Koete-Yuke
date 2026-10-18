@@ -1,0 +1,46 @@
+{
+  "source": "After actual game reset and save reload; no name-memory writes",
+  "family_storage": "Original game normalizes family Latin letters to fullwidth Unicode; letter case retained",
+  "names": {
+    "AbZ": {
+      "fullwidth_codepoints": [
+        "0xff21",
+        "0xff42",
+        "0xff3a"
+      ],
+      "normalized": "AbZ",
+      "guest_addresses": {
+        "utf-16-le": "0x9ba30e8",
+        "utf-8": null
+      },
+      "save_offset": -1
+    },
+    "1Te": {
+      "fullwidth_codepoints": [
+        "0xff11",
+        "0xff34",
+        "0xff45"
+      ],
+      "normalized": "1Te",
+      "guest_addresses": {
+        "utf-16-le": "0x9ba30f0",
+        "utf-8": null
+      },
+      "save_offset": -1
+    },
+    "aaa": {
+      "fullwidth_codepoints": [
+        "0xff41",
+        "0xff41",
+        "0xff41"
+      ],
+      "normalized": "aaa",
+      "guest_addresses": {
+        "utf-16-le": "0x9ba33d6",
+        "utf-8": null
+      },
+      "save_offset": -1
+    }
+  },
+  "save_sha256": "354ac8c9ffa1e772f9e1f23e0c1e89c8318cb2714eb559a25d76c07929d0917c"
+}

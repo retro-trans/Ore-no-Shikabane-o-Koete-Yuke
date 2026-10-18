@@ -1,0 +1,81 @@
+{
+  "version": "0.2.20",
+  "equipment_slots": {
+    "columns": 1,
+    "rows": 4,
+    "cell_width": 248,
+    "name_left": 36,
+    "name_budget": 212,
+    "badge_sample_width": 24
+  },
+  "equipment_choices": {
+    "columns": 1,
+    "visible_rows": 4,
+    "cell_width": 240,
+    "top": 126,
+    "ownership_top": 100,
+    "description_top": 218,
+    "paging": "native"
+  },
+  "union_submenu": {
+    "text_width": 128
+  },
+  "deity_list": {
+    "columns": 1,
+    "visible_rows": 4,
+    "cell_height": 32,
+    "cell_width": 216,
+    "name": [
+      20,
+      0
+    ],
+    "offering_anchor": [
+      90,
+      16
+    ],
+    "element": [
+      106,
+      18
+    ],
+    "gender": [
+      162,
+      16
+    ],
+    "paging": "native"
+  },
+  "deity_details": {
+    "frame": [
+      300,
+      16,
+      476,
+      228
+    ],
+    "portrait": [
+      324,
+      18,
+      452,
+      146
+    ],
+    "name": [
+      306,
+      158
+    ],
+    "element": [
+      456,
+      148
+    ],
+    "unions_caption": [
+      306,
+      179
+    ],
+    "required_caption": [
+      306,
+      195
+    ],
+    "required_anchor": [
+      468,
+      211
+    ]
+  },
+  "runtime_verification": "PASS: selected contexts; see verification.json"
+}
