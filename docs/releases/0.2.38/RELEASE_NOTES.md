@@ -2,16 +2,18 @@ English fan translation of **Ore no Shikabane o Koete Yuke** for PSP (**UCJS-101
 
 ### Apply
 
+Repacked download: **2.44 MiB** instead of 180.66 MiB. The patched ISO is byte-for-byte identical to the original 0.2.38 release.
+
 **Recommended:** Use the latest [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest) app. Click **Refresh catalog**, open **Automatic**, select your original Japanese ISO, choose **0.2.38** (or **Latest**), and select a new output filename. The app downloads the matching patch and verifies the result.
 
 **Manual patching:** [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) and [xdelta3](https://github.com/jmacd/xdelta) accept the same asset:
 
 | Your source image | Patch |
 | --- | --- |
-| Original Japanese ISO (UCJS-10117) | `OreNoShikabane-English-0.2.38.xdelta` |
+| Original Japanese ISO (UCJS-10117) | `OreNoShikabane-English-0.2.38-compact.xdelta` |
 
 ```text
-xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.38.xdelta "Ore no Shikabane o Koete Yuke English 0.2.38.iso"
+xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.38-compact.xdelta "Ore no Shikabane o Koete Yuke English 0.2.38.iso"
 ```
 
 Original ISO: 847,937,536 bytes; SHA-256 `03791a833656ddebadff7848a6296fc1698b52dfd7052c91572dd8b800fd569a`.

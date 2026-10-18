@@ -49,3 +49,18 @@ After publishing, start **Refresh patch catalog** in Retro Trans Tools with
 `repository=retro-trans/Ore-no-Shikabane-o-Koete-Yuke`. Confirm that the published
 manifest and patch appear in the public catalog and that an original ISO has a
 route to 0.2.38. Catalog checks verify patch application, not game behavior.
+
+## 0.2.38 compact repack
+
+At the user's explicit request, the first release was returned to draft and its
+189,434,623-byte delta replaced by a 2,559,594-byte encoding. A 1 GiB xdelta source
+window can match unchanged archive bytes relocated by the append-based ISO builder.
+The source and target ISO hashes, sizes, version, source commit and Git tag remain
+unchanged. `tools/repack_release.py` validates the smaller patch through the Retro
+Trans decoder and regenerates the manifest, validation report and checksums.
+
+The replacement is `OreNoShikabane-English-0.2.38-compact.xdelta`, giving it a new
+download URL. The old catalog record is preserved exactly in `withdrawn_releases`
+with a reason, and the active record lists only the compact patch. This passes
+Retro Trans's immutable-history checks while retiring the old download. See
+`REPACKAGING.json` beside the release's metadata for both patch identities.

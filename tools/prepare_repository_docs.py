@@ -19,11 +19,11 @@ Use the latest [Retro Trans](https://github.com/retro-trans/retro-trans-tools/re
 2. Select **Ore no Shikabane o Koete Yuke**, choose **0.2.38** or **Latest**, and select a new output filename.
 3. Apply the patch. The app verifies the source and the complete resulting image.
 
-For manual patching, download `OreNoShikabane-English-0.2.38.xdelta` from
+For manual patching, download `OreNoShikabane-English-0.2.38-compact.xdelta` from
 [Releases](REPO/releases/latest) and use xdelta3 or Delta Patcher:
 
 ```text
-xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.38.xdelta "Ore no Shikabane o Koete Yuke English 0.2.38.iso"
+xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.38-compact.xdelta "Ore no Shikabane o Koete Yuke English 0.2.38.iso"
 ```
 
 Compare the source/output sizes and SHA-256 values with the release's
@@ -94,10 +94,10 @@ NOTES='''English fan translation of **Ore no Shikabane o Koete Yuke** for PSP (*
 
 | Your source image | Patch |
 | --- | --- |
-| Original Japanese ISO (UCJS-10117) | `OreNoShikabane-English-0.2.38.xdelta` |
+| Original Japanese ISO (UCJS-10117) | `OreNoShikabane-English-0.2.38-compact.xdelta` |
 
 ```text
-xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.38.xdelta "Ore no Shikabane o Koete Yuke English 0.2.38.iso"
+xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.38-compact.xdelta "Ore no Shikabane o Koete Yuke English 0.2.38.iso"
 ```
 
 Original ISO: SOURCE_BYTES bytes; SHA-256 `SOURCE_SHA`.

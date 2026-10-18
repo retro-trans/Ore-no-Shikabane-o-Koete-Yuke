@@ -2,6 +2,8 @@
 
 ## 0.2.38 (2026-10-18)
 
+- Replaced the 189,434,623-byte patch with a 2,559,594-byte compact encoding and republished at the user's explicit request. Rebuilt the manifest, validation report and checksums; verified the exact same source/output ISO identities through Retro Trans Tools and all four uploaded asset hashes. The catalog retires the original patch record while preserving its history, and routes to the new compact filename. Scoped catalog validation passed.
+- Temporarily unpublished the original release at the user's request before replacing its assets. The version, source commit and Git tag remain unchanged; the compact encoding produces the identical 0.2.38 ISO.
 - Verified all four uploaded asset sizes/SHA-256 hashes against the local round-trip-verified bundle. Retro Trans catalog refresh succeeded, and its source recognition plus Latest/specific/next-version routes resolve the original ISO to 0.2.38. See `docs/releases/0.2.38/PUBLICATION.json`.
 - Published the first public repository/release using Macross Triangle Frontier's repository and release conventions: English-only translation exports, source tools, MIT/SIL OFL notices, contributor/build instructions, and Retro Trans Tools xdelta/manifest/checksum/round-trip packaging. Original and translated game images remain local.
 - Extended the home menu description panel from 288 to 432 native pixels and kept it centered, moving its left edge from 96 to 24. Both Rest description lines now sit inside the box with comfortable right-side clearance.
