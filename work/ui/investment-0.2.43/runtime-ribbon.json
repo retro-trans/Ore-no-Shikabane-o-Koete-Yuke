@@ -1,0 +1,36 @@
+{
+  "version": "0.2.43",
+  "result": "PASS",
+  "context": "investment",
+  "elf_sha256": "f640c9270e51e2d1b458928f0d98340af47664232debed34024db8296dc986b8",
+  "archive_sha256": "ef7f05e352f081cbf9e53a5f5c2efb79fba7fd2b894af5454d79731ce479777a",
+  "required": "INVESTMENT",
+  "rendering_hooks": "Verified through JIT-aware disassembly",
+  "draws": [
+    {
+      "text": "INVESTMENT",
+      "file": "225.ppt",
+      "widget": "0x9e1b870",
+      "descriptor": "0x8cdd270",
+      "pixel_format": 4,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_uv": [
+        0,
+        0,
+        88,
+        260
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "pixels_and_palette": "Exact match with final data archive"
+    }
+  ],
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

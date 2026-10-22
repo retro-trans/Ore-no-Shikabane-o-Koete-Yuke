@@ -1,0 +1,13 @@
+{
+  "version": "0.2.41",
+  "id": "ore:06f77000:0000:00:0003",
+  "translation": "No. My breasts are getting full of milk.\nOur baby's probably crying with\nhunger by now.",
+  "translation_sha256": "58854afb55d4bd11c77ddce2dce6e2bdd63ab9730789594126f27bfb629b6a6c",
+  "naturally_selected": true,
+  "exact_final_build_text": true,
+  "resource": "0x9e382a0",
+  "section": 0,
+  "index": 3,
+  "text_address": "0x93abca2",
+  "register_or_memory_writes": false
+}

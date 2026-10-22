@@ -1,0 +1,57 @@
+[
+  {
+    "text": "Change Equipment",
+    "ancestors": [
+      {
+        "object": "0x9e4c490",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3246391296,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4c350",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          80,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4c240",
+        "vtable": "0x8a20170",
+        "geometry": [
+          34,
+          64,
+          80,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48a50",
+        "vtable": "0x8a20018",
+        "geometry": [
+          178,
+          92,
+          124,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

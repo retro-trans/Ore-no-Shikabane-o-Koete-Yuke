@@ -1,0 +1,662 @@
+{
+  "version": "0.2.41",
+  "scope": "All six opening narration records and all thirty opening event dialogue records",
+  "rows": [
+    {
+      "id": "ore:00683000:0000:00:0000",
+      "file": "prologue.mlb",
+      "translation": "A heavenly maiden\nfell in love with a mortal man.\nThat was how it all began.",
+      "before_widths": [
+        111.429,
+        174.857,
+        151.714
+      ],
+      "line_widths": [
+        111.429,
+        174.857,
+        151.714
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:00683000:0000:00:0001",
+      "file": "prologue.mlb",
+      "translation": "Under repeated attacks\nby oni, the capital, Kyoto,\nwas sinking into ruin.",
+      "before_widths": [
+        137.143,
+        149.143,
+        126.0
+      ],
+      "line_widths": [
+        137.143,
+        149.143,
+        126.0
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:00683000:0000:00:0002",
+      "file": "prologue.mlb",
+      "translation": "The oni leader's name was Shutendoji.",
+      "before_widths": [
+        226.286
+      ],
+      "line_widths": [
+        226.286
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:00683000:0000:00:0003",
+      "file": "prologue.mlb",
+      "translation": "Renowned warriors marched to slay him,\nbut every one was struck down,\nleaving only heaps of corpses.",
+      "before_widths": [
+        240.0,
+        186.0,
+        179.143
+      ],
+      "line_widths": [
+        240.0,
+        186.0,
+        179.143
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:00683000:0000:00:0004",
+      "file": "prologue.mlb",
+      "translation": "But now, a man and a woman\nhad taken up the challenge and were\nat last about to work a miracle.",
+      "before_widths": [
+        51.429,
+        281.143,
+        238.286
+      ],
+      "line_widths": [
+        173.143,
+        216.857,
+        180.857
+      ],
+      "changed": true,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "verified_selected_context_0.2.41",
+      "screenshot": "work/ui/dialogue-reflow-0.2.41/narration.png"
+    },
+    {
+      "id": "ore:00683000:0000:00:0005",
+      "file": "prologue.mlb",
+      "translation": "December 24, 1017\nShutenkaku Castle, Mount Oe",
+      "before_widths": [
+        111.429,
+        173.143
+      ],
+      "line_widths": [
+        111.429,
+        173.143
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f76800:0000:00:0000",
+      "file": "ev_op_00.mlb",
+      "translation": "Hah... hah... hah...\nAll right!! This far in,\nthere can't be more than one or two left!!",
+      "before_widths": [
+        106.286,
+        119.143,
+        241.714
+      ],
+      "line_widths": [
+        106.286,
+        119.143,
+        241.714
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f76800:0000:00:0001",
+      "file": "ev_op_00.mlb",
+      "translation": "I'm sorry.\nYou're not even fully recovered,\nand I've dragged you into this...",
+      "before_widths": [
+        56.571,
+        188.571,
+        187.714
+      ],
+      "line_widths": [
+        56.571,
+        188.571,
+        187.714
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f76800:0000:00:0002",
+      "file": "ev_op_00.mlb",
+      "translation": "Hah... hah...\nHah! Save your thanks\nuntil we've taken Shutendoji's head.",
+      "before_widths": [
+        70.286,
+        132.0,
+        212.571
+      ],
+      "line_widths": [
+        70.286,
+        132.0,
+        212.571
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f76800:0000:00:0003",
+      "file": "ev_op_00.mlb",
+      "translation": "Tch!!\nNot even time to catch our breath!!",
+      "before_widths": [
+        27.429,
+        204.857
+      ],
+      "line_widths": [
+        27.429,
+        204.857
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f76800:0000:00:0004",
+      "file": "ev_op_00.mlb",
+      "translation": "Let's go!!\nStart with a combined Karanka,\nthen checkmate in eight moves! Got it!?",
+      "before_widths": [
+        53.143,
+        182.571,
+        230.571
+      ],
+      "line_widths": [
+        53.143,
+        182.571,
+        230.571
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f76800:0000:00:0005",
+      "file": "ev_op_00.mlb",
+      "translation": "Understood!!",
+      "before_widths": [
+        77.143
+      ],
+      "line_widths": [
+        77.143
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f76800:0000:00:0006",
+      "file": "ev_op_00.mlb",
+      "translation": "Hyaah!!",
+      "before_widths": [
+        44.571
+      ],
+      "line_widths": [
+        44.571
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0000",
+      "file": "ev_op_01.mlb",
+      "translation": "Hah... hah...\nBastards put up more of a fight\nthan I expected...",
+      "before_widths": [
+        70.286,
+        289.714
+      ],
+      "line_widths": [
+        70.286,
+        185.143,
+        101.143
+      ],
+      "changed": true,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "verified_selected_context_0.2.41",
+      "screenshot": "work/ui/dialogue-reflow-0.2.41/after-fight.png"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0001",
+      "file": "ev_op_01.mlb",
+      "translation": "Ow! Ow, ow, ow...\nTch...\nOf all the places...",
+      "before_widths": [
+        102.857,
+        30.857,
+        104.571
+      ],
+      "line_widths": [
+        102.857,
+        30.857,
+        104.571
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0002",
+      "file": "ev_op_01.mlb",
+      "translation": "O-Orin!!\nAre you hurt!?",
+      "before_widths": [
+        46.286,
+        82.286
+      ],
+      "line_widths": [
+        46.286,
+        82.286
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0003",
+      "file": "ev_op_01.mlb",
+      "translation": "No. My breasts are getting full of milk.\nOur baby's probably crying with\nhunger by now.",
+      "before_widths": [
+        88.286,
+        135.429,
+        285.429
+      ],
+      "line_widths": [
+        227.143,
+        189.429,
+        92.571
+      ],
+      "changed": true,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "verified_selected_context_0.2.41",
+      "screenshot": "work/ui/dialogue-reflow-0.2.41/orin.png"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0004",
+      "file": "ev_op_01.mlb",
+      "translation": "Heh... Now you mention it...\nI'm getting hungry myself...",
+      "before_widths": [
+        163.714,
+        163.714
+      ],
+      "line_widths": [
+        163.714,
+        163.714
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0005",
+      "file": "ev_op_01.mlb",
+      "translation": "Well, that settles it.\nLet's finish Shutendoji off\nand hurry back to Kyoto!!",
+      "before_widths": [
+        110.571,
+        153.429,
+        149.143
+      ],
+      "line_widths": [
+        110.571,
+        153.429,
+        149.143
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0006",
+      "file": "ev_op_01.mlb",
+      "translation": "...Honestly.\nThat child's appetite\ncomes straight from you.",
+      "before_widths": [
+        66.0,
+        118.286,
+        148.286
+      ],
+      "line_widths": [
+        66.0,
+        118.286,
+        148.286
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0007",
+      "file": "ev_op_01.mlb",
+      "translation": "All right, let's go!!",
+      "before_widths": [
+        102.857
+      ],
+      "line_widths": [
+        102.857
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0008",
+      "file": "ev_op_01.mlb",
+      "translation": "We're coming back alive!!",
+      "before_widths": [
+        149.143
+      ],
+      "line_widths": [
+        149.143
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77000:0000:00:0009",
+      "file": "ev_op_01.mlb",
+      "translation": "You bet we are!!",
+      "before_widths": [
+        93.429
+      ],
+      "line_widths": [
+        93.429
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0000",
+      "file": "ev_op_02.mlb",
+      "translation": "Show yourself, Shutendoji!!",
+      "before_widths": [
+        162.0
+      ],
+      "line_widths": [
+        162.0
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0001",
+      "file": "ev_op_02.mlb",
+      "translation": "Face us!!",
+      "before_widths": [
+        50.571
+      ],
+      "line_widths": [
+        50.571
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0002",
+      "file": "ev_op_02.mlb",
+      "translation": "Damn... Did he get away...!?",
+      "before_widths": [
+        162.0
+      ],
+      "line_widths": [
+        162.0
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0003",
+      "file": "ev_op_02.mlb",
+      "translation": "Ah, what's that!?",
+      "before_widths": [
+        95.143
+      ],
+      "line_widths": [
+        95.143
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0004",
+      "file": "ev_op_02.mlb",
+      "translation": "Young woman, stay with me!!",
+      "before_widths": [
+        171.429
+      ],
+      "line_widths": [
+        171.429
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0005",
+      "file": "ev_op_02.mlb",
+      "translation": "Ah...",
+      "before_widths": [
+        25.714
+      ],
+      "line_widths": [
+        25.714
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0006",
+      "file": "ev_op_02.mlb",
+      "translation": "Where did Shutendoji go!?",
+      "before_widths": [
+        155.143
+      ],
+      "line_widths": [
+        155.143
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0007",
+      "file": "ev_op_02.mlb",
+      "translation": "Further in? Right, got it!!",
+      "before_widths": [
+        142.286
+      ],
+      "line_widths": [
+        142.286
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0008",
+      "file": "ev_op_02.mlb",
+      "translation": "Listen!!\nWe'll come back for you, I promise.\nDon't move until then.",
+      "before_widths": [
+        42.0,
+        207.429,
+        132.0
+      ],
+      "line_widths": [
+        42.0,
+        207.429,
+        132.0
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0009",
+      "file": "ev_op_02.mlb",
+      "translation": "After him!! Shutendoji is...",
+      "before_widths": [
+        152.571
+      ],
+      "line_widths": [
+        152.571
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0010",
+      "file": "ev_op_02.mlb",
+      "translation": "Behind you!!",
+      "before_widths": [
+        73.714
+      ],
+      "line_widths": [
+        73.714
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0011",
+      "file": "ev_op_02.mlb",
+      "translation": "Aaagh!!",
+      "before_widths": [
+        43.714
+      ],
+      "line_widths": [
+        43.714
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    },
+    {
+      "id": "ore:06f77800:0000:00:0012",
+      "file": "ev_op_02.mlb",
+      "translation": "N-no...\nIt isn't me!!",
+      "before_widths": [
+        39.429,
+        65.143
+      ],
+      "line_widths": [
+        39.429,
+        65.143
+      ],
+      "changed": false,
+      "font_size": 12,
+      "nonfinal_budget": 268,
+      "final_budget": 254,
+      "fit_status": "measured; unchanged"
+    }
+  ],
+  "line_break_exceptions": [
+    {
+      "id": "ore:06f77000:0000:00:0000",
+      "source_sha256": "d9e9047505b4297e5f919c0f217d2d0a06055ac522d69c01dc1a85c445273349",
+      "translation_sha256": "d5123580a62be41cd428d02e08271bf2f8223897b7f4c29b5290be6615f08dad",
+      "source_lines": 2,
+      "target_lines": 3,
+      "reason": "User-requested English dialogue reflow"
+    }
+  ],
+  "texture_replacement": false,
+  "runtime_verification": "PASS: three reflowed prologue passages selected naturally and visually checked in the final ISO"
+}

@@ -1,0 +1,29 @@
+Build 0.2.44: class-description panel and hint row
+
+User requested a wider description box and clarified that the button hints
+belong directly above the description, rather than at the top of the screen.
+
+Five guarded arguments in the shared native class-view constructor change:
+0x0893838c / 0x089383cc: Back / Switch Gender vertical anchors246 ->180.
+0x08938404: description x96 ->24.
+0x0893840c: description y198 ->204.
+0x0893842c: description width288 ->432; height remains66.
+The panel ends at x456, y270 on the 480x272 display. The hint row sits below
+the class labels and above the three description lines. Original fonts,
+text, controls, class unlocks, gender switching and selection logic remain.
+
+tools/build_class_layout.py defaults to dry run; --write creates the build
+from guarded 0.2.43 hashes. All eight home.mlb section4 class descriptions
+are measured with native12px VWF advances; the longest line is336.86px,
+below the420px budget. All unrelated executable bytes and archive payloads
+are checked unchanged; data.ore changes only its native title version.
+
+Runtime visual verification is pending. A QA-only attempt to enter the native
+viewer directly through the debugger stopped the guest CPU before a class
+frame could be captured. That diagnostic is not accepted as rendering proof,
+and no debugger route/code change is included in the delivered ISO. The
+normal new-child arrival sequence and actual frame/hint clearance need an
+in-game check. Original isolated saves are restored; user source only copied
+and read. No GitHub release; physical PSP testing also pending.
+
+Static checks and explicit limits: work/ui/class-layout-0.2.44/verification.json.

@@ -1,0 +1,25 @@
+Build 0.2.42: Sortie Prep popup
+
+The four-action popup retained an 80px text cell. Change Formation needs
+108.86px and Change Equipment needs 111.43px at the native 12px font size.
+
+At 0x089012cc, the delay-slot argument for native cell-width setter
+0x088222d4 changes from li a1,80 to li a1,120. Native layout expands the
+frame from [178,92,124,88] to [158,92,164,88], keeping its center at x=240.
+Selection highlights and the left-side icon use the same existing layout.
+Full wording, four rows, height, controls and action IDs remain unchanged.
+
+tools/build_party_popup.py dry-runs by default and requires --write to build.
+It guards the preceding setter call and original instruction, measures all
+four captions, verifies untouched executable ranges, and compares every
+unrelated archive member/root payload. Only the title version changes in
+data.ore. All fixes through 0.2.41 are retained; no new code or RAM allocation.
+
+Runtime evidence: work/ui/party-popup-0.2.42/. The final cold-boot ISO's native
+constructor receives width120. Rendered text ancestors report 120px cells
+inside the 164px frame. Actual screenshots cover all four highlight positions.
+The user's normal save is copied into the isolated project emulator for QA;
+the original isolated save files are restored. QA never writes/restores the
+user source. Its hashes changed outside QA during this run, so source hash
+equality cannot be claimed; this is recorded in save-preservation.json.
+No save states or game-memory edits. Local build only; no GitHub release.

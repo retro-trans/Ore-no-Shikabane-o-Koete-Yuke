@@ -1,0 +1,13 @@
+{
+  "version": "0.2.41",
+  "id": "ore:00683000:0000:00:0004",
+  "translation": "But now, a man and a woman\nhad taken up the challenge and were\nat last about to work a miracle.",
+  "translation_sha256": "8008e71405f53df847211e0b89b5ea2b56c8b341f0ddf79aec3dc46bf975ac8c",
+  "naturally_selected": true,
+  "exact_final_build_text": true,
+  "resource": "0x9e23374",
+  "section": 0,
+  "index": 4,
+  "text_address": "0x93bb908",
+  "register_or_memory_writes": false
+}

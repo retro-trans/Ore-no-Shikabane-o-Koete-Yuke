@@ -1,0 +1,1010 @@
+[
+  {
+    "text": "Press \u25cb to begin the match.",
+    "font_image": "0x9cbc5d0",
+    "ancestors": [
+      {
+        "object": "0x9e213c0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21280",
+        "vtable": "0x8a22298",
+        "geometry": [
+          155,
+          252,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "*",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e21620",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e214e0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          17,
+          144,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Honganin Select",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2abc0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3267493888,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2aa80",
+        "vtable": "0x8a22298",
+        "geometry": [
+          111,
+          28,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Stone-Fire Soc.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2ae20",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3266445312,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2ace0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          110,
+          56,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "33 Bays Society",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2b080",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3266838528,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2af40",
+        "vtable": "0x8a22298",
+        "geometry": [
+          110,
+          86,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Keihan Mercs",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2b2e0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3265134592,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2b1a0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          107,
+          114,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Karasuma Clan",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2b540",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3268018176,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2b400",
+        "vtable": "0x8a22298",
+        "geometry": [
+          112,
+          144,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Kyogoku Assn.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2b7a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3266183168,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2b660",
+        "vtable": "0x8a22298",
+        "geometry": [
+          109,
+          172,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Oharano Sorcerers",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2ba00",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3269459968,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2b8c0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          115,
+          202,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Ikeda Main House",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2bc60",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3268804608,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bb20",
+        "vtable": "0x8a22298",
+        "geometry": [
+          113,
+          230,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Blossom Assault",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2bec0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bd80",
+        "vtable": "0x8a22298",
+        "geometry": [
+          369,
+          28,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Peach Group",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2c120",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bfe0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          373,
+          56,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Modoribashi Gd.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2c380",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2c240",
+        "vtable": "0x8a22298",
+        "geometry": [
+          368,
+          86,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Rakuraku Club",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2c5e0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2c4a0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          371,
+          114,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Asahi Chargers",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2c840",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2c700",
+        "vtable": "0x8a22298",
+        "geometry": [
+          370,
+          144,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Doshisha Boxing",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2caa0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2c960",
+        "vtable": "0x8a22298",
+        "geometry": [
+          368,
+          172,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Chayamachi Assn.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2cd00",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2cbc0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          367,
+          202,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Ponto Vigilantes",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2cf60",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2ce20",
+        "vtable": "0x8a22298",
+        "geometry": [
+          369,
+          230,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21090",
+        "vtable": "0x8a3d930",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

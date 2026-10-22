@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.2",
+  "version": "0.2.41",
   "language": "en",
   "status": "Draft translation; not an installable patch.",
   "dialogue_slices": [
@@ -169,13 +169,16 @@
       "text_offset": 52,
       "source_sha256": "d9e9047505b4297e5f919c0f217d2d0a06055ac522d69c01dc1a85c445273349",
       "category": "dialogue_narration_subtitles",
-      "translation_en": "Hah... hah...\nBastards put up more of a fight than I expected...",
+      "translation_en": "Hah... hah...\nBastards put up more of a fight\nthan I expected...",
       "status": "draft",
       "kind": "event_dialogue",
       "context": "Opening and dungeon event scenes, reviewed with matching speaker tables. Orin and Genta converse in the opening; the oni Shutendoji taunts the clan; Hiruko speaks formally with occasional flippant asides. Kitsuto's comments and Katahano Ogo's pleas follow. Choice labels stay separate from spoken dialogue. Unknown clan gender is not inferred.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_selected_context_0.2.41",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Prologue reflow: full wording preserved; at most three native 12px lines, 268px advance budget and 254px final-line budget including icon clearance.",
+        "Exact naturally selected text and complete native framebuffer fit visually verified: work/ui/dialogue-reflow-0.2.41/verification.json"
+      ]
     },
     {
       "id": "ore:06f77000:0000:00:0001",
@@ -223,14 +226,16 @@
       "text_offset": 204,
       "source_sha256": "649d6b2aab71976fdd948565bfa55d0b15a558e78affa01301b6246a478ff410",
       "category": "dialogue_narration_subtitles",
-      "translation_en": "No. My breasts\nare getting full of milk.\nOur baby's probably crying with hunger by now.",
+      "translation_en": "No. My breasts are getting full of milk.\nOur baby's probably crying with\nhunger by now.",
       "status": "draft",
       "kind": "event_dialogue",
       "context": "Opening and dungeon event scenes, reviewed with matching speaker tables. Orin and Genta converse in the opening; the oni Shutendoji taunts the clan; Hiruko speaks formally with occasional flippant asides. Kitsuto's comments and Katahano Ogo's pleas follow. Choice labels stay separate from spoken dialogue. Unknown clan gender is not inferred.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_selected_context_0.2.41",
       "meaning_review": "self_reviewed",
       "review_notes": [
-        "Breast engorgement is a nonsexual nursing observation about adult mother Orin."
+        "Breast engorgement is a nonsexual nursing observation about adult mother Orin.",
+        "Prologue reflow: full wording preserved; at most three native 12px lines, 268px advance budget and 254px final-line budget including icon clearance.",
+        "Exact naturally selected text and complete native framebuffer fit visually verified: work/ui/dialogue-reflow-0.2.41/verification.json"
       ]
     },
     {

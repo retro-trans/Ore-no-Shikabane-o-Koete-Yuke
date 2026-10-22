@@ -1,0 +1,378 @@
+[
+  {
+    "text": "I expect every contestant",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e24ae0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e249a0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          412,
+          16
+        ]
+      },
+      {
+        "object": "0x9e24890",
+        "vtable": "0x8a22a50",
+        "geometry": [
+          10,
+          7,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23e60",
+        "vtable": "0x8a22ba8",
+        "geometry": [
+          24,
+          198,
+          432,
+          66
+        ]
+      },
+      {
+        "object": "0x9e23d50",
+        "vtable": "0x8a3e218",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "to fight fairly and leave no regrets.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e24d40",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e24c00",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          18,
+          412,
+          16
+        ]
+      },
+      {
+        "object": "0x9e24890",
+        "vtable": "0x8a22a50",
+        "geometry": [
+          10,
+          7,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23e60",
+        "vtable": "0x8a22ba8",
+        "geometry": [
+          24,
+          198,
+          432,
+          66
+        ]
+      },
+      {
+        "object": "0x9e23d50",
+        "vtable": "0x8a3e218",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Emperor",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e26540",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e26400",
+        "vtable": "0x8a22298",
+        "geometry": [
+          32,
+          177,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23d50",
+        "vtable": "0x8a3e218",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Special Selection Tournament Rules",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e291a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1101004800,
+          0
+        ]
+      },
+      {
+        "object": "0x9e29060",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          6,
+          254,
+          18
+        ]
+      },
+      {
+        "object": "0x9e28620",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          110,
+          56,
+          260,
+          64
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "- Items may not be used during matches.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e29400",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e292c0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          24,
+          254,
+          18
+        ]
+      },
+      {
+        "object": "0x9e28620",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          110,
+          56,
+          260,
+          64
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "- Retreat changes to Surrender.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e29660",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e29520",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          42,
+          254,
+          18
+        ]
+      },
+      {
+        "object": "0x9e28620",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          110,
+          56,
+          260,
+          64
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3e0b8",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

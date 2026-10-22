@@ -1,0 +1,13 @@
+{
+  "version": "0.2.46",
+  "diagnostic_only": true,
+  "result": "LABEL SELECTED",
+  "purpose": "Render Downpour wording in the real dungeon banner without requiring random weather",
+  "weather_state_changed": false,
+  "code_or_pc_changed": false,
+  "save_state_loaded": false,
+  "original_text_index": 0,
+  "preview_text_index": 1,
+  "caller": "0x8891080",
+  "breakpoint": "0x8815b10"
+}

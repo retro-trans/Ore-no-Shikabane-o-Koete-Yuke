@@ -1,0 +1,40 @@
+{
+  "version": "0.2.44",
+  "result": "FAILED: guest CPU stopped before a class frame could be captured",
+  "method": "Isolated debugger preview; PC routed once at a frame boundary to the existing class-view function",
+  "original_pc": "0x8a18cf8",
+  "preview_entry": "0x8938ff0",
+  "caller_return": "0x89d004c",
+  "stack": "0x9fdf640",
+  "other_registers": "Unchanged",
+  "native_patch_guards": [
+    {
+      "address": "0x893838c",
+      "encoding": "0x240600b4"
+    },
+    {
+      "address": "0x89383cc",
+      "encoding": "0x240600b4"
+    },
+    {
+      "address": "0x8938404",
+      "encoding": "0x24050018"
+    },
+    {
+      "address": "0x893840c",
+      "encoding": "0x240600cc"
+    },
+    {
+      "address": "0x893842c",
+      "encoding": "0x240501b0"
+    }
+  ],
+  "final_iso_modified": false,
+  "game_memory_writes": false,
+  "register_write": true,
+  "save_state_loaded": false,
+  "save_files_written": false,
+  "scope": "Native class constructor, rendering, descriptions, hints, navigation and gender switch; birth flow not replayed",
+  "rendering_verified": false,
+  "diagnostic_only": true
+}

@@ -1,0 +1,10 @@
+Weather banner spacing, local build 0.2.46
+
+Record ore:00027000:0000:11:0001; dungeon_common.mlb section 11 index 1.
+Two spaces added around slash; all wording and markup retained.
+Weather string accessor 0x08815afc; native banner setup 0x08891078..0x08891124.
+Center alignment: 0x088910f0. Auto-size: 0x088910fc -> 0x088244b0.
+Auto-size measures all ten text children; width=max rendered line+16, then native placement centers the frame.
+No executable changes, added code or RAM.
+QA preview selects text index 1 once at 0x08815b10, caller guarded 0x08891080; no PC/code/weather/save changes.
+Evidence and limits: work/ui/weather-spacing-0.2.46/verification.json

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.34",
+  "version": "0.2.46",
   "language": "en",
   "status": "Draft translation; not an installable patch.",
   "rows": [
@@ -5490,13 +5490,15 @@
       "text_offset": 2562,
       "source_sha256": "4545e983761aa0ba3fee8db15d9ef0deb7111938fd628295e9ebb2052790cf5a",
       "category": "ui_system_help",
-      "translation_en": "[<e青]Downpour[>]\nFire power [<c青]DOWN↓[>]/Poor visibility",
+      "translation_en": "[<e青]Downpour[>]\nFire power [<c青]DOWN↓[>] / Poor visibility",
       "status": "draft",
       "kind": "terrain_effect",
       "context": "Terrain/weather effects. Fire power is distinct from ordinary Attack; original arrow and prohibition symbols retained.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_native_banner_preview_0.2.46",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Weather effects: spaces around slash; native auto-size and centered alignment retained."
+      ]
     },
     {
       "id": "ore:00027000:0000:11:0002",

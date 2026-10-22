@@ -1,4 +1,4 @@
-"""Execute both relocated startup archive accessors in MIPS."""
+"""Historical startup accessor check; later framebuffer reuse requires test_boot_scratch.py."""
 import json,struct,unicorn
 from unicorn import mips_const as r
 from catalog_text import ROOT

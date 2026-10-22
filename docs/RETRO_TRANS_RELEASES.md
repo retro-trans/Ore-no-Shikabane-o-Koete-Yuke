@@ -11,8 +11,8 @@ edition `UCJS10117`, language `en`. Never reuse a published version for changed 
 
 ## Prepare and verify
 
-Keep the original Japanese ISO and every built image local. Build 0.2.38 is the
-exact tested `work/output/english-native-0.2.38.iso`; packaging does not relayout
+Keep the original Japanese ISO and every built image local. Build 0.2.48 is the
+exact tested `work/output/english-native-0.2.48.iso`; packaging does not relayout
 or otherwise change its bytes. Supported source and target hashes are recorded
 in the release's `BUILD-MANIFEST.json`.
 
@@ -24,15 +24,19 @@ in the release's `BUILD-MANIFEST.json`.
 3. Check out Retro Trans Tools under ignored `work/source/retro-trans-tools/`.
    Its own release builder performs the xdelta encode/decode round trip and
    validates the complete resulting image against the tested ISO.
-4. Run `py -3.11 tools/package_release.py` and inspect its source, target and
+4. Run `py -3.11 tools/package_compact_release.py` and inspect its source, target and
    output paths and hashes. Add `--write` to build and validate the bundle.
    The private configuration remains under ignored `work/source/`.
-5. Copy only `BUILD-MANIFEST.json`, `VALIDATION.json` and `SHA256SUMS.txt` into
-   `docs/releases/0.2.38/`. The `.xdelta` stays in ignored `work/output/` until upload.
+5. Copy only `BUILD-MANIFEST.json`, `VALIDATION.json`, `SHA256SUMS.txt` and the
+   packaging provenance into `docs/releases/0.2.48/`. Both `.xdelta` files stay
+   in ignored `work/output/` until upload.
 
 The first release provides a full patch from the original ISO. Later releases
 should also offer upgrade patches from earlier published versions. A local test
-build is not a previously published upgrade source.
+build is not a previously published upgrade source. Version 0.2.48 provides a
+full patch from the original ISO and an upgrade from public 0.2.38. Its encoder
+uses a 1 GiB source window to match relocated unchanged data; the official Retro
+Trans builder, decoder and bundle validator perform both full round trips.
 
 ## Publish and confirm discovery
 
@@ -48,7 +52,11 @@ current draft and testing limits honestly.
 After publishing, start **Refresh patch catalog** in Retro Trans Tools with
 `repository=retro-trans/Ore-no-Shikabane-o-Koete-Yuke`. Confirm that the published
 manifest and patch appear in the public catalog and that an original ISO has a
-route to 0.2.38. Catalog checks verify patch application, not game behavior.
+route to 0.2.48 and that public 0.2.38 has a one-patch upgrade route. Original
+ISO “Next version only” still selects the first public version, 0.2.38. Verify
+uploaded assets with `tools/verify_release_upload.py --version 0.2.48` and catalog
+routes with `tools/verify_catalog_routes.py` (dry run before `--execute --write`).
+Catalog checks verify patch application, not game behavior.
 
 ## 0.2.38 compact repack
 

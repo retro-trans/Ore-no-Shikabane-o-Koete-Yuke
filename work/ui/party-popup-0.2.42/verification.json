@@ -1,0 +1,280 @@
+{
+  "version": "0.2.42",
+  "result": "PASS: all four sortie popup captions and highlights fit the enlarged native frame",
+  "iso": {
+    "version": "0.2.42",
+    "file": "work/output/english-native-0.2.42.iso",
+    "bytes": 1081344000,
+    "sha256": "c6569c1764a38bf62db6f9acac432c538a6cf27c75f75d9763909b484b68e41b"
+  },
+  "before_frame": [
+    178,
+    92,
+    124,
+    88
+  ],
+  "after_frame": [
+    158,
+    92,
+    164,
+    88
+  ],
+  "text_cell_before": 80,
+  "text_cell_after": 120,
+  "caption_advances": [
+    {
+      "text": "Select Party",
+      "advance": 68.57142857142857
+    },
+    {
+      "text": "Change Leader",
+      "advance": 88.28571428571429
+    },
+    {
+      "text": "Change Formation",
+      "advance": 108.85714285714286
+    },
+    {
+      "text": "Change Equipment",
+      "advance": 111.42857142857143
+    }
+  ],
+  "constructor": [
+    {
+      "kind": "cell_width",
+      "object": "0x9e2af70",
+      "argument": "0x70",
+      "caller": "0x8901138"
+    },
+    {
+      "kind": "cell_width",
+      "object": "0x9e2f4d0",
+      "argument": "0x78",
+      "caller": "0x89012d0"
+    }
+  ],
+  "actual_text_geometry": [
+    {
+      "text": "Change Leader",
+      "ancestors": [
+        {
+          "object": "0x9e32830",
+          "vtable": "0x8a6e1c0",
+          "geometry": [
+            0,
+            0,
+            1097859072,
+            0
+          ]
+        },
+        {
+          "object": "0x9e326f0",
+          "vtable": "0x8a22298",
+          "geometry": [
+            0,
+            0,
+            120,
+            16
+          ]
+        },
+        {
+          "object": "0x9e325e0",
+          "vtable": "0x8a20170",
+          "geometry": [
+            34,
+            28,
+            120,
+            16
+          ]
+        },
+        {
+          "object": "0x9e2f4d0",
+          "vtable": "0x8a20018",
+          "geometry": [
+            158,
+            92,
+            164,
+            88
+          ]
+        },
+        {
+          "object": "0x97a64b0",
+          "vtable": "0x8a6de50",
+          "geometry": [
+            0,
+            0,
+            480,
+            272
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Change Formation",
+      "ancestors": [
+        {
+          "object": "0x9e32ba0",
+          "vtable": "0x8a6e1c0",
+          "geometry": [
+            0,
+            0,
+            1084227584,
+            0
+          ]
+        },
+        {
+          "object": "0x9e32a60",
+          "vtable": "0x8a22298",
+          "geometry": [
+            0,
+            0,
+            120,
+            16
+          ]
+        },
+        {
+          "object": "0x9e32950",
+          "vtable": "0x8a20170",
+          "geometry": [
+            34,
+            46,
+            120,
+            16
+          ]
+        },
+        {
+          "object": "0x9e2f4d0",
+          "vtable": "0x8a20018",
+          "geometry": [
+            158,
+            92,
+            164,
+            88
+          ]
+        },
+        {
+          "object": "0x97a64b0",
+          "vtable": "0x8a6de50",
+          "geometry": [
+            0,
+            0,
+            480,
+            272
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Change Equipment",
+      "ancestors": [
+        {
+          "object": "0x9e32f10",
+          "vtable": "0x8a6e1c0",
+          "geometry": [
+            0,
+            0,
+            1082130432,
+            0
+          ]
+        },
+        {
+          "object": "0x9e32dd0",
+          "vtable": "0x8a22298",
+          "geometry": [
+            0,
+            0,
+            120,
+            16
+          ]
+        },
+        {
+          "object": "0x9e32cc0",
+          "vtable": "0x8a20170",
+          "geometry": [
+            34,
+            64,
+            120,
+            16
+          ]
+        },
+        {
+          "object": "0x9e2f4d0",
+          "vtable": "0x8a20018",
+          "geometry": [
+            158,
+            92,
+            164,
+            88
+          ]
+        },
+        {
+          "object": "0x97a64b0",
+          "vtable": "0x8a6de50",
+          "geometry": [
+            0,
+            0,
+            480,
+            272
+          ]
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "work/ui/party-popup-0.2.42/title.png",
+      "sha256": "85ffd0a0bc6d94a6cc73b2d811acb68fb6e0005899b7e63445ef071ece514df8"
+    },
+    {
+      "file": "work/ui/party-popup-0.2.42/select-party.png",
+      "sha256": "c51a3f2c02577afbbf09d55a4bfcc0084c995fbc4c51342e448e8f5611fe2c5d"
+    },
+    {
+      "file": "work/ui/party-popup-0.2.42/change-leader.png",
+      "sha256": "e885af6314c76718db0be15daafbc2c63e5da39d0e0ef9a61cef5f34eecf6a4f"
+    },
+    {
+      "file": "work/ui/party-popup-0.2.42/change-formation.png",
+      "sha256": "596140d09c9c7e81acc97640e0cac3392505514d3bc0b5ef4b9cf0efd0f1ea89"
+    },
+    {
+      "file": "work/ui/party-popup-0.2.42/change-equipment.png",
+      "sha256": "faccdfd5394fd1c447a8d9347e46f792aeafb317de40c09ba6435e957e164607"
+    }
+  ],
+  "checks": {
+    "executable": "Only guarded width argument changed; no new RAM/code allocation",
+    "archive": "Title version only; every other root/member payload byte-identical",
+    "text_and_controls": "Unchanged",
+    "prologue_and_scratch_fixes": "Preserved",
+    "gameplay_and_saves": "Unchanged"
+  },
+  "cold_boot": true,
+  "save_state_loaded": false,
+  "game_memory_edits": false,
+  "texture_replacement": false,
+  "save_preservation": {
+    "version": "0.2.42",
+    "result": "PASS",
+    "original_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "restored_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "user_source_written": false,
+    "user_source_unchanged": false,
+    "save_states_loaded": false,
+    "source_check_note": "User-source files changed during QA outside these tools. QA only read/copied the source; the user profile was never written or restored."
+  },
+  "github_release": false,
+  "limits": [
+    "Reported four-action popup checked in the final ISO; physical PSP testing pending."
+  ]
+}

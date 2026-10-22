@@ -1,0 +1,36 @@
+Build 0.2.41: prologue text reflow
+
+Scope: all 6 records in prologue.mlb and all 30 event dialogue records in
+ev_op_00.mlb, ev_op_01.mlb and ev_op_02.mlb. Names are unchanged.
+
+Three passages are rewrapped: the final introductory narration paragraph,
+the comment after the opening fight, and Orin's milk/hungry-baby reply.
+Only newlines/adjacent word separators change. Complete wording, punctuation,
+engine controls, record IDs/counts and neighboring records are preserved.
+The other 33 passages already pass the conservative width audit.
+
+Native 12px VWF advances are measured using the existing 14px atlas metrics.
+Limit: 3 lines, 268px nonfinal advances and 254px final advance. The latter
+leaves an additional 14px for the advance icon. No font shrinking, dialogue
+cutting, new script pages or executable changes. All original event timing,
+portrait layouts, voices and input handling remain intact.
+
+tools/build_prologue_wrap.py: dry-run/--write. Builds from guarded 0.2.40
+ELF/ORE hashes, roundtrips text/compression, checks untouched rows and every
+unrelated archive member/root payload, updates the native title version,
+and exports English-only translation copies. The executable is byte-identical
+to 0.2.40, preserving its shared scratch protection and 0.2.39 prompt font.
+
+tools/capture_prologue_wrap.py: dry-run/--execute. Observes the original MLT
+getter and its caller return, checks each naturally selected full translation,
+then captures the actual guest framebuffer. Temporary debugger breakpoints
+only; no register edits, game-memory edits or save states.
+
+tools/record_prologue_wrap_qa.py: dry-run/--write; --begin hashes the isolated
+and user-source saves before replay. Final recording verifies all three
+capture identities and text proofs, save hashes, and executable/archive
+checksums, then updates local build metadata and the changelog.
+
+Evidence: work/ui/dialogue-reflow-0.2.41/layout.json and verification.json.
+Local build only; no GitHub release was requested. Physical PSP testing and
+the rest of the game's visual fit checks remain pending.

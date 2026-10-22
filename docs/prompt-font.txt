@@ -1,0 +1,35 @@
+Button prompts and the native English font — local build 0.2.39
+
+Itsuka's Settings explanation contained the Circle character in its second
+line. The existing selector accepted ASCII and nonbreaking spaces only, so
+the entire second line used the original font cache. This caused the font
+change reported in the screenshot; the translation itself was complete.
+
+The new selector supports English lines containing Circle or Triangle.
+Each shape has a separate 512x512 T4 image with all 95 original English
+glyph rasters copied without resampling, plus the outlined button shape.
+The densely packed pages preserve the existing 4x sampling and share its
+native palette. This adds 264,052 bytes to the executable's second segment.
+Ordinary ASCII lines still take the existing selector/atlas path. Text
+wording, control codes, advances and destination rectangles are unchanged.
+
+Japanese and other unsupported text retain the original fallback. A single
+line combining Circle and Triangle also retains that fallback; no such
+translated line was found in the current English exports. Decorative stars,
+music notes and arrows are outside this fix and can still select that font.
+
+Verification: 12 actual MIPS cases, 343 source-rectangle checks, 190 exact
+ASCII raster comparisons, and preserved fallback descriptors/caller state.
+The naturally selected Settings explanation was replayed from an earlier
+normal save in the final ISO. Its Circle-button line selected the new image
+at runtime, and its complete text and every glyph UV were verified. Actual
+PSP framebuffer captures show the two lines in the same English style.
+Triangle prompts were checked through MIPS execution, not live navigation.
+
+No game memory or save fields were edited for that replay. The isolated
+normal save was restored; the user's source save is unchanged. No save state
+was loaded. This remains a local build; GitHub release 0.2.38 is unchanged.
+
+Evidence: work/ui/prompt-font-0.2.39/verification.json
+Builder: tools/build_prompt_font.py
+Local image: work/output/english-native-0.2.39.iso

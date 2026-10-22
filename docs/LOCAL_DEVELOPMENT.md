@@ -1,11 +1,11 @@
 # Ore no Shikabane o Koete Yuke — English translation
 
-Current local test build: **0.2.38**, 2026-10-18; archive-text draft: **0.2.38**.
+Current local test build: **0.2.48**, 2026-10-18; archive-text draft: **0.2.48**.
 An experimental native VWF patch embeds
 4× font rasters directly in the game executable, with texture replacement disabled.
 The English draft covers **8,027/8,027 distinct main strings (100%)** and all
 11,026 Japanese-bearing archive records. This is draft coverage, not full-game approval.
-Eighteen executable records, six shop literals, two equipment literals, three result/pause literals, two Chronicle date formats, two Pack literals, and 70 native graphic assets/label groups are recorded separately.
+Eighteen executable records, six shop literals, two equipment literals, three result/pause literals, two Chronicle date formats, two Pack literals, one investment currency literal, and 71 native graphic assets/label groups are recorded separately.
 Build 0.2.8 adds 14 previously uncatalogued standalone name-entry prompts.
 Build 0.2.16 replaces the Auto-name pools with 180 curated Latin choices
 (22 surnames, 85 female names and 73 male names), each at most eight letters.
@@ -26,6 +26,16 @@ and [the changelog](CHANGELOG.md) record the current state.
 - `work/translation/en/initial_batch.en.json`: English-only export suitable for Git.
 - `work/translation/en/initial_draft_input.json`: ignored seed for the initial batch.
 - `work/ui/`: native glyph metrics, runtime evidence and pending text-box measurements.
+- `work/output/english-native-0.2.48.iso`: full-word Help reflow, readable tournament rules, Emperor speaker label and compact tournament team names. All reported contexts checked in-game; see [evidence and limits](../work/ui/tournament-help-0.2.48/verification.json).
+- `work/output/english-native-0.2.47.iso`: wider deity sort columns and separate caption/value rows in the taller confirmation card. Actual screens and native geometry verified; see [evidence and limits](../work/ui/union-layout-0.2.47/verification.json).
+- `work/output/english-native-0.2.46.iso`: spaces around the Downpour effect separator; native weather banner automatically widens. Actual label preview verified; see [evidence and limits](../work/ui/weather-spacing-0.2.46/verification.json).
+- `work/output/english-native-0.2.45.iso`: wider six-line Help panel; full text and opaque background verified in actual Passage of Time pages. See [evidence](../work/ui/help-dialogue-0.2.45/verification.json).
+- `work/output/english-native-0.2.44.iso`: wider class descriptions with button hints directly above the box. All eight descriptions measured; runtime class-screen visual check pending. See [checks and limits](../work/ui/class-layout-0.2.44/verification.json).
+- `work/output/english-native-0.2.43.iso`: native INVESTMENT ribbon and ryo unit in the investment amount field. See [QA evidence](../work/ui/investment-0.2.43/verification.json).
+- `work/output/english-native-0.2.42.iso`: wider Sortie Prep popup; all four captions and highlights fit. See [QA evidence](../work/ui/party-popup-0.2.42/verification.json).
+- `work/output/english-native-0.2.41.iso`: prologue narration and portrait dialogue rewrapped with every word retained. All 36 passages measured; three changed passages visually verified. See [QA evidence](../work/ui/dialogue-reflow-0.2.41/verification.json).
+- `work/output/english-native-0.2.40.iso`: protected shared startup/framebuffer scratch; opening battle names and icons verified from a cold boot. See [QA evidence](../work/ui/boot-scratch-0.2.40/verification.json).
+- `work/output/english-native-0.2.39.iso`: consistent native English font in Circle/Triangle prompts; Settings explanation visually verified. See [QA evidence](../work/ui/prompt-font-0.2.39/verification.json).
 - `work/output/english-native-0.2.38.iso`: centered wider home-menu description box, including complete Rest help. See [QA evidence](../work/ui/home-help-0.2.38/verification.json).
 - `work/output/english-native-0.2.37.iso`: wider translucent story dialogue and translated Pack confirmation/count. See [QA evidence](../work/ui/dialogue-window-0.2.37/verification.json).
 - `work/output/english-native-0.2.36.iso`: clear battle commands, wide Equipment popup, wrapped descriptions and compact consumable names. See [QA evidence](../work/ui/battle-menu-0.2.36/verification.json).

@@ -1,5 +1,13 @@
 Opening disclaimer — local build 0.2.23
 
+Correction in 0.2.40: these accessors are shared with later framebuffer scratch
+operations. The original archive-only reservation was too small and let a
+prologue screen capture corrupt later patch code, names and graphics. The
+current builder restores the original full 0x88000-byte writable workspace
+with the unchanged English archive inside. See shared-boot-scratch.txt and
+test_boot_scratch.py. The older
+startup-only checks below did not exercise that later use.
+
 This story is entirely fictional.
 It has no connection to real people, places,
 organizations, product names, or the like.

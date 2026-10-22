@@ -1,0 +1,13 @@
+{
+  "version": "0.2.41",
+  "id": "ore:06f77000:0000:00:0000",
+  "translation": "Hah... hah...\nBastards put up more of a fight\nthan I expected...",
+  "translation_sha256": "d5123580a62be41cd428d02e08271bf2f8223897b7f4c29b5290be6615f08dad",
+  "naturally_selected": true,
+  "exact_final_build_text": true,
+  "resource": "0x9e382a0",
+  "section": 0,
+  "index": 0,
+  "text_address": "0x93abb94",
+  "register_or_memory_writes": false
+}

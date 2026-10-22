@@ -1,0 +1,167 @@
+[
+  {
+    "text": "Change Leader",
+    "ancestors": [
+      {
+        "object": "0x9e32830",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1097859072,
+          0
+        ]
+      },
+      {
+        "object": "0x9e326f0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          120,
+          16
+        ]
+      },
+      {
+        "object": "0x9e325e0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          34,
+          28,
+          120,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2f4d0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          158,
+          92,
+          164,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Change Formation",
+    "ancestors": [
+      {
+        "object": "0x9e32ba0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1084227584,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32a60",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          120,
+          16
+        ]
+      },
+      {
+        "object": "0x9e32950",
+        "vtable": "0x8a20170",
+        "geometry": [
+          34,
+          46,
+          120,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2f4d0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          158,
+          92,
+          164,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Change Equipment",
+    "ancestors": [
+      {
+        "object": "0x9e32f10",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1082130432,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32dd0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          120,
+          16
+        ]
+      },
+      {
+        "object": "0x9e32cc0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          34,
+          64,
+          120,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2f4d0",
+        "vtable": "0x8a20018",
+        "geometry": [
+          158,
+          92,
+          164,
+          88
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

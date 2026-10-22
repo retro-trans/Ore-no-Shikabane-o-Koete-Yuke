@@ -1,5 +1,68 @@
 # Changelog
 
+## 0.2.48 (2026-10-18)
+
+- Rewrapped the reported Changing Clan Heads Help passage into six fitting lines while retaining every word, punctuation and both placeholder circles. Reuses the wider 0.2.45 Help panel and the 0.2.39 Circle font fix; all six lines checked on the native HD font pages.
+- Replaced the tournament rules' two Japanese list markers with ASCII hyphen bullets so their English text stays on the native HD font. Translated the hardcoded speaker label to Emperor with an 8-byte literal and two guarded pointer arguments; its name box sizes correctly. No new code or font data added.
+- Shortened 27 over-budget tournament team names consistently, with full/display-name mappings in work/glossary/tournament-team-display.en.json. Six fixed names already fit and remain unchanged. All 33 fixed names measure within 112px at 12px. One natural 16-team draw, including Karasuma Clan and 15 fixed teams, fits on-screen; the Circle match prompt also uses the inherited HD font fix.
+- Cold-started the final local ISO and verified the exact Help page, tournament rules/speaker and bracket. Live font choices, literal bytes and pointer instructions verified; unchanged rows, controls and other archive payloads checked. Original project saves restored, user saves read/copied only; no tournament match started. Local build only; no GitHub release. Other draws, extreme player-clan letter widths, later rounds and physical PSP remain untested.
+
+## 0.2.47 (2026-10-18)
+
+- Doubled each deity sort-menu cell from 80 to 160 pixels. The centered native frame is now 348x91 at (66,90), with all eight complete captions and selection highlights inside it. Native colors, two-column ordering and controls retained.
+- Extended the confirmation deity card from 48 to 60 pixels tall. Kept the full Offering Points Required caption, moved it left to the name inset and set it to 12px; moved the right-aligned value from y=162 to its own row at y=178. The card ends at y=196, clear of the confirmation prompt starting at y=200.
+- Cold-started the final local ISO and verified the sort menu, longest/last option highlights, full caption, cost 13, card geometry and cancellation back to the deity list. Five live guarded layout instructions verified; only those five arguments change, with no added code/RAM. Archive changes only its title version; all text and other payloads unchanged. Original project saves restored and user saves read/copied only. No union performed. Local build only; no GitHub release. Other pairings, applying every sort order, large cost values and physical PSP remain untested.
+
+## 0.2.46 (2026-10-18)
+
+- Added spaces around the Downpour weather-effect separator: `Fire power DOWN↓ / Poor visibility`. Retained all wording, the arrow, color/size markup and the two-line layout. The native auto-size routine widens the centered frame to fit the extra spaces.
+- Executable byte-identical to 0.2.45; only this text record and title version change in the archive. All other text rows and archive payloads checked unchanged. Verified the complete line, separator and wider frame in the actual native dungeon banner using a one-time QA label selection; weather/gameplay state and delivered executable unchanged. Original project saves restored; user saves read/copied only. Local build only; no GitHub release. Random Downpour conditions, other weather effects and physical PSP not tested.
+
+## 0.2.45 (2026-10-18)
+
+- Widened the native six-line Help dialogue from 300 to 336 pixels, keeping x=8, y=144 and height=120. The reported 311px line now fits inside the 330px text area without cutting or rewrapping any wording. The native frame and advance marker follow the new size.
+- Confirmed the Help background is already fully opaque: every texture palette and vertex alpha is 255, and sprite/window/ancestor opacity is 1.0. Retained these settings; story-dialogue translucency is unchanged.
+- Cold-started the final local ISO and visually checked both Passage of Time pages, the complete reported line, frame and advance marker. One guarded width argument changes; no added code/RAM. All archive payloads except title version are byte-identical to 0.2.44; prior fixes retained. Original project saves restored and user saves only read/copied. Local build only; no GitHub release. Other Help topics, physical PSP and the inherited 0.2.44 class-screen runtime check remain pending.
+
+## 0.2.44 (2026-10-18)
+
+- Extended the shared class-description panel from 288 to 432 pixels and centered it at x=24. Moved it from y=198 to y=204, retaining its 66px height and all three complete lines. All eight descriptions fit without wording changes.
+- Moved Switch Gender and Back from their bottom anchors to y=180, directly above the description and below the class labels, as requested. Native buttons, gender switching, class unlocks and selection logic are unchanged.
+- Only five guarded layout arguments change; no added code/RAM. Archive changes only its title version and all prior fixes are preserved. Source/target hashes, unchanged code/assets and all eight description widths pass static checks. Runtime class-screen visual verification is pending: a QA-only attempt to enter the viewer directly stopped the guest CPU before capture. No preview routing change is included in the delivered ISO. Original project saves restored; user source only read/copied. Local build only; no GitHub release. New-child flow and physical PSP testing remain pending.
+
+## 0.2.43 (2026-10-18)
+
+- Translated the left investment ribbon to INVESTMENT using the existing native English ribbon style. The T4 resource keeps its original 13,744-byte loader budget and logical geometry; texture replacement remains disabled.
+- Changed the investment amount dialog's separate currency literal to ryo. Values, digit editing, category IDs, investment effects, dialogue and previous fixes remain unchanged. Only the guarded currency literal, one ribbon and title version change.
+- Verified the final cold-boot ISO's exact ribbon palette/pixels/UVs and naturally rendered ryo text. Captured the investment list and zero/nonzero editable amounts; cancelled without investing. Restored the original isolated saves; QA never writes user-source saves. Local build only; no GitHub release. Physical PSP testing remains pending.
+
+## 0.2.42 (2026-10-18)
+
+- Extended the four-action Sortie Prep popup's native text cells from 80 to 120 pixels. Its frame grows from 124 to 164 pixels and recenters at x=158; the selection highlight and icon spacing follow the original layout. Change Formation and Change Equipment now fit with their full wording.
+- Changed one guarded width argument with no added code/RAM. All text, controls, prologue reflow, prompt font and shared scratch fixes are preserved; the archive changes only its native title version.
+- Verified the final ISO from a cold boot: the actual constructor receives width 120, the rendered captions have 120px cells inside the 164px frame, and all four highlight positions were visually checked. Original isolated saves restored; QA only reads/copies user-source saves. The user-source hashes changed outside QA during the run, so unchanged-source verification is unavailable for this session. Local build only; no GitHub release. Physical PSP testing remains pending.
+
+## 0.2.41 (2026-10-18)
+
+- Rewrapped the prologue's overflowing milk/hungry-baby reply, nearby post-fight dialogue and one opening narration passage. Every word, punctuation mark, control and record boundary is retained; each passage uses at most three lines and leaves clearance for the frame and advance icon.
+- Audited all six opening narration records and thirty opening event dialogue records using native VWF advances. The other 33 passages already fit the conservative 268px / 254px final-line budget and remain unchanged.
+- Replayed the final ISO from a cold boot and captured all three changed records through their actual MLT selections; complete wording and frame/icon clearance visually verified. Executable is byte-identical to 0.2.40, retaining the shared scratch protection and button font fixes.
+- Both modified translation batches pass source/control/glossary/export checks; unrelated archive payloads verified byte-identical. All project and user-source save files unchanged. Local build only; no GitHub release. Physical PSP testing remains pending.
+
+## 0.2.40 (2026-10-18)
+
+- Fixed the corrupt parent names and black vital-icon boxes in the opening battle. The translated startup archive's accessors also supply a later framebuffer scratch area. The earlier relocation reserved only the 30,548-byte archive; a 480x272 RGBA capture on 512-pixel rows overwrote later added code, names and graphics.
+- Restored the original 0x88000-byte writable workspace and placed the unchanged English startup archive inside it. The English archive is smaller than the original and fits with its existing zero padding, so no extra executable/RAM space is needed. Both accessors return the original shared address; earlier patch code/assets, text, controls and save records are unchanged. The data.ore archive changes only its title version.
+- Verified both MIPS accessors and simulated the observed 272-row transfer plus a full buffer write. Replayed the prologue from a cold boot in the final ISO: the actual GPU transfer uses the reserved buffer, Genta/Orin remain intact, and all ten vital/element palettes and pixel payloads match the executable. Opening battle names and icons visually checked.
+- All four isolated and user-source save files remain unchanged; no save state or game-memory edits. Local build only; no GitHub release. Full playthrough and physical PSP testing remain pending.
+
+## 0.2.39 (2026-10-18)
+
+- Fixed the mixed font in Itsuka's Settings explanation: Circle and Triangle symbols can now share the native 4x English font path with surrounding text. Each symbol has a hardware-sized atlas page containing exact copies of all existing English glyph rasters. Ordinary ASCII text retains its existing atlas and advances.
+- Kept dialogue wording, control codes, spacing, destination geometry and Japanese fallback. The archive differs only in its title version footer. Added 264,052 bytes of executable/RAM data for the two button pages and guarded selector.
+- Passed 12 actual MIPS cases, 343 glyph geometry checks and 190 exact ASCII raster comparisons. Verified the naturally selected Settings Circle-button line and its native UVs in the final ISO; Triangle prompts remain covered by MIPS execution rather than live navigation. Unsupported symbols and lines combining both button shapes retain the original fallback.
+- Restored the isolated normal save and verified the user's source save unchanged. Local test build only; no GitHub release. Full playthrough and physical PSP testing remain pending.
+
 ## 0.2.38 (2026-10-18)
 
 - Replaced the 189,434,623-byte patch with a 2,559,594-byte compact encoding and republished at the user's explicit request. Rebuilt the manifest, validation report and checksums; verified the exact same source/output ISO identities through Retro Trans Tools and all four uploaded asset hashes. The catalog retires the original patch record while preserving its history, and routes to the new compact filename. Scoped catalog validation passed.

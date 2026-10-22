@@ -1,0 +1,101 @@
+{
+  "version": "0.2.47",
+  "result": "PASS",
+  "native_patches": [
+    {
+      "address": "0x88e3000",
+      "word": "0x240500a0"
+    },
+    {
+      "address": "0x893b018",
+      "word": "0x2406003c"
+    },
+    {
+      "address": "0x893b0f0",
+      "word": "0x2405000c"
+    },
+    {
+      "address": "0x893b110",
+      "word": "0x2405012b"
+    },
+    {
+      "address": "0x893b15c",
+      "word": "0x240600b2"
+    }
+  ],
+  "sort_frame": [
+    66,
+    90,
+    348,
+    91
+  ],
+  "sort_cells": {
+    "0x9e4a610": [
+      10,
+      10,
+      160,
+      16
+    ],
+    "0x9e4a980": [
+      178,
+      10,
+      160,
+      16
+    ],
+    "0x9e4acf0": [
+      10,
+      29,
+      160,
+      16
+    ],
+    "0x9e4b060": [
+      178,
+      29,
+      160,
+      16
+    ],
+    "0x9e4b3d0": [
+      10,
+      48,
+      160,
+      16
+    ],
+    "0x9e4b740": [
+      178,
+      48,
+      160,
+      16
+    ],
+    "0x9e4bab0": [
+      10,
+      67,
+      160,
+      16
+    ],
+    "0x9e4be20": [
+      178,
+      67,
+      160,
+      16
+    ]
+  },
+  "confirmation_card": [
+    291,
+    136,
+    160,
+    60
+  ],
+  "caption": "Offering Points Required",
+  "caption_position": [
+    299,
+    162
+  ],
+  "value": "13",
+  "value_position": [
+    447,
+    178
+  ],
+  "guest_memory_writes": false,
+  "save_state_loaded": false,
+  "texture_replacement": false
+}

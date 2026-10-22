@@ -1,0 +1,148 @@
+{
+  "version": "0.2.41",
+  "result": "PASS: three reflowed prologue passages selected naturally and visually checked in the final ISO",
+  "audited_passages": 36,
+  "changed_passages": 3,
+  "iso": {
+    "version": "0.2.41",
+    "file": "work/output/english-native-0.2.41.iso",
+    "bytes": 1081344000,
+    "sha256": "0e9598d0973d8305fc04a4034a32273c106988415e1935d1898a7f0c8b979823"
+  },
+  "records": [
+    {
+      "id": "ore:00683000:0000:00:0004",
+      "screenshot": "work/ui/dialogue-reflow-0.2.41/narration.png",
+      "sha256": "1daa32ca048e606f5bf745e7a12601691467a051a3230c1dc6ec1eda93b4642a",
+      "native": {
+        "version": "0.2.41",
+        "id": "ore:00683000:0000:00:0004",
+        "translation": "But now, a man and a woman\nhad taken up the challenge and were\nat last about to work a miracle.",
+        "translation_sha256": "8008e71405f53df847211e0b89b5ea2b56c8b341f0ddf79aec3dc46bf975ac8c",
+        "naturally_selected": true,
+        "exact_final_build_text": true,
+        "resource": "0x9e23374",
+        "section": 0,
+        "index": 4,
+        "text_address": "0x93bb908",
+        "register_or_memory_writes": false
+      }
+    },
+    {
+      "id": "ore:06f77000:0000:00:0000",
+      "screenshot": "work/ui/dialogue-reflow-0.2.41/after-fight.png",
+      "sha256": "eff821b6dfa99db62f43897cddc693888394161d00bef8a2b9aa1f7ebfa50a1a",
+      "native": {
+        "version": "0.2.41",
+        "id": "ore:06f77000:0000:00:0000",
+        "translation": "Hah... hah...\nBastards put up more of a fight\nthan I expected...",
+        "translation_sha256": "d5123580a62be41cd428d02e08271bf2f8223897b7f4c29b5290be6615f08dad",
+        "naturally_selected": true,
+        "exact_final_build_text": true,
+        "resource": "0x9e382a0",
+        "section": 0,
+        "index": 0,
+        "text_address": "0x93abb94",
+        "register_or_memory_writes": false
+      },
+      "frame": [
+        16,
+        198,
+        288,
+        66
+      ],
+      "text_ink_rectangles": [
+        [
+          27,
+          209,
+          95,
+          218
+        ],
+        [
+          27,
+          227,
+          211,
+          239
+        ],
+        [
+          26,
+          245,
+          126,
+          254
+        ]
+      ],
+      "advance_icon_envelope": [
+        288,
+        244,
+        301,
+        258
+      ],
+      "last_line_to_icon_gap": 162,
+      "measurement": "Actual white glyph cores; shadow excluded. Complete text also visually inspected."
+    },
+    {
+      "id": "ore:06f77000:0000:00:0003",
+      "screenshot": "work/ui/dialogue-reflow-0.2.41/orin.png",
+      "sha256": "da3f529a73e0bbd836a54c2785554e7195181620ec2df4d932bfedfec90da879",
+      "native": {
+        "version": "0.2.41",
+        "id": "ore:06f77000:0000:00:0003",
+        "translation": "No. My breasts are getting full of milk.\nOur baby's probably crying with\nhunger by now.",
+        "translation_sha256": "58854afb55d4bd11c77ddce2dce6e2bdd63ab9730789594126f27bfb629b6a6c",
+        "naturally_selected": true,
+        "exact_final_build_text": true,
+        "resource": "0x9e382a0",
+        "section": 0,
+        "index": 3,
+        "text_address": "0x93abca2",
+        "register_or_memory_writes": false
+      },
+      "frame": [
+        16,
+        198,
+        288,
+        66
+      ],
+      "text_ink_rectangles": [
+        [
+          27,
+          209,
+          252,
+          221
+        ],
+        [
+          27,
+          227,
+          214,
+          239
+        ],
+        [
+          27,
+          245,
+          116,
+          257
+        ]
+      ],
+      "advance_icon_envelope": [
+        288,
+        244,
+        301,
+        258
+      ],
+      "last_line_to_icon_gap": 172,
+      "measurement": "Actual white glyph cores; shadow excluded. Complete text also visually inspected."
+    }
+  ],
+  "wording_and_controls": "unchanged",
+  "maximum_lines": 3,
+  "executable": "byte-identical to 0.2.40",
+  "cold_boot": true,
+  "save_state_loaded": false,
+  "game_memory_writes": false,
+  "texture_replacement": false,
+  "saves": "All four files in each project/user-source folder unchanged",
+  "github_release": false,
+  "limits": [
+    "All 36 passages measured; runtime visual checks cover the three changed passages. Physical PSP testing pending."
+  ]
+}

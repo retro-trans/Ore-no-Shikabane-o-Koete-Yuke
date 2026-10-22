@@ -1,0 +1,42 @@
+{
+  "version": "0.2.45",
+  "result": "PASS",
+  "geometry": [
+    8,
+    144,
+    336,
+    120
+  ],
+  "background": {
+    "vertex_alpha": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "palette_alpha": [
+      255
+    ],
+    "sprite_opacity": 1.0,
+    "ancestor_opacities": [
+      {
+        "object": "0x9e2be20",
+        "value": 1.0
+      },
+      {
+        "object": "0x9e2bd10",
+        "value": 1.0
+      },
+      {
+        "object": "0x97a64b0",
+        "value": 1.0
+      }
+    ],
+    "conclusion": "Fully opaque; existing native settings retained"
+  },
+  "text": "remember this before you panic or have an accident.",
+  "guest_memory_writes": false,
+  "save_state_loaded": false,
+  "runtime_patch": "0x24050150 at 0x088fa718",
+  "texture_replacement": false
+}

@@ -6,9 +6,10 @@ from hd_sprites import BIND,RECT,TAG
 from build_menu_fixes import container,member
 from repack_text import root_entries
 
-ap=argparse.ArgumentParser(description=__doc__);ap.add_argument('--execute',action='store_true');ap.add_argument('--write',action='store_true');ap.add_argument('--context',required=True);ap.add_argument('--require',required=True);a=ap.parse_args()
+ap=argparse.ArgumentParser(description=__doc__);ap.add_argument('--execute',action='store_true');ap.add_argument('--write',action='store_true');ap.add_argument('--context',required=True);ap.add_argument('--require',required=True)
+ap.add_argument('--version',default='0.2.32');ap.add_argument('--report',default='banners.report.json');ap.add_argument('--elf',default='EBOOT.banners.elf');ap.add_argument('--ore',default='data.banners.ore');ap.add_argument('--output');a=ap.parse_args()
 if not a.execute:print('DRY RUN: read final native rendering hooks; temporarily observe '+a.require+' palette/pixels and full UVs. No game memory/save writes.');raise SystemExit
-out=ROOT/'work/output/english-native-0.2.32';r=json.loads((out/'banners.report.json').read_text());elf=(out/'EBOOT.banners.elf').read_bytes();data=(out/'data.banners.ore').read_bytes();p=struct.unpack_from('<I',elf,28)[0];ph=struct.unpack_from('<8I',elf,p+32);offset=lambda addr:ph[1]+addr-ph[2] if addr>=ph[2] else addr-0x08803000
+out=ROOT/('work/output/english-native-'+a.version);r=json.loads((out/a.report).read_text());elf=(out/a.elf).read_bytes();data=(out/a.ore).read_bytes();p=struct.unpack_from('<I',elf,28)[0];ph=struct.unpack_from('<8I',elf,p+32);offset=lambda addr:ph[1]+addr-ph[2] if addr>=ph[2] else addr-0x08803000
 original=(ROOT/'work/source/iso/PSP_GAME/USRDIR/data.ore').read_bytes();oe,_=root_entries(original);be,_=root_entries(data);index=next(i for i,_,_,o in oe if o==0xb4a800);arc,en=container(data,next(z[3] for z in be if z[0]==index));del original,data
 expected={}
 for x in r['graphics']:
@@ -43,6 +44,6 @@ with Session() as s:
   if s.call('cpu.status')['stepping']:s.call('cpu.resume')
  assert not s.call('cpu.breakpoint.list')['breakpoints']
 assert a.require in {x['text'] for x in found.values()}
-proof=dict(version='0.2.32',result='PASS',context=a.context,elf_sha256=r['elf_sha256'],archive_sha256=r['archive_sha256'],required=a.require,rendering_hooks='Verified through JIT-aware disassembly',draws=list(found.values()),texture_replacement=False,game_memory_writes=False,save_record_writes=False)
+proof=dict(version=a.version,result='PASS',context=a.context,elf_sha256=r['elf_sha256'],archive_sha256=r['archive_sha256'],required=a.require,rendering_hooks='Verified through JIT-aware disassembly',draws=list(found.values()),texture_replacement=False,game_memory_writes=False,save_record_writes=False)
 print(json.dumps(proof,indent=2))
-if a.write:(ROOT/('work/ui/left-banners-0.2.32/runtime-'+a.context+'.json')).write_text(json.dumps(proof,indent=2)+'\n',encoding='utf-8')
+if a.write:(ROOT/a.output if a.output else ROOT/('work/ui/left-banners-'+a.version+'/runtime-'+a.context+'.json')).write_text(json.dumps(proof,indent=2)+'\n',encoding='utf-8')

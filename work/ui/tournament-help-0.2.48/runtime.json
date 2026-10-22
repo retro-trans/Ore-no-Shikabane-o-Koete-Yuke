@@ -1,0 +1,53 @@
+{
+  "version": "0.2.48",
+  "result": "PASS",
+  "help_lines": [
+    "Um... Well... What I mean is...",
+    "If you could prepare yourself and think,",
+    "\"Perhaps it's almost time.",
+    "I'll make \u25cb\u25cb the next head,\"",
+    "it would make things a little easier for me too...",
+    "I'm sorry for being so selfish."
+  ],
+  "help_font": "Native HD ASCII/Circle pages; no fallback",
+  "rules": [
+    "- Items may not be used during matches.",
+    "- Retreat changes to Surrender."
+  ],
+  "speaker": "Emperor",
+  "rules_font": "0x9b5c010",
+  "bracket_footer": "Press \u25cb to begin the match.",
+  "footer_font": "0x9cbc5d0",
+  "observed_fixed_teams": [
+    "33 Bays Society",
+    "Asahi Chargers",
+    "Blossom Assault",
+    "Chayamachi Assn.",
+    "Doshisha Boxing",
+    "Honganin Select",
+    "Ikeda Main House",
+    "Keihan Mercs",
+    "Kyogoku Assn.",
+    "Modoribashi Gd.",
+    "Oharano Sorcerers",
+    "Peach Group",
+    "Ponto Vigilantes",
+    "Rakuraku Club",
+    "Stone-Fire Soc."
+  ],
+  "all_fixed_teams_measured": 33,
+  "native_literal_patches": [
+    {
+      "address": "0x8914a84",
+      "word": "0x3c0409d0"
+    },
+    {
+      "address": "0x8914a8c",
+      "word": "0x2484cd40"
+    }
+  ],
+  "literal_bytes": "456d7065726f7200",
+  "guest_memory_writes": false,
+  "save_state_loaded": false,
+  "texture_replacement": false
+}

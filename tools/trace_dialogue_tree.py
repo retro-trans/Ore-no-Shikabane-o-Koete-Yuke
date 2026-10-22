@@ -24,7 +24,7 @@ with Session() as s:
     for _ in range(9):
      if not 0x08800000<=parent<0x0a000000:break
      b=read(parent,0x60);vt=struct.unpack_from('<I',b)[0];geo=struct.unpack_from('<4I',b,0x40);chain.append(dict(object=hex(parent),vtable=hex(vt),geometry=list(geo)));parent=struct.unpack_from('<I',b,0x14)[0]
-    seen[obj]=dict(text=text,ancestors=chain)
+    seen[obj]=dict(text=text,font_image=hex(r[2]),ancestors=chain)
    s.call('cpu.resume')
  finally:
   s.call('cpu.breakpoint.remove',address=pc)

@@ -1,0 +1,12 @@
+{
+  "game": "UCJS10117",
+  "framebuffer": "0x4000000",
+  "stride": 512,
+  "format": 0,
+  "dimensions": [
+    480,
+    272
+  ],
+  "capture": "Actual guest display buffer at sceDisplaySetFrameBuf; software backend.",
+  "texture_replacement": false
+}

@@ -1,0 +1,269 @@
+{
+  "version": "0.2.47",
+  "result": "PASS: eight sort options and highlights fit; full required-points caption and value on separate rows inside taller confirmation card",
+  "iso": {
+    "version": "0.2.47",
+    "file": "work/output/english-native-0.2.47.iso",
+    "bytes": 1081337856,
+    "sha256": "be78a4adeaefeab5be5a25cdeede71d6215792e7c3bff1047244efc984740d15"
+  },
+  "layout": {
+    "sort_cell_width_before": 80,
+    "sort_cell_width_after": 160,
+    "sort_rows": 4,
+    "sort_columns": 2,
+    "confirmation_frame_before": [
+      291,
+      136,
+      160,
+      48
+    ],
+    "confirmation_frame_after": [
+      291,
+      136,
+      160,
+      60
+    ],
+    "caption_left": 299,
+    "caption_top": 162,
+    "caption_size": 12,
+    "caption_right_budget": 451,
+    "value_top": 178,
+    "value_right_anchor": 447,
+    "value_size": 14,
+    "card_bottom": 196,
+    "confirmation_prompt_top": 200,
+    "vertical_gap": 4
+  },
+  "runtime": {
+    "version": "0.2.47",
+    "result": "PASS",
+    "native_patches": [
+      {
+        "address": "0x88e3000",
+        "word": "0x240500a0"
+      },
+      {
+        "address": "0x893b018",
+        "word": "0x2406003c"
+      },
+      {
+        "address": "0x893b0f0",
+        "word": "0x2405000c"
+      },
+      {
+        "address": "0x893b110",
+        "word": "0x2405012b"
+      },
+      {
+        "address": "0x893b15c",
+        "word": "0x240600b2"
+      }
+    ],
+    "sort_frame": [
+      66,
+      90,
+      348,
+      91
+    ],
+    "sort_cells": {
+      "0x9e4a610": [
+        10,
+        10,
+        160,
+        16
+      ],
+      "0x9e4a980": [
+        178,
+        10,
+        160,
+        16
+      ],
+      "0x9e4acf0": [
+        10,
+        29,
+        160,
+        16
+      ],
+      "0x9e4b060": [
+        178,
+        29,
+        160,
+        16
+      ],
+      "0x9e4b3d0": [
+        10,
+        48,
+        160,
+        16
+      ],
+      "0x9e4b740": [
+        178,
+        48,
+        160,
+        16
+      ],
+      "0x9e4bab0": [
+        10,
+        67,
+        160,
+        16
+      ],
+      "0x9e4be20": [
+        178,
+        67,
+        160,
+        16
+      ]
+    },
+    "confirmation_card": [
+      291,
+      136,
+      160,
+      60
+    ],
+    "caption": "Offering Points Required",
+    "caption_position": [
+      299,
+      162
+    ],
+    "value": "13",
+    "value_position": [
+      447,
+      178
+    ],
+    "guest_memory_writes": false,
+    "save_state_loaded": false,
+    "texture_replacement": false
+  },
+  "measurements": [
+    {
+      "id": "ore:0000c000:0004:00:0005",
+      "text": "Offering Points Required",
+      "measured_font_size": 12,
+      "advance": 147.42857142857142,
+      "budget": 152
+    },
+    {
+      "id": "ore:0000c000:0004:00:0008",
+      "text": "By Offering Points",
+      "measured_font_size": 14,
+      "advance": 127.0,
+      "budget": 160
+    },
+    {
+      "id": "ore:0000c000:0004:00:0009",
+      "text": "Name Order",
+      "measured_font_size": 14,
+      "advance": 84.0,
+      "budget": 160
+    },
+    {
+      "id": "ore:0000c000:0004:00:0010",
+      "text": "By Number of Unions",
+      "measured_font_size": 14,
+      "advance": 149.0,
+      "budget": 160
+    },
+    {
+      "id": "ore:0000c000:0004:00:0011",
+      "text": "New Deities First",
+      "measured_font_size": 14,
+      "advance": 115.0,
+      "budget": 160
+    },
+    {
+      "id": "ore:0000c000:0004:00:0012",
+      "text": "Fire Deities First",
+      "measured_font_size": 14,
+      "advance": 111.0,
+      "budget": 160
+    },
+    {
+      "id": "ore:0000c000:0004:00:0013",
+      "text": "Water Deities First",
+      "measured_font_size": 14,
+      "advance": 125.0,
+      "budget": 160
+    },
+    {
+      "id": "ore:0000c000:0004:00:0014",
+      "text": "Wind Deities First",
+      "measured_font_size": 14,
+      "advance": 120.0,
+      "budget": 160
+    },
+    {
+      "id": "ore:0000c000:0004:00:0015",
+      "text": "Earth Deities First",
+      "measured_font_size": 14,
+      "advance": 121.0,
+      "budget": 160
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "work/ui/union-layout-0.2.47/title.png",
+      "sha256": "8ae7afb8ddadd033bd4276c3bb3b6452e22cf2234d02440548b16ab5bec24632"
+    },
+    {
+      "file": "work/ui/union-layout-0.2.47/sort.png",
+      "sha256": "2f8257b6fbd42ef2c0bb8c5d2e8bc5e6cebb3326ca201103442a98a636cdcf00"
+    },
+    {
+      "file": "work/ui/union-layout-0.2.47/sort-longest.png",
+      "sha256": "416fc8a3011e553b54df7d91ba3489cb803dbc438ed71bbd10e6a031d4ab5d80"
+    },
+    {
+      "file": "work/ui/union-layout-0.2.47/sort-last.png",
+      "sha256": "e517d6c9d9b71934b086829d6687e51e74de4cf56cd815a8ae083ef00087fc09"
+    },
+    {
+      "file": "work/ui/union-layout-0.2.47/confirmation.png",
+      "sha256": "c38203f387d4bc7a0c111c1b802a4551a472ebd1b33f2ae0b969d82ba2b12abf"
+    },
+    {
+      "file": "work/ui/union-layout-0.2.47/cancelled.png",
+      "sha256": "93b9690205908d22ff81dc48b761d0579ddf6ca47b3498737c206bd7abd5c2fe"
+    },
+    {
+      "file": "work/ui/union-layout-0.2.47/deity-returned.png",
+      "sha256": "da2abaabb3ee4fc3d207501ed3170cbf1652cf3d3b03963f219fb77d8c4b8e67"
+    }
+  ],
+  "checks": {
+    "executable": "Only five guarded layout arguments; no added code or RAM",
+    "wording": "All unchanged, including the full Offering Points Required caption",
+    "archive": "Only title version; all other payloads byte-identical",
+    "sorting_and_union_logic": "Unchanged",
+    "prior_fixes": "Preserved"
+  },
+  "save_preservation": {
+    "version": "0.2.47",
+    "result": "PASS",
+    "original_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "restored_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "user_source_written": false,
+    "user_source_unchanged": true,
+    "save_states_loaded": false
+  },
+  "save_state_loaded": false,
+  "texture_replacement": false,
+  "gameplay_memory_writes": false,
+  "union_performed": false,
+  "github_release": false,
+  "limits": [
+    "Previewed Hayate with Sasara no Oen and cost 13, then selected No and Choose Another Deity.",
+    "Other parent/deity combinations, applying every sort order, large displayed cost values and physical PSP not tested."
+  ]
+}

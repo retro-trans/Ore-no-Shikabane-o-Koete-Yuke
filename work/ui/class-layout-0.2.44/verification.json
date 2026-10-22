@@ -1,0 +1,144 @@
+{
+  "version": "0.2.44",
+  "result": "STATIC PASS: all eight descriptions fit the widened layout; runtime visual verification pending",
+  "iso": {
+    "version": "0.2.44",
+    "file": "work/output/english-native-0.2.44.iso",
+    "bytes": 1081337856,
+    "sha256": "08151fc348e82b33b4260370ace3cc73eeff8f67d9a164a8ede1dd2d67f469e7"
+  },
+  "layout": {
+    "description_before": [
+      96,
+      198,
+      288,
+      66
+    ],
+    "description_after": [
+      24,
+      204,
+      432,
+      66
+    ],
+    "description_right": 456,
+    "description_bottom": 270,
+    "hint_anchor_before": 246,
+    "hint_anchor_after": 180,
+    "hint_row": "Directly above description, below class labels",
+    "text_advance_budget": 420
+  },
+  "descriptions_measured": [
+    {
+      "id": "ore:0000c000:0000:04:0000",
+      "translation": "Cuts down one front-row enemy from the front row.\nWears heavy armor; anchors both attack and defense.\nRaise a custom sword with care to become unstoppable.",
+      "line_advances": [
+        307.7142857142857,
+        317.14285714285717,
+        329.14285714285717
+      ]
+    },
+    {
+      "id": "ore:0000c000:0000:04:0001",
+      "translation": "Shoots any one enemy from either row.\nAttack power is second only to the Swordsman.\nCan wear up to medium armor.",
+      "line_advances": [
+        233.14285714285714,
+        276.85714285714283,
+        182.57142857142858
+      ]
+    },
+    {
+      "id": "ore:0000c000:0000:04:0002",
+      "translation": "Sweeps the enemy's front row from the front row.\nCan also hit one front-row enemy from the back.\nWears large armor; a well-balanced class.",
+      "line_advances": [
+        294.85714285714283,
+        286.2857142857143,
+        241.71428571428572
+      ]
+    },
+    {
+      "id": "ore:0000c000:0000:04:0003",
+      "translation": "Delivers a crushing blow to one front-row enemy.\nHas the highest attack power and miss rate of any class.\nWears heavy armor, but is somewhat weak against spells.",
+      "line_advances": [
+        292.2857142857143,
+        329.14285714285717,
+        336.85714285714283
+      ]
+    },
+    {
+      "id": "ore:0000c000:0000:04:0004",
+      "translation": "Switches freely between powerful single-shot guns\nand scattershot guns with a broad attack range.\nThe drawback: can wear only light armor.",
+      "line_advances": [
+        299.14285714285717,
+        280.2857142857143,
+        242.57142857142858
+      ]
+    },
+    {
+      "id": "ore:0000c000:0000:04:0005",
+      "translation": "Pierces one front-row enemy and the one behind it.\nCan also hit one front-row enemy from the back.\nWears large armor; a well-balanced class.",
+      "line_advances": [
+        303.42857142857144,
+        286.2857142857143,
+        241.71428571428572
+      ]
+    },
+    {
+      "id": "ore:0000c000:0000:04:0006",
+      "translation": "Repeatedly lands multiple hits from the front row.\nFlying kicks can leap over a row and hit hard.\nCan wear up to medium armor; has high evasion.",
+      "line_advances": [
+        294.0,
+        265.7142857142857,
+        288.85714285714283
+      ]
+    },
+    {
+      "id": "ore:0000c000:0000:04:0007",
+      "translation": "Attacks an enemy row from either row, but has\nthe lowest attack power of any class. Excels at spells.\nThe drawback: can wear only light armor.",
+      "line_advances": [
+        275.14285714285717,
+        309.42857142857144,
+        242.57142857142858
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "work/ui/class-layout-0.2.44/title.png",
+      "sha256": "174eaacd6c7ec440d5256e5a86dc678b9b4acb835c74c8c3d245fc187b432a49"
+    }
+  ],
+  "checks": {
+    "executable": "Only five guarded position/width arguments changed; no new RAM/code",
+    "wording_and_controls": "Unchanged",
+    "archive": "Title version only; every other payload byte-identical",
+    "class_selection_unlocks_and_gender_switch": "Unchanged",
+    "prior_fixes": "Preserved"
+  },
+  "texture_replacement": false,
+  "save_state_loaded": false,
+  "save_preservation": {
+    "version": "0.2.44",
+    "result": "PASS",
+    "original_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "restored_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "user_source_written": false,
+    "user_source_unchanged": true,
+    "save_states_loaded": false
+  },
+  "github_release": false,
+  "limits": [
+    "All eight descriptions measured; five guarded native layout arguments and all untouched executable/archive bytes checked.",
+    "A QA-only attempt to enter the viewer directly stopped the guest CPU before a class frame could be captured. This does not verify the class layout; its diagnostic entry record is marked failed.",
+    "The new-child arrival sequence, actual class frame/hint clearance, gender switching and physical PSP remain untested."
+  ]
+}

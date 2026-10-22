@@ -1,0 +1,91 @@
+{
+  "version": "0.2.40",
+  "result": "PASS: opening battle preserves parent names and vital icons after the framebuffer transfer",
+  "iso": {
+    "version": "0.2.40",
+    "file": "work/output/english-native-0.2.40.iso",
+    "bytes": 1081344000,
+    "sha256": "9847063e7f0aec8b76fa6cf9816b12df3d26e8fa1e6dbf48d4101a057a0cb744"
+  },
+  "runtime": {
+    "version": "0.2.40",
+    "result": "PASS",
+    "active_scratch": "0x8a78230",
+    "bytes": 557056,
+    "actual_gpu_transfer": {
+      "rows": 272,
+      "first": {
+        "type": "write",
+        "address": 145195568,
+        "size": 1920,
+        "ticks": 81909003606,
+        "pc": 144515816,
+        "tag": "GPUBlockTransfer/040cc000_size_00022580",
+        "allocated": true
+      },
+      "last": {
+        "type": "write",
+        "address": 145750576,
+        "size": 1920,
+        "ticks": 81909003606,
+        "pc": 144515816,
+        "tag": "GPUBlockTransfer/040cc000_size_00022580",
+        "allocated": true
+      }
+    },
+    "names": "Genta and Orin source strings byte-identical to final executable",
+    "icon_payloads_verified": [
+      "11.ppt",
+      "107.ppt",
+      "12.ppt",
+      "108.ppt",
+      "13.ppt",
+      "113.ppt",
+      "17.ppt",
+      "18.ppt",
+      "19.ppt",
+      "20.ppt"
+    ],
+    "palettes_and_pixels": "All ten byte-identical after the actual GPU transfer",
+    "game_memory_writes": false,
+    "save_state_loaded": false,
+    "texture_replacement": false
+  },
+  "tests": {
+    "result": "PASS",
+    "actual_mips_accessor_cases": 2,
+    "caller_state_and_original_size": "preserved",
+    "observed_gpu_transfer_rows": 272,
+    "stride_bytes": 2048,
+    "row_bytes": 1920,
+    "full_buffer_write_bytes": 557056,
+    "earlier_names_icons_code_and_font_pages": "byte-identical after both writes"
+  },
+  "scratch": {
+    "address": "0x8a78230",
+    "end": "0x8b00230",
+    "bytes": 557056,
+    "file_offset": "0x275230",
+    "startup_archive_bytes": 30548,
+    "startup_archive_sha256": "bb6f2d3f062211fd8a1f5a31622f81388c071ed616cb99b2bf927f4f47d0213a",
+    "original_shared_address": "0x9b7e320",
+    "allocation": "Original full writable workspace restored",
+    "framebuffer_stride": 512,
+    "framebuffer_width": 480,
+    "framebuffer_height": 272,
+    "pixel_bytes": 4
+  },
+  "screenshot": {
+    "file": "work/ui/boot-scratch-0.2.40/opening-battle.png",
+    "sha256": "77986c8aaa9e52f4054537459286a4dafa5b9041c98f4ea433a043fb334d6782"
+  },
+  "cold_boot": true,
+  "save_state_loaded": false,
+  "game_memory_writes": false,
+  "texture_replacement": false,
+  "project_and_user_saves": "All four files in each folder unchanged",
+  "github_release": false,
+  "limits": [
+    "Opening battle HUD and its preceding capture transition checked; full playthrough and physical PSP testing pending."
+  ]
+}

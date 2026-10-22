@@ -1,0 +1,11 @@
+Public screenshot fixes, local build 0.2.48
+
+Help: ore:0000c000:0019:01:0214; six reflowed lines, longest 276.857px in the existing 330px area.
+Rules: eMltGozen.mlb section 0 index 43; ASCII hyphen bullets avoid U+30FB whole-run font fallback.
+Speaker: native literal 0x08a3e20c reference replaced at 0x08914a84/0x08914a8c; appended Emperor at 0x09cfcd40.
+No added code; English literal adds eight bytes to the existing asset segment. Native name box auto-sizing retained.
+Teams: eMltGozen.mlb section 5 indexes 1..33; 27 concise names, six unchanged. 112px advance budget at 12px.
+Names remain consistent in bracket and match announcements. Full/display mappings: work/glossary/tournament-team-display.en.json.
+Inherited Circle/Triangle pages and ASCII rasters remain unchanged.
+Runtime evidence: work/ui/tournament-help-0.2.48/verification.json
+Tools: build_tournament_help.py, verify_tournament_help.py, record_tournament_help_qa.py (dry run first).

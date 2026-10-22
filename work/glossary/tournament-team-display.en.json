@@ -1,0 +1,142 @@
+{
+  "version": "0.2.48",
+  "language": "en",
+  "reason": "Readable tournament bracket labels",
+  "aliases": [
+    {
+      "id": "ore:00033000:0000:05:0001",
+      "full_name": "Abe no Seimei's Circle",
+      "display_name": "Seimei's Circle"
+    },
+    {
+      "id": "ore:00033000:0000:05:0003",
+      "full_name": "Urabe-Watanabe Coalition",
+      "display_name": "Urabe-Watanabe"
+    },
+    {
+      "id": "ore:00033000:0000:05:0004",
+      "full_name": "Kintaro Headquarters",
+      "display_name": "Kintaro HQ"
+    },
+    {
+      "id": "ore:00033000:0000:05:0005",
+      "full_name": "Suzakumon Garrison",
+      "display_name": "Suzakumon Guard"
+    },
+    {
+      "id": "ore:00033000:0000:05:0006",
+      "full_name": "Imperial Capital Defense Force",
+      "display_name": "Capital Defense"
+    },
+    {
+      "id": "ore:00033000:0000:05:0007",
+      "full_name": "Patriotic Dance Troupe",
+      "display_name": "Patriot Dancers"
+    },
+    {
+      "id": "ore:00033000:0000:05:0008",
+      "full_name": "Seishin Women's Volunteers",
+      "display_name": "Seishin Vols."
+    },
+    {
+      "id": "ore:00033000:0000:05:0009",
+      "full_name": "Ritsumeikan Three Spears",
+      "display_name": "Ritsumeikan Trio"
+    },
+    {
+      "id": "ore:00033000:0000:05:0011",
+      "full_name": "Hieizan Warrior Monks",
+      "display_name": "Hieizan Monks"
+    },
+    {
+      "id": "ore:00033000:0000:05:0012",
+      "full_name": "Fushimi Dojo Representatives",
+      "display_name": "Fushimi Dojo"
+    },
+    {
+      "id": "ore:00033000:0000:05:0013",
+      "full_name": "Modoribashi Guard",
+      "display_name": "Modoribashi Gd."
+    },
+    {
+      "id": "ore:00033000:0000:05:0014",
+      "full_name": "Keihan Mercenary Union",
+      "display_name": "Keihan Mercs"
+    },
+    {
+      "id": "ore:00033000:0000:05:0017",
+      "full_name": "Cherry Blossom Assault Team",
+      "display_name": "Blossom Assault"
+    },
+    {
+      "id": "ore:00033000:0000:05:0018",
+      "full_name": "Asahi Charge Squad",
+      "display_name": "Asahi Chargers"
+    },
+    {
+      "id": "ore:00033000:0000:05:0019",
+      "full_name": "Thirty-Three Bays Society",
+      "display_name": "33 Bays Society"
+    },
+    {
+      "id": "ore:00033000:0000:05:0020",
+      "full_name": "Stone-Fire Preservation Society",
+      "display_name": "Stone-Fire Soc."
+    },
+    {
+      "id": "ore:00033000:0000:05:0021",
+      "full_name": "Shimogamo Raiders",
+      "display_name": "Shimogamo Band"
+    },
+    {
+      "id": "ore:00033000:0000:05:0022",
+      "full_name": "White Lily Mutual Aid Society",
+      "display_name": "White Lily Aid"
+    },
+    {
+      "id": "ore:00033000:0000:05:0023",
+      "full_name": "First Star Special Attack Squad",
+      "display_name": "First Star Squad"
+    },
+    {
+      "id": "ore:00033000:0000:05:0024",
+      "full_name": "Mukomachi Uprising Squad",
+      "display_name": "Mukomachi Rebel"
+    },
+    {
+      "id": "ore:00033000:0000:05:0025",
+      "full_name": "Doshisha Boxing Club",
+      "display_name": "Doshisha Boxing"
+    },
+    {
+      "id": "ore:00033000:0000:05:0027",
+      "full_name": "Ikeda Main House Representatives",
+      "display_name": "Ikeda Main House"
+    },
+    {
+      "id": "ore:00033000:0000:05:0028",
+      "full_name": "Uzumasa Sword Friends Society",
+      "display_name": "Uzumasa Swords"
+    },
+    {
+      "id": "ore:00033000:0000:05:0030",
+      "full_name": "Honganin Select Team",
+      "display_name": "Honganin Select"
+    },
+    {
+      "id": "ore:00033000:0000:05:0031",
+      "full_name": "Kyogoku Neighborhood Association",
+      "display_name": "Kyogoku Assn."
+    },
+    {
+      "id": "ore:00033000:0000:05:0032",
+      "full_name": "Chayamachi Residents' Association",
+      "display_name": "Chayamachi Assn."
+    },
+    {
+      "id": "ore:00033000:0000:05:0033",
+      "full_name": "Maruyamacho Hooligans",
+      "display_name": "Maruyama Gang"
+    }
+  ]
+}

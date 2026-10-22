@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.2",
+  "version": "0.2.48",
   "language": "en",
   "status": "Draft translation; not an installable patch.",
   "dialogue_slices": [
@@ -811,13 +811,15 @@
       "text_offset": 3178,
       "source_sha256": "81b69ea24f155a8fc233a5905f74bc1649d457cdef24bdfd4bd613ea0eea4187",
       "category": "ui_system_help",
-      "translation_en": "[<e青s無x20]Special Selection Tournament Rules[>]\n・Items may not be used during matches.\n・Retreat changes to Surrender.",
+      "translation_en": "[<e青s無x20]Special Selection Tournament Rules[>]\n- Items may not be used during matches.\n- Retreat changes to Surrender.",
       "status": "draft",
       "kind": "tournament_announcement",
       "context": "The emperor addresses tournament contestants in an imperious, formal register. Alternative victory and defeat speeches are conditional variants. Runtime clan names remain ungendered.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_in_game_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:01:0000",
@@ -1369,13 +1371,15 @@
       "text_offset": 5002,
       "source_sha256": "88e84333ba5f10912018c39eec8092b69dcfd46113efaa77865a9a7427a3c089",
       "category": "ui_system_help",
-      "translation_en": "Abe no Seimei's Circle",
+      "translation_en": "Seimei's Circle",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0002",
@@ -1391,7 +1395,7 @@
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
       "review_notes": []
     },
@@ -1405,13 +1409,15 @@
       "text_offset": 5026,
       "source_sha256": "f18ee0521ee5863acc90f88feca51f988d23ec25f5bbebe94144f4f5e536d3e8",
       "category": "ui_system_help",
-      "translation_en": "Urabe-Watanabe Coalition",
+      "translation_en": "Urabe-Watanabe",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0004",
@@ -1423,13 +1429,15 @@
       "text_offset": 5040,
       "source_sha256": "87408ba6b194a41792deae0ebe85423907adc24cfebf60ebefe034f6f28ce95a",
       "category": "ui_system_help",
-      "translation_en": "Kintaro Headquarters",
+      "translation_en": "Kintaro HQ",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0005",
@@ -1441,13 +1449,15 @@
       "text_offset": 5052,
       "source_sha256": "c00df256904dfb077cd90187fefb38a83abb244901c819dd1a273a7fa4f338f0",
       "category": "ui_system_help",
-      "translation_en": "Suzakumon Garrison",
+      "translation_en": "Suzakumon Guard",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0006",
@@ -1459,13 +1469,15 @@
       "text_offset": 5066,
       "source_sha256": "60939b3aa6674d8b66bce9b5e2b400fb7e1baeacdce5e8a3c6f2c6b807405c4b",
       "category": "ui_system_help",
-      "translation_en": "Imperial Capital Defense Force",
+      "translation_en": "Capital Defense",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0007",
@@ -1477,13 +1489,15 @@
       "text_offset": 5078,
       "source_sha256": "ba178179d61da4ed8e674aaf763512805763901a8fc36a5d5f066f2818c09b0e",
       "category": "ui_system_help",
-      "translation_en": "Patriotic Dance Troupe",
+      "translation_en": "Patriot Dancers",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0008",
@@ -1495,13 +1509,15 @@
       "text_offset": 5090,
       "source_sha256": "53e7de457873f1d5ad95d32490e8dfdfa5bc57449b6e49073bd397b5e2ccf1c5",
       "category": "ui_system_help",
-      "translation_en": "Seishin Women's Volunteers",
+      "translation_en": "Seishin Vols.",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0009",
@@ -1513,13 +1529,15 @@
       "text_offset": 5104,
       "source_sha256": "fbc7b99af1589d0c9fb55f5cb0269528a53d78f640a1fe4a56dd23faa46bbb8e",
       "category": "ui_system_help",
-      "translation_en": "Ritsumeikan Three Spears",
+      "translation_en": "Ritsumeikan Trio",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0010",
@@ -1535,7 +1553,7 @@
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
       "review_notes": []
     },
@@ -1549,13 +1567,15 @@
       "text_offset": 5128,
       "source_sha256": "e309888336f68f9a0be56f5159666e3a45046a1d7e5c42637611e16b689082f2",
       "category": "ui_system_help",
-      "translation_en": "Hieizan Warrior Monks",
+      "translation_en": "Hieizan Monks",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0012",
@@ -1567,13 +1587,15 @@
       "text_offset": 5142,
       "source_sha256": "18fa2540ff51cf79d941f2cdf3b9a0cec3806c3d6d28378bdefed0100d4b9f3c",
       "category": "ui_system_help",
-      "translation_en": "Fushimi Dojo Representatives",
+      "translation_en": "Fushimi Dojo",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0013",
@@ -1585,13 +1607,15 @@
       "text_offset": 5156,
       "source_sha256": "92d5a80d0b361cd3dded392e748b5501efd7b3bb70878c8fc6b3577ded2f4244",
       "category": "ui_system_help",
-      "translation_en": "Modoribashi Guard",
+      "translation_en": "Modoribashi Gd.",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0014",
@@ -1603,13 +1627,15 @@
       "text_offset": 5168,
       "source_sha256": "3c2f9e31af7bfb4e0a263affe0e992a585811acd376eb0d938318795d1b2ef88",
       "category": "ui_system_help",
-      "translation_en": "Keihan Mercenary Union",
+      "translation_en": "Keihan Mercs",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0015",
@@ -1625,7 +1651,7 @@
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
       "review_notes": []
     },
@@ -1643,7 +1669,7 @@
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
       "review_notes": []
     },
@@ -1657,13 +1683,15 @@
       "text_offset": 5210,
       "source_sha256": "6ba7a4cf3cf55feb24797ee18fe4c81e125b9ff8a587592a00ce163299dfc50e",
       "category": "ui_system_help",
-      "translation_en": "Cherry Blossom Assault Team",
+      "translation_en": "Blossom Assault",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0018",
@@ -1675,13 +1703,15 @@
       "text_offset": 5222,
       "source_sha256": "0fc84f638c72203078e7c0ae5421a55d2e8e61b623f33e09e77e4c379c9a5dd4",
       "category": "ui_system_help",
-      "translation_en": "Asahi Charge Squad",
+      "translation_en": "Asahi Chargers",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0019",
@@ -1693,13 +1723,15 @@
       "text_offset": 5236,
       "source_sha256": "602f5aaceccad0fed12b9e5c9d7838ffffc80e733c086e2156c5dd935d870ff3",
       "category": "ui_system_help",
-      "translation_en": "Thirty-Three Bays Society",
+      "translation_en": "33 Bays Society",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0020",
@@ -1711,13 +1743,15 @@
       "text_offset": 5248,
       "source_sha256": "60bc886f0fcbbfca97da640cc1a6021089526441f0ebd261e30117bfc3e0c569",
       "category": "ui_system_help",
-      "translation_en": "Stone-Fire Preservation Society",
+      "translation_en": "Stone-Fire Soc.",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0021",
@@ -1729,13 +1763,15 @@
       "text_offset": 5262,
       "source_sha256": "79413fbdeed96b239fdcf513d91ba68e0c64c4dbebdff6068ac2d15b5a5d74bc",
       "category": "ui_system_help",
-      "translation_en": "Shimogamo Raiders",
+      "translation_en": "Shimogamo Band",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0022",
@@ -1747,13 +1783,15 @@
       "text_offset": 5274,
       "source_sha256": "8078ff282f6ee2f4e29613c39858296e57e766696122d5706d1a064d4810d771",
       "category": "ui_system_help",
-      "translation_en": "White Lily Mutual Aid Society",
+      "translation_en": "White Lily Aid",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0023",
@@ -1765,13 +1803,15 @@
       "text_offset": 5288,
       "source_sha256": "1ed2996ab8f9d1fafcaccb295f2fbe9c1b181aad4d8dfa14cd6e9528b229141f",
       "category": "ui_system_help",
-      "translation_en": "First Star Special Attack Squad",
+      "translation_en": "First Star Squad",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0024",
@@ -1783,13 +1823,15 @@
       "text_offset": 5302,
       "source_sha256": "d9f26863a314c89b25bbc1f8a73f836f7957c9297a8592b3e5f394c1ff17aa52",
       "category": "ui_system_help",
-      "translation_en": "Mukomachi Uprising Squad",
+      "translation_en": "Mukomachi Rebel",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0025",
@@ -1801,13 +1843,15 @@
       "text_offset": 5316,
       "source_sha256": "d144e7fe9ebbc33d3968f72dc120285ebf5281b5dd5b7b1ed00af40ed718a3ce",
       "category": "ui_system_help",
-      "translation_en": "Doshisha Boxing Club",
+      "translation_en": "Doshisha Boxing",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0026",
@@ -1823,7 +1867,7 @@
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
       "review_notes": []
     },
@@ -1837,13 +1881,15 @@
       "text_offset": 5336,
       "source_sha256": "a4dd612091e021c1121e4f8c741e3917d9641c3dbacf98148740a01d14495b44",
       "category": "ui_system_help",
-      "translation_en": "Ikeda Main House Representatives",
+      "translation_en": "Ikeda Main House",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0028",
@@ -1855,13 +1901,15 @@
       "text_offset": 5350,
       "source_sha256": "29e9dc31a257d6be3028b1cd9a7c85543006756163ca09ad7039e6461615e0c1",
       "category": "ui_system_help",
-      "translation_en": "Uzumasa Sword Friends Society",
+      "translation_en": "Uzumasa Swords",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0029",
@@ -1877,7 +1925,7 @@
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
       "review_notes": []
     },
@@ -1891,13 +1939,15 @@
       "text_offset": 5374,
       "source_sha256": "dd9e53bc28e081f4e1b228c2d0b06942398bc6c8c22d92cca9d128b483af0767",
       "category": "ui_system_help",
-      "translation_en": "Honganin Select Team",
+      "translation_en": "Honganin Select",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0031",
@@ -1909,13 +1959,15 @@
       "text_offset": 5386,
       "source_sha256": "08befb91080a46cd3a43af5b16747eb91720b4b1418b81d5e3c778978ac3fc8c",
       "category": "ui_system_help",
-      "translation_en": "Kyogoku Neighborhood Association",
+      "translation_en": "Kyogoku Assn.",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0032",
@@ -1927,13 +1979,15 @@
       "text_offset": 5398,
       "source_sha256": "0e0090b8327f9c8c6d6b524bd3d89c1682bbe9919c9b307ee10b03ae6895a3b0",
       "category": "ui_system_help",
-      "translation_en": "Chayamachi Residents' Association",
+      "translation_en": "Chayamachi Assn.",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:00033000:0000:05:0033",
@@ -1945,13 +1999,15 @@
       "text_offset": 5412,
       "source_sha256": "0645d54401ef4ed37892c5be4c55002fe4a024b06f5043dcf67d704707597779",
       "category": "ui_system_help",
-      "translation_en": "Maruyamacho Hooligans",
+      "translation_en": "Maruyama Gang",
       "status": "draft",
       "kind": "tournament_team_name",
       "context": "Selection Tournament organizations. Proper names follow roster readings; institutional puns retained through project spellings rather than identifying real organizations as participants.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "measured_bracket_0.2.48",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
+      ]
     },
     {
       "id": "ore:0326e800:0000:00:0000",

@@ -1,0 +1,9 @@
+Help dialogue layout, local build 0.2.45
+
+FAQ view constructor: 0x088fa6b4; six-line window at view+0x110.
+Width instruction 0x088fa718: 0x2405012c -> 0x24050150 (300 -> 336).
+Frame: [8,144,336,120]. Native text area: 330px. Reported longest line: 311.14px.
+Background sprite: window+0x130; vertex colors at +0x220. Texture and vertex alpha 255, sprite and inherited opacity 1.0: already opaque.
+No words, scripts, controls or story-dialogue opacity changed. No added code/RAM.
+Runtime evidence: work/ui/help-dialogue-0.2.45/verification.json
+Tools: build_help_dialogue.py, verify_help_runtime.py, record_help_qa.py (dry run first).

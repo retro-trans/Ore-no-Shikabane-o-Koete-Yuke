@@ -5,26 +5,28 @@ English fan translation of the Japanese PSP game **Ore no Shikabane o Koete Yuke
 This repository contains translation text, glossaries, UI metadata and tools;
 game images, extracted data, saves and Japanese working scripts remain local.
 
-Current local test build: **0.2.38**, 2026-10-18; archive-text draft: **0.2.38**.
+Current release: **0.2.48**, 2026-10-22; tested image built 2026-10-18.
 
 ## Applying the patch
 
 Use the latest [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest) app:
 
-1. Click **Refresh catalog**, open **Automatic**, and select your original Japanese ISO.
-2. Select **Ore no Shikabane o Koete Yuke**, choose **0.2.38** or **Latest**, and select a new output filename.
+1. Click **Refresh catalog**, open **Automatic**, and select your original Japanese ISO or patched **0.2.38** ISO.
+2. Select **Ore no Shikabane o Koete Yuke**, choose **0.2.48** or **Latest**, and select a new output filename.
 3. Apply the patch. The app verifies the source and the complete resulting image.
 
-For manual patching, download `OreNoShikabane-English-0.2.38-compact.xdelta` from
+For manual patching, download `OreNoShikabane-English-0.2.48-full.xdelta` from
 [Releases](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/latest) and use xdelta3 or Delta Patcher:
 
 ```text
-xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.38-compact.xdelta "Ore no Shikabane o Koete Yuke English 0.2.38.iso"
+xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.48-full.xdelta "Ore no Shikabane o Koete Yuke English 0.2.48.iso"
 ```
 
 Compare the source/output sizes and SHA-256 values with the release's
-`BUILD-MANIFEST.json`. Only the supported original Japanese ISO is an input to
-this first release. Boot the patched ISO fresh and load a normal save; older save
+`BUILD-MANIFEST.json`. To upgrade a patched **0.2.38** image, use
+`OreNoShikabane-English-0.2.38-to-0.2.48.xdelta` with that image as the source.
+Local test builds 0.2.39–0.2.47 are not supported patch inputs.
+Boot the patched ISO fresh and load a normal save; older save
 states retain old text and graphics in memory. The image has a decrypted EBOOT
 and has been tested in PPSSPP. Physical PSP testing remains pending.
 
@@ -36,12 +38,15 @@ and has been tested in PPSSPP. Physical PSP testing remains pending.
 - Latin name entry and Auto-name choices, translated native UI artwork, compact battle item names, wider menus, complete character traits, and clearer status/battle displays.
 - Original Oreshika: Tainted Bloodlines vital/element icon designs adapted to native PSP UI slots.
 - Wider story dialogue with a partly transparent background, and a wider home-menu description panel that keeps both Rest help lines inside its frame.
+- Fixes since 0.2.38 include a critical fresh-boot scratch-memory corruption fix, native Circle/Triangle glyphs, prologue wrapping, wider party/help/class menus, clearer weather and Divine Union layouts, and tournament labels and brackets.
 
 **This is an early draft build. Human proofreading and full-game playtesting are needed.**
 Selected setup, inventory, shops, character/status, battle and home screens were
 checked in PPSSPP; the whole game has not been played through. Some names/readings
 are provisional, some decorative Japanese artwork remains, and other dynamic or
 long text may still need layout work. Audio remains Japanese.
+The wider class-description panel has static checks for all eight descriptions;
+visual verification of the new-child class-selection screen remains pending.
 
 The translation was produced with large language models and edited using scene
 context and a project glossary. Testing and uncertainty are recorded in

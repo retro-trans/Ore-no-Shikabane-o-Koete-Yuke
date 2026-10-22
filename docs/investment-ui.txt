@@ -1,0 +1,26 @@
+Build 0.2.43: investment ribbon and currency
+
+The left ribbon is member18, 225.ppt, in the original root archive at
+0x00b4a800. It now reads INVESTMENT in the same English ribbon style as the
+earlier month/shop ribbons: Noto Sans20, original diamond pattern, T4 pixels,
+96x264 storage, 44x260 logical geometry, 88x260 physical UVs. The 13,744-byte
+decompressed resource size is unchanged; the existing native renderer handles
+the tagged image without texture replacements or additional executable RAM.
+
+The editable investment amount uses a separate EUC-JP currency literal at
+0x08a40d5c, passed to the native text setter at 0x0892e89c. Its original four
+bytes (two-byte currency character, terminator, padding) become ryo plus the
+terminator. Neighboring bytes and all code remain unchanged. Numeric editing,
+values, category IDs, effects and all script records are unchanged.
+
+tools/build_investment_ui.py defaults to dry run, --write builds from guarded
+0.2.42 hashes, checks all unrelated payloads and changes the title to0.2.43.
+tools/verify_left_banner_runtime.py now accepts explicit build/report paths,
+retaining its original 0.2.32 defaults. The final ISO's ribbon pixels, palette,
+dimensions and UVs are verified directly at the native rendering hook.
+
+Evidence: work/ui/investment-0.2.43/. Actual rendered currency is observed with
+the read-only text ancestor tracer. Captures cover the list, zero and nonzero
+editable Public Works amounts; the amount is cancelled without investing.
+Original project-profile saves are restored after testing. User-source saves
+are only read/copied. Local build only; no GitHub release was requested.

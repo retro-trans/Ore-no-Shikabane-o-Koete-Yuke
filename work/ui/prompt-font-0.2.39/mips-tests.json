@@ -1,0 +1,8 @@
+{
+  "result": "PASS",
+  "mips_cases": 12,
+  "glyph_geometry_checks": 343,
+  "unchanged_ascii_rasters": 190,
+  "fallback_preserves_entire_objects": true,
+  "caller_state_preserved": true
+}

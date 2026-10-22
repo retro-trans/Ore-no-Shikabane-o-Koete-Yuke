@@ -1,0 +1,44 @@
+{
+  "version": "0.2.40",
+  "result": "PASS",
+  "active_scratch": "0x8a78230",
+  "bytes": 557056,
+  "actual_gpu_transfer": {
+    "rows": 272,
+    "first": {
+      "type": "write",
+      "address": 145195568,
+      "size": 1920,
+      "ticks": 81909003606,
+      "pc": 144515816,
+      "tag": "GPUBlockTransfer/040cc000_size_00022580",
+      "allocated": true
+    },
+    "last": {
+      "type": "write",
+      "address": 145750576,
+      "size": 1920,
+      "ticks": 81909003606,
+      "pc": 144515816,
+      "tag": "GPUBlockTransfer/040cc000_size_00022580",
+      "allocated": true
+    }
+  },
+  "names": "Genta and Orin source strings byte-identical to final executable",
+  "icon_payloads_verified": [
+    "11.ppt",
+    "107.ppt",
+    "12.ppt",
+    "108.ppt",
+    "13.ppt",
+    "113.ppt",
+    "17.ppt",
+    "18.ppt",
+    "19.ppt",
+    "20.ppt"
+  ],
+  "palettes_and_pixels": "All ten byte-identical after the actual GPU transfer",
+  "game_memory_writes": false,
+  "save_state_loaded": false,
+  "texture_replacement": false
+}

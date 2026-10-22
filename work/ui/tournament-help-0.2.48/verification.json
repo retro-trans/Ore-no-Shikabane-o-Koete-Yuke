@@ -1,0 +1,456 @@
+{
+  "version": "0.2.48",
+  "result": "PASS: Help reflow, HD rule bullets, Emperor speaker label, sampled 16-team bracket and HD Circle prompt verified",
+  "iso": {
+    "version": "0.2.48",
+    "file": "work/output/english-native-0.2.48.iso",
+    "bytes": 1081337856,
+    "sha256": "43569c29fb58ece6ade5f02f4ac39ea8df86041ba6bce7fc461f7293e1dcc907"
+  },
+  "runtime": {
+    "version": "0.2.48",
+    "result": "PASS",
+    "help_lines": [
+      "Um... Well... What I mean is...",
+      "If you could prepare yourself and think,",
+      "\"Perhaps it's almost time.",
+      "I'll make ○○ the next head,\"",
+      "it would make things a little easier for me too...",
+      "I'm sorry for being so selfish."
+    ],
+    "help_font": "Native HD ASCII/Circle pages; no fallback",
+    "rules": [
+      "- Items may not be used during matches.",
+      "- Retreat changes to Surrender."
+    ],
+    "speaker": "Emperor",
+    "rules_font": "0x9b5c010",
+    "bracket_footer": "Press ○ to begin the match.",
+    "footer_font": "0x9cbc5d0",
+    "observed_fixed_teams": [
+      "33 Bays Society",
+      "Asahi Chargers",
+      "Blossom Assault",
+      "Chayamachi Assn.",
+      "Doshisha Boxing",
+      "Honganin Select",
+      "Ikeda Main House",
+      "Keihan Mercs",
+      "Kyogoku Assn.",
+      "Modoribashi Gd.",
+      "Oharano Sorcerers",
+      "Peach Group",
+      "Ponto Vigilantes",
+      "Rakuraku Club",
+      "Stone-Fire Soc."
+    ],
+    "all_fixed_teams_measured": 33,
+    "native_literal_patches": [
+      {
+        "address": "0x8914a84",
+        "word": "0x3c0409d0"
+      },
+      {
+        "address": "0x8914a8c",
+        "word": "0x2484cd40"
+      }
+    ],
+    "literal_bytes": "456d7065726f7200",
+    "guest_memory_writes": false,
+    "save_state_loaded": false,
+    "texture_replacement": false
+  },
+  "screenshots": [
+    {
+      "file": "work/ui/tournament-help-0.2.48/title.png",
+      "sha256": "126b63a98161a650557cd8cec062d133eea5d5931b167416b571bf134196ba5a"
+    },
+    {
+      "file": "work/ui/tournament-help-0.2.48/help.png",
+      "sha256": "63eeb7c7fe0a6fed9dc6e5ab757d83220549f599ecc78a26879d7befac0b3759"
+    },
+    {
+      "file": "work/ui/tournament-help-0.2.48/rules.png",
+      "sha256": "518c0689fe9cd0f7c032dc347e89bdcc032b8630bcd812a6a7d430fc208d66bd"
+    },
+    {
+      "file": "work/ui/tournament-help-0.2.48/bracket.png",
+      "sha256": "d9d3ba3963f55274310b4d7525485b4eb135e3a7419d9298fce44da57712c73e"
+    }
+  ],
+  "checks": {
+    "help": "Every word and punctuation retained; six lines within the existing 330px area",
+    "font": "Rules use ASCII list markers; existing 0.2.39 Circle/Triangle font support retained",
+    "teams": "All 33 fixed teams measured within 112px at 12px; six already-fitting names unchanged",
+    "controls": "Unchanged",
+    "archive": "Changed rows and title only; other rows and member/root payloads checked unchanged",
+    "executable": "Two literal pointer arguments and segment byte counts; 8-byte English literal, no added code",
+    "prior_fixes": "Preserved"
+  },
+  "team_fit": [
+    {
+      "id": "ore:00033000:0000:05:0001",
+      "text": "Seimei's Circle",
+      "advance": 84.0,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0002",
+      "text": "Yorimitsu's Band",
+      "advance": 98.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0003",
+      "text": "Urabe-Watanabe",
+      "advance": 98.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0004",
+      "text": "Kintaro HQ",
+      "advance": 65.143,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0005",
+      "text": "Suzakumon Guard",
+      "advance": 108.857,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0006",
+      "text": "Capital Defense",
+      "advance": 92.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0007",
+      "text": "Patriot Dancers",
+      "advance": 90.857,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0008",
+      "text": "Seishin Vols.",
+      "advance": 73.714,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0009",
+      "text": "Ritsumeikan Trio",
+      "advance": 98.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0010",
+      "text": "Bishamon Society",
+      "advance": 103.714,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0011",
+      "text": "Hieizan Monks",
+      "advance": 86.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0012",
+      "text": "Fushimi Dojo",
+      "advance": 78.857,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0013",
+      "text": "Modoribashi Gd.",
+      "advance": 98.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0014",
+      "text": "Keihan Mercs",
+      "advance": 78.857,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0015",
+      "text": "Ponto Vigilantes",
+      "advance": 96.0,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0016",
+      "text": "Oharano Sorcerers",
+      "advance": 110.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0017",
+      "text": "Blossom Assault",
+      "advance": 95.143,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0018",
+      "text": "Asahi Chargers",
+      "advance": 88.286,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0019",
+      "text": "33 Bays Society",
+      "advance": 90.0,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0020",
+      "text": "Stone-Fire Soc.",
+      "advance": 87.429,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0021",
+      "text": "Shimogamo Band",
+      "advance": 103.714,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0022",
+      "text": "White Lily Aid",
+      "advance": 79.714,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0023",
+      "text": "First Star Squad",
+      "advance": 92.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0024",
+      "text": "Mukomachi Rebel",
+      "advance": 104.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0025",
+      "text": "Doshisha Boxing",
+      "advance": 99.429,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0026",
+      "text": "Peach Group",
+      "advance": 76.286,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0027",
+      "text": "Ikeda Main House",
+      "advance": 106.286,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0028",
+      "text": "Uzumasa Swords",
+      "advance": 100.286,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0029",
+      "text": "Rakuraku Club",
+      "advance": 85.714,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0030",
+      "text": "Honganin Select",
+      "advance": 96.0,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0031",
+      "text": "Kyogoku Assn.",
+      "advance": 86.571,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0032",
+      "text": "Chayamachi Assn.",
+      "advance": 105.429,
+      "budget": 112
+    },
+    {
+      "id": "ore:00033000:0000:05:0033",
+      "text": "Maruyama Gang",
+      "advance": 97.714,
+      "budget": 112
+    }
+  ],
+  "team_aliases": [
+    {
+      "id": "ore:00033000:0000:05:0001",
+      "full_name": "Abe no Seimei's Circle",
+      "display_name": "Seimei's Circle"
+    },
+    {
+      "id": "ore:00033000:0000:05:0003",
+      "full_name": "Urabe-Watanabe Coalition",
+      "display_name": "Urabe-Watanabe"
+    },
+    {
+      "id": "ore:00033000:0000:05:0004",
+      "full_name": "Kintaro Headquarters",
+      "display_name": "Kintaro HQ"
+    },
+    {
+      "id": "ore:00033000:0000:05:0005",
+      "full_name": "Suzakumon Garrison",
+      "display_name": "Suzakumon Guard"
+    },
+    {
+      "id": "ore:00033000:0000:05:0006",
+      "full_name": "Imperial Capital Defense Force",
+      "display_name": "Capital Defense"
+    },
+    {
+      "id": "ore:00033000:0000:05:0007",
+      "full_name": "Patriotic Dance Troupe",
+      "display_name": "Patriot Dancers"
+    },
+    {
+      "id": "ore:00033000:0000:05:0008",
+      "full_name": "Seishin Women's Volunteers",
+      "display_name": "Seishin Vols."
+    },
+    {
+      "id": "ore:00033000:0000:05:0009",
+      "full_name": "Ritsumeikan Three Spears",
+      "display_name": "Ritsumeikan Trio"
+    },
+    {
+      "id": "ore:00033000:0000:05:0011",
+      "full_name": "Hieizan Warrior Monks",
+      "display_name": "Hieizan Monks"
+    },
+    {
+      "id": "ore:00033000:0000:05:0012",
+      "full_name": "Fushimi Dojo Representatives",
+      "display_name": "Fushimi Dojo"
+    },
+    {
+      "id": "ore:00033000:0000:05:0013",
+      "full_name": "Modoribashi Guard",
+      "display_name": "Modoribashi Gd."
+    },
+    {
+      "id": "ore:00033000:0000:05:0014",
+      "full_name": "Keihan Mercenary Union",
+      "display_name": "Keihan Mercs"
+    },
+    {
+      "id": "ore:00033000:0000:05:0017",
+      "full_name": "Cherry Blossom Assault Team",
+      "display_name": "Blossom Assault"
+    },
+    {
+      "id": "ore:00033000:0000:05:0018",
+      "full_name": "Asahi Charge Squad",
+      "display_name": "Asahi Chargers"
+    },
+    {
+      "id": "ore:00033000:0000:05:0019",
+      "full_name": "Thirty-Three Bays Society",
+      "display_name": "33 Bays Society"
+    },
+    {
+      "id": "ore:00033000:0000:05:0020",
+      "full_name": "Stone-Fire Preservation Society",
+      "display_name": "Stone-Fire Soc."
+    },
+    {
+      "id": "ore:00033000:0000:05:0021",
+      "full_name": "Shimogamo Raiders",
+      "display_name": "Shimogamo Band"
+    },
+    {
+      "id": "ore:00033000:0000:05:0022",
+      "full_name": "White Lily Mutual Aid Society",
+      "display_name": "White Lily Aid"
+    },
+    {
+      "id": "ore:00033000:0000:05:0023",
+      "full_name": "First Star Special Attack Squad",
+      "display_name": "First Star Squad"
+    },
+    {
+      "id": "ore:00033000:0000:05:0024",
+      "full_name": "Mukomachi Uprising Squad",
+      "display_name": "Mukomachi Rebel"
+    },
+    {
+      "id": "ore:00033000:0000:05:0025",
+      "full_name": "Doshisha Boxing Club",
+      "display_name": "Doshisha Boxing"
+    },
+    {
+      "id": "ore:00033000:0000:05:0027",
+      "full_name": "Ikeda Main House Representatives",
+      "display_name": "Ikeda Main House"
+    },
+    {
+      "id": "ore:00033000:0000:05:0028",
+      "full_name": "Uzumasa Sword Friends Society",
+      "display_name": "Uzumasa Swords"
+    },
+    {
+      "id": "ore:00033000:0000:05:0030",
+      "full_name": "Honganin Select Team",
+      "display_name": "Honganin Select"
+    },
+    {
+      "id": "ore:00033000:0000:05:0031",
+      "full_name": "Kyogoku Neighborhood Association",
+      "display_name": "Kyogoku Assn."
+    },
+    {
+      "id": "ore:00033000:0000:05:0032",
+      "full_name": "Chayamachi Residents' Association",
+      "display_name": "Chayamachi Assn."
+    },
+    {
+      "id": "ore:00033000:0000:05:0033",
+      "full_name": "Maruyamacho Hooligans",
+      "display_name": "Maruyama Gang"
+    }
+  ],
+  "save_preservation": {
+    "version": "0.2.48",
+    "result": "PASS",
+    "original_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "restored_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "user_source_written": false,
+    "user_source_unchanged": true,
+    "save_states_loaded": false
+  },
+  "save_state_loaded": false,
+  "texture_replacement": false,
+  "gameplay_memory_writes": false,
+  "tournament_match_started": false,
+  "github_release": false,
+  "limits": [
+    "All 33 fixed team names measured; one natural draw containing 15 fixed teams and Karasuma Clan visually checked.",
+    "Other draws, extreme player-clan letter widths, other tournament rounds, and physical PSP not tested.",
+    "The existing 0.2.39 Circle font fix and 0.2.45 Help width are inherited; no new font code added."
+  ]
+}

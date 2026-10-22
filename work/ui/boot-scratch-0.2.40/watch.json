@@ -1,0 +1,40 @@
+{
+  "result": "PASS",
+  "status": {
+    "event": "cpu.status",
+    "ticket": "d3a6043e-860c-4f58-bf65-d2d7ab58d935",
+    "stepping": true,
+    "paused": false,
+    "pc": 144515816,
+    "ticks": 63553469711
+  },
+  "breakpoints": [
+    {
+      "address": 163076724,
+      "size": 24,
+      "enabled": true,
+      "log": false,
+      "read": false,
+      "write": true,
+      "change": true,
+      "hits": 0,
+      "condition": null,
+      "logFormat": null,
+      "symbol": null
+    },
+    {
+      "address": 145195568,
+      "size": 4,
+      "enabled": true,
+      "log": false,
+      "read": false,
+      "write": true,
+      "change": true,
+      "hits": 1,
+      "condition": null,
+      "logFormat": null,
+      "symbol": null
+    }
+  ],
+  "game_memory_writes": false
+}

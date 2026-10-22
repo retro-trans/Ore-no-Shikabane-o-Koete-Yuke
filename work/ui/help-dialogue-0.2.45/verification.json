@@ -1,0 +1,127 @@
+{
+  "version": "0.2.45",
+  "result": "PASS: wider six-line Help panel, complete text inside its frame, opaque background confirmed",
+  "iso": {
+    "version": "0.2.45",
+    "file": "work/output/english-native-0.2.45.iso",
+    "bytes": 1081337856,
+    "sha256": "cb0e5fc4f00925a9978f1e460db5fcbdf917ef8474c6be91943a6387657d3863"
+  },
+  "layout": {
+    "before": [
+      8,
+      144,
+      300,
+      120
+    ],
+    "after": [
+      8,
+      144,
+      336,
+      120
+    ],
+    "text_width": 330,
+    "background_opacity": "Already fully opaque in the native Help class: texture/vertex alpha 255, sprite and ancestor opacity 1.0. Retained."
+  },
+  "runtime": {
+    "version": "0.2.45",
+    "result": "PASS",
+    "geometry": [
+      8,
+      144,
+      336,
+      120
+    ],
+    "background": {
+      "vertex_alpha": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "palette_alpha": [
+        255
+      ],
+      "sprite_opacity": 1.0,
+      "ancestor_opacities": [
+        {
+          "object": "0x9e2be20",
+          "value": 1.0
+        },
+        {
+          "object": "0x9e2bd10",
+          "value": 1.0
+        },
+        {
+          "object": "0x97a64b0",
+          "value": 1.0
+        }
+      ],
+      "conclusion": "Fully opaque; existing native settings retained"
+    },
+    "text": "remember this before you panic or have an accident.",
+    "guest_memory_writes": false,
+    "save_state_loaded": false,
+    "runtime_patch": "0x24050150 at 0x088fa718",
+    "texture_replacement": false
+  },
+  "measured_example": {
+    "id": "ore:0000c000:0019:01:0301",
+    "translation_en": "While a window is open,\ntime stops completely,\neven while traveling.\nIf the phone suddenly rings or nature calls,\nremember this before you panic or have an accident.\nPlease put it to good use.",
+    "line_advances": [
+      141.42857142857142,
+      132.0,
+      121.71428571428571,
+      254.57142857142858,
+      311.14285714285717,
+      149.14285714285714
+    ]
+  },
+  "screenshots": [
+    {
+      "file": "work/ui/help-dialogue-0.2.45/title.png",
+      "sha256": "9327ce904219ef335f058e6a02055d3dc68f773be512955499fb7c9b366b9659"
+    },
+    {
+      "file": "work/ui/help-dialogue-0.2.45/faq-after.png",
+      "sha256": "bf9de48368d15976818549bd7856b06e94ce3219d7355cef0437b0b9fffc408f"
+    },
+    {
+      "file": "work/ui/help-dialogue-0.2.45/overflow-after.png",
+      "sha256": "996553baa7ad9fc0a1e9aa14f8a446ef6d1d5cc07fd9c45159fb21cfdfeaa9d7"
+    }
+  ],
+  "checks": {
+    "executable": "Only one guarded width argument; no new code or RAM",
+    "wording_and_controls": "Unchanged",
+    "archive": "Title version only; every other payload byte-identical",
+    "prior_fixes": "Preserved",
+    "story_dialogue_opacity": "Unchanged"
+  },
+  "save_preservation": {
+    "version": "0.2.45",
+    "result": "PASS",
+    "original_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "restored_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "user_source_written": false,
+    "user_source_unchanged": true,
+    "save_states_loaded": false
+  },
+  "texture_replacement": false,
+  "save_state_loaded": false,
+  "github_release": false,
+  "limits": [
+    "Verified the first two Passage of Time Help pages in a cold-started software PPSSPP instance.",
+    "Other Help topics and physical PSP not visually tested. The inherited 0.2.44 class-screen runtime check remains pending."
+  ]
+}

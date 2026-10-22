@@ -1,4 +1,9 @@
-"""Translate the embedded startup disclaimer. Dry run unless --write."""
+"""Historical 0.2.23 disclaimer builder. Dry run unless --write.
+
+Its shared archive pointer is reused as framebuffer scratch later. Follow this
+historical stage with build_boot_scratch.py (0.2.40); the archive-only reservation
+below must never be treated as a complete safe framebuffer allocation.
+"""
 import argparse,hashlib,json,struct
 from PIL import Image,ImageDraw,ImageFont
 from catalog_text import ROOT

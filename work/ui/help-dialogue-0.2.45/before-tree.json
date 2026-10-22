@@ -1,0 +1,57 @@
+[
+  {
+    "text": "of real time on average.",
+    "ancestors": [
+      {
+        "object": "0x9e2e1b0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2e070",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          96,
+          294,
+          18
+        ]
+      },
+      {
+        "object": "0x9e2ca50",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          8,
+          144,
+          300,
+          120
+        ]
+      },
+      {
+        "object": "0x9e2c940",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

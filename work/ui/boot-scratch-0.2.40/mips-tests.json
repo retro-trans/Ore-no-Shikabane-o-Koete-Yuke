@@ -1,0 +1,10 @@
+{
+  "result": "PASS",
+  "actual_mips_accessor_cases": 2,
+  "caller_state_and_original_size": "preserved",
+  "observed_gpu_transfer_rows": 272,
+  "stride_bytes": 2048,
+  "row_bytes": 1920,
+  "full_buffer_write_bytes": 557056,
+  "earlier_names_icons_code_and_font_pages": "byte-identical after both writes"
+}

@@ -1,0 +1,372 @@
+[
+  {
+    "text": "0 ryo",
+    "ancestors": [
+      {
+        "object": "0x9e2c250",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3254255616,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2c110",
+        "vtable": "0x8a22298",
+        "geometry": [
+          300,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bda0",
+        "vtable": "0x8a41068",
+        "geometry": [
+          10,
+          26,
+          300,
+          16
+        ]
+      },
+      {
+        "object": "0x9e33cf0",
+        "vtable": "0x8a40f00",
+        "geometry": [
+          105,
+          82,
+          320,
+          106
+        ]
+      },
+      {
+        "object": "0x9e306b0",
+        "vtable": "0x8a40d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "0 ryo",
+    "ancestors": [
+      {
+        "object": "0x9e2cd70",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3254255616,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2cc30",
+        "vtable": "0x8a22298",
+        "geometry": [
+          300,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2c8c0",
+        "vtable": "0x8a41068",
+        "geometry": [
+          10,
+          44,
+          300,
+          16
+        ]
+      },
+      {
+        "object": "0x9e33cf0",
+        "vtable": "0x8a40f00",
+        "geometry": [
+          105,
+          82,
+          320,
+          106
+        ]
+      },
+      {
+        "object": "0x9e306b0",
+        "vtable": "0x8a40d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "0 ryo",
+    "ancestors": [
+      {
+        "object": "0x9e2d890",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3254255616,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2d750",
+        "vtable": "0x8a22298",
+        "geometry": [
+          300,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2d3e0",
+        "vtable": "0x8a41068",
+        "geometry": [
+          10,
+          62,
+          300,
+          16
+        ]
+      },
+      {
+        "object": "0x9e33cf0",
+        "vtable": "0x8a40f00",
+        "geometry": [
+          105,
+          82,
+          320,
+          106
+        ]
+      },
+      {
+        "object": "0x9e306b0",
+        "vtable": "0x8a40d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "0 ryo",
+    "ancestors": [
+      {
+        "object": "0x9e2e3b0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3254255616,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2e270",
+        "vtable": "0x8a22298",
+        "geometry": [
+          300,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2df00",
+        "vtable": "0x8a41068",
+        "geometry": [
+          10,
+          80,
+          300,
+          16
+        ]
+      },
+      {
+        "object": "0x9e33cf0",
+        "vtable": "0x8a40f00",
+        "geometry": [
+          105,
+          82,
+          320,
+          106
+        ]
+      },
+      {
+        "object": "0x9e306b0",
+        "vtable": "0x8a40d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "1052 ryo",
+    "ancestors": [
+      {
+        "object": "0x9e31780",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e31640",
+        "vtable": "0x8a22298",
+        "geometry": [
+          109,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e312d0",
+        "vtable": "0x8a443f0",
+        "geometry": [
+          10,
+          4,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e308a0",
+        "vtable": "0x8a44540",
+        "geometry": [
+          290,
+          10,
+          180,
+          24
+        ]
+      },
+      {
+        "object": "0x9e306b0",
+        "vtable": "0x8a40d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "ryo",
+    "ancestors": [
+      {
+        "object": "0x9e3d540",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3d400",
+        "vtable": "0x8a22298",
+        "geometry": [
+          152,
+          46,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3a870",
+        "vtable": "0x8a1fec0",
+        "geometry": [
+          123,
+          100,
+          233,
+          72
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

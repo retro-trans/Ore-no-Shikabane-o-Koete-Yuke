@@ -1,0 +1,502 @@
+[
+  {
+    "text": "Karasuma Hayate",
+    "ancestors": [
+      {
+        "object": "0x9e2cbd0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2ca90",
+        "vtable": "0x8a22298",
+        "geometry": [
+          87,
+          144,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bd40",
+        "vtable": "0x8a42a48",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Male",
+    "ancestors": [
+      {
+        "object": "0x9e2ce30",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3252682752,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2ccf0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          227,
+          144,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bd40",
+        "vtable": "0x8a42a48",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "1 yr",
+    "ancestors": [
+      {
+        "object": "0x9e2d090",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2cf50",
+        "vtable": "0x8a22298",
+        "geometry": [
+          87,
+          160,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bd40",
+        "vtable": "0x8a42a48",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "\u00a00 mo",
+    "ancestors": [
+      {
+        "object": "0x9e3c370",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1102577664,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2cf50",
+        "vtable": "0x8a22298",
+        "geometry": [
+          87,
+          160,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bd40",
+        "vtable": "0x8a42a48",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Sasara no Oen",
+    "ancestors": [
+      {
+        "object": "0x9e2de00",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2dcc0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          299,
+          144,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bd40",
+        "vtable": "0x8a42a48",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Offering Points Required",
+    "ancestors": [
+      {
+        "object": "0x9e2e140",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2e000",
+        "vtable": "0x8a22298",
+        "geometry": [
+          299,
+          162,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bd40",
+        "vtable": "0x8a42a48",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "13",
+    "ancestors": [
+      {
+        "object": "0x9e2e3a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3242196992,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2e260",
+        "vtable": "0x8a22298",
+        "geometry": [
+          447,
+          178,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2bd40",
+        "vtable": "0x8a42a48",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "These two, correct?",
+    "ancestors": [
+      {
+        "object": "0x9e3c970",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c830",
+        "vtable": "0x8a22298",
+        "geometry": [
+          10,
+          10,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3d430",
+        "vtable": "0x8a20018",
+        "geometry": [
+          0,
+          0,
+          182,
+          54
+        ]
+      },
+      {
+        "object": "0x9e3c720",
+        "vtable": "0x8a216c0",
+        "geometry": [
+          174,
+          199,
+          182,
+          54
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Yes",
+    "ancestors": [
+      {
+        "object": "0x9e3fc50",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3fb10",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          20,
+          16
+        ]
+      },
+      {
+        "object": "0x9e3fa00",
+        "vtable": "0x8a20170",
+        "geometry": [
+          63,
+          28,
+          20,
+          16
+        ]
+      },
+      {
+        "object": "0x9e3d430",
+        "vtable": "0x8a20018",
+        "geometry": [
+          0,
+          0,
+          182,
+          54
+        ]
+      },
+      {
+        "object": "0x9e3c720",
+        "vtable": "0x8a216c0",
+        "geometry": [
+          174,
+          199,
+          182,
+          54
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "No",
+    "ancestors": [
+      {
+        "object": "0x9e3ffc0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1065353216,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3fe80",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          20,
+          16
+        ]
+      },
+      {
+        "object": "0x9e3fd70",
+        "vtable": "0x8a20170",
+        "geometry": [
+          123,
+          28,
+          20,
+          16
+        ]
+      },
+      {
+        "object": "0x9e3d430",
+        "vtable": "0x8a20018",
+        "geometry": [
+          0,
+          0,
+          182,
+          54
+        ]
+      },
+      {
+        "object": "0x9e3c720",
+        "vtable": "0x8a216c0",
+        "geometry": [
+          174,
+          199,
+          182,
+          54
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

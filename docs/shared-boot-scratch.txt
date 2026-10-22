@@ -1,0 +1,46 @@
+Shared startup/framebuffer scratch — local build 0.2.40
+
+Cause
+
+Build 0.2.23 moved the embedded English startup archive to 0x09b7e320.
+The two accessors at 0x0881ad34 and 0x0881ad4c were initially identified
+as archive accessors. Later code at 0x08898a18 also borrows the first one's
+pointer for a screen capture; its original size argument is 0x88000 bytes.
+Only the 30,548-byte archive had been reserved at the new location.
+
+A cold prologue replay and memory watch caught an actual GPUBlockTransfer
+from 0x040cc000 into that pointer: 272 rows, 1,920 bytes per row, on a
+2,048-byte stride. It overwrote the added Genta/Orin strings, compact vital
+icons, and other patch code/assets. This accounts for the user's corrupt
+names and black HUD icons. It also explains the earlier prologue transition
+failures recorded on builds 0.2.24 and 0.2.25. A save state is not required.
+
+Fix
+
+The unchanged English startup archive returns to the original full writable
+workspace at 0x08a78230..0x08b00230. Its 30,548 bytes fit inside the original
+31,252-byte archive slot, followed by existing zero padding. Both accessors
+return that original pointer. Its size and shared lifetime are preserved.
+Startup reads the English archive; the later capture can safely reuse it.
+The earlier relocated copy and all other existing patch assets remain intact.
+
+Only four guarded pointer instructions and the original archive slot change.
+No executable/RAM space is added. A separate appended 0x88000-byte reservation
+was tested and rejected because it exhausted startup libc heap headroom;
+that failed diagnostic ISO is retained locally outside the delivered output.
+The data.ore payload changes only its title version. English wording,
+controls, font/icon artwork, stat values and save records are unchanged.
+
+Verification
+
+test_boot_scratch.py executes both actual MIPS accessors with caller-state
+checks, then repeats the observed GPU row writes and a complete buffer write.
+Both writes leave every earlier code/asset byte intact.
+verify_boot_scratch_runtime.py checks the final ISO's real GPU write ranges,
+parent name strings, and all ten vital/element palettes and pixel payloads.
+Runtime records and framebuffer captures are under work/ui/boot-scratch-0.2.40/.
+No game-memory edits or save states are used for the replay.
+
+Historical code in build_startup_disclaimer.py remains pinned to its original
+build inputs for reproducibility and documents the required repair stage.
+Do not ship that historical stage without reserving the complete scratch area.

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.36",
+  "version": "0.2.41",
   "language": "en",
   "status": "Draft translation; not an installable patch.",
   "rows": [
@@ -2214,13 +2214,16 @@
       "text_offset": 298,
       "source_sha256": "4202423b002ab9625632d5a9c90ca35003db90c41c223ecd0df1d4b0e22c2448",
       "category": "dialogue_narration_subtitles",
-      "translation_en": "But now,\na man and a woman had taken up the challenge\nand were at last about to work a miracle.",
+      "translation_en": "But now, a man and a woman\nhad taken up the challenge and were\nat last about to work a miracle.",
       "status": "draft",
       "kind": "narration",
       "context": "Home menu/help, settings, or opening narration as identified by the source file.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_selected_context_0.2.41",
       "meaning_review": "self_reviewed",
-      "review_notes": []
+      "review_notes": [
+        "Prologue reflow: full wording preserved; at most three native 12px lines, 268px advance budget and 254px final-line budget including icon clearance.",
+        "Exact naturally selected text and complete native framebuffer fit visually verified: work/ui/dialogue-reflow-0.2.41/verification.json"
+      ]
     },
     {
       "id": "ore:00683000:0000:00:0005",

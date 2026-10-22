@@ -70,7 +70,10 @@
     "ore:001e8000:0000:03:0013",
     "ore:001e8000:0000:04:0004",
     "ore:001e8000:0000:06:0002",
-    "ore:001e8000:0000:06:0004"
+    "ore:001e8000:0000:06:0004",
+    "ore:00683000:0000:00:0004",
+    "ore:06f77000:0000:00:0000",
+    "ore:06f77000:0000:00:0003"
   ],
   "meaning_approved_records": 0,
   "screens": [
@@ -329,7 +332,58 @@
       "version": "0.2.38",
       "evidence": "work/ui/home-help-0.2.38/verification.json",
       "scope": "PASS: centered wider home description box; complete Rest text; accumulated indexed fit count unchanged"
+    },
+    {
+      "version": "0.2.39",
+      "evidence": "work/ui/prompt-font-0.2.39/verification.json",
+      "scope": "PASS: consistent native English font in the Settings Circle-button prompt"
+    },
+    {
+      "version": "0.2.40",
+      "evidence": "work/ui/boot-scratch-0.2.40/verification.json",
+      "scope": "PASS: opening battle preserves parent names and vital icons after the framebuffer transfer"
+    },
+    {
+      "version": "0.2.41",
+      "evidence": "work/ui/dialogue-reflow-0.2.41/verification.json",
+      "scope": "PASS: three reflowed prologue passages selected naturally and visually checked in the final ISO"
+    },
+    {
+      "version": "0.2.42",
+      "evidence": "work/ui/party-popup-0.2.42/verification.json",
+      "scope": "PASS: all four sortie popup captions and highlights fit the enlarged native frame"
+    },
+    {
+      "version": "0.2.43",
+      "evidence": "work/ui/investment-0.2.43/verification.json",
+      "scope": "PASS: native INVESTMENT ribbon and ryo currency visible beside zero and nonzero input amounts"
+    },
+    {
+      "version": "0.2.44",
+      "evidence": "work/ui/class-layout-0.2.44/verification.json",
+      "scope": "STATIC PASS: all eight descriptions fit the widened layout; runtime visual verification pending"
+    },
+    {
+      "version": "0.2.45",
+      "evidence": "work/ui/help-dialogue-0.2.45/verification.json",
+      "scope": "PASS: wider six-line Help panel, complete text inside its frame, opaque background confirmed"
+    },
+    {
+      "version": "0.2.46",
+      "evidence": "work/ui/weather-spacing-0.2.46/verification.json",
+      "scope": "PASS: slash spacing, complete effects line and wider native weather frame verified"
+    },
+    {
+      "version": "0.2.47",
+      "evidence": "work/ui/union-layout-0.2.47/verification.json",
+      "scope": "PASS: eight sort options and highlights fit; full required-points caption and value on separate rows inside taller confirmation card"
+    },
+    {
+      "version": "0.2.48",
+      "evidence": "work/ui/tournament-help-0.2.48/verification.json",
+      "scope": "PASS: Help reflow, HD rule bullets, Emperor speaker label, sampled 16-team bracket and HD Circle prompt verified"
     }
   ],
-  "latest_evidence_version": "0.2.38"
+  "latest_evidence_version": "0.2.43",
+  "latest_layout_candidate_version": "0.2.48"
 }

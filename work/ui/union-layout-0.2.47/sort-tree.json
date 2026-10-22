@@ -1,0 +1,2097 @@
+[
+  {
+    "text": "Deity Name",
+    "ancestors": [
+      {
+        "object": "0x9e337b0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e33670",
+        "vtable": "0x8a22298",
+        "geometry": [
+          10,
+          8,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Offering Points",
+    "ancestors": [
+      {
+        "object": "0x9e35570",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e35430",
+        "vtable": "0x8a22298",
+        "geometry": [
+          127,
+          8,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Ochibo no Kimi",
+    "ancestors": [
+      {
+        "object": "0x9e392f0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e391b0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          20,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e390a0",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          34,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "10",
+    "ancestors": [
+      {
+        "object": "0x9e39550",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3243245568,
+          0
+        ]
+      },
+      {
+        "object": "0x9e39410",
+        "vtable": "0x8a22298",
+        "geometry": [
+          90,
+          16,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e390a0",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          34,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Female",
+    "ancestors": [
+      {
+        "object": "0x9e39890",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3249012736,
+          0
+        ]
+      },
+      {
+        "object": "0x9e39750",
+        "vtable": "0x8a22298",
+        "geometry": [
+          162,
+          16,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e390a0",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          34,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Sasara no Oen",
+    "ancestors": [
+      {
+        "object": "0x9e39ce0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e39ba0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          20,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e39a90",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          68,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "13",
+    "ancestors": [
+      {
+        "object": "0x9e39f40",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3243245568,
+          0
+        ]
+      },
+      {
+        "object": "0x9e39e00",
+        "vtable": "0x8a22298",
+        "geometry": [
+          90,
+          16,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e39a90",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          68,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Female",
+    "ancestors": [
+      {
+        "object": "0x9e3a280",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3249012736,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3a140",
+        "vtable": "0x8a22298",
+        "geometry": [
+          162,
+          16,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e39a90",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          68,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Hiten no Maiko",
+    "ancestors": [
+      {
+        "object": "0x9e3a6d0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3a590",
+        "vtable": "0x8a22298",
+        "geometry": [
+          20,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3a480",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          102,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "49",
+    "ancestors": [
+      {
+        "object": "0x9e3a930",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3243245568,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3a7f0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          90,
+          16,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3a480",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          102,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Female",
+    "ancestors": [
+      {
+        "object": "0x9e3ac70",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3249012736,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3ab30",
+        "vtable": "0x8a22298",
+        "geometry": [
+          162,
+          16,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3a480",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          102,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Mizuchihime",
+    "ancestors": [
+      {
+        "object": "0x9e3b0c0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3af80",
+        "vtable": "0x8a22298",
+        "geometry": [
+          20,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3ae70",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          136,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "91",
+    "ancestors": [
+      {
+        "object": "0x9e3b320",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3243245568,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3b1e0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          90,
+          16,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3ae70",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          136,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Female",
+    "ancestors": [
+      {
+        "object": "0x9e3b660",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3249012736,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3b520",
+        "vtable": "0x8a22298",
+        "geometry": [
+          162,
+          16,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3ae70",
+        "vtable": "0x8a471b0",
+        "geometry": [
+          10,
+          136,
+          216,
+          32
+        ]
+      },
+      {
+        "object": "0x9e32c30",
+        "vtable": "0x8a47030",
+        "geometry": [
+          64,
+          32,
+          236,
+          176
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Offering Points",
+    "ancestors": [
+      {
+        "object": "0x9e36310",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e361d0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          8,
+          9,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e35690",
+        "vtable": "0x8a39298",
+        "geometry": [
+          336,
+          231,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "64",
+    "ancestors": [
+      {
+        "object": "0x9e36570",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3242196992,
+          0
+        ]
+      },
+      {
+        "object": "0x9e36430",
+        "vtable": "0x8a22298",
+        "geometry": [
+          124,
+          9,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e35690",
+        "vtable": "0x8a39298",
+        "geometry": [
+          336,
+          231,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Sort",
+    "ancestors": [
+      {
+        "object": "0x9e38400",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e382c0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          22,
+          4,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e380e0",
+        "vtable": "0x8a440b0",
+        "geometry": [
+          64,
+          244,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Genetic Info",
+    "ancestors": [
+      {
+        "object": "0x9e38930",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e387f0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          22,
+          4,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38610",
+        "vtable": "0x8a440b0",
+        "geometry": [
+          120,
+          244,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Back",
+    "ancestors": [
+      {
+        "object": "0x9e38e60",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38d20",
+        "vtable": "0x8a22298",
+        "geometry": [
+          22,
+          4,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38b40",
+        "vtable": "0x8a440b0",
+        "geometry": [
+          226,
+          244,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Ochibo no Kimi",
+    "ancestors": [
+      {
+        "object": "0x9e372f0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e371b0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          306,
+          148,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Ochibo no Kimi",
+    "ancestors": [
+      {
+        "object": "0x9e37550",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e37410",
+        "vtable": "0x8a22298",
+        "geometry": [
+          306,
+          158,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Divine Unions",
+    "ancestors": [
+      {
+        "object": "0x9e377b0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e37670",
+        "vtable": "0x8a22298",
+        "geometry": [
+          306,
+          179,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "0",
+    "ancestors": [
+      {
+        "object": "0x9e37a10",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3233808384,
+          0
+        ]
+      },
+      {
+        "object": "0x9e378d0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          468,
+          179,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Offering Points Required",
+    "ancestors": [
+      {
+        "object": "0x9e37c70",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e37b30",
+        "vtable": "0x8a22298",
+        "geometry": [
+          306,
+          195,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "10",
+    "ancestors": [
+      {
+        "object": "0x9e37ed0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          3242196992,
+          0
+        ]
+      },
+      {
+        "object": "0x9e37d90",
+        "vtable": "0x8a22298",
+        "geometry": [
+          468,
+          211,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e32b20",
+        "vtable": "0x8a46d98",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "By Offering Points",
+    "ancestors": [
+      {
+        "object": "0x9e4a860",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4a720",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4a610",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          10,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Fire",
+    "ancestors": [
+      {
+        "object": "0x9e4abd0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4aa90",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4a980",
+        "vtable": "0x8a20170",
+        "geometry": [
+          178,
+          10,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": " Deities First",
+    "ancestors": [
+      {
+        "object": "0x9e43050",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1102053376,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4aa90",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4a980",
+        "vtable": "0x8a20170",
+        "geometry": [
+          178,
+          10,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Name Order",
+    "ancestors": [
+      {
+        "object": "0x9e4af40",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4ae00",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4acf0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          29,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Water",
+    "ancestors": [
+      {
+        "object": "0x9e4b2b0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4b170",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4b060",
+        "vtable": "0x8a20170",
+        "geometry": [
+          178,
+          29,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": " Deities First",
+    "ancestors": [
+      {
+        "object": "0x9e3bbd0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1108082688,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4b170",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4b060",
+        "vtable": "0x8a20170",
+        "geometry": [
+          178,
+          29,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "By Number of Unions",
+    "ancestors": [
+      {
+        "object": "0x9e4b620",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4b4e0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4b3d0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          48,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Wind",
+    "ancestors": [
+      {
+        "object": "0x9e4b990",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4b850",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4b740",
+        "vtable": "0x8a20170",
+        "geometry": [
+          178,
+          48,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": " Deities First",
+    "ancestors": [
+      {
+        "object": "0x9e2f130",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1106247680,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4b850",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4b740",
+        "vtable": "0x8a20170",
+        "geometry": [
+          178,
+          48,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "New Deities First",
+    "ancestors": [
+      {
+        "object": "0x9e4bd00",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4bbc0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4bab0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          67,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Earth",
+    "ancestors": [
+      {
+        "object": "0x9e4c070",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4bf30",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4be20",
+        "vtable": "0x8a20170",
+        "geometry": [
+          178,
+          67,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": " Deities First",
+    "ancestors": [
+      {
+        "object": "0x9e2f740",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1106771968,
+          0
+        ]
+      },
+      {
+        "object": "0x9e4bf30",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e4be20",
+        "vtable": "0x8a20170",
+        "geometry": [
+          178,
+          67,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e48040",
+        "vtable": "0x8a20018",
+        "geometry": [
+          66,
+          90,
+          348,
+          91
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

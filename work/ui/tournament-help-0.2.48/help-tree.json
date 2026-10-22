@@ -1,0 +1,998 @@
+[
+  {
+    "text": "Inheritance Basics",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e30870",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e30730",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e30620",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          10,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2e050",
+        "vtable": "0x8a20018",
+        "geometry": [
+          8,
+          8,
+          184,
+          124
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Genetics in Detail",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e30be0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e30aa0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e30990",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          28,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2e050",
+        "vtable": "0x8a20018",
+        "geometry": [
+          8,
+          8,
+          184,
+          124
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Classes",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e30f50",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e30e10",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e30d00",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          46,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2e050",
+        "vtable": "0x8a20018",
+        "geometry": [
+          8,
+          8,
+          184,
+          124
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Childhood",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e312c0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e31180",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e31070",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          64,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2e050",
+        "vtable": "0x8a20018",
+        "geometry": [
+          8,
+          8,
+          184,
+          124
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Growing Up",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e31630",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e314f0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e313e0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          82,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2e050",
+        "vtable": "0x8a20018",
+        "geometry": [
+          8,
+          8,
+          184,
+          124
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Late Development",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e319a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e31860",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e31750",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          100,
+          164,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2e050",
+        "vtable": "0x8a20018",
+        "geometry": [
+          8,
+          8,
+          184,
+          124
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Middle Age",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e38140",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38000",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          127,
+          16
+        ]
+      },
+      {
+        "object": "0x9e37ef0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          10,
+          127,
+          16
+        ]
+      },
+      {
+        "object": "0x9e35920",
+        "vtable": "0x8a20018",
+        "geometry": [
+          98,
+          60,
+          147,
+          88
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Old Age",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e384b0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38370",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          127,
+          16
+        ]
+      },
+      {
+        "object": "0x9e38260",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          28,
+          127,
+          16
+        ]
+      },
+      {
+        "object": "0x9e35920",
+        "vtable": "0x8a20018",
+        "geometry": [
+          98,
+          60,
+          147,
+          88
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Life Span",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e38820",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e386e0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          127,
+          16
+        ]
+      },
+      {
+        "object": "0x9e385d0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          46,
+          127,
+          16
+        ]
+      },
+      {
+        "object": "0x9e35920",
+        "vtable": "0x8a20018",
+        "geometry": [
+          98,
+          60,
+          147,
+          88
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Changing Clan Heads",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e38b90",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38a50",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          127,
+          16
+        ]
+      },
+      {
+        "object": "0x9e38940",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          64,
+          127,
+          16
+        ]
+      },
+      {
+        "object": "0x9e35920",
+        "vtable": "0x8a20018",
+        "geometry": [
+          98,
+          60,
+          147,
+          88
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Um... Well... What I mean is...",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2c770",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2c630",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          6,
+          330,
+          18
+        ]
+      },
+      {
+        "object": "0x9e2bbf0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          8,
+          144,
+          336,
+          120
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "If you could prepare yourself and think,",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2c9d0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2c890",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          24,
+          330,
+          18
+        ]
+      },
+      {
+        "object": "0x9e2bbf0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          8,
+          144,
+          336,
+          120
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "\"Perhaps it's almost time.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2cc30",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2caf0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          42,
+          330,
+          18
+        ]
+      },
+      {
+        "object": "0x9e2bbf0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          8,
+          144,
+          336,
+          120
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "I'll make \u25cb\u25cb the next head,\"",
+    "font_image": "0x9cbc5d0",
+    "ancestors": [
+      {
+        "object": "0x9e2ce90",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2cd50",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          60,
+          330,
+          18
+        ]
+      },
+      {
+        "object": "0x9e2bbf0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          8,
+          144,
+          336,
+          120
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "it would make things a little easier for me too...",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2d0f0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2cfb0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          78,
+          330,
+          18
+        ]
+      },
+      {
+        "object": "0x9e2bbf0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          8,
+          144,
+          336,
+          120
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "I'm sorry for being so selfish.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2d350",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2d210",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          96,
+          330,
+          18
+        ]
+      },
+      {
+        "object": "0x9e2bbf0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          8,
+          144,
+          336,
+          120
+        ]
+      },
+      {
+        "object": "0x9e2bae0",
+        "vtable": "0x8a3b318",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

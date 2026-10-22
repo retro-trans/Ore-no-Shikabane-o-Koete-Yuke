@@ -1,5 +1,5 @@
 {
-  "version": "0.2.38",
+  "version": "0.2.48",
   "date": "2026-10-18",
   "language": "en",
   "status": "Complete indexed text draft; native 4x VWF patch boots. Visual/gameplay QA incomplete.",
@@ -966,5 +966,15 @@
     "version": "0.2.38",
     "url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/tag/v0.2.38",
     "evidence": "docs/releases/0.2.38/PUBLICATION.json"
-  }
+  },
+  "prompt_font_evidence": "work/ui/prompt-font-0.2.39/verification.json",
+  "shared_boot_scratch_evidence": "work/ui/boot-scratch-0.2.40/verification.json",
+  "prologue_wrap_evidence": "work/ui/dialogue-reflow-0.2.41/verification.json",
+  "party_popup_evidence": "work/ui/party-popup-0.2.42/verification.json",
+  "investment_ui_evidence": "work/ui/investment-0.2.43/verification.json",
+  "class_description_evidence": "work/ui/class-layout-0.2.44/verification.json",
+  "help_dialogue_evidence": "work/ui/help-dialogue-0.2.45/verification.json",
+  "weather_spacing_evidence": "work/ui/weather-spacing-0.2.46/verification.json",
+  "union_layout_evidence": "work/ui/union-layout-0.2.47/verification.json",
+  "tournament_help_evidence": "work/ui/tournament-help-0.2.48/verification.json"
 }

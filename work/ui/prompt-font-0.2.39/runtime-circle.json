@@ -1,0 +1,380 @@
+{
+  "version": "0.2.39",
+  "result": "PASS",
+  "text": "and press the \u25cb button.",
+  "image": "0x9cbc5d0",
+  "glyphs": [
+    {
+      "codepoint": "0x61",
+      "advance": 8,
+      "uv": [
+        8192,
+        20480,
+        10240,
+        25600
+      ],
+      "destination": [
+        0,
+        0,
+        26,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x6e",
+      "advance": 9,
+      "uv": [
+        13824,
+        10240,
+        16128,
+        15360
+      ],
+      "destination": [
+        27,
+        0,
+        56,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x64",
+      "advance": 9,
+      "uv": [
+        6912,
+        10240,
+        9216,
+        15360
+      ],
+      "destination": [
+        58,
+        0,
+        86,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x20",
+      "advance": 4,
+      "uv": [
+        31744,
+        20480,
+        32768,
+        25600
+      ],
+      "destination": [
+        88,
+        0,
+        101,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x70",
+      "advance": 9,
+      "uv": [
+        18432,
+        10240,
+        20736,
+        15360
+      ],
+      "destination": [
+        102,
+        0,
+        131,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x72",
+      "advance": 6,
+      "uv": [
+        7680,
+        25600,
+        9216,
+        30720
+      ],
+      "destination": [
+        133,
+        0,
+        152,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x65",
+      "advance": 8,
+      "uv": [
+        10240,
+        20480,
+        12288,
+        25600
+      ],
+      "destination": [
+        154,
+        0,
+        179,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x73",
+      "advance": 7,
+      "uv": [
+        28160,
+        20480,
+        29952,
+        25600
+      ],
+      "destination": [
+        181,
+        0,
+        203,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x73",
+      "advance": 7,
+      "uv": [
+        28160,
+        20480,
+        29952,
+        25600
+      ],
+      "destination": [
+        205,
+        0,
+        227,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x20",
+      "advance": 4,
+      "uv": [
+        31744,
+        20480,
+        32768,
+        25600
+      ],
+      "destination": [
+        229,
+        0,
+        242,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x74",
+      "advance": 5,
+      "uv": [
+        21248,
+        25600,
+        22528,
+        30720
+      ],
+      "destination": [
+        243,
+        0,
+        259,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x68",
+      "advance": 9,
+      "uv": [
+        11520,
+        10240,
+        13824,
+        15360
+      ],
+      "destination": [
+        261,
+        0,
+        290,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x65",
+      "advance": 8,
+      "uv": [
+        10240,
+        20480,
+        12288,
+        25600
+      ],
+      "destination": [
+        291,
+        0,
+        317,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x20",
+      "advance": 4,
+      "uv": [
+        31744,
+        20480,
+        32768,
+        25600
+      ],
+      "destination": [
+        318,
+        0,
+        331,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x25cb",
+      "advance": 18,
+      "uv": [
+        0,
+        0,
+        5632,
+        5120
+      ],
+      "destination": [
+        333,
+        0,
+        390,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x20",
+      "advance": 4,
+      "uv": [
+        31744,
+        20480,
+        32768,
+        25600
+      ],
+      "destination": [
+        392,
+        0,
+        405,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x62",
+      "advance": 9,
+      "uv": [
+        4608,
+        10240,
+        6912,
+        15360
+      ],
+      "destination": [
+        406,
+        0,
+        435,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x75",
+      "advance": 9,
+      "uv": [
+        23040,
+        10240,
+        25344,
+        15360
+      ],
+      "destination": [
+        437,
+        0,
+        466,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x74",
+      "advance": 5,
+      "uv": [
+        21248,
+        25600,
+        22528,
+        30720
+      ],
+      "destination": [
+        467,
+        0,
+        483,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x74",
+      "advance": 5,
+      "uv": [
+        21248,
+        25600,
+        22528,
+        30720
+      ],
+      "destination": [
+        485,
+        0,
+        501,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x6f",
+      "advance": 9,
+      "uv": [
+        16128,
+        10240,
+        18432,
+        15360
+      ],
+      "destination": [
+        502,
+        0,
+        531,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x6e",
+      "advance": 9,
+      "uv": [
+        13824,
+        10240,
+        16128,
+        15360
+      ],
+      "destination": [
+        533,
+        0,
+        562,
+        64
+      ]
+    },
+    {
+      "codepoint": "0x2e",
+      "advance": 4,
+      "uv": [
+        25600,
+        25600,
+        26624,
+        30720
+      ],
+      "destination": [
+        563,
+        0,
+        576,
+        64
+      ]
+    }
+  ],
+  "source_sampling_scale": 4,
+  "game_memory_writes": false,
+  "texture_replacement": false,
+  "renderer": "Actual final ISO native draw path"
+}

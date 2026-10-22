@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "0.2.36",
+  "version": "0.2.48",
   "language": "en",
   "status": "Draft translation; not an installable patch.",
   "rows": [
@@ -1105,16 +1105,17 @@
       "text_offset": 33158,
       "source_sha256": "fbba04e58a97c5fdc0b72f7401e25ce32a435f9e06745a02f185785693712ed5",
       "category": "ui_system_help",
-      "translation_en": "Um... Well... What I mean is...\nIf you could prepare yourself and think,\n\"Perhaps it's almost time. I'll make ○○ the next head,\"\nit would make things\na little easier for me too...\nI'm sorry for being so selfish.",
+      "translation_en": "Um... Well... What I mean is...\nIf you could prepare yourself and think,\n\"Perhaps it's almost time.\nI'll make ○○ the next head,\"\nit would make things a little easier for me too...\nI'm sorry for being so selfish.",
       "status": "draft",
       "kind": "help_text",
       "context": "Itsuka's encyclopedia, body entries 160-239. Entries 158-159 before and 240-243 after examined. Aging, health, loyalty, spell learning, Divine Union, and stat attributes. Personal pronouns refer to the speaker or an explicitly identified person.",
-      "fit_status": "unverified_in_game",
+      "fit_status": "verified_in_game_0.2.48",
       "meaning_review": "self_reviewed",
       "review_notes": [
         "Itsuka refers to herself by name; English uses I in this row.",
         "Source trailing thoughts and conditional examples are retained; original rows and line-break counts are unchanged.",
-        "Hypothetical successor remains the original ○○; self-conscious apologies are spoken character text."
+        "Hypothetical successor remains the original ○○; self-conscious apologies are spoken character text.",
+        "Public screenshot fix: native font-safe bullets, full-word Help reflow, and concise tournament team names; controls retained."
       ]
     },
     {

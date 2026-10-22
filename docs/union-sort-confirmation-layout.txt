@@ -1,0 +1,12 @@
+Divine Union sort and confirmation layout, local build 0.2.47
+
+Sort popup builder: 0x088e2e14. Cell width instruction 0x088e3000: 80 -> 160.
+Native frame [66,90,348,91]; eight cells [10/178,10/29/48/67,160,16].
+Confirmation constructor: 0x0893ada8. Card at object+0x1550.
+0x0893b018: height 48 -> 60; frame [291,136,160,60].
+0x0893b0f0: caption font 14 -> 12; 0x0893b110: caption x315 -> 299.
+0x0893b15c: value y162 -> 178; right anchor 447 and font 14 unchanged.
+Caption remains at y162; measured advance 147.43 within 152px remaining frame width.
+Frame bottom 196; prompt top 200. No added code/RAM or translation changes.
+Native runtime reads and screenshots: work/ui/union-layout-0.2.47/verification.json
+Tools: build_union_layout.py, verify_union_layout.py, record_union_layout_qa.py (dry run first).
