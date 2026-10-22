@@ -2,10 +2,11 @@
 
 ## 0.2.48 (2026-10-18)
 
+- Published on 2026-10-22 with compact full and 0.2.38 upgrade patches. Both decode to the exact tested ISO; all five uploaded asset sizes and SHA-256 digests verified. Retro Trans catalog refresh and all six original/0.2.38 selection routes verified. See `docs/releases/0.2.48/PUBLICATION.json`.
 - Rewrapped the reported Changing Clan Heads Help passage into six fitting lines while retaining every word, punctuation and both placeholder circles. Reuses the wider 0.2.45 Help panel and the 0.2.39 Circle font fix; all six lines checked on the native HD font pages.
 - Replaced the tournament rules' two Japanese list markers with ASCII hyphen bullets so their English text stays on the native HD font. Translated the hardcoded speaker label to Emperor with an 8-byte literal and two guarded pointer arguments; its name box sizes correctly. No new code or font data added.
 - Shortened 27 over-budget tournament team names consistently, with full/display-name mappings in work/glossary/tournament-team-display.en.json. Six fixed names already fit and remain unchanged. All 33 fixed names measure within 112px at 12px. One natural 16-team draw, including Karasuma Clan and 15 fixed teams, fits on-screen; the Circle match prompt also uses the inherited HD font fix.
-- Cold-started the final local ISO and verified the exact Help page, tournament rules/speaker and bracket. Live font choices, literal bytes and pointer instructions verified; unchanged rows, controls and other archive payloads checked. Original project saves restored, user saves read/copied only; no tournament match started. Local build only; no GitHub release. Other draws, extreme player-clan letter widths, later rounds and physical PSP remain untested.
+- Cold-started the final local ISO and verified the exact Help page, tournament rules/speaker and bracket. Live font choices, literal bytes and pointer instructions verified; unchanged rows, controls and other archive payloads checked. Original project saves restored, user saves read/copied only; no tournament match started. Build verification completed locally before publication. Other draws, extreme player-clan letter widths, later rounds and physical PSP remain untested.
 
 ## 0.2.47 (2026-10-18)
 

@@ -1,0 +1,99 @@
+{
+  "version": "0.2.48",
+  "date": "2026-10-22",
+  "repository": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke",
+  "release_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/tag/v0.2.48",
+  "release_id": 420391465,
+  "author": "binhlt0402",
+  "published_at": "2026-10-22T06:52:09Z",
+  "result": "PASS",
+  "source_commit": "2df51faa564ff73baf5602415baf02aeb1a2e8bc",
+  "packager": {
+    "repository": "https://github.com/retro-trans/retro-trans-tools",
+    "commit": "d5e7957e9c49aacad4c8801f3054441881f5a94b",
+    "source_window_bytes": 1073741824,
+    "roundtrip_verified": true
+  },
+  "assets": [
+    {
+      "name": "BUILD-MANIFEST.json",
+      "bytes": 1430,
+      "sha256": "6e6e24c3dcfb2c8fa3f483dbae8ca88303381b55181da86d02ae5bfaba885bda"
+    },
+    {
+      "name": "OreNoShikabane-English-0.2.38-to-0.2.48.xdelta",
+      "bytes": 67946,
+      "sha256": "f9b9417383b5dd4b56508ba412925ad467af811a8c660c754b8b5038127f1a3e"
+    },
+    {
+      "name": "OreNoShikabane-English-0.2.48-full.xdelta",
+      "bytes": 2576551,
+      "sha256": "1e30dd52a1b9cb7df3f915898e8a187618e1bea9ed065a28410bf18abcd05d3b"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 393,
+      "sha256": "73015a295c6c4f5af93414640c999ea20ab5b3944353534e383f9f5934e51e44"
+    },
+    {
+      "name": "VALIDATION.json",
+      "bytes": 533,
+      "sha256": "41d587c02803f554a1b71e3715aabb57902a0bad8d21229c7e81401cdf0e3f3d"
+    }
+  ],
+  "uploaded_asset_verification": "All GitHub-reported uploaded SHA-256 digests and sizes equal the locally round-trip-verified bundle",
+  "catalog": {
+    "workflow_url": "https://github.com/retro-trans/retro-trans-tools/actions/runs/39736696640",
+    "workflow_conclusion": "success",
+    "commit": "fa12472efc1f587d7d10fdffc48a2d9c4c0fdfc9",
+    "source_recognized": true,
+    "previous_release_recognized": true,
+    "plans": [
+      {
+        "source": "original",
+        "selection": "Latest",
+        "target": "0.2.48",
+        "patches": 1,
+        "patch_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/download/v0.2.48/OreNoShikabane-English-0.2.48-full.xdelta"
+      },
+      {
+        "source": "original",
+        "selection": "0.2.48",
+        "target": "0.2.48",
+        "patches": 1,
+        "patch_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/download/v0.2.48/OreNoShikabane-English-0.2.48-full.xdelta"
+      },
+      {
+        "source": "original",
+        "selection": "Next version only",
+        "target": "0.2.38",
+        "patches": 1,
+        "patch_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/download/v0.2.38/OreNoShikabane-English-0.2.38-compact.xdelta"
+      },
+      {
+        "source": "0.2.38",
+        "selection": "Latest",
+        "target": "0.2.48",
+        "patches": 1,
+        "patch_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/download/v0.2.48/OreNoShikabane-English-0.2.38-to-0.2.48.xdelta"
+      },
+      {
+        "source": "0.2.38",
+        "selection": "0.2.48",
+        "target": "0.2.48",
+        "patches": 1,
+        "patch_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/download/v0.2.48/OreNoShikabane-English-0.2.38-to-0.2.48.xdelta"
+      },
+      {
+        "source": "0.2.38",
+        "selection": "Next version only",
+        "target": "0.2.48",
+        "patches": 1,
+        "patch_url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/download/v0.2.48/OreNoShikabane-English-0.2.38-to-0.2.48.xdelta"
+      }
+    ],
+    "gui_launched": false
+  },
+  "complete_game_images_uploaded": false,
+  "source_dialogue_committed": false
+}
