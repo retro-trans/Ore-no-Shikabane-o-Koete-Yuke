@@ -1,0 +1,4 @@
+6e6e24c3dcfb2c8fa3f483dbae8ca88303381b55181da86d02ae5bfaba885bda  BUILD-MANIFEST.json
+f9b9417383b5dd4b56508ba412925ad467af811a8c660c754b8b5038127f1a3e  OreNoShikabane-English-0.2.38-to-0.2.48.xdelta
+1e30dd52a1b9cb7df3f915898e8a187618e1bea9ed065a28410bf18abcd05d3b  OreNoShikabane-English-0.2.48-full.xdelta
+41d587c02803f554a1b71e3715aabb57902a0bad8d21229c7e81401cdf0e3f3d  VALIDATION.json

@@ -11,6 +11,8 @@ English fan translation of **Ore no Shikabane o Koete Yuke** for PSP (**UCJS-101
 | Original Japanese ISO (UCJS-10117) | `OreNoShikabane-English-0.2.48-full.xdelta` |
 | Public English 0.2.38 ISO | `OreNoShikabane-English-0.2.38-to-0.2.48.xdelta` |
 
+Downloads: full patch **2.46 MiB** (2,576,551 bytes); 0.2.38 upgrade **66.4 KiB** (67,946 bytes).
+
 ```text
 xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.48-full.xdelta "Ore no Shikabane o Koete Yuke English 0.2.48.iso"
 ```

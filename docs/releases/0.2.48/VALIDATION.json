@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "manifest_sha256": "6e6e24c3dcfb2c8fa3f483dbae8ca88303381b55181da86d02ae5bfaba885bda",
+  "patches": [
+    {
+      "patch": "OreNoShikabane-English-0.2.48-full.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "43569c29fb58ece6ade5f02f4ac39ea8df86041ba6bce7fc461f7293e1dcc907"
+    },
+    {
+      "patch": "OreNoShikabane-English-0.2.38-to-0.2.48.xdelta",
+      "roundtrip_verified": true,
+      "target_sha256": "43569c29fb58ece6ade5f02f4ac39ea8df86041ba6bce7fc461f7293e1dcc907"
+    }
+  ]
+}

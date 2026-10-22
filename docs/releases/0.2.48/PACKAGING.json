@@ -1,0 +1,25 @@
+{
+  "version": "0.2.48",
+  "source_commit": "2df51faa564ff73baf5602415baf02aeb1a2e8bc",
+  "builder_repository": "https://github.com/retro-trans/retro-trans-tools",
+  "builder_commit": "d5e7957e9c49aacad4c8801f3054441881f5a94b",
+  "source_window_bytes": 1073741824,
+  "application_header": false,
+  "encoder_override": "Official xdelta engine with -B 1073741824; standard Retro Trans builder, decoder and validator otherwise unchanged",
+  "encodings": [
+    {
+      "patch": "OreNoShikabane-English-0.2.48-full.xdelta",
+      "bytes": 2576551,
+      "sha256": "1e30dd52a1b9cb7df3f915898e8a187618e1bea9ed065a28410bf18abcd05d3b",
+      "engine_sha256": "53d90226615f217d3380c39892833311b4e24acd863e1ca01f14b5e772e2e6d0"
+    },
+    {
+      "patch": "OreNoShikabane-English-0.2.38-to-0.2.48.xdelta",
+      "bytes": 67946,
+      "sha256": "f9b9417383b5dd4b56508ba412925ad467af811a8c660c754b8b5038127f1a3e",
+      "engine_sha256": "53d90226615f217d3380c39892833311b4e24acd863e1ca01f14b5e772e2e6d0"
+    }
+  ],
+  "roundtrip_verified": true,
+  "game_images_uploaded": false
+}
