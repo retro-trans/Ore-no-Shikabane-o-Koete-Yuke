@@ -23,6 +23,8 @@ English 0.2.48 input: 1,081,337,856 bytes; SHA-256 `43569c29fb58ece6ade5f02f4ac3
 
 Release output: **1,077,544,960 bytes**; SHA-256 `5e821290c20f25f0642c4834f602e9fc7d46925d820f3ccfd83b78cc7f86590b`.
 
+Downloads: full patch **2.44 MiB** (2,561,631 bytes); 0.2.48 upgrade **1.32 MiB** (1,384,899 bytes).
+
 Both patches reproduce the same tested ISO. `BUILD-MANIFEST.json`, `VALIDATION.json` and `SHA256SUMS.txt` identify and verify the downloads. Earlier local test builds are not release-patch inputs. If you already have the working 0.2.52 test ISO, its bytes are identical and you do not need to repatch.
 
 ### Required PSP setup: disable the installed update
