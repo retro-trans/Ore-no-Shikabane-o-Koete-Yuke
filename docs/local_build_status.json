@@ -1,15 +1,15 @@
 {
-  "latest_local_build": "0.2.48",
-  "archive_translation_version": "0.2.48",
+  "latest_local_build": "0.2.52",
+  "archive_translation_version": "0.2.49",
   "native_font_component": "0.2.0",
   "executable_message_extension": "0.2.3",
-  "file": "work/output/english-native-0.2.48.iso",
-  "bytes": 1081337856,
+  "file": "work/output/english-native-0.2.52.iso",
+  "bytes": 1077544960,
   "draft_text_coverage_percent": 100,
   "distinct_main_strings": 8027,
   "archive_draft_records_including_empty_and_non_japanese": 11594,
   "additional_executable_records": 18,
-  "native_graphic_labels": 71,
+  "native_graphic_labels": 72,
   "localized_metadata_fields": 1,
   "provisional_staff_romanizations": 23,
   "user_approved_neutral_adaptations": 5,
@@ -74,18 +74,22 @@
     "help_dialogue_frame": "PASS: wider six-line Help panel, complete text inside its frame, opaque background confirmed",
     "weather_banner_spacing": "PASS: slash spacing, complete effects line and wider native weather frame verified",
     "deity_sort_and_confirmation": "PASS: eight sort options and highlights fit; full required-points caption and value on separate rows inside taller confirmation card",
-    "public_help_and_tournament_reports": "PASS: Help reflow, HD rule bullets, Emperor speaker label, sampled 16-team bracket and HD Circle prompt verified"
+    "public_help_and_tournament_reports": "PASS: Help reflow, HD rule bullets, Emperor speaker label, sampled 16-team bracket and HD Circle prompt verified",
+    "commodity_broker_ui": "PASS: commodity ribbon, Money/ryo, aligned Now/High/Low, quantity/confirmation/retry and graph labels checked in native UI",
+    "hardware_startup_packaging": "FAIL on physical PSP: 0.2.50 shuts down on 6.61 ARK-5; local integrity and emulator checks pass",
+    "psp_boot_decryption_flag": "FAIL on physical PSP: 0.2.51 still crashes with PBOOT disabled on 6.61 ARK-5; metadata/emulator/round-trip checks pass",
+    "psp_contiguous_load": "PASS: source-based loading model, selected emulator checks and user-confirmed physical PSP startup on 6.61 ARK-5 with PBOOT disabled"
   },
   "remaining_quality_work": [
     "Full playthrough and broad layout checks, including expanded runtime names and numerical values",
     "Independent meaning review and confirmation of provisional staff-name readings",
     "Complete incidental-art/movie audit beyond the 96 reviewed sampled frames",
-    "Real PSP boot and performance testing"
+    "Broader physical PSP model/firmware, performance and full-playthrough testing"
   ],
   "completion_note": "100% means draft coverage of the indexed archive text. It does not mean 100% reviewed, visually tested or approved game completion.",
-  "release": "Local test build only. No GitHub release created.",
+  "release": "0.2.52 hardware startup confirmed; user authorized publication, release preparation in progress.",
   "title_branding": {
-    "version": "v0.2.48",
+    "version": "v0.2.49",
     "group": "github.com/retro-trans",
     "native_asset": "copyright_sce.ppt",
     "footer_screen_rectangle": [
@@ -97,7 +101,7 @@
     "extra_uncompressed_bytes": 55808,
     "title_only_instruction_changes": 3,
     "texture_replacement": false,
-    "visual_evidence": "work/ui/tournament-help-0.2.48/title.png"
+    "visual_evidence": "work/ui/market-ui-0.2.49/title.png"
   },
   "native_font_selector_version": "0.2.8",
   "additional_standalone_name_entry_ui_records": 14,
@@ -120,7 +124,7 @@
   "additional_equipment_native_literals": 2,
   "equipment_deity_ui_evidence": "work/ui/equipment-deities-0.2.20/verification.json",
   "build_date": "2026-10-18",
-  "sha256": "43569c29fb58ece6ade5f02f4ac39ea8df86041ba6bce7fc461f7293e1dcc907",
+  "sha256": "5e821290c20f25f0642c4834f602e9fc7d46925d820f3ccfd83b78cc7f86590b",
   "additional_character_native_literals": 9,
   "character_spells_ui_evidence": "work/ui/character-spells-0.2.21/verification.json",
   "detailed_roster_evidence": "work/ui/detailed-roster-0.2.22/verification.json",
@@ -166,5 +170,24 @@
   "help_dialogue_evidence": "work/ui/help-dialogue-0.2.45/verification.json",
   "weather_spacing_evidence": "work/ui/weather-spacing-0.2.46/verification.json",
   "union_layout_evidence": "work/ui/union-layout-0.2.47/verification.json",
-  "tournament_help_evidence": "work/ui/tournament-help-0.2.48/verification.json"
+  "tournament_help_evidence": "work/ui/tournament-help-0.2.48/verification.json",
+  "market_ui_evidence": "work/ui/market-ui-0.2.49/verification.json",
+  "additional_market_native_literals": 6,
+  "hardware_startup_candidate": {
+    "version": "0.2.52",
+    "based_on": "0.2.51",
+    "hardware_tested": true,
+    "hardware_verified": true,
+    "physical_test_status": "PASS: user confirms 0.2.52 works with PBOOT disabled",
+    "reported_system_software": "6.61 ARK-5",
+    "prior_failed_versions": [
+      "0.2.48",
+      "0.2.50",
+      "0.2.51"
+    ],
+    "original_iso_control": "User correction: clean Japanese ISO also fails with PBOOT disabled",
+    "evidence": "work/ui/psp-contiguous-0.2.52/verification.json",
+    "hardware_report": "work/ui/psp-contiguous-0.2.52/hardware-report.json",
+    "tested_scope": "Startup/operation reported; no full playthrough claim"
+  }
 }

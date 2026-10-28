@@ -1,0 +1,111 @@
+{
+  "pboot_sha256": "b023e5942af7392abeac03407106b4f6e38915d58c7805a6f528b409ad77eaf7",
+  "pboot_bytes": 3642424,
+  "original_file_modified": false,
+  "crypto": {
+    "header_sha1": true,
+    "header_cmac": true,
+    "body_cmac": true,
+    "encrypted_tag": "0x2E5E10F0",
+    "decrypt_mode": 25,
+    "data_offset": 2192,
+    "payload_file_offset": 2400,
+    "decrypted_bytes": 3421872,
+    "decrypted_sha256": "5b8d6bc1740ceabee929c409897b49ff462f9086a3f3dae79ea2a3293c0f29a3"
+  },
+  "original": {
+    "elf_type": "0x2",
+    "entry": "0x8804128",
+    "bytes": 3421104,
+    "sha256": "fa0650a6caf567bd21b64d821ac22b036b6b5151302c40eb3f487b2ff4a113e3",
+    "segments": [
+      {
+        "file_offset": "0x1000",
+        "address": "0x8804000",
+        "module_info": "0x2163f0",
+        "file_bytes": 3415796,
+        "memory_bytes": 20282820,
+        "bss_bytes": 16867024,
+        "end": "0x9b5bdc4"
+      }
+    ]
+  },
+  "update": {
+    "elf_type": "0x2",
+    "entry": "0x8804128",
+    "bytes": 3421872,
+    "sha256": "5b8d6bc1740ceabee929c409897b49ff462f9086a3f3dae79ea2a3293c0f29a3",
+    "segments": [
+      {
+        "file_offset": "0x1000",
+        "address": "0x8804000",
+        "module_info": "0x216630",
+        "file_bytes": 3416532,
+        "memory_bytes": 20283588,
+        "bss_bytes": 16867056,
+        "end": "0x9b5c0c4"
+      }
+    ]
+  },
+  "patched": {
+    "elf_type": "0x2",
+    "entry": "0x8804128",
+    "bytes": 5131808,
+    "sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec",
+    "segments": [
+      {
+        "file_offset": "0x1000",
+        "address": "0x8804000",
+        "module_info": "0x2163f0",
+        "file_bytes": 3415796,
+        "memory_bytes": 20282820,
+        "bss_bytes": 16867024,
+        "end": "0x9b5bdc4"
+      },
+      {
+        "file_offset": "0x344000",
+        "address": "0x9b5c000",
+        "module_info": "0x9b5c000",
+        "file_bytes": 1707552,
+        "memory_bytes": 1707552,
+        "bss_bytes": 0,
+        "end": "0x9cfce20"
+      }
+    ]
+  },
+  "pieces": {
+    "PARAM.SFO": {
+      "bytes": 652,
+      "sha256": "99e760712f155510c9eeba73e3546bf3ccf2741737a5b15e4d86e96a039aa24d"
+    },
+    "ICON0.PNG": {
+      "bytes": 25846,
+      "sha256": "88a310e984560c696e21696197083b8ea0734b203747beeff1751f09988b1c47"
+    },
+    "ICON1.PMF": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "PIC0.PNG": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "PIC1.PNG": {
+      "bytes": 191598,
+      "sha256": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "SND0.AT3": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "DATA.PSP": {
+      "bytes": 3424272,
+      "sha256": "a8c58de27adb8bc9a3b0c8c9af40a97659d2b479a87b50987be66d6f95020479"
+    },
+    "DATA.PSAR": {
+      "bytes": 16,
+      "sha256": "021dde63822f7efa4765742dd5f836cdee9ec80a273821bea5b43d141e1d29d3"
+    }
+  },
+  "release_created": false
+}

@@ -1,0 +1,12 @@
+{
+  "result": "PASS: selected emulator checks; firmware path and physical startup not verified",
+  "version": "0.2.51",
+  "cold_boot": true,
+  "save_states_loaded": false,
+  "installed_update": false,
+  "software_renderer": true,
+  "texture_replacement": false,
+  "home_cell_width": 96,
+  "font_atlas_exact": true,
+  "hardware_verified": false
+}

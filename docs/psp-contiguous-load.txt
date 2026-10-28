@@ -1,0 +1,81 @@
+PSP contiguous executable investigation - local 0.2.52
+Date: 2026-10-28
+Status: PASS - user confirmed 0.2.52 works on physical PSP, 6.61 ARK-5,
+with PBOOT.PBP disabled. Full playthrough and other hardware are not certified.
+Hardware report: work/ui/psp-contiguous-0.2.52/hardware-report.json.
+
+Hardware evidence
+0.2.48, 0.2.50 and 0.2.51 fail with PBOOT.PBP disabled on 6.61 ARK-5.
+The user corrected the clean-game control: the unpatched Japanese ISO also
+fails with PBOOT disabled. The earlier answer that it starts was superseded.
+Restoring PSP/GAME/UCJS10117/PBOOT.PBP makes the game run, with the installed
+update overriding the translated native executable. The actual shutdown cause
+cannot be attributed solely to the translation. No firmware changes were made.
+
+Independent executable defect
+The translated ELF contains two PT_LOAD segments. The first has 3,415,796
+file bytes followed by 16,867,024 BSS bytes. The added segment has 1,707,552
+bytes at file offset 0x344000, destined for 0x09B5C000.
+
+The reconstructed PSP module manager stages a static ELF at its fixed base
+and loads from that memory. The reconstructed loadcore copies each segment
+and clears its BSS in sequence. In this layout, the first BSS clear includes
+the entire still-unread source of the added segment. That source becomes zero.
+The local model reproduces the loss, including all 725,499 nonzero added bytes.
+The original disc ELF and decrypted supplied update pass as controls.
+PPSSPP reads ELF source bytes separately from the emulated destination memory;
+its successful boot therefore does not test this source/destination collision.
+
+This model is based on source reconstruction, which contains known unrelated
+decompilation issues. It is not a replay of this PSP's 6.61 firmware or a crash
+trace. The overlap is concrete; the user subsequently confirmed this candidate works.
+The earlier clean-original failure remains a separate reported observation.
+
+Change in 0.2.52
+One contiguous PT_LOAD covers 0x08804000 through 0x09CFCE20. The original BSS
+and intervening padding are stored as zeros in the ELF. Original allocated
+sections keep their addresses and data; BSS sections become explicit zero data.
+Non-loaded section names/table move after the payload. No hooks are rebased.
+The expected loaded image is byte-identical to 0.2.51, SHA-256:
+25c7d0fa8461fcda1a495241ee5acb8eb63f0fa3a44c711d87a4235bba922620
+The new model result matches that hash. The memory reservation stays 21,990,944
+bytes; the decompressed file is larger (21,996,296 bytes) and includes metadata.
+The authenticated compressed executable is 1,342,848 bytes, 18,560 more than
+0.2.51. PARAM.SFO is unchanged, including HRKGMP_VER=0. The only archive change
+is the title version. The official update's gameplay fixes are not ported.
+
+Validation
+tools/test_psp_contiguous.py verifies original/update controls, old overlap,
+new correct load, independent ELF section parsing, entry/module information,
+all 22 original allocated sections and the authenticated packed round trip.
+PPSSPP 1.20.4, software renderer, PSP-1000 mode: fresh startup, v0.2.52 title,
+normal save load and home menu. Native atlas, font pointer and 96-pixel menu
+cells checked. No savestates, installed update, texture replacement or guest
+memory/register changes. Save source copied/read only, with hashes preserved.
+The Retro Trans upgrade from exact 0.2.51 decodes to the final ISO. Detailed
+hashes and evidence are in work/ui/psp-contiguous-0.2.52/verification.json.
+
+Test
+Apply the supplied 0.2.51-to-0.2.52 patch to the exact 0.2.51 ISO. Keep the
+result as a separate file. Back up and temporarily disable PBOOT.PBP, fully
+restart the PSP and launch this ISO. Check title version and home spacing.
+If it still fails, restore PBOOT.PBP. A failure could still involve the
+separate baseline boot-path problem; the user-confirmed success covers the reported setup, not all
+hardware/firmware combinations. Do not change firmware or savedata for this test.
+
+Reproduction
+python tools/build_psp_contiguous.py              (dry run)
+python tools/build_psp_contiguous.py --write
+python tools/test_psp_contiguous.py
+python tools/build_iso.py --elf work/output/english-native-0.2.52/EBOOT.hardware.bin --ore work/output/english-native-0.2.52/data.hardware.ore --sfo work/output/english-native-0.2.52/PARAM.SFO --output work/output/english-native-0.2.52.iso --version 0.2.52
+Repeat the ISO command with --write after reviewing the dry run.
+py -3.11 tools/package_hardware_test.py --version 0.2.52 --source-version 0.2.51
+Repeat with --write after reviewing the dry run.
+
+Primary sources consulted (2026-10-28)
+https://github.com/uofw/uofw/blob/master/src/kd/modulemgr/modulemgr.c
+  Static ELF staging/allocation and decompression around lines 640-730.
+https://github.com/uofw/uofw/blob/master/src/kd/loadcore/loadelf.c
+  Segment copies and BSS clear around lines 718-725.
+https://github.com/hrydgard/ppsspp/blob/master/Core/ELF/ElfReader.cpp
+  ElfReader::LoadInto: separate source and emulated-memory destination.

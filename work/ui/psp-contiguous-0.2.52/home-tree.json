@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Clan",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e26460",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1108082688,
+          0
+        ]
+      },
+      {
+        "object": "0x9e26320",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e26210",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          10,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

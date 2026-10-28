@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "user_source_written": false,
+  "user_source_unchanged": true,
+  "source_hashes": {
+    "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+    "PARAM.SFO": "527b5303ba222d0214fc124475c19673671e00e4cc7c080ce8f14de8e5eb44e0",
+    "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1",
+    "SAVEDATA.BIN": "74bc7532e90381d430e96c0d864d337233609946fbbfd414887dafd8107ec3ac"
+  },
+  "isolated_profile": true,
+  "save_states_loaded": false
+}

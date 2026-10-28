@@ -382,8 +382,29 @@
       "version": "0.2.48",
       "evidence": "work/ui/tournament-help-0.2.48/verification.json",
       "scope": "PASS: Help reflow, HD rule bullets, Emperor speaker label, sampled 16-team bracket and HD Circle prompt verified"
+    },
+    {
+      "version": "0.2.49",
+      "evidence": "work/ui/market-ui-0.2.49/verification.json",
+      "scope": "PASS: commodity ribbon, Money/ryo, aligned Now/High/Low, quantity/confirmation/retry and graph labels checked in native UI"
+    },
+    {
+      "version": "0.2.50",
+      "evidence": "work/ui/hardware-startup-0.2.50/verification.json",
+      "scope": "PASS: selected emulator title/home and packaging checks. FAIL: physical startup shuts PSP down on 6.61 ARK-5."
+    },
+    {
+      "version": "0.2.51",
+      "evidence": "work/ui/psp-boot-flag-0.2.51/verification.json",
+      "scope": "PASS: metadata and selected emulator checks. FAIL: physical PSP crash/shutdown persists on 6.61 ARK-5 with PBOOT disabled."
+    },
+    {
+      "version": "0.2.52",
+      "evidence": "work/ui/psp-contiguous-0.2.52/verification.json",
+      "scope": "PASS: local loader model and emulator title/home; user confirms physical PSP startup works on 6.61 ARK-5 with PBOOT disabled"
     }
   ],
   "latest_evidence_version": "0.2.43",
-  "latest_layout_candidate_version": "0.2.48"
+  "latest_layout_candidate_version": "0.2.49",
+  "latest_hardware_candidate_version": "0.2.52"
 }

@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "input_elf_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec",
+  "packed_sha256": "cb12e50b013ca65f5c4949ba8c384fb7823f17d4db5c3a190df19b843bb0f0f2",
+  "deterministic": true,
+  "payload_exact": true,
+  "header_and_body_cmac": true,
+  "metadata_retained": true,
+  "corruption_cases": 29,
+  "truncation_cases": 4,
+  "independent_decryption": true,
+  "hardware_verified": false
+}

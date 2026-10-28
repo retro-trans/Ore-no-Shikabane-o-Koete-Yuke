@@ -1,6 +1,6 @@
 {
-  "version": "0.2.48",
-  "date": "2026-10-18",
+  "version": "0.2.49",
+  "date": "2026-10-27",
   "language": "en",
   "status": "Complete indexed text draft; native 4x VWF patch boots. Visual/gameplay QA incomplete.",
   "total_draft_records": 11580,
@@ -16,14 +16,15 @@
   "meaning_approved_records": 0,
   "additional_draft_records_by_domain": {
     "executable": 18,
-    "graphics": 70,
+    "graphics": 72,
     "name_entry": 14,
     "shop": 6,
     "equipment": 2,
     "character": 9,
     "result_pause": 3,
     "chronicle": 2,
-    "native_pack": 2
+    "native_pack": 2,
+    "native_market": 6
   },
   "latin_auto_name_choices": 180,
   "provisional_auto_name_readings": 62,
@@ -976,5 +977,6 @@
   "help_dialogue_evidence": "work/ui/help-dialogue-0.2.45/verification.json",
   "weather_spacing_evidence": "work/ui/weather-spacing-0.2.46/verification.json",
   "union_layout_evidence": "work/ui/union-layout-0.2.47/verification.json",
-  "tournament_help_evidence": "work/ui/tournament-help-0.2.48/verification.json"
+  "tournament_help_evidence": "work/ui/tournament-help-0.2.48/verification.json",
+  "market_ui_evidence": "work/ui/market-ui-0.2.49/verification.json"
 }

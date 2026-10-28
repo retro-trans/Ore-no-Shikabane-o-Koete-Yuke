@@ -1,0 +1,115 @@
+{
+  "version": "0.2.49",
+  "result": "PASS",
+  "elf_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec",
+  "archive_sha256": "4795f88824b760117968373e0ef0892949811780dee42a53836a6a4cab39c925",
+  "live_patches": [
+    {
+      "address": "0x893eb08",
+      "word": "0x3c0409d0"
+    },
+    {
+      "address": "0x893eb84",
+      "word": "0x3c0409d0"
+    },
+    {
+      "address": "0x893eb10",
+      "word": "0x2484cd48"
+    },
+    {
+      "address": "0x893ec34",
+      "word": "0x3c0409d0"
+    },
+    {
+      "address": "0x893ec38",
+      "word": "0x2484cd68"
+    },
+    {
+      "address": "0x893d4e8",
+      "word": "0x3c0409d0"
+    },
+    {
+      "address": "0x893d4f0",
+      "word": "0x2484cda8"
+    },
+    {
+      "address": "0x893d538",
+      "word": "0x3c0409d0"
+    },
+    {
+      "address": "0x893d540",
+      "word": "0x2484cdb0"
+    },
+    {
+      "address": "0x89401d8",
+      "word": "0x3c0609d0"
+    },
+    {
+      "address": "0x89401e8",
+      "word": "0x24c6cdb8"
+    },
+    {
+      "address": "0x8b2b770",
+      "word": "0x9cfcdc0"
+    },
+    {
+      "address": "0x894e728",
+      "word": "0xe73f37f"
+    }
+  ],
+  "contexts": {
+    "market": [
+      "Money",
+      "1052 ryo",
+      "                Now    High   Low"
+    ],
+    "quantity-one": [
+      "\"Rice,\" then!",
+      "How many contracts?",
+      " contracts",
+      "100 ryo"
+    ],
+    "quantity-two": [
+      "\"Rice,\" then!",
+      "How many contracts?",
+      " contracts",
+      "200 ryo"
+    ],
+    "confirmation": [
+      "\"Rice\": 2 contracts.",
+      "220 ryo, including fees.",
+      "Is that correct?",
+      "Yes",
+      "No"
+    ],
+    "retry": [
+      "\"Rice,\" then!",
+      "How many contracts?",
+      " contracts",
+      "200 ryo"
+    ],
+    "graph": [
+      "Month",
+      "(ryo)"
+    ]
+  },
+  "font": "Native embedded HD ASCII pages",
+  "quantity_and_fee_examples": [
+    {
+      "contracts": 1,
+      "base_price": 100
+    },
+    {
+      "contracts": 2,
+      "base_price": 200,
+      "total_with_fees": 220
+    }
+  ],
+  "retry_after_decline": true,
+  "guest_memory_writes": false,
+  "register_edits_by_this_verifier": false,
+  "qa_unlock_override": "Separately recorded in preview-market-entry.json and preview-graph-entry.json",
+  "texture_replacement": false,
+  "save_state_loaded": false,
+  "purchase_confirmed": false
+}

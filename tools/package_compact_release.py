@@ -1,4 +1,4 @@
-"""Package the verified 0.2.48 full/upgrade routes. Dry run before --write."""
+"""Package verified full/public-upgrade routes. Dry run before --write."""
 import argparse,json,os,subprocess,sys,tempfile,time
 from pathlib import Path
 from package_release import sha
@@ -12,29 +12,33 @@ TARGET='43569c29fb58ece6ade5f02f4ac39ea8df86041ba6bce7fc461f7293e1dcc907'
 def main():
     ap=argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--write',action='store_true')
+    ap.add_argument('--version',choices=['0.2.48','0.2.52'],default=V)
     args=ap.parse_args()
+    version=args.version
+    previous_version='0.2.38' if version=='0.2.48' else '0.2.48'
+    target_hash=TARGET if version=='0.2.48' else '5e821290c20f25f0642c4834f602e9fc7d46925d820f3ccfd83b78cc7f86590b'
     source=ROOT/'Ore no Shikabane o Koete Yuke (Japan).iso'
-    previous=ROOT/'work/output/english-native-0.2.38.iso'
-    target=ROOT/('work/output/english-native-'+V+'.iso')
+    previous=ROOT/('work/output/english-native-'+previous_version+'.iso')
+    target=ROOT/('work/output/english-native-'+version+'.iso')
     backend=ROOT/'work/source/retro-trans-tools'
-    config=ROOT/('work/source/release-'+V+'.json')
-    out=ROOT/('work/output/release-'+V)
+    config=ROOT/('work/source/release-'+version+'.json')
+    out=ROOT/('work/output/release-'+version)
     assert out.parent.resolve()==(ROOT/'work/output').resolve()
     commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=ROOT,text=True).strip()
     backend_commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=backend,text=True).strip()
     assert len(commit)==len(backend_commit)==40
-    old=json.loads((ROOT/'docs/releases/0.2.38/BUILD-MANIFEST.json').read_text())['patches'][0]
+    old=json.loads((ROOT/('docs/releases/'+previous_version+'/BUILD-MANIFEST.json')).read_text())['patches'][0]
     assert sha(source)==old['source_sha256'] and sha(previous)==old['target_sha256']
-    assert sha(target)==TARGET
+    assert sha(target)==target_hash
     patches=[]
-    for src,version,name in [(source,'original','OreNoShikabane-English-'+V+'-full.xdelta'),
-                            (previous,'0.2.38','OreNoShikabane-English-0.2.38-to-'+V+'.xdelta')]:
-        patches.append(dict(patch=name,edition='UCJS10117',language='en',source_version=version,
+    for src,source_version,name in [(source,'original','OreNoShikabane-English-'+version+'-full.xdelta'),
+                            (previous,previous_version,'OreNoShikabane-English-'+previous_version+'-to-'+version+'.xdelta')]:
+        patches.append(dict(patch=name,edition='UCJS10117',language='en',source_version=source_version,
             source_format='iso',target_format='iso',source=str(src),target=str(target)))
     settings=dict(game_id='ore-no-shikabane-o-koete-yuke',game_name='Ore no Shikabane o Koete Yuke',
-        platform='PSP',version=V,source_commit=commit,patches=patches)
-    print(json.dumps(dict(write=args.write,version=V,source_commit=commit,backend_commit=backend_commit,
-        target_sha256=TARGET,target_bytes=target.stat().st_size,source_window_bytes=WINDOW,
+        platform='PSP',version=version,source_commit=commit,patches=patches)
+    print(json.dumps(dict(write=args.write,version=version,source_commit=commit,backend_commit=backend_commit,
+        target_sha256=target_hash,target_bytes=target.stat().st_size,source_window_bytes=WINDOW,
         routes=[dict(source=p['source_version'],patch=p['patch']) for p in patches],output=str(out)),indent=2),flush=True)
     if not args.write:return
     assert not out.exists()
@@ -68,12 +72,12 @@ def main():
     release.encode=compact_encode
     manifest=release.build_release(config,out)
     release.validate_directory(out)
-    assert all(p['target_sha256']==TARGET for p in manifest['patches'])
-    evidence=dict(version=V,source_commit=commit,builder_repository='https://github.com/retro-trans/retro-trans-tools',
+    assert all(p['target_sha256']==target_hash for p in manifest['patches'])
+    evidence=dict(version=version,source_commit=commit,builder_repository='https://github.com/retro-trans/retro-trans-tools',
         builder_commit=backend_commit,source_window_bytes=WINDOW,application_header=False,
         encoder_override='Official xdelta engine with -B 1073741824; standard Retro Trans builder, decoder and validator otherwise unchanged',
         encodings=encodings,roundtrip_verified=True,game_images_uploaded=False)
-    (ROOT/('work/source/packaging-'+V+'.json')).write_text(json.dumps(evidence,indent=2)+'\n',encoding='utf-8')
+    (ROOT/('work/source/packaging-'+version+'.json')).write_text(json.dumps(evidence,indent=2)+'\n',encoding='utf-8')
     print('PASS: both routes round-trip to the exact tested image.',flush=True)
 
 

@@ -5,30 +5,37 @@ English fan translation of the Japanese PSP game **Ore no Shikabane o Koete Yuke
 This repository contains translation text, glossaries, UI metadata and tools;
 game images, extracted data, saves and Japanese working scripts remain local.
 
-Current release: **0.2.48**, 2026-10-22; tested image built 2026-10-18.
+Current release: **0.2.52**, 2026-10-28. **PSP hardware tested on 6.61 ARK-5**
+with the installed `PBOOT.PBP` update disabled. See the [PSP setup guide](docs/PSP_SETUP.md).
 
 ## Applying the patch
 
 Use the latest [Retro Trans](https://github.com/retro-trans/retro-trans-tools/releases/latest) app:
 
-1. Click **Refresh catalog**, open **Automatic**, and select your original Japanese ISO or patched **0.2.38** ISO.
-2. Select **Ore no Shikabane o Koete Yuke**, choose **0.2.48** or **Latest**, and select a new output filename.
+1. Click **Refresh catalog**, open **Automatic**, and select your original Japanese ISO or public patched **0.2.48** ISO.
+2. Select **Ore no Shikabane o Koete Yuke**, choose **0.2.52** or **Latest**, and select a new output filename.
 3. Apply the patch. The app verifies the source and the complete resulting image.
 
-For manual patching, download `OreNoShikabane-English-0.2.48-full.xdelta` from
+For manual patching, download `OreNoShikabane-English-0.2.52-full.xdelta` from
 [Releases](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/latest) and use xdelta3 or Delta Patcher:
 
 ```text
-xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.48-full.xdelta "Ore no Shikabane o Koete Yuke English 0.2.48.iso"
+xdelta3 -d -s "Ore no Shikabane o Koete Yuke (Japan).iso" OreNoShikabane-English-0.2.52-full.xdelta "Ore no Shikabane o Koete Yuke English 0.2.52.iso"
 ```
 
 Compare the source/output sizes and SHA-256 values with the release's
-`BUILD-MANIFEST.json`. To upgrade a patched **0.2.38** image, use
-`OreNoShikabane-English-0.2.38-to-0.2.48.xdelta` with that image as the source.
-Local test builds 0.2.39–0.2.47 are not supported patch inputs.
+`BUILD-MANIFEST.json`. To upgrade a patched **0.2.48** image, use
+`OreNoShikabane-English-0.2.48-to-0.2.52.xdelta` with that image as the source.
+Earlier local test builds are not inputs for the public release patches.
 Boot the patched ISO fresh and load a normal save; older save
-states retain old text and graphics in memory. The image has a decrypted EBOOT
-and has been tested in PPSSPP. Physical PSP testing remains pending.
+states retain old text and graphics in memory. The image uses a compressed native
+executable and was tested in PPSSPP and on the reported physical PSP setup.
+
+**On PSP hardware:** back up `PSP/GAME/UCJS10117/PBOOT.PBP`, rename only that
+file to `PBOOT.PBP.disabled`, and fully restart before launching the patched ISO.
+The installed update can override the translation executable and restore the old
+menu layout. Follow the [complete setup and troubleshooting guide](docs/PSP_SETUP.md).
+The official update's gameplay changes are not included in the patched executable.
 
 ## Included content and status
 
@@ -38,6 +45,7 @@ and has been tested in PPSSPP. Physical PSP testing remains pending.
 - Latin name entry and Auto-name choices, translated native UI artwork, compact battle item names, wider menus, complete character traits, and clearer status/battle displays.
 - Original Oreshika: Tainted Bloodlines vital/element icon designs adapted to native PSP UI slots.
 - Wider story dialogue with a partly transparent background, and a wider home-menu description panel that keeps both Rest help lines inside its frame.
+- Version 0.2.52 resolves the reported PSP startup problem on the tested setup and adds the commodity broker translations from 0.2.49.
 - Fixes since 0.2.38 include a critical fresh-boot scratch-memory corruption fix, native Circle/Triangle glyphs, prologue wrapping, wider party/help/class menus, clearer weather and Divine Union layouts, and tournament labels and brackets.
 
 **This is an early draft build. Human proofreading and full-game playtesting are needed.**
@@ -78,7 +86,8 @@ software renderer were used for native text/layout testing. Repository/release
 presentation follows [Macross Triangle Frontier](https://github.com/retro-trans/Macross-Triangle-Frontier).
 
 Original translation tools and English text: [MIT](LICENSE). The font retains
-its own licence. The games, original artwork and other game assets retain their
+its own licence. The PPSSPP-derived `tools/inspect_pboot.py` is GPL-2.0-or-later;
+see [its licence](docs/licenses/GPL-2.0.txt). The games, original artwork and other game assets retain their
 respective owners' rights; the MIT licence does not cover them.
 
 Bug reports, proofreading and playtesting are welcome at

@@ -1,0 +1,664 @@
+[
+  {
+    "text": "Check Price Changes",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e37120",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e36fe0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          22,
+          4,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e36e00",
+        "vtable": "0x8a440b0",
+        "geometry": [
+          197,
+          210,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e31390",
+        "vtable": "0x8a43520",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Money",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e369a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e36860",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e36750",
+        "vtable": "0x8a20c90",
+        "geometry": [
+          10,
+          4,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e35d20",
+        "vtable": "0x8a43808",
+        "geometry": [
+          290,
+          10,
+          180,
+          24
+        ]
+      },
+      {
+        "object": "0x9e31390",
+        "vtable": "0x8a43520",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "1052 ryo",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e36c00",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e36ac0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          109,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e36750",
+        "vtable": "0x8a20c90",
+        "geometry": [
+          10,
+          4,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e35d20",
+        "vtable": "0x8a43808",
+        "geometry": [
+          290,
+          10,
+          180,
+          24
+        ]
+      },
+      {
+        "object": "0x9e31390",
+        "vtable": "0x8a43520",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Which commodity will you speculate on?",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e34460",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e34320",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          6,
+          404,
+          18
+        ]
+      },
+      {
+        "object": "0x9e338e0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          67,
+          242,
+          410,
+          26
+        ]
+      },
+      {
+        "object": "0x9e31390",
+        "vtable": "0x8a43520",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "                Now    High   Low",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2c590",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2c450",
+        "vtable": "0x8a22298",
+        "geometry": [
+          10,
+          8,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2ba10",
+        "vtable": "0x8a20018",
+        "geometry": [
+          182,
+          106,
+          180,
+          60
+        ]
+      },
+      {
+        "object": "0x9e31390",
+        "vtable": "0x8a43520",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Rice",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2e230",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2e0f0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2dfe0",
+        "vtable": "0x8a20458",
+        "geometry": [
+          10,
+          34,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2ba10",
+        "vtable": "0x8a20018",
+        "geometry": [
+          182,
+          106,
+          180,
+          60
+        ]
+      },
+      {
+        "object": "0x9e31390",
+        "vtable": "0x8a43520",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "\u00a0\u00a0100\u00a0\u00a0100\u00a0\u00a0100",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e2e490",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1109917696,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2e350",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2dfe0",
+        "vtable": "0x8a20458",
+        "geometry": [
+          10,
+          34,
+          160,
+          16
+        ]
+      },
+      {
+        "object": "0x9e2ba10",
+        "vtable": "0x8a20018",
+        "geometry": [
+          182,
+          106,
+          180,
+          60
+        ]
+      },
+      {
+        "object": "0x9e31390",
+        "vtable": "0x8a43520",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "2",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e39c90",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1073741824,
+          0
+        ]
+      },
+      {
+        "object": "0x9e39b50",
+        "vtable": "0x8a22298",
+        "geometry": [
+          4294967290,
+          46,
+          12,
+          16
+        ]
+      },
+      {
+        "object": "0x9e38520",
+        "vtable": "0x8a45848",
+        "geometry": [
+          135,
+          100,
+          210,
+          72
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": " contracts",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3b1f0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3b0b0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          46,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38520",
+        "vtable": "0x8a45848",
+        "geometry": [
+          135,
+          100,
+          210,
+          72
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "\"Rice,\" then!",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e39090",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38f50",
+        "vtable": "0x8a22298",
+        "geometry": [
+          10,
+          10,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38520",
+        "vtable": "0x8a45848",
+        "geometry": [
+          135,
+          100,
+          210,
+          72
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "How many contracts?",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e392f0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e391b0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          10,
+          28,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e38520",
+        "vtable": "0x8a45848",
+        "geometry": [
+          135,
+          100,
+          210,
+          72
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "200 ryo",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3b530",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1118306304,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3b3f0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          74,
+          46,
+          128,
+          16
+        ]
+      },
+      {
+        "object": "0x9e38520",
+        "vtable": "0x8a45848",
+        "geometry": [
+          135,
+          100,
+          210,
+          72
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

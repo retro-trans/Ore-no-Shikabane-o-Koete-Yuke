@@ -1,0 +1,287 @@
+{
+  "version": "0.2.49",
+  "date": "2026-10-27",
+  "result": "PASS: commodity ribbon, Money/ryo, aligned Now/High/Low, quantity/confirmation/retry and graph labels checked in native UI",
+  "iso": {
+    "version": "0.2.49",
+    "file": "work/output/english-native-0.2.49.iso",
+    "bytes": 1081333760,
+    "sha256": "d1b0a1f3055b5ac85645945c4c1037a3b0a743c5d1b6427137f4ad235e5cfc4f"
+  },
+  "runtime": {
+    "version": "0.2.49",
+    "result": "PASS",
+    "elf_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec",
+    "archive_sha256": "4795f88824b760117968373e0ef0892949811780dee42a53836a6a4cab39c925",
+    "live_patches": [
+      {
+        "address": "0x893eb08",
+        "word": "0x3c0409d0"
+      },
+      {
+        "address": "0x893eb84",
+        "word": "0x3c0409d0"
+      },
+      {
+        "address": "0x893eb10",
+        "word": "0x2484cd48"
+      },
+      {
+        "address": "0x893ec34",
+        "word": "0x3c0409d0"
+      },
+      {
+        "address": "0x893ec38",
+        "word": "0x2484cd68"
+      },
+      {
+        "address": "0x893d4e8",
+        "word": "0x3c0409d0"
+      },
+      {
+        "address": "0x893d4f0",
+        "word": "0x2484cda8"
+      },
+      {
+        "address": "0x893d538",
+        "word": "0x3c0409d0"
+      },
+      {
+        "address": "0x893d540",
+        "word": "0x2484cdb0"
+      },
+      {
+        "address": "0x89401d8",
+        "word": "0x3c0609d0"
+      },
+      {
+        "address": "0x89401e8",
+        "word": "0x24c6cdb8"
+      },
+      {
+        "address": "0x8b2b770",
+        "word": "0x9cfcdc0"
+      },
+      {
+        "address": "0x894e728",
+        "word": "0xe73f37f"
+      }
+    ],
+    "contexts": {
+      "market": [
+        "Money",
+        "1052 ryo",
+        "                Now    High   Low"
+      ],
+      "quantity-one": [
+        "\"Rice,\" then!",
+        "How many contracts?",
+        " contracts",
+        "100 ryo"
+      ],
+      "quantity-two": [
+        "\"Rice,\" then!",
+        "How many contracts?",
+        " contracts",
+        "200 ryo"
+      ],
+      "confirmation": [
+        "\"Rice\": 2 contracts.",
+        "220 ryo, including fees.",
+        "Is that correct?",
+        "Yes",
+        "No"
+      ],
+      "retry": [
+        "\"Rice,\" then!",
+        "How many contracts?",
+        " contracts",
+        "200 ryo"
+      ],
+      "graph": [
+        "Month",
+        "(ryo)"
+      ]
+    },
+    "font": "Native embedded HD ASCII pages",
+    "quantity_and_fee_examples": [
+      {
+        "contracts": 1,
+        "base_price": 100
+      },
+      {
+        "contracts": 2,
+        "base_price": 200,
+        "total_with_fees": 220
+      }
+    ],
+    "retry_after_decline": true,
+    "guest_memory_writes": false,
+    "register_edits_by_this_verifier": false,
+    "qa_unlock_override": "Separately recorded in preview-market-entry.json and preview-graph-entry.json",
+    "texture_replacement": false,
+    "save_state_loaded": false,
+    "purchase_confirmed": false
+  },
+  "static_tests": {
+    "version": "0.2.49",
+    "result": "PASS",
+    "relocated_pointer_pairs": 6,
+    "format_argument_order": "unchanged",
+    "native_translation_records": 6,
+    "translation_source_hashes": "PASS",
+    "english_only_export": "PASS",
+    "original_narrow_literals": "unchanged",
+    "mips_unit_cases": [
+      {
+        "caller": "0x893eb60",
+        "unit": "contracts",
+        "stack_and_callee_saved_registers": "unchanged",
+        "tail_target": "0x882b49c"
+      },
+      {
+        "caller": "0x8932c1c",
+        "unit": "original",
+        "stack_and_callee_saved_registers": "unchanged",
+        "tail_target": "0x882b49c"
+      },
+      {
+        "caller": "0x8951ba4",
+        "unit": "original",
+        "stack_and_callee_saved_registers": "unchanged",
+        "tail_target": "0x882b49c"
+      },
+      {
+        "caller": "0x895245c",
+        "unit": "original",
+        "stack_and_callee_saved_registers": "unchanged",
+        "tail_target": "0x882b49c"
+      },
+      {
+        "caller": "0x0",
+        "unit": "original",
+        "stack_and_callee_saved_registers": "unchanged",
+        "tail_target": "0x882b49c"
+      }
+    ],
+    "guest_gameplay": "not executed by this test",
+    "executable_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec"
+  },
+  "ribbon": {
+    "version": "0.2.49",
+    "result": "PASS",
+    "context": "market",
+    "elf_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec",
+    "archive_sha256": "4795f88824b760117968373e0ef0892949811780dee42a53836a6a4cab39c925",
+    "required": "COMMODITY BROKER",
+    "rendering_hooks": "Verified through JIT-aware disassembly",
+    "draws": [
+      {
+        "text": "COMMODITY BROKER",
+        "file": "259.ppt",
+        "widget": "0x9e1b640",
+        "descriptor": "0x8eb52f0",
+        "pixel_format": 4,
+        "logical_size": [
+          44,
+          260
+        ],
+        "physical_uv": [
+          0,
+          0,
+          88,
+          260
+        ],
+        "native_texture": [
+          128,
+          512
+        ],
+        "pixels_and_palette": "Exact match with final data archive"
+      }
+    ],
+    "texture_replacement": false,
+    "game_memory_writes": false,
+    "save_record_writes": false
+  },
+  "screenshots": [
+    {
+      "file": "work/ui/market-ui-0.2.49/title.png",
+      "sha256": "8ff1c483d1657c3c2b4dbdf92ec4f43bb5022c9a4a2a58377b81b71e9cc93e5c"
+    },
+    {
+      "file": "work/ui/market-ui-0.2.49/market.png",
+      "sha256": "645c0aebc37955ce23b0ef3f113de8754f434c370aecae3412cdf748a200c596"
+    },
+    {
+      "file": "work/ui/market-ui-0.2.49/quantity-one.png",
+      "sha256": "38d61ad8262fd0a42856df946a9e2ec1f41160d9300f0807f64659782fcd756c"
+    },
+    {
+      "file": "work/ui/market-ui-0.2.49/quantity-two.png",
+      "sha256": "63d2a87263928047b546baba14f79fd4b053c7adafd002ecb6cb280b7666ff77"
+    },
+    {
+      "file": "work/ui/market-ui-0.2.49/confirmation.png",
+      "sha256": "9e001bca27b88d9c8358c3fa9c5854cd20065606bd6543d36dae43eb8fb5090d"
+    },
+    {
+      "file": "work/ui/market-ui-0.2.49/retry.png",
+      "sha256": "63d2a87263928047b546baba14f79fd4b053c7adafd002ecb6cb280b7666ff77"
+    },
+    {
+      "file": "work/ui/market-ui-0.2.49/graph.png",
+      "sha256": "3bb7ea834cad86e2e1266bd42c5dd29ffaf84cfce8733b0a77b8792b8e159ebe"
+    }
+  ],
+  "checks": {
+    "quantity_price_fees": "Native values, input bounds and arithmetic unchanged",
+    "argument_order": "Original commodity/quantity/price argument order retained",
+    "retry_path": "Both initial and retry prompt pointer highs relocated",
+    "other_quantity_pickers": "Original unit retained by saved-caller guard",
+    "prior_fixes": "All other executable bytes and archive members unchanged except segment size and title",
+    "money_header": "Native Money caption explicitly relocated; existing spaced ryo currency retained",
+    "resource_loader": "Ribbon retains original 13744-byte loader budget"
+  },
+  "fixture": {
+    "purpose": "Public-works level getter previewed as 1 to expose locked broker",
+    "reports": [
+      "preview-market-entry.json",
+      "preview-graph-entry.json"
+    ],
+    "register_override": true,
+    "gameplay_unlock_verified": false,
+    "save_state_loaded": false,
+    "delivered_image_modified": false,
+    "money_price_investment_data_changed": false
+  },
+  "save_preservation": {
+    "version": "0.2.49",
+    "result": "PASS",
+    "original_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "restored_project_hashes": {
+      "SAVEDATA.BIN": "e97eaf0a38116b78d58a4f0d114d68912b6335def8a91a638145876c0b9056b0",
+      "PARAM.SFO": "185dea9c6b8c180ff78573d51e8b67e1c39413fbc04f3edb7c93a3aa24e6c89a",
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1"
+    },
+    "user_source_written": false,
+    "user_source_unchanged": true,
+    "save_states_loaded": false
+  },
+  "cold_boot": true,
+  "texture_replacement": false,
+  "purchase_confirmed": false,
+  "github_release": false,
+  "limits": [
+    "Visual checks use Rice, quantities 1/2, unchanged native prices 100/200 and fee total 220.",
+    "Other commodities, extreme values and physical PSP retesting remain pending.",
+    "The physical PSP screenshots were reported as public 0.2.48. Final 0.2.49 checked in isolated PPSSPP.",
+    "The old native caption literal already contained Funds; 0.2.49 explicitly relocates its caption to Money.",
+    "Untranslated decorative background shop sign is retained."
+  ]
+}

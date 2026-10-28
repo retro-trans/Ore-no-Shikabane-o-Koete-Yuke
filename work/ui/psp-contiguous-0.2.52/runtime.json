@@ -1,0 +1,15 @@
+{
+  "result": "PASS: selected emulator checks; physical startup unconfirmed",
+  "version": "0.2.52",
+  "cold_boot": true,
+  "save_states_loaded": false,
+  "installed_update": false,
+  "software_renderer": true,
+  "psp_model": 0,
+  "texture_replacement": false,
+  "normal_save_loaded": true,
+  "home_cell_width": 96,
+  "font_atlas_exact": true,
+  "font_pointer": "0x09b5c010",
+  "hardware_verified": false
+}

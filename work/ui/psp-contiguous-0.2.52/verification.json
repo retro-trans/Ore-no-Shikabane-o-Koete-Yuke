@@ -1,0 +1,194 @@
+{
+  "version": "0.2.52",
+  "result": "PASS: local checks and user-confirmed PSP hardware startup on 6.61 ARK-5 with PBOOT disabled",
+  "iso": {
+    "file": "work/output/english-native-0.2.52.iso",
+    "bytes": 1077544960,
+    "sha256": "5e821290c20f25f0642c4834f602e9fc7d46925d820f3ccfd83b78cc7f86590b"
+  },
+  "changes": {
+    "version": "0.2.52",
+    "based_on": "0.2.51",
+    "loader_model": {
+      "before": {
+        "matches_intended_memory": false,
+        "actual_sha256": "feb016d769a4fa73c3040b3141ddd6f3a2648c0c5abd785b796fae632f02632e",
+        "intended_sha256": "25c7d0fa8461fcda1a495241ee5acb8eb63f0fa3a44c711d87a4235bba922620",
+        "unread_source_overlaps": [
+          {
+            "clearing_segment": 0,
+            "unread_segment": 1,
+            "bytes": 1707552
+          }
+        ],
+        "segment_results": [
+          {
+            "index": 0,
+            "matches": true
+          },
+          {
+            "index": 1,
+            "matches": false
+          }
+        ]
+      },
+      "after": {
+        "matches_intended_memory": true,
+        "actual_sha256": "25c7d0fa8461fcda1a495241ee5acb8eb63f0fa3a44c711d87a4235bba922620",
+        "intended_sha256": "25c7d0fa8461fcda1a495241ee5acb8eb63f0fa3a44c711d87a4235bba922620",
+        "unread_source_overlaps": [],
+        "segment_results": [
+          {
+            "index": 0,
+            "matches": true
+          }
+        ]
+      },
+      "runtime_base": "0x8804000",
+      "runtime_end": "0x9cfce20",
+      "runtime_bytes": 21990944,
+      "intended_memory_identical": true,
+      "source_elf_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec",
+      "elf_sha256": "441229cae2f98eacfb15074f76db52bb0b42a2c00c3fc4fb7f477b34d8a12869",
+      "old_elf_bytes": 5131808,
+      "elf_bytes": 21996296,
+      "segments_before": 2,
+      "segments_after": 1,
+      "scope": "Source-based in-place loader model; not hardware verification"
+    },
+    "packing": {
+      "format": "type-2 ~PSP; gzip-compressed static ELF",
+      "tag": "0xd91613f0",
+      "source_header_sha256": "31909b5ee76d29aa117bf87e1ad12161c395049a2450afbc270e9f30ab8c0933",
+      "input_elf_sha256": "441229cae2f98eacfb15074f76db52bb0b42a2c00c3fc4fb7f477b34d8a12869",
+      "packed_sha256": "6d6fd9bbca3e2ab94b6d49043190f8b5c6f003121336b74b05b00d9076a7fa4a",
+      "elf_bytes": 21996296,
+      "packed_bytes": 1342848,
+      "compressed_bytes": 1342512,
+      "comp_attribute": 3,
+      "decrypt_mode": 9,
+      "module_attributes": 6,
+      "segments": [
+        {
+          "address": "0x8804000",
+          "file_bytes": 21990944,
+          "memory_bytes": 21990944
+        }
+      ],
+      "payload_identical": true,
+      "runtime_addresses_unchanged": true,
+      "hardware_verified": false
+    },
+    "executable_sha256": "6d6fd9bbca3e2ab94b6d49043190f8b5c6f003121336b74b05b00d9076a7fa4a",
+    "archive_sha256": "e73d3b484760de602f7785318d9c99809e73a75c1fa8ca0a9b19626bd6b42a03",
+    "archive_bytes": 228261888,
+    "sfo_sha256": "db6c717236c3ff5a96e1440d0290cbfc6cd1e522b2ea8f4b1dd19d3a3dacf52d",
+    "sfo_unchanged": true,
+    "runtime_code_data_addresses_unchanged": true,
+    "archive_changes": "Title version only; all other members exact",
+    "footer": {
+      "rows": [
+        {
+          "text": "v0.2.52",
+          "right": 474,
+          "top": 223,
+          "font_size": 14,
+          "bounds": [
+            426.5,
+            222.0,
+            475.0,
+            234.75
+          ]
+        },
+        {
+          "text": "github.com/retro-trans",
+          "right": 474,
+          "top": 241,
+          "font_size": 12,
+          "bounds": [
+            342.5,
+            240.0,
+            475.0,
+            253.75
+          ]
+        }
+      ],
+      "atlas_screen_origin": [
+        0,
+        201
+      ],
+      "copyright_exact": true
+    },
+    "hardware_verified": false,
+    "github_release": false
+  },
+  "runtime": {
+    "result": "PASS: selected emulator checks; physical startup unconfirmed",
+    "version": "0.2.52",
+    "cold_boot": true,
+    "save_states_loaded": false,
+    "installed_update": false,
+    "software_renderer": true,
+    "psp_model": 0,
+    "texture_replacement": false,
+    "normal_save_loaded": true,
+    "home_cell_width": 96,
+    "font_atlas_exact": true,
+    "font_pointer": "0x09b5c010",
+    "hardware_verified": false
+  },
+  "static": {
+    "result": "PASS",
+    "controls": [
+      "original ISO ELF",
+      "supplied update ELF"
+    ],
+    "old_candidate_reproduces_source_erasure": true,
+    "new_candidate_preserves_entire_image": true,
+    "allocated_sections_checked": 22,
+    "module_info_and_entry_unchanged": true,
+    "authenticated_round_trip": true,
+    "elf_sha256": "441229cae2f98eacfb15074f76db52bb0b42a2c00c3fc4fb7f477b34d8a12869",
+    "hardware_verified": false
+  },
+  "patches": [
+    {
+      "patch": "OreNoShikabane-English-0.2.51-to-0.2.52-PSP-test.xdelta",
+      "edition": "UCJS10117",
+      "language": "en",
+      "source_version": "0.2.51",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "3e58ffb361fc5fda6ef7a943b2a84800df1ba57712a41d65e11a42d87eccea84",
+      "source_bytes": 1077526528,
+      "target_sha256": "5e821290c20f25f0642c4834f602e9fc7d46925d820f3ccfd83b78cc7f86590b",
+      "target_bytes": 1077544960,
+      "patch_sha256": "c1b6777555effcc85c2f855a0df0e73221d68046f98118a4b44d926a0f353e8d",
+      "patch_bytes": 1352509
+    }
+  ],
+  "save_preservation": {
+    "result": "PASS",
+    "source_written": false,
+    "source_unchanged": true,
+    "source_hashes": {
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PARAM.SFO": "527b5303ba222d0214fc124475c19673671e00e4cc7c080ce8f14de8e5eb44e0",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1",
+      "SAVEDATA.BIN": "74bc7532e90381d430e96c0d864d337233609946fbbfd414887dafd8107ec3ac"
+    },
+    "isolated_save_copy": true,
+    "save_states_loaded": false
+  },
+  "physical_psp_tested": true,
+  "hardware_verified": true,
+  "original_iso_control": "User correction: clean Japanese ISO also fails with PBOOT disabled",
+  "limitations": "Physical startup confirmed by user; full playthrough and other hardware/firmware combinations untested",
+  "github_release": false,
+  "test_zip": {
+    "file": "work/output/OreNoShikabane-English-0.2.52-from-0.2.51-PSP-test.zip",
+    "bytes": 1352921,
+    "sha256": "5f6e29c36e8e915e0035b84870777367c6b2430ec7386bd9f69ebb797e4798da"
+  },
+  "hardware_report": "work/ui/psp-contiguous-0.2.52/hardware-report.json"
+}

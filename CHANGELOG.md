@@ -1,5 +1,33 @@
 # Changelog
 
+## 0.2.52 (2026-10-28)
+
+- Recorded the 0.2.51 hardware failure and the user's corrected baseline: the clean Japanese ISO also fails with `PBOOT.PBP` disabled on 6.61 ARK-5. The earlier shutdown was not unique to the translation; 0.2.52 was subsequently confirmed working by the user.
+- Reproduced a separate loading conflict in a source-based PSP loader model: clearing the first segment's BSS erases all 1,707,552 unread bytes of the translation's second segment. Original and supplied-update executables pass the same model. PPSSPP reads its input separately and does not expose this overlap.
+- Consolidated the translated static ELF into one loadable segment, storing the intervening zero area explicitly. The entire intended runtime image, game instructions, assets, pointers and reserved memory span remain identical; only ELF packaging/section metadata and the title version change. Keeps 0.2.51's startup flag. Compression adds only 18,560 bytes to the packed executable.
+- Checked original/update controls, old failure/new success in the loading model, all 22 original allocated sections, module information, entry point and authenticated executable round trip. Final ISO cold-boots, loads a normal save and displays the corrected home layout/font in an isolated PSP-1000 emulator profile. User save source remains unchanged. Retro Trans 0.2.51 upgrade round trip passes. User subsequently confirmed 0.2.52 works on physical PSP running 6.61 ARK-5 with PBOOT disabled and requested publication. This covers startup/operation on that setup, not a full playthrough or every hardware model. Added `docs/PSP_SETUP.md` with patch selection, update backup/rename, fresh-start and version checks. See `docs/psp-contiguous-load.txt`.
+
+## 0.2.51 (2026-10-28)
+
+- Inspected the user's working UCJS10117 1.01 `PBOOT.PBP` without modifying it. Decrypted its type-5 executable with header SHA-1 and both KIRK CMACs verified. Confirmed the ARK-5 update override path; the update's startup metadata omits the extra decryption request retained by the translated ISO.
+- Cleared `PARAM.SFO`'s `HRKGMP_VER` from 19 to 0 (one changed byte) to test that specific startup-path difference. The executable and memory layout are byte-identical to 0.2.50; the only archive change is the title version. Original OPNSSMP and all other ISO content are preserved.
+- Verified the actual final metadata and component hashes, emulator cold boot/title/home, native font atlas and 96-pixel home cells. Normal saves read/copied only into a separate profile. Retro Trans full/0.2.48/0.2.50 test routes decode to the exact target; a separate 0.2.50-only package is available.
+- Hardware retest FAILED on 6.61 ARK-5: the user reports the same crash/shutdown with PBOOT disabled. Clearing the decryption request did not resolve startup. Prior 0.2.48 and 0.2.50 shutdowns remain recorded as failures. No GitHub release. See `docs/psp-boot-flag.txt`.
+
+## 0.2.50 (2026-10-27)
+
+- Added a local PSP startup test candidate after the user confirmed that disabling the installed `PSP/GAME/UCJS10117/PBOOT.PBP` prevents startup and restoring it makes the game run. The update override strongly explains the missing executable layout/icon changes; the underlying hardware startup fault remains unconfirmed.
+- Packaged 0.2.49's exact executable into a compressed, authenticated `~PSP` container using the source game's loader metadata and type-2 tag. Size falls from 5,131,808 to 1,324,288 bytes. No executable instructions, runtime addresses, BSS sizes or translated assets change; only the archive title version advances.
+- Passed exact payload recovery with an independent decryptor, both KIRK CMACs, header SHA-1, gzip checks, 29 corruption cases and four truncation cases. Cold-booted in isolated PPSSPP without an installed update; checked the 0.2.50 title and loaded home menu, 96-pixel cells, full help text and native font atlas. User saves read/copied only into a separate QA profile.
+- Physical test FAILED: user reports that 0.2.50 also shuts the PSP down on 6.61 ARK-5 with `PBOOT.PBP` disabled. Repackaging alone did not fix startup. Restore the working update; its executable needs comparison before another hardware candidate. Local test artifacts are retained unchanged, and no GitHub release was created. Exact shutdown timing/cause and broad gameplay remain unknown. See `docs/psp-hardware-startup.txt`.
+
+## 0.2.49 (2026-10-27)
+
+- Translated the native commodity-broker ribbon, quantity and fee-inclusive confirmation prompts, price-table headings and graph units. Explicitly relocated the native Money caption and retained the spaced ryo unit. The reported PSP screenshots were running public 0.2.48.
+- Reused the original two-line quantity frame with the complete concise question "How many contracts?"; added a correctly spaced contracts label only for commodity trading. Other quantity pickers retain their original labels. Initial and retry literal pointers, runtime substitutions, native quantity bounds, prices and fee calculations are preserved.
+- Cold-booted the final local ISO in PPSSPP and checked Rice at quantities 1/2, prices 100/200, fee total 220, declining confirmation back to the picker, aligned headings, graph units and exact native ribbon pixels/palette/UVs. A temporary public-works level getter return override exposed the locked broker for QA; it changes no delivered image or save data. Five MIPS hook cases pass. Original isolated saves restored; user-source saves only read/copied and hash checked. No purchase confirmed.
+- Local build only; no GitHub release. Other commodities/extreme values, natural unlock progression and physical PSP retesting remain pending. See `docs/market-ui.txt` and `work/ui/market-ui-0.2.49/verification.json`.
+
 ## 0.2.48 (2026-10-18)
 
 - Published on 2026-10-22 with compact full and 0.2.38 upgrade patches. Both decode to the exact tested ISO; all five uploaded asset sizes and SHA-256 digests verified. Retro Trans catalog refresh and all six original/0.2.38 selection routes verified. See `docs/releases/0.2.48/PUBLICATION.json`.

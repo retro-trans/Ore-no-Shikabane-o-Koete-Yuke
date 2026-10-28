@@ -1,0 +1,36 @@
+{
+  "version": "0.2.49",
+  "result": "PASS",
+  "context": "market",
+  "elf_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec",
+  "archive_sha256": "4795f88824b760117968373e0ef0892949811780dee42a53836a6a4cab39c925",
+  "required": "COMMODITY BROKER",
+  "rendering_hooks": "Verified through JIT-aware disassembly",
+  "draws": [
+    {
+      "text": "COMMODITY BROKER",
+      "file": "259.ppt",
+      "widget": "0x9e1b640",
+      "descriptor": "0x8eb52f0",
+      "pixel_format": 4,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_uv": [
+        0,
+        0,
+        88,
+        260
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "pixels_and_palette": "Exact match with final data archive"
+    }
+  ],
+  "texture_replacement": false,
+  "game_memory_writes": false,
+  "save_record_writes": false
+}

@@ -1,0 +1,964 @@
+[
+  {
+    "text": "Month",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3c2a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c160",
+        "vtable": "0x8a22298",
+        "geometry": [
+          402,
+          226,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "(ryo)",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3dd40",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3dc00",
+        "vtable": "0x8a22298",
+        "geometry": [
+          56,
+          68,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "8",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3c500",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c3c0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          368,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "6",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3c760",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c620",
+        "vtable": "0x8a22298",
+        "geometry": [
+          340,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "4",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3c9c0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c880",
+        "vtable": "0x8a22298",
+        "geometry": [
+          312,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "2",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3cc20",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3cae0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          284,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "12",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3ce80",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3cd40",
+        "vtable": "0x8a22298",
+        "geometry": [
+          248,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "10",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3d0e0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3cfa0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          220,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "8",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3d340",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3d200",
+        "vtable": "0x8a22298",
+        "geometry": [
+          200,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "6",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3d5a0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3d460",
+        "vtable": "0x8a22298",
+        "geometry": [
+          172,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "4",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3d800",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3d6c0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          144,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "2",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3da60",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3d920",
+        "vtable": "0x8a22298",
+        "geometry": [
+          116,
+          242,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "400",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3dfa0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3de60",
+        "vtable": "0x8a22298",
+        "geometry": [
+          56,
+          86,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "300",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3e200",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3e0c0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          56,
+          121,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "200",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3e460",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3e320",
+        "vtable": "0x8a22298",
+        "geometry": [
+          56,
+          156,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "100",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3e6c0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3e580",
+        "vtable": "0x8a22298",
+        "geometry": [
+          56,
+          191,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3c050",
+        "vtable": "0x8a432e0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Rice",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e3ab90",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e3aa50",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          80,
+          16
+        ]
+      },
+      {
+        "object": "0x9e3a940",
+        "vtable": "0x8a42e10",
+        "geometry": [
+          10,
+          10,
+          80,
+          16
+        ]
+      },
+      {
+        "object": "0x9e38370",
+        "vtable": "0x8a20018",
+        "geometry": [
+          364,
+          8,
+          100,
+          36
+        ]
+      },
+      {
+        "object": "0x9e2fa10",
+        "vtable": "0x8a43008",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

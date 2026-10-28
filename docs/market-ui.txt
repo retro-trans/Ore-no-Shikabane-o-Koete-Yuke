@@ -1,0 +1,54 @@
+Commodity broker, local build 0.2.49 (2026-10-27)
+
+The reported physical PSP screenshots were identified by the user as 0.2.48.
+The native purchase/confirmation prompts bypass the translated eMltMarket
+archive row. The builder relocates both narrow literals and redirects their
+original EUC-JP-to-UTF-16 conversion calls. The retry path has its own high
+pointer instruction and is redirected too. The original format arguments,
+quantity bounds, prices and fee arithmetic remain unchanged.
+
+The full question draft measures 250px at 14px. The complete concise question
+"How many contracts?" measures 146px and fits the existing two-line picker.
+The confirmation explicitly includes the commodity, count, fee-inclusive price
+and confirmation question. A leading space separates the count from contracts.
+
+The number-picker setter hook checks the saved caller 0x0893eb60 before using
+the new UTF-16 unit. All other callers retain their original unit. Five Unicorn
+cases verify the actual MIPS branch, setter target, stack, argument registers
+and callee-saved registers. Original strings remain in place; English literals
+and the 36-byte wrapper add 216 resident bytes to the existing asset segment.
+The dedicated test also verifies all six native source strings/hashes,
+substitution order and source-free English exports. The archive-only
+check_translation.py corpus does not include these executable literal IDs.
+
+The native table header pointer at 0x08b2b770 now selects aligned Now/High/Low
+labels. Now means current price. The header's spacing accounts for proportional
+ASCII glyphs. Graph units are Month and (ryo). The shared native cash caption
+is explicitly relocated to Money; the existing spaced ryo unit is retained.
+The old caption had already been patched to Funds in 0.2.19, so the physical
+report's Japanese cash caption needs a PSP retest with this new image.
+
+259.ppt, member 52 in original root archive 0x00b4a800, is the left ribbon.
+COMMODITY BROKER reuses the established Noto Sans ribbon design, 96x264 T4
+storage, 44x260 logical geometry and 88x260 physical UVs. It retains exactly
+13,744 decompressed bytes. All other archive members except the title version
+are checked byte-identical to 0.2.48. All original script rows are unchanged.
+
+Final ISO cold-booted in the isolated software-rendering PPSSPP profile, with
+no texture replacements or save-state loading. A temporary native public-works
+level getter return override exposed the locked broker and graph for QA; no
+code, PC, price, money, investment-data or save changes are shipped. Rice,
+quantities 1 and 2, prices 100/200, total 220 including fees, declining the
+confirmation back to the picker, and graph units were checked. No purchase was
+confirmed. Exact ribbon palette/pixels/UVs, live pointers/literals and native
+font pages were verified. PPSSPP disassembly macros are expanded by the verifier
+when checking the second word of a fused LUI/ADDIU display.
+
+Original isolated saves restored; user-source saves read/copied only and hash
+checked. Other commodities/extreme values, natural gameplay unlock and physical
+PSP verification remain pending. Decorative background sign retained. No release
+created. Evidence: work/ui/market-ui-0.2.49/verification.json.
+
+Tools: build_market_ui.py, test_market_ui.py, preview_market_unlock.py,
+verify_market_runtime.py, verify_left_banner_runtime.py, record_market_qa.py.
+Run dry before --write/--execute. English-only exports use strip_jp.py.

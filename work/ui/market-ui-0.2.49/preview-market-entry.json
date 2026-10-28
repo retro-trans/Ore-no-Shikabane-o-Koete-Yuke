@@ -1,0 +1,31 @@
+{
+  "version": "0.2.49",
+  "diagnostic_only": true,
+  "purpose": "Expose locked commodity UI for visual QA",
+  "result": "OVERRIDE APPLIED",
+  "calls": [
+    {
+      "original_level": 0,
+      "preview_level": 1,
+      "caller": "0x892a25c"
+    },
+    {
+      "original_level": 0,
+      "preview_level": 1,
+      "caller": "0x88d3d5c"
+    },
+    {
+      "original_level": 0,
+      "preview_level": 1,
+      "caller": "0x88d3d5c"
+    }
+  ],
+  "actual_native_ui": true,
+  "gameplay_unlock_verified": false,
+  "code_or_pc_writes": false,
+  "game_memory_writes": false,
+  "register_override": true,
+  "save_state_loaded": false,
+  "money_price_investment_values_changed": false,
+  "delivered_image_modified": false
+}

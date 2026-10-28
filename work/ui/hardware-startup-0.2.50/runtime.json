@@ -1,0 +1,35 @@
+{
+  "result": "PASS",
+  "version": "0.2.50",
+  "cold_boot": true,
+  "save_states_loaded": false,
+  "texture_replacement": false,
+  "software_renderer": true,
+  "home_cell_width": 96,
+  "home_font": "0x09b5c010",
+  "font_atlas_byte_identical": true,
+  "width_instruction": {
+    "type": "opcode",
+    "address": 143783224,
+    "addressSize": 4,
+    "encoding": 604307552,
+    "macroEncoding": null,
+    "backgroundColor": "#e0ffff",
+    "name": "li",
+    "params": "a1,0x60",
+    "symbol": null,
+    "function": "z_un_0891f44c",
+    "dataSymbol": null,
+    "breakpoint": null,
+    "isCurrentPC": false,
+    "branch": null,
+    "relevantData": {
+      "address": 96,
+      "uintValue": null,
+      "stringValue": null
+    },
+    "conditionMet": null,
+    "dataAccess": null
+  },
+  "hardware_verified": false
+}

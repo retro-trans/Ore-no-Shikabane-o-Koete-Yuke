@@ -1,0 +1,209 @@
+{
+  "version": "0.2.49",
+  "graphics": [
+    {
+      "archive_offset": 11839488,
+      "member_entry": 52,
+      "file": "259.ppt",
+      "translation_en": "COMMODITY BROKER",
+      "resource_bytes": 13744,
+      "original_bytes": 13744,
+      "font": "Noto Sans",
+      "font_size": 20,
+      "text": "COMMODITY BROKER",
+      "hardware_limit": 512,
+      "logical_size": [
+        44,
+        260
+      ],
+      "physical_storage_size": [
+        96,
+        264
+      ],
+      "physical_visible_size": [
+        88,
+        260
+      ],
+      "scale": [
+        2.0,
+        1.0
+      ],
+      "native_texture": [
+        128,
+        512
+      ],
+      "bytes": 13744,
+      "sha256": "e7c33a4b53c0f40a4589c97e7b43057d9ce7689039d1b9b007e18e15dc2f2266"
+    }
+  ],
+  "literals": [
+    {
+      "id": "elf:market:0x8a43488",
+      "file": "EBOOT market UI",
+      "original_address": "0x8a43488",
+      "address": "0x9cfcd48",
+      "source_sha256": "994e55fc1b76f3c48b2484f9f04778e024617fd431609a8ae89b8cffed009476",
+      "translation_en": "\"%s,\" then!\nHow many contracts?",
+      "bytes": 32,
+      "source_encoding": "euc_jp",
+      "format_arguments": [
+        "%s"
+      ]
+    },
+    {
+      "id": "elf:market:0x8a434b0",
+      "file": "EBOOT market UI",
+      "original_address": "0x8a434b0",
+      "address": "0x9cfcd68",
+      "source_sha256": "8901ea17a22b566929dc0887adc9496b53a7aa605a68039a7af2fd324728b6d3",
+      "translation_en": "\"%s\": %d contracts.\n%d ryo, including fees.\nIs that correct?",
+      "bytes": 61,
+      "source_encoding": "euc_jp",
+      "format_arguments": [
+        "%s",
+        "%d",
+        "%d"
+      ]
+    },
+    {
+      "id": "elf:market:0x8a432a0",
+      "file": "EBOOT market UI",
+      "original_address": "0x8a432a0",
+      "address": "0x9cfcda8",
+      "source_sha256": "fff89ef9499930dc5942b56fce4db4417b2944f77a0c9e00c69518c378e60e26",
+      "translation_en": "Month",
+      "bytes": 6,
+      "source_encoding": "euc_jp",
+      "format_arguments": []
+    },
+    {
+      "id": "elf:market:0x8a432a8",
+      "file": "EBOOT market UI",
+      "original_address": "0x8a432a8",
+      "address": "0x9cfcdb0",
+      "source_sha256": "48d88255dcda9107aeec42bad83105a1ca1ddd28d22a958ec38da8915d64b1f5",
+      "translation_en": "(ryo)",
+      "bytes": 6,
+      "source_encoding": "euc_jp",
+      "format_arguments": []
+    },
+    {
+      "id": "elf:market:0x8a437f0",
+      "file": "EBOOT market UI",
+      "original_address": "0x8a437f0",
+      "address": "0x9cfcdb8",
+      "source_sha256": "0eccc811bf14754597903a442958b29019c87dad6a733641691efa873a171076",
+      "translation_en": "Money",
+      "bytes": 6,
+      "source_encoding": "euc_jp",
+      "format_arguments": []
+    },
+    {
+      "id": "elf:market:0x8a43428",
+      "file": "EBOOT market UI",
+      "original_address": "0x8a43428",
+      "address": "0x9cfcdc0",
+      "source_sha256": "84062460109598dccc2451132b135956a0e5385313b38987fd1a81b9b29149ea",
+      "translation_en": "                Now    High   Low",
+      "bytes": 34,
+      "source_encoding": "euc_jp",
+      "format_arguments": []
+    }
+  ],
+  "patches": [
+    {
+      "address": "0x893eb08",
+      "before": "0x3c0408a4",
+      "after": "0x3c0409d0",
+      "purpose": "Market literal pointer high"
+    },
+    {
+      "address": "0x893eb84",
+      "before": "0x3c0408a4",
+      "after": "0x3c0409d0",
+      "purpose": "Market literal pointer high"
+    },
+    {
+      "address": "0x893eb10",
+      "before": "0x24843488",
+      "after": "0x2484cd48",
+      "purpose": "Market literal pointer low"
+    },
+    {
+      "address": "0x893ec34",
+      "before": "0x3c0408a4",
+      "after": "0x3c0409d0",
+      "purpose": "Market literal pointer high"
+    },
+    {
+      "address": "0x893ec38",
+      "before": "0x248434b0",
+      "after": "0x2484cd68",
+      "purpose": "Market literal pointer low"
+    },
+    {
+      "address": "0x893d4e8",
+      "before": "0x3c0408a4",
+      "after": "0x3c0409d0",
+      "purpose": "Market literal pointer high"
+    },
+    {
+      "address": "0x893d4f0",
+      "before": "0x248432a0",
+      "after": "0x2484cda8",
+      "purpose": "Market literal pointer low"
+    },
+    {
+      "address": "0x893d538",
+      "before": "0x3c0408a4",
+      "after": "0x3c0409d0",
+      "purpose": "Market literal pointer high"
+    },
+    {
+      "address": "0x893d540",
+      "before": "0x248432a8",
+      "after": "0x2484cdb0",
+      "purpose": "Market literal pointer low"
+    },
+    {
+      "address": "0x89401d8",
+      "before": "0x3c0608a4",
+      "after": "0x3c0609d0",
+      "purpose": "Market literal pointer high"
+    },
+    {
+      "address": "0x89401e8",
+      "before": "0x24c637f0",
+      "after": "0x24c6cdb8",
+      "purpose": "Market literal pointer low"
+    },
+    {
+      "address": "0x8b2b770",
+      "before": "0x8a43428",
+      "after": "0x9cfcdc0",
+      "purpose": "Translated market column heading; padding aligns native proportional columns"
+    },
+    {
+      "address": "0x894e728",
+      "before": "0xe20ad27",
+      "after": "0xe73f37f",
+      "purpose": "Market contracts unit; other quantity pickers retain items"
+    }
+  ],
+  "unit_wrapper": {
+    "address": "0x9cfcdfc",
+    "bytes": 36,
+    "literal": "0x9cfcde4",
+    "caller": "0x0893eb60",
+    "setter": "0x0882b49c",
+    "original_stack_return_offset": 28
+  },
+  "fit": {
+    "prompt_question": {
+      "text": "How many contracts?",
+      "advance": 146,
+      "full_draft_advance": 250,
+      "reason": "Concise question keeps the complete meaning inside the existing two-line quantity prompt"
+    }
+  }
+}

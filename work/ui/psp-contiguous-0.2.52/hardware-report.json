@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-28",
+  "source": "User confirmation in this chat",
+  "candidate_version": "0.2.52",
+  "candidate_tested": true,
+  "candidate_result": "PASS",
+  "candidate_user_description": "it works, create a release with mention of PSP hardware tested and guide on how to make it work",
+  "system_software": "6.61 ARK-5",
+  "pboot_path": "PSP/GAME/UCJS10117/PBOOT.PBP",
+  "pboot_disabled": true,
+  "scope": "User-confirmed successful startup/operation after the instructed 0.2.52 test; no full-playthrough certification",
+  "full_playthrough_tested": false,
+  "psp_model": "Not separately confirmed",
+  "iso_sha256": "5e821290c20f25f0642c4834f602e9fc7d46925d820f3ccfd83b78cc7f86590b",
+  "iso_hash_basis": "Delivered, locally verified test artifact; tester did not separately report a device-side hash",
+  "release_authorized": true
+}

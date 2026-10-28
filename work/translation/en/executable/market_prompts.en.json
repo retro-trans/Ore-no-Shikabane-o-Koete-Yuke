@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "version": "0.2.49",
+  "language": "en",
+  "status": "draft",
+  "rows": [
+    {
+      "id": "elf:market:0x8a43488",
+      "file": "EBOOT market UI",
+      "source_sha256": "0fff1ffb05b644a3329d4801576bf22e2fa747f794b4ef30a97d2517e9a74827",
+      "category": "native_market_literal",
+      "translation_en": "\"%s,\" then!\nHow many contracts?",
+      "status": "draft",
+      "kind": "ui",
+      "context": "Commodity trading; native runtime placeholders retained. Original Japanese source stays local.",
+      "fit_status": "verified_selected_context_0.2.49"
+    },
+    {
+      "id": "elf:market:0x8a434b0",
+      "file": "EBOOT market UI",
+      "source_sha256": "637750934b8e55e1b9effcf4483e0858d4a524d9df09cadad369bee1ecd7dac4",
+      "category": "native_market_literal",
+      "translation_en": "\"%s\": %d contracts.\n%d ryo, including fees.\nIs that correct?",
+      "status": "draft",
+      "kind": "ui",
+      "context": "Commodity trading; native runtime placeholders retained. Original Japanese source stays local.",
+      "fit_status": "verified_selected_context_0.2.49"
+    },
+    {
+      "id": "elf:market:0x8a432a0",
+      "file": "EBOOT market UI",
+      "source_sha256": "ee0d197f81eec8daf841d9e59d72f935c47090916a648e016e5e580acb79ca7f",
+      "category": "native_market_literal",
+      "translation_en": "Month",
+      "status": "draft",
+      "kind": "ui",
+      "context": "Commodity trading; native runtime placeholders retained. Original Japanese source stays local.",
+      "fit_status": "verified_selected_context_0.2.49"
+    },
+    {
+      "id": "elf:market:0x8a432a8",
+      "file": "EBOOT market UI",
+      "source_sha256": "f847bc1d49cd854eb1c734a156b69bd180821647d0697392decdd051645e1672",
+      "category": "native_market_literal",
+      "translation_en": "(ryo)",
+      "status": "draft",
+      "kind": "ui",
+      "context": "Commodity trading; native runtime placeholders retained. Original Japanese source stays local.",
+      "fit_status": "verified_selected_context_0.2.49"
+    },
+    {
+      "id": "elf:market:0x8a437f0",
+      "file": "EBOOT market UI",
+      "source_sha256": "0eccc811bf14754597903a442958b29019c87dad6a733641691efa873a171076",
+      "category": "native_market_literal",
+      "translation_en": "Money",
+      "status": "draft",
+      "kind": "ui",
+      "context": "Commodity trading; native runtime placeholders retained. Original Japanese source stays local.",
+      "fit_status": "verified_selected_context_0.2.49"
+    },
+    {
+      "id": "elf:market:0x8a43428",
+      "file": "EBOOT market UI",
+      "source_sha256": "cfd507f3b3cc2c7d373f63d538631a84db1cb6131695c662097ae48dc96542ec",
+      "category": "native_market_literal",
+      "translation_en": "                Now    High   Low",
+      "status": "draft",
+      "kind": "ui",
+      "context": "Commodity trading; native runtime placeholders retained. Original Japanese source stays local.",
+      "fit_status": "verified_selected_context_0.2.49"
+    }
+  ]
+}

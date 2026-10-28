@@ -36,8 +36,12 @@ def main():
     for path, target in replacements.items():
         old = files[path]
         content = target.read_bytes()
-        if path.endswith('EBOOT.BIN') and content[:4] != b'\x7fELF':
-            raise ValueError('Replacement executable must be a verified plain ELF')
+        if path.endswith('EBOOT.BIN'):
+            if content[:4] == b'~PSP':
+                from pack_hardware_eboot import unpack
+                unpack(content)  # Authenticated header/body and bounded ELF round trip.
+            elif content[:4] != b'\x7fELF':
+                raise ValueError('Expected a plain ELF or authenticated project PSP executable')
         if path.endswith('PARAM.SFO') and content[:4] != b'\0PSF':
             raise ValueError('Replacement metadata must be a valid SFO container')
         plans.append(dict(path=path, replacement=str(target), new_iso_offset=pos,

@@ -1,0 +1,98 @@
+PSP update override and startup investigation - 0.2.50
+Date: 2026-10-27
+Status: FAILED physical PSP startup on 6.61 ARK-5. Retained for investigation.
+
+Observed on the user's PSP
+- Public 0.2.48 uses English archive text but original narrow home/battle cells
+  and fallback HP/MP badge images, unlike the emulator's patched layout/icons.
+- User confirms the same ISO and a full restart.
+- PSP/GAME/UCJS10117/PBOOT.PBP exists. Disabling it prevents startup;
+  restoring the exact filename restores startup.
+- System Software: 6.61 ARK-5. With PBOOT.PBP disabled, both public 0.2.48
+  and local 0.2.50 shut the PSP down. The 0.2.50 test was reported as the
+  same problem as before. Exact timing relative to the logo/title is unknown.
+This strongly supports an installed update overriding the ISO executable and
+masking a second startup problem. It does not establish the exact failure in
+the patched executable. Repackaging alone did not fix physical startup.
+
+Local evidence
+- The 0.2.48 ISO contains the patched home-cell instruction li a1,0x60 and a
+  plain ELF EBOOT. The executable is 5,131,592 bytes with two PT_LOAD segments.
+- The second segment hosts the native font, icons and hooks. Their absence
+  together on the PSP is consistent with running a different executable.
+- The isolated emulator profiles contain no installed UCJS10117 PBOOT.
+- Earlier emulator checks do not prove compatibility with the PSP loader.
+
+Candidate, not a confirmed fix
+0.2.50 repackages 0.2.49's exact 5,131,808-byte ELF into a 1,324,288-byte
+type-2 ~PSP executable. It retains the source game's tag 0xD91613F0, decrypt
+mode 9, module attributes 6, static-ELF bit and version/module metadata.
+It adds gzip compression and regenerates the complete type-2 header, both
+KIRK CMACs, header SHA-1 and size/segment fields. The original static-ELF
+convention (header segment size includes BSS) is retained. This is executable
+packaging for CFW testing, not an assertion of official-firmware signing.
+
+No instructions, pointers, runtime addresses, assets or BSS sizes in the ELF
+change. After decompression its SHA-256 is exactly:
+e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec
+Archive changes from 0.2.49 are restricted to the title version footer.
+All other archive members and localized PARAM.SFO are preserved.
+
+Validation
+- Deterministic output and exact payload round trip.
+- Header SHA-1, both KIRK CMACs, gzip CRC/size, ELF segment bounds checked.
+- 29 corruption cases and 4 truncation cases rejected.
+- Independent existing PPSSPP type-2 Python decryptor recovers the exact ELF;
+  the same decryptor also verifies the original source image.
+- Cold boot in isolated PPSSPP 1.20.4, software renderer, texture replacement
+  disabled, no installed update and no save states. Correct 0.2.50 title footer.
+- Normal save copied into a new separate QA profile. Home menu's 96-pixel
+  cells, complete help text, native font pointer and exact atlas bytes checked.
+- Initial black captures also occurred with baseline 0.2.49; they were a QA
+  setup error (SoftwareRendering is not the SoftwareRenderer config key).
+  They are not evidence of a failure in either game build.
+- Local full/0.2.48 upgrade patches use the Retro Trans Tools builder and
+  decoder with the established 1 GiB encoding source window. Full target
+  hashes are checked after decoding. No GitHub release is created or changed.
+
+Hardware result and next evidence
+User reports that 0.2.50 also shuts the PSP down on 6.61 ARK-5 with the update
+disabled. The local candidate is therefore rejected for physical PSP use.
+Restore the working PBOOT.PBP and preserve its original bytes. Its executable
+layout, loader metadata and startup code need comparison before another
+hardware candidate is proposed. Do not infer a firmware fault from this test.
+The original test procedure below is retained as the historical procedure,
+not a request to repeat the failed test.
+
+Original hardware test procedure
+Apply the matching test patch to an original ISO or exact public 0.2.48 ISO;
+do not apply both. Copy the resulting 0.2.50 ISO separately to the PSP. Keep a
+backup of PSP/GAME/UCJS10117/PBOOT.PBP, temporarily disable that one file, fully
+restart, and check startup and the home menu. If it fails, restore PBOOT.PBP
+and report the exact error/black-screen/shutdown behavior and system software.
+Do not change firmware or delete savedata for this test. A successful test
+still needs additional gameplay coverage; the official update's bug fixes
+have not been ported by this packaging-only change.
+
+Reproduction
+python tools/test_hardware_eboot.py
+python tools/build_hardware_startup.py             (dry run)
+python tools/build_hardware_startup.py --write     (new output folder only)
+python tools/build_iso.py --elf work/output/english-native-0.2.50/EBOOT.hardware.bin --ore work/output/english-native-0.2.50/data.hardware.ore --sfo work/output/english-native-0.2.50/PARAM.SFO --output work/output/english-native-0.2.50.iso --version 0.2.50
+Repeat the ISO command with --write after reviewing the dry run.
+py -3.11 tools/package_hardware_test.py
+py -3.11 tools/package_hardware_test.py --write
+The packer uses Python cryptography; the normal build also uses existing
+Pillow/numpy dependencies. Game files remain local and ignored.
+
+Primary references
+https://github.com/hrydgard/ppsspp/blob/master/docs/pkg_notes.md
+https://github.com/hrydgard/ppsspp/blob/master/Core/PSPLoaders.cpp
+https://github.com/hrydgard/ppsspp/blob/master/Core/ELF/PrxDecrypter.cpp
+https://github.com/hrydgard/ppsspp/blob/master/ext/libkirk/kirk_engine.c
+https://github.com/uofw/uofw/blob/master/src/kd/loadcore/loadelf.c
+https://github.com/PSP-Archive/ARK-4/blob/main/core/systemctrl/src/loadercore.c
+https://github.com/ItsNoHax/pspbuild/blob/main/docs/COMPATIBILITY.md
+The latter independently documents that emulator acceptance does not establish
+hardware acceptance. It was inspected as a reference, not used to build this
+static game executable: its default demo header differs from this game's.

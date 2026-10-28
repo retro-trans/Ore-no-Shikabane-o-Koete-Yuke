@@ -1,0 +1,99 @@
+PSP startup flag investigation - local candidate 0.2.51
+Date: 2026-10-28
+Status: FAILED on physical PSP (6.61 ARK-5), as reported 2026-10-28.
+Clearing HRKGMP_VER did not resolve startup. Root cause remains unconfirmed.
+
+User-supplied evidence
+incoming/PBOOT.PBP (3,642,424 bytes), SHA-256:
+b023e5942af7392abeac03407106b4f6e38915d58c7805a6f528b409ad77eaf7
+It is the UCJS10117 APP_VER 01.01 update. The original file is read-only.
+Its type-5 DATA.PSP tag is 0x2E5E10F0, decrypt mode 25. Header SHA-1 and
+both KIRK CMACs pass. The 2,192-byte KIRK predata offset is respected;
+the encrypted payload begins at DATA.PSP + 0x960, not + 0x150.
+Decrypted ELF SHA-256:
+5b8d6bc1740ceabee929c409897b49ff462f9086a3f3dae79ea2a3293c0f29a3
+No game binaries or Japanese script are committed. The isolated type-5 port
+in tools/inspect_pboot.py is GPL-2.0-or-later; its license is in docs/licenses.
+
+Confirmed override
+ARK-5's VSH virtual_pbp.c explicitly chooses the PBOOT load-exec path when
+an installed update exists and otherwise selects the ISO's EBOOT.BIN.
+This, together with the supplied update and observed hardware differences,
+confirms the update can bypass the native executable changes in the ISO.
+It does not yet identify the exact cause of the shutdown without that update.
+
+New, narrow difference to test
+The original ISO and every earlier candidate retain PARAM.SFO HRKGMP_VER=19.
+The supplied working update's PARAM.SFO omits HRKGMP_VER.
+ARK-5 reads HRKGMP_VER into opnssmp_type and passes a nonzero value into
+SceGameInfo.opnssmp_ver. The firmware init reconstruction loads the extra
+flash2:/opnssmp.bin module when this field is nonzero; that module is part of
+the EBOOT-decryption path. PPSSPP's ordinary HLE boot does not reproduce that
+real firmware path. The ISO still contains its original SYSDIR/OPNSSMP.BIN.
+
+0.2.51 clears the 32-bit HRKGMP_VER setting from 19 to 0. Only one byte
+actually differs in the 560-byte PARAM.SFO (offset 408). Its other fields,
+including game ID and localized title, are exact. No firmware files are
+modified. The original OPNSSMP.BIN inside the ISO is preserved.
+This tests whether the stale decryption request causes or contributes to
+the shutdown. It is not a proven fix and does not rule out another loader,
+memory-layout or native-code issue.
+
+Controlled candidate
+Executable and decrypted payload are byte-identical to failed 0.2.50:
+packed: cb12e50b013ca65f5c4949ba8c384fb7823f17d4db5c3a190df19b843bb0f0f2
+ELF: e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec
+No code, pointers, runtime addresses, memory sizes, translations or graphics
+change. The only archive change advances the title version to 0.2.51.
+The same authenticated executable packaging from 0.2.50 is retained to keep
+this test focused on the newly identified metadata difference.
+
+The supplied update itself adds 768 bytes of reserved memory relative to the
+base game. Its first segment ends at 0x09B5C0C4; blindly transplanting existing
+translation hooks/asset pointers starting at 0x09B5C000 into it would overlap.
+This candidate does not transplant those patches or claim to port the update's
+gameplay fixes. Any later update-based translation needs a proper rebase.
+
+Verification and limits
+- Both MACs and header SHA-1 checked while decrypting the supplied update.
+- Exact one-byte SFO change, unchanged executable hash and all unrelated
+  archive-member bytes checked. Final ISO is reparsed and checksummed.
+- Isolated PPSSPP 1.20.4 software renderer; PSP-1000 model; no installed update,
+  no save states, no texture replacement. Correct title version and loaded
+  home menu. Actual 96-pixel cell instruction, font pointer and atlas checked.
+- Normal save copied into a separate test profile, source never written and
+  hashes verified unchanged. No game-memory/register edits needed.
+- Original/0.2.48/0.2.50 patch routes decode with Retro Trans Tools to the exact
+  tested ISO. A separate small 0.2.50-only bundle avoids requiring a full patch.
+- User tested 0.2.51 and reports the same crash/shutdown with PBOOT disabled.
+  This flag change did not resolve startup. Prior 0.2.48/0.2.50 failures remain.
+  Local integrity and emulator results are preserved separately.
+- Local test only; no GitHub release created, published or changed.
+
+Test procedure
+Apply ONE matching local test patch. For the newest failed ISO, use the
+0.2.50-to-0.2.51 upgrade. Keep the old ISO and PBOOT.PBP backup. Temporarily
+disable only PSP/GAME/UCJS10117/PBOOT.PBP. Fully restart the PSP (not sleep)
+before launching the separate, newly named 0.2.51 ISO, so cached launcher
+metadata or an earlier game's decryption flag cannot carry over into this test.
+Check startup/title version and home-menu spacing. If it shuts down again,
+restore PBOOT.PBP. Do not change firmware or delete saves for this test.
+
+Reproduction
+python tools/inspect_pboot.py                    (read-only dry run)
+python tools/inspect_pboot.py --write            (new ignored extraction only)
+python tools/build_psp_boot_flag.py              (dry run)
+python tools/build_psp_boot_flag.py --write
+python tools/build_iso.py --elf work/output/english-native-0.2.51/EBOOT.hardware.bin --ore work/output/english-native-0.2.51/data.hardware.ore --sfo work/output/english-native-0.2.51/PARAM.SFO --output work/output/english-native-0.2.51.iso --version 0.2.51
+Repeat the ISO command with --write after reviewing the dry run.
+py -3.11 tools/package_hardware_test.py --version 0.2.51
+py -3.11 tools/package_hardware_test.py --version 0.2.51 --write
+For just the small upgrade, add --source-version 0.2.50 to both package calls.
+
+Primary sources
+https://github.com/PSP-Arkfive/ARK-5/blob/3c024a54840a780cb658194b86941d5774aa029c/VSHControl/src/virtual_pbp.c
+  HRKGMP_VER read near line 539, propagated near 1013, PBOOT selection near 1022.
+https://github.com/uofw/uofw/blob/master/src/kd/init/init.c
+  Nonzero param_opnssmp_ver selects the extra decryption module before game boot.
+https://github.com/hrydgard/ppsspp/blob/master/Core/ELF/PrxDecrypter.cpp
+  PRXType5, pspFinishType5 and pspDecryptType5.

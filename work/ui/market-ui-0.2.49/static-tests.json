@@ -1,0 +1,44 @@
+{
+  "version": "0.2.49",
+  "result": "PASS",
+  "relocated_pointer_pairs": 6,
+  "format_argument_order": "unchanged",
+  "native_translation_records": 6,
+  "translation_source_hashes": "PASS",
+  "english_only_export": "PASS",
+  "original_narrow_literals": "unchanged",
+  "mips_unit_cases": [
+    {
+      "caller": "0x893eb60",
+      "unit": "contracts",
+      "stack_and_callee_saved_registers": "unchanged",
+      "tail_target": "0x882b49c"
+    },
+    {
+      "caller": "0x8932c1c",
+      "unit": "original",
+      "stack_and_callee_saved_registers": "unchanged",
+      "tail_target": "0x882b49c"
+    },
+    {
+      "caller": "0x8951ba4",
+      "unit": "original",
+      "stack_and_callee_saved_registers": "unchanged",
+      "tail_target": "0x882b49c"
+    },
+    {
+      "caller": "0x895245c",
+      "unit": "original",
+      "stack_and_callee_saved_registers": "unchanged",
+      "tail_target": "0x882b49c"
+    },
+    {
+      "caller": "0x0",
+      "unit": "original",
+      "stack_and_callee_saved_registers": "unchanged",
+      "tail_target": "0x882b49c"
+    }
+  ],
+  "guest_gameplay": "not executed by this test",
+  "executable_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec"
+}

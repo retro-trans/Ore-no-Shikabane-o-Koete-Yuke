@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-28",
+  "source": "User confirmation in this chat",
+  "system_software": "6.61 ARK-5",
+  "candidate_version": "0.2.51",
+  "candidate_tested": true,
+  "candidate_result": "FAILED_SHUTDOWN",
+  "candidate_user_description": "No changes and crash with pboot disabled again",
+  "pboot_path": "PSP/GAME/UCJS10117/PBOOT.PBP",
+  "pboot_disabled_result": "Crash/shutdown persists",
+  "shutdown_timing": "Not established relative to logo/title",
+  "conclusion": "Clearing HRKGMP_VER did not resolve startup; root cause remains unconfirmed",
+  "original_iso_control": {
+    "source": "User correction in this chat on 2026-10-28",
+    "reported_result": "Clean unpatched Japanese ISO also fails with PBOOT disabled",
+    "supersedes": "Earlier answer that original starts normally",
+    "interpretation": "Hardware shutdown is not unique to translated executable; actual boot-path cause remains unconfirmed"
+  }
+}

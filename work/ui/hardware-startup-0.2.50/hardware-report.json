@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-27",
+  "source": "User confirmation in this chat",
+  "system_software": "6.61 ARK-5",
+  "affected_build": "0.2.48",
+  "pboot_path": "PSP/GAME/UCJS10117/PBOOT.PBP",
+  "pboot_disabled_result": "PSP shuts down",
+  "pboot_restored_result": "Game starts",
+  "candidate_version": "0.2.50",
+  "candidate_tested": true,
+  "candidate_result": "FAILED: PSP shuts down with PBOOT.PBP disabled",
+  "candidate_user_description": "same problem; same as before",
+  "shutdown_timing": "Not established relative to logo/title",
+  "next_evidence": "Working PSP/GAME/UCJS10117/PBOOT.PBP needed for executable comparison"
+}

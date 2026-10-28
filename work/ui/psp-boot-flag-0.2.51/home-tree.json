@@ -1,0 +1,766 @@
+[
+  {
+    "text": "Check each clan member's status and equipment",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e21820",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e216e0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          6,
+          426,
+          18
+        ]
+      },
+      {
+        "object": "0x9e20ca0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          24,
+          214,
+          432,
+          50
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "and prepare your party to set out.",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e21a80",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "object": "0x9e21940",
+        "vtable": "0x8a22298",
+        "geometry": [
+          6,
+          24,
+          426,
+          18
+        ]
+      },
+      {
+        "object": "0x9e20ca0",
+        "vtable": "0x8a208b8",
+        "geometry": [
+          24,
+          214,
+          432,
+          50
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Clan",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e26460",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1108082688,
+          0
+        ]
+      },
+      {
+        "object": "0x9e26320",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e26210",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          10,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Sortie",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e267d0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1106247680,
+          0
+        ]
+      },
+      {
+        "object": "0x9e26690",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e26580",
+        "vtable": "0x8a20170",
+        "geometry": [
+          108,
+          10,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Divine Union",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e26b40",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1091567616,
+          0
+        ]
+      },
+      {
+        "object": "0x9e26a00",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e268f0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          206,
+          10,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Items",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e26eb0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1106771968,
+          0
+        ]
+      },
+      {
+        "object": "0x9e26d70",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e26c60",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          28,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Rebuild",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e27220",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1103626240,
+          0
+        ]
+      },
+      {
+        "object": "0x9e270e0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e26fd0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          108,
+          28,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Facilities",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e27590",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1102053376,
+          0
+        ]
+      },
+      {
+        "object": "0x9e27450",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e27340",
+        "vtable": "0x8a20170",
+        "geometry": [
+          206,
+          28,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Buy / Sell",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e27900",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1101004800,
+          0
+        ]
+      },
+      {
+        "object": "0x9e277c0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e276b0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          46,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Chronicle",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e27c70",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1100480512,
+          0
+        ]
+      },
+      {
+        "object": "0x9e27b30",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e27a20",
+        "vtable": "0x8a20170",
+        "geometry": [
+          108,
+          46,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Help",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e27fe0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1107820544,
+          0
+        ]
+      },
+      {
+        "object": "0x9e27ea0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e27d90",
+        "vtable": "0x8a20170",
+        "geometry": [
+          206,
+          46,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "SAVE",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e28350",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1107558400,
+          0
+        ]
+      },
+      {
+        "object": "0x9e28210",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e28100",
+        "vtable": "0x8a20170",
+        "geometry": [
+          10,
+          64,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Settings",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e286c0",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1103101952,
+          0
+        ]
+      },
+      {
+        "object": "0x9e28580",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e28470",
+        "vtable": "0x8a20170",
+        "geometry": [
+          108,
+          64,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Rest",
+    "font_image": "0x9b5c010",
+    "ancestors": [
+      {
+        "object": "0x9e28a30",
+        "vtable": "0x8a6e1c0",
+        "geometry": [
+          0,
+          0,
+          1108082688,
+          0
+        ]
+      },
+      {
+        "object": "0x9e288f0",
+        "vtable": "0x8a22298",
+        "geometry": [
+          0,
+          0,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e287e0",
+        "vtable": "0x8a20170",
+        "geometry": [
+          206,
+          64,
+          96,
+          16
+        ]
+      },
+      {
+        "object": "0x9e23c40",
+        "vtable": "0x8a3fa68",
+        "geometry": [
+          50,
+          64,
+          312,
+          90
+        ]
+      },
+      {
+        "object": "0x97a64b0",
+        "vtable": "0x8a6de50",
+        "geometry": [
+          0,
+          0,
+          480,
+          272
+        ]
+      }
+    ]
+  }
+]

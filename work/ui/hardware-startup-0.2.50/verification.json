@@ -1,0 +1,201 @@
+{
+  "version": "0.2.50",
+  "result": "FAIL: physical PSP startup; local packaging/emulator checks still pass",
+  "iso": {
+    "file": "work\\output\\english-native-0.2.50.iso",
+    "bytes": 1077526528,
+    "sha256": "896cb22228cf4a2d649e78ed52823db3419fabd26716b66feb0953520d8fd74b"
+  },
+  "executable": {
+    "format": "type-2 ~PSP; gzip-compressed static ELF",
+    "tag": "0xd91613f0",
+    "source_header_sha256": "31909b5ee76d29aa117bf87e1ad12161c395049a2450afbc270e9f30ab8c0933",
+    "input_elf_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec",
+    "packed_sha256": "cb12e50b013ca65f5c4949ba8c384fb7823f17d4db5c3a190df19b843bb0f0f2",
+    "elf_bytes": 5131808,
+    "packed_bytes": 1324288,
+    "compressed_bytes": 1323951,
+    "comp_attribute": 3,
+    "decrypt_mode": 9,
+    "module_attributes": 6,
+    "segments": [
+      {
+        "address": "0x8804000",
+        "file_bytes": 3415796,
+        "memory_bytes": 20282820
+      },
+      {
+        "address": "0x9b5c000",
+        "file_bytes": 1707552,
+        "memory_bytes": 1707552
+      }
+    ],
+    "payload_identical": true,
+    "runtime_addresses_unchanged": true,
+    "hardware_verified": false,
+    "version": "0.2.50",
+    "source_version": "0.2.49",
+    "archive_sha256": "190b52e78fea22f2ad87ec72a8878fbd5aebc9e3f1c4acc41929225db3dfff7a",
+    "archive_bytes": 228261888,
+    "archive_changes": "Title version footer only; all other members identical",
+    "runtime_status": "PASS: emulator cold boot/title/home; physical PSP pending",
+    "github_release": false,
+    "footer": {
+      "rows": [
+        {
+          "text": "v0.2.50",
+          "right": 474,
+          "top": 223,
+          "font_size": 14,
+          "bounds": [
+            426.5,
+            222.0,
+            475.0,
+            234.75
+          ]
+        },
+        {
+          "text": "github.com/retro-trans",
+          "right": 474,
+          "top": 241,
+          "font_size": 12,
+          "bounds": [
+            342.5,
+            240.0,
+            475.0,
+            253.75
+          ]
+        }
+      ],
+      "atlas_screen_origin": [
+        0,
+        201
+      ],
+      "copyright_exact": true
+    },
+    "sfo_sha256": "92418e39e2c99ca68e48ff92c9668d459786eefc08a98959082d810dd5e40c80"
+  },
+  "static": {
+    "result": "PASS",
+    "input_elf_sha256": "e889461d7e2a7ab11ce9b32b3d12fed36c18219b49f0d6c63f1080330edc7dec",
+    "packed_sha256": "cb12e50b013ca65f5c4949ba8c384fb7823f17d4db5c3a190df19b843bb0f0f2",
+    "deterministic": true,
+    "payload_exact": true,
+    "header_and_body_cmac": true,
+    "metadata_retained": true,
+    "corruption_cases": 29,
+    "truncation_cases": 4,
+    "independent_decryption": true,
+    "hardware_verified": false
+  },
+  "runtime": {
+    "result": "PASS",
+    "version": "0.2.50",
+    "cold_boot": true,
+    "save_states_loaded": false,
+    "texture_replacement": false,
+    "software_renderer": true,
+    "home_cell_width": 96,
+    "home_font": "0x09b5c010",
+    "font_atlas_byte_identical": true,
+    "width_instruction": {
+      "type": "opcode",
+      "address": 143783224,
+      "addressSize": 4,
+      "encoding": 604307552,
+      "macroEncoding": null,
+      "backgroundColor": "#e0ffff",
+      "name": "li",
+      "params": "a1,0x60",
+      "symbol": null,
+      "function": "z_un_0891f44c",
+      "dataSymbol": null,
+      "breakpoint": null,
+      "isCurrentPC": false,
+      "branch": null,
+      "relevantData": {
+        "address": 96,
+        "uintValue": null,
+        "stringValue": null
+      },
+      "conditionMet": null,
+      "dataAccess": null
+    },
+    "hardware_verified": false
+  },
+  "patches": [
+    {
+      "patch": "OreNoShikabane-English-0.2.50-full-PSP-test.xdelta",
+      "edition": "UCJS10117",
+      "language": "en",
+      "source_version": "original",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "03791a833656ddebadff7848a6296fc1698b52dfd7052c91572dd8b800fd569a",
+      "source_bytes": 847937536,
+      "target_sha256": "896cb22228cf4a2d649e78ed52823db3419fabd26716b66feb0953520d8fd74b",
+      "target_bytes": 1077526528,
+      "patch_sha256": "c3dc846df47fd8c756c8277b5dd593538c6d2fefea67dab1474f0d531d7b9c59",
+      "patch_bytes": 2543303
+    },
+    {
+      "patch": "OreNoShikabane-English-0.2.48-to-0.2.50-PSP-test.xdelta",
+      "edition": "UCJS10117",
+      "language": "en",
+      "source_version": "0.2.48",
+      "source_format": "iso",
+      "target_format": "iso",
+      "source_sha256": "43569c29fb58ece6ade5f02f4ac39ea8df86041ba6bce7fc461f7293e1dcc907",
+      "source_bytes": 1081337856,
+      "target_sha256": "896cb22228cf4a2d649e78ed52823db3419fabd26716b66feb0953520d8fd74b",
+      "target_bytes": 1077526528,
+      "patch_sha256": "a205ce60748aec5bbfe9f58c72d0ed0bf0e79c79690293d715d9d4a1238d4317",
+      "patch_bytes": 1366780
+    }
+  ],
+  "save_preservation": {
+    "result": "PASS",
+    "user_source_written": false,
+    "user_source_unchanged": true,
+    "source_hashes_before": {
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PARAM.SFO": "527b5303ba222d0214fc124475c19673671e00e4cc7c080ce8f14de8e5eb44e0",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1",
+      "SAVEDATA.BIN": "74bc7532e90381d430e96c0d864d337233609946fbbfd414887dafd8107ec3ac"
+    },
+    "source_hashes_after": {
+      "ICON0.PNG": "430cea7b16d39b89551f02b059d15aa23c15c73adf17577f2990fc7f5ab7eb97",
+      "PARAM.SFO": "527b5303ba222d0214fc124475c19673671e00e4cc7c080ce8f14de8e5eb44e0",
+      "PIC1.PNG": "e8c2fbc0e616875866fe5ad79eac1670ddb02987ff4e5b5da0571ac9d96bd0b1",
+      "SAVEDATA.BIN": "74bc7532e90381d430e96c0d864d337233609946fbbfd414887dafd8107ec3ac"
+    },
+    "isolated_save_copy": true,
+    "save_states_loaded": false
+  },
+  "psp1000_emulator_title_checked": true,
+  "hardware_verified": false,
+  "github_release": false,
+  "notes": "Both 0.2.48 and 0.2.50 shut the PSP down on 6.61 ARK-5 when PBOOT.PBP is disabled. Restore the working update. Exact cause and shutdown timing remain unknown.",
+  "test_zip": {
+    "file": "work\\output\\OreNoShikabane-English-0.2.50-PSP-test.zip",
+    "bytes": 3908751,
+    "sha256": "e052c1d28fab23068f05da01d5fdd722259e0d38d953ced7c66178df4e1b6859"
+  },
+  "hardware_report": {
+    "date": "2026-10-27",
+    "source": "User confirmation in this chat",
+    "system_software": "6.61 ARK-5",
+    "affected_build": "0.2.48",
+    "pboot_path": "PSP/GAME/UCJS10117/PBOOT.PBP",
+    "pboot_disabled_result": "PSP shuts down",
+    "pboot_restored_result": "Game starts",
+    "candidate_version": "0.2.50",
+    "candidate_tested": true,
+    "candidate_result": "FAILED: PSP shuts down with PBOOT.PBP disabled",
+    "candidate_user_description": "same problem; same as before",
+    "shutdown_timing": "Not established relative to logo/title",
+    "next_evidence": "Working PSP/GAME/UCJS10117/PBOOT.PBP needed for executable comparison"
+  },
+  "hardware_tested": true,
+  "hardware_result": "FAILED_SHUTDOWN"
+}

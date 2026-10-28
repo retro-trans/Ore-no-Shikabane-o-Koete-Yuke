@@ -1,0 +1,14 @@
+{
+  "result": "PASS",
+  "controls": [
+    "original ISO ELF",
+    "supplied update ELF"
+  ],
+  "old_candidate_reproduces_source_erasure": true,
+  "new_candidate_preserves_entire_image": true,
+  "allocated_sections_checked": 22,
+  "module_info_and_entry_unchanged": true,
+  "authenticated_round_trip": true,
+  "elf_sha256": "441229cae2f98eacfb15074f76db52bb0b42a2c00c3fc4fb7f477b34d8a12869",
+  "hardware_verified": false
+}
