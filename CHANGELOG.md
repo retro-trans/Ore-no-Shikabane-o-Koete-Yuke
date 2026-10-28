@@ -2,6 +2,7 @@
 
 ## 0.2.52 (2026-10-28)
 
+- Published on 2026-10-28 with the PSP hardware-tested note and setup guide. Compact full (2,561,631 bytes) and 0.2.48 upgrade (1,384,899 bytes) patches both decode to the exact tested ISO. All five uploaded asset sizes/SHA-256 digests and all six Retro Trans catalog selection routes passed verification. See `docs/releases/0.2.52/PUBLICATION.json`.
 - Recorded the 0.2.51 hardware failure and the user's corrected baseline: the clean Japanese ISO also fails with `PBOOT.PBP` disabled on 6.61 ARK-5. The earlier shutdown was not unique to the translation; 0.2.52 was subsequently confirmed working by the user.
 - Reproduced a separate loading conflict in a source-based PSP loader model: clearing the first segment's BSS erases all 1,707,552 unread bytes of the translation's second segment. Original and supplied-update executables pass the same model. PPSSPP reads its input separately and does not expose this overlap.
 - Consolidated the translated static ELF into one loadable segment, storing the intervening zero area explicitly. The entire intended runtime image, game instructions, assets, pointers and reserved memory span remain identical; only ELF packaging/section metadata and the title version change. Keeps 0.2.51's startup flag. Compression adds only 18,560 bytes to the packed executable.

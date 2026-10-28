@@ -964,9 +964,9 @@
   "dialogue_window_evidence": "work/ui/dialogue-window-0.2.37/verification.json",
   "home_help_evidence": "work/ui/home-help-0.2.38/verification.json",
   "public_release": {
-    "version": "0.2.48",
-    "url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/tag/v0.2.48",
-    "evidence": "docs/releases/0.2.48/PUBLICATION.json"
+    "version": "0.2.52",
+    "url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/tag/v0.2.52",
+    "evidence": "docs/releases/0.2.52/PUBLICATION.json"
   },
   "prompt_font_evidence": "work/ui/prompt-font-0.2.39/verification.json",
   "shared_boot_scratch_evidence": "work/ui/boot-scratch-0.2.40/verification.json",

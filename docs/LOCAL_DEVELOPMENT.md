@@ -7,7 +7,7 @@ the user confirmed physical PSP startup on 6.61 ARK-5 with PBOOT disabled. See [
 0.2.50 and 0.2.51 FAILED on 6.61 ARK-5 with PBOOT disabled. The user also corrected
 the clean-game control: the unpatched Japanese ISO fails with PBOOT disabled, so
 the actual shutdown is not unique to the translation. See [the flag test](psp-boot-flag.txt)
-and [earlier failed test](psp-hardware-startup.txt). Publication of 0.2.52 is authorized and being prepared.
+and [earlier failed test](psp-hardware-startup.txt). Published [0.2.52](https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/tag/v0.2.52) on 2026-10-28 with verified compact full/0.2.48 upgrade patches and Retro Trans catalog routes.
 An experimental native VWF patch embeds
 4× font rasters directly in the game executable, with texture replacement disabled.
 The English draft covers **8,027/8,027 distinct main strings (100%)** and all
@@ -33,7 +33,7 @@ and [the changelog](CHANGELOG.md) record the current state.
 - `work/translation/en/initial_batch.en.json`: English-only export suitable for Git.
 - `work/translation/en/initial_draft_input.json`: ignored seed for the initial batch.
 - `work/ui/`: native glyph metrics, runtime evidence and pending text-box measurements.
-- `work/output/english-native-0.2.51.iso`: controlled startup-flag candidate; clears HRKGMP_VER, retains 0.2.50's exact executable. See [evidence and limits](../work/ui/psp-boot-flag-0.2.51/verification.json). Physical PSP test pending.
+- `work/output/english-native-0.2.51.iso`: controlled startup-flag candidate; clears HRKGMP_VER, retains 0.2.50's exact executable. See [evidence and limits](../work/ui/psp-boot-flag-0.2.51/verification.json). FAILED physical PSP startup; retained for investigation.
 - `work/output/english-native-0.2.50.iso`: compressed PSP executable with the exact 0.2.49 payload. FAILED physical PSP startup; retained for investigation. Test patches in `work/output/hardware-test-0.2.50/` are not a confirmed hardware fix.
 - `work/output/english-native-0.2.49.iso`: translated native commodity-broker prompts/ribbon, Money/ryo, aligned price headings and graph units. See [QA evidence and fixture limits](../work/ui/market-ui-0.2.49/verification.json).
 - `work/output/english-native-0.2.48.iso`: full-word Help reflow, readable tournament rules, Emperor speaker label and compact tournament team names. All reported contexts checked in-game; see [evidence and limits](../work/ui/tournament-help-0.2.48/verification.json).

@@ -87,7 +87,7 @@
     "Broader physical PSP model/firmware, performance and full-playthrough testing"
   ],
   "completion_note": "100% means draft coverage of the indexed archive text. It does not mean 100% reviewed, visually tested or approved game completion.",
-  "release": "0.2.52 hardware startup confirmed; user authorized publication, release preparation in progress.",
+  "release": "0.2.52 published on 2026-10-28 with user-confirmed PSP hardware startup, setup guide, verified compact patches and Retro Trans catalog routes.",
   "title_branding": {
     "version": "v0.2.49",
     "group": "github.com/retro-trans",
@@ -155,9 +155,9 @@
   "home_help_evidence": "work/ui/home-help-0.2.38/verification.json",
   "public_repository": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke",
   "latest_public_release": {
-    "version": "0.2.48",
-    "url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/tag/v0.2.48",
-    "evidence": "docs/releases/0.2.48/PUBLICATION.json"
+    "version": "0.2.52",
+    "url": "https://github.com/retro-trans/Ore-no-Shikabane-o-Koete-Yuke/releases/tag/v0.2.52",
+    "evidence": "docs/releases/0.2.52/PUBLICATION.json"
   },
   "retro_trans_catalog_verified": true,
   "prompt_font_evidence": "work/ui/prompt-font-0.2.39/verification.json",
