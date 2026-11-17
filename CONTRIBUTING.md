@@ -1,7 +1,7 @@
 # Contributing
 
 Bug reports, proofreading and playtesting are welcome at
-[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB) or in this repository's issues.
+[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP) or in this repository's issues.
 Include the patch version, screen or row ID, reproduction steps and a screenshot
 when useful. State whether you booted the ISO normally or loaded a save state.
 

@@ -60,6 +60,6 @@ English translation exports, glossaries, UI metadata and tools are in the [proje
 
 ### Contribute
 
-Bug reports, proofreading and playtesting are welcome at **[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)** or in repository issues. Include the patch version, steps and affected text/screen.
+Bug reports, proofreading and playtesting are welcome at **[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)** or in repository issues. Include the patch version, steps and affected text/screen.
 
 No complete game images are included. Apply the patch to your own disc image.

@@ -91,5 +91,5 @@ see [its licence](docs/licenses/GPL-2.0.txt). The games, original artwork and ot
 respective owners' rights; the MIT licence does not cover them.
 
 Bug reports, proofreading and playtesting are welcome at
-**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)** and in repository issues.
+**[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)** and in repository issues.
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before editing.
